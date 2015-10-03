@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JorjaPedia</title>
+    <description>
+The JorjaPedia is a fan-run Jorja Fox encyclopedia, maintained by Jorja Fox -- Online (aka JFO). Our goal is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox.
+</description>
+    <link>http://jorjafox.net/jekyll//</link>
+    <atom:link href="http://jorjafox.net/jekyll//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 03 Oct 2015 00:05:16 -0700</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2015 00:05:16 -0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 02 Oct 2015 13:08:20 -0700</pubDate>
+        <link>http://jorjafox.net/jekyll//welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://jorjafox.net/jekyll//welcome-to-jekyll</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Biographies</title>
+        <description>&lt;div id=&quot;mw-content-text&quot; lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div class=&quot;thumb tright&quot;&gt;&lt;div class=&quot;thumbinner&quot; style=&quot;width:202px;&quot;&gt;&lt;a href=&quot;/wiki/File:Headshot.jpg&quot; class=&quot;image&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;//jfo-static.net/wiki/images/8/8e/Headshot.jpg&quot; width=&quot;200&quot; height=&quot;277&quot; class=&quot;thumbimage&quot; /&gt;&lt;/a&gt;  &lt;div class=&quot;thumbcaption&quot;&gt;&lt;div class=&quot;magnify&quot;&gt;&lt;a href=&quot;/wiki/File:Headshot.jpg&quot; class=&quot;internal&quot; title=&quot;Enlarge&quot;&gt;&lt;/a&gt;&lt;/div&gt;Jorja Fox&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/wiki/Jorja_Fox&quot; title=&quot;Jorja Fox&quot; class=&quot;mw-redirect&quot;&gt;Jorja Fox&lt;/a&gt; is an actress, producer, humanitarian, activist and environmentalist.  She has been seen on such hit TV shows as &lt;i&gt;&lt;a href=&quot;/wiki/CSI:_Crime_Scene_Investigation&quot; title=&quot;CSI: Crime Scene Investigation&quot;&gt;CSI: Crime Scene Investigation&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a href=&quot;/wiki/ER&quot; title=&quot;ER&quot;&gt;ER&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a href=&quot;/wiki/The_West_Wing&quot; title=&quot;The West Wing&quot;&gt;The West Wing&lt;/a&gt;&lt;/i&gt; and &lt;i&gt;&lt;a href=&quot;/wiki/Law_and_Order&quot; title=&quot;Law and Order&quot; class=&quot;mw-redirect&quot;&gt;Law &amp;amp; Order&lt;/a&gt;&lt;/i&gt;, as well as indie movies like &lt;a href=&quot;/wiki/Memento&quot; title=&quot;Memento&quot;&gt;Memento&lt;/a&gt; and &lt;a href=&quot;/wiki/Food_for_the_Heart&quot; title=&quot;Food for the Heart&quot;&gt;Food for the Heart&lt;/a&gt;.  She has been in numerous other &lt;a href=&quot;/wiki/Category:Television&quot; title=&quot;Category:Television&quot;&gt;television shows&lt;/a&gt; and &lt;a href=&quot;/wiki/Category:Movies&quot; title=&quot;Category:Movies&quot;&gt;movies&lt;/a&gt;, all of which are listed in her &lt;a href=&quot;/wiki/Filmography&quot; title=&quot;Filmography&quot;&gt;filmography&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;h2&gt;Vital Statistics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt; &lt;b&gt;Birth Name:&lt;/b&gt; Jorja-An Fox &lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Nicknames:&lt;/b&gt; Jorja, Jorj, Jorjan, Horha (the Spanish pronounciation of her name, used by her &quot;CSI Miami&quot; friend Emily Procter)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Date of Birth:&lt;/b&gt; 07/07/1968 (47 years old)&lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Place of Birth:&lt;/b&gt; New York City, NY (raised in &lt;a href=&quot;http://en.wikipedia.org/wiki/Melbourne_Beach,_Florida&quot; class=&quot;extiw&quot; title=&quot;wikipedia:Melbourne Beach, Florida&quot;&gt;Melbourne Beach, FL&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Eye Color:&lt;/b&gt; Brown &lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Hair Color:&lt;/b&gt; Brown &lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Height:&lt;/b&gt; 5&#39;9&quot; &lt;/li&gt;
+&lt;li&gt; &lt;b&gt;Pets:&lt;/b&gt; Bexar (dog - adopted 2012)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 02 Oct 2015 13:08:20 -0700</pubDate>
+        <link>http://jorjafox.net/jekyll//biographies</link>
+        <guid isPermaLink="true">http://jorjafox.net/jekyll//biographies</guid>
+        
+        
+        <category>biographies</category>
+        
+      </item>
+    
+  </channel>
+</rss>
