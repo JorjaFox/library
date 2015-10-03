@@ -17,3 +17,6 @@ markdown: kramdown
 
 # Outputting
 permalink: "/:title"
+
+# Pages
+include: ['_pages']
