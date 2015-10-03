@@ -26,8 +26,8 @@ Jorja is credited as Jorja Fox unless otherwise noted.
 	<tr>
 		<td style="text-align: center">
 			<strong>{{ item.title }}</strong> ({{ item.type }})
-			<strong>{{ item.character }}</strong>
-			<small>{{ item.notes }}</small>
+			<br /><strong>{{ item.character }}</strong>
+			<br /><small>{{ item.notes }}</small>
 		</td>
 		<td  valign="top">
 			{{ item.dates }}
@@ -55,7 +55,7 @@ Jorja is credited as Jorja Fox unless otherwise noted.
 	<tr>
 		<td style="text-align: center">
 			<strong>{{ item.title }}</strong> ({{ item.type }})
-			<small>{{ item.notes }}</small>
+			<br /><small>{{ item.notes }}</small>
 		</td>
 		<td  valign="top">
 			{{ item.dates }}
