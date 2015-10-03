@@ -17,6 +17,8 @@ markdown: kramdown
 
 # Outputting
 permalink: "/:title"
+minItemsToShowToc: 1
+tocTopTag: h2
 
 # Pages
 include: ['_pages']

@@ -23,6 +23,11 @@ The JorjaPedia is a fan-run Jorja Fox encyclopedia, maintained by Jorja Fox -- O
 <!-- Scripts -->
 <script type='text/javascript' src='/jekyll/js/jquery-1.11.3.min.js'></script>
 <script type='text/javascript' src='/jekyll/js/jquery.tocLight.js'></script>
+    <script type="text/javascript">
+        $(function() {
+          $.toc.clickHideButton();
+        });
+  </script>
 
 <script type='text/javascript' src='//jfo-static.net/wp-content/themes/jfogenesis/js/genwpacc.min.js'></script>
 <script type='text/javascript'>
@@ -135,27 +140,10 @@ var utilityBackstretchL10n = {"src":"\/\/jfo-static.net\/content\/images\/backgr
 	        </header>
 
 	        <div class="entry-content" itemprop="text"><div id="padbox">
-				<div id="toc-container">
-   <table class="toc" id="toc">
-      <tbody>
-         <tr>
-            <td>
-               <div id="toctitle">
-                  <h2>Contents</h2>
-               </div>
-               <ul>
-                  <li class="toc_level-1 toc_section-1">
-                     <a href="#tocAnchor-1-1"><span class="tocnumber">1</span> <span class="toctext">About</span></a>
-                  </li>
-               </ul>
-            </td>
-         </tr>
-      </tbody>
-   </table>
-</div><div class="post">
+				<div class="post">
 
   <header class="post-header">
-    <h1 class="post-title" id="tocAnchor-1-1">About</h1>
+    <h1 class="post-title">About</h1>
   </header>
 
   <article class="post-content">
