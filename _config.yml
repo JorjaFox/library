@@ -16,4 +16,4 @@ github_username:  ipstenu
 markdown: kramdown
 
 # Outputting
-permalink: "/jekyll/:title"
+permalink: "/:title"

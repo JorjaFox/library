@@ -3,6 +3,7 @@ layout: default
 title:  "Biographies"
 date:   2015-10-02 20:08:20
 categories: biographies
+permalink: Biographies
 ---
 
 <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Headshot.jpg" class="image"><img alt="" src="//jfo-static.net/wiki/images/8/8e/Headshot.jpg" width="200" height="277" class="thumbimage"></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Headshot.jpg" class="internal" title="Enlarge"></a></div>Jorja Fox</div></div></div>
