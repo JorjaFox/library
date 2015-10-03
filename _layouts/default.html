@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="jekyll custom-background sidebar-content utility-pro-green" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+    {% include header.html %}
+
+<div class="site-inner utility-pro-green"><div class="wrap">
+	<div class="content-sidebar-wrap">
+
+	<main class="content" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+    	<div class="breadcrumb">You are here: <a href="/" title="View Home">Home</a> / <a href="/jekyll/">Wiki</a> {% if page.title %} / <a href="{{ page.path }}">{{ page.title }}</a>{% endif %}</div>
+
+		<article class="post type-post format-standard category-jorjafox entry zenphoto" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+
+	        <header class="entry-header">
+	            <h2 class="entry-title" itemprop="headline">{{ page.title }}</h2>
+				<div class="entry-meta">From JorjaPedia</div>
+	        </header>
+
+	        <div class="entry-content" itemprop="text"><div id="padbox">
+				{{ content | toc_generate }}
+	        </div></div>
+
+	        <footer class="entry-footer"></footer>
+	    </article>
+
+	    <div class="adboxes-footerwidget"><center>
+		    {% include adboxes-footerwidget.html %}
+	    </center></div>
+
+	</main>
+
+		{% include sidebar.html %}
+    </div> <!-- content-sidebar-wrap -->
+    </div><!-- end wrap --></div> <!-- end .site-inner -->
+
+
+	{% include footer.html %}
+</div> <!-- End Site-container -->
+
+</body>
+
+</html>
