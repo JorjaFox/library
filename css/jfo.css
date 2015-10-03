@@ -1,0 +1,252 @@
+/* Sidebar */
+
+#searchGoButton {
+	display: none;
+}
+
+.search-form [type="submit"] {
+	background-color: rgba(0, 0, 0, 0)!important;
+	background: url('//jfo-static.net/wp-content/themes/jfogenesis/images/icon-search-ltr.png') no-repeat 75% 53% #FFF!important;
+	border: 1px solid #DDD!important;
+	top: 0;
+	text-indent: -9999px;
+}
+
+.search-form {
+	height: 53px;
+}
+
+.sidebar-primary {
+    float: none !important;
+}
+
+/* Uncreated pages */
+
+a.new, #p-personal a.new {
+    color: #C20!important;
+}
+
+/* Table of Contents */
+
+#toc ul li {
+list-style-image: none;
+list-style: none;
+}
+
+.tocnumber, .toctoggle { display: none; }
+
+#toctitle h2 {font-size: 20px;}
+
+#toc, .toc {
+	border: 1px solid #aaa;
+	background-color: #f9f9f9;
+	padding: 5px;
+	font-size: 95%;
+    margin: 0 0 10px 0;
+    max-width: 200px;
+}
+#toc h2, .toc h2 {
+	display: inline;
+	border: none;
+	padding: 0;
+	font-weight: bold;
+}
+#toc #toctitle,
+.toc #toctitle,
+#toc .toctitle,
+.toc .toctitle {
+	text-align: center;
+}
+
+/* wikitable/prettytable class for skinning normal tables */
+
+table.wikitable,
+table.prettytable,
+.wikitable {
+    margin: 1em;
+    border: 1px #363 solid;
+    border-collapse: collapse;
+}
+.wikitable th,
+.prettytable th {
+    background: #E1F3E1!important;
+    text-transform: uppercase;
+    text-align: left!important;
+    font-size: 1em;
+    line-height: 2.5em;
+    font-weight: bold;
+}
+
+.wikitable caption,
+.prettytable caption {
+    font-weight: bold;
+}
+
+/* Tables */
+
+table {border: 1px #363 solid!important;width: 0!important;}
+td {line-height: 25px;}
+
+
+.thumb.tright {
+border: 1px grey solid;
+padding: 5px;
+background: #EEE;
+margin: 5px;
+}
+
+/* JFO Templates */
+
+.entry-content td, .entry-content th {padding: 5px!important;}
+.entry-content tr {background: #fff;}
+.entry-content tr th {background: #ddd;}
+table.newstable th {background: #ddd;}
+table.eptable, table.episodelist, table.newstable-year, table.newstable {width:98%!important; border-spacing: 0px;}
+table.eptable td, table.eptable th, tr.episodelist-summary td  {border-bottom: 1px solid black;}
+table.eptable td {font-size: 15px;}
+table.eptable th {background-color: #ddd;}
+tr.episodelist-name {text-align: center;background-color: #E1F3E1;font-size: 15px;}
+tr.collapsible:hover, tr.collapsible td:hover, tr.episodelist-name:hover, tr.episodelist-name td:hover {background-color: #E1F3E1!important;}
+tr.episodelist-summary:hover, tr.episodelist-summary td:hover {background-color: white!important;}
+table.episodelist td, table.newstable td {border-top: 1px black solid;font-size: 15px;}
+
+div.csiepisodeinfobox {float:right; width:252px; padding-left: 5px;}
+
+
+div.jfoinfobox {
+  display:table;
+  border: 1px solid #363;
+  margin: 10px 0px;
+  font-size: 15px;
+}
+
+div.tvheader, div.tvfooter, div.newsheader, div.newsfooter {
+  text-align:center;
+  background:#E1F3E1;
+  padding: 5px;
+}
+
+div.newsbody, div.tvbody {
+  padding: 5px;
+  background: #fff;
+}
+
+div.newsbody, div.newsfooter, div.newsheader {
+    border-bottom: 1px solid #363;
+}
+
+div.tvnextprev.csi
+{
+   float:left;/*fix for  buggy browsers*/
+   display:table-column;
+   display:table-row;
+   padding:5px 5px 10px 5px;
+   width: 100%;
+}
+
+div.tvprev {
+    float: left;
+    width: 45%;
+    font-size: 85%;
+}
+
+div.tvnext {
+    float: right;
+    text-align: right;
+    width: 45%;
+    font-size: 85%;
+}
+
+
+div.divCell {
+   float:left;
+   width:50%;
+   font-size: 85%;
+}
+
+/* MediaWiki Templates */
+
+.rellink {
+font-style: italic;
+padding-left: 1.6em;
+margin-bottom: 0.5em;
+}
+
+/* Category Links */
+
+#mw-normal-catlinks ul, #catlinks {
+display: inline-block;
+}
+
+#catlinks li:first-child {
+padding-left: .25em;
+border-left: none;
+}
+
+#catlinks li {
+list-style: none;
+display: inline-block;
+line-height: 1.25em;
+border-left: 1px solid #AAA;
+margin: .125em 0;
+padding: 0 .5em;
+}
+
+#mw-normal-catlinks::before {
+content: '\f301';
+font-family: 'Genericons';
+vertical-align: bottom;
+display: inline-block;
+width: 16px;
+height: 16px;
+-webkit-font-smoothing: antialiased;
+font-size: 16px;
+line-height: 1;
+text-decoration: inherit;
+font-weight: normal;
+font-style: normal;
+vertical-align: top;
+}
+
+/* Weird footer thing */
+.entry-content .printfooter {
+    display:none
+}
+
+/* Logged in user sidebar links */
+
+#mediawikiviews li, #mediawikipersonaltools li, #mediawikitoolbox li {
+margin-bottom: 0px;
+}
+
+/* Edit Links */
+span.editsection, span.editsection a {font-size: 12px;margin-top: 50px;}
+
+/* Wiki Editor */
+
+div.sections .group.group-format, div.sections .group.group-insert {min-width: 100px;}
+
+.wikiEditor-ui textarea {
+width: 98.5%!important;
+padding: 4px!important;
+color: #333;
+font-family: monospace!important;
+}
+
+input[type="checkbox"], input[type="radio"] {
+box-sizing: border-box;
+padding: 0px;
+width: 20px;
+margin: 5px;
+}
+
+table.diff {
+width: 100%!important;
+}
+
+/* Ads */
+
+.jfo-adboxes.studiopress-120x240,
+.jfo-adboxes.line-buttons-500x250 {
+    max-width: 125px;
+}
