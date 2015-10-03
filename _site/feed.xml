@@ -7,8 +7,8 @@ The JorjaPedia is a fan-run Jorja Fox encyclopedia, maintained by Jorja Fox -- O
 </description>
     <link>http://jorjafox.net/jekyll//</link>
     <atom:link href="http://jorjafox.net/jekyll//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Oct 2015 11:07:03 -0700</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2015 11:07:03 -0700</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2015 11:11:29 -0700</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2015 11:11:29 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -75,14 +75,20 @@ The JorjaPedia is a fan-run Jorja Fox encyclopedia, maintained by Jorja Fox -- O
 
 This season began with CSI airing Friday nights at 9 PM Eastern, following the much lauded new series, &#39;&#39;The Fugitive.&#39;&#39;  While the lead-in show fared poorly (and was canceled), CSI moved to Thursday nights at 9 PM Eastern and took on the NBC Must See TV comedy line-up.
 
-&lt;table&gt;
+&lt;table class=&quot;episodelist&quot;&gt;
 
+&lt;tbody&gt;&lt;tr&gt;
+&lt;th&gt; # &lt;/th&gt;
+&lt;th&gt; Title &lt;/th&gt;
+&lt;th&gt; Airdate &lt;/th&gt;
+&lt;th&gt;Rating
+&lt;/th&gt;&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;1 (101)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;1 (101)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Pilot (CSI)&quot; title=&quot;Pilot (CSI)&quot;&gt;Pilot (CSI)&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;10/06/2000&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		
 		
 			
@@ -95,10 +101,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;2 (103)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;2 (103)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Cool Change&quot; title=&quot;Cool Change&quot;&gt;Cool Change&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;10/13/2000&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -111,10 +117,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;3 (104)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;3 (104)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Crate &#39;n Burial&quot; title=&quot;Crate &#39;n Burial&quot;&gt;Crate &#39;n Burial&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;10/20/2000&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -127,10 +133,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;4 (105)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;4 (105)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Pledging Mr. Johnson&quot; title=&quot;Pledging Mr. Johnson&quot;&gt;Pledging Mr. Johnson&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;10/27/2000&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -143,10 +149,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;5 (106)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;5 (106)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Friends &amp; Lovers&quot; title=&quot;Friends &amp; Lovers&quot;&gt;Friends &amp; Lovers&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;11/03/2000&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -159,10 +165,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;6 (107)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;6 (107)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Who Are You?&quot; title=&quot;Who Are You?&quot;&gt;Who Are You?&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;11/10/2000&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -175,10 +181,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;7 (108)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;7 (108)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Blood Drops&quot; title=&quot;Blood Drops&quot;&gt;Blood Drops&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;11/17/2000&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -191,10 +197,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;8 (109)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;8 (109)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Anonymous&quot; title=&quot;Anonymous&quot;&gt;Anonymous&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;11/24/2000&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -207,10 +213,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;9 (110)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;9 (110)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Unfriendly Skies&quot; title=&quot;Unfriendly Skies&quot;&gt;Unfriendly Skies&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;12/08/2000&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -223,10 +229,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;10 (111)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;10 (111)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Sex, Lies and Larvae&quot; title=&quot;Sex, Lies and Larvae&quot;&gt;Sex, Lies and Larvae&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;12/22/2000&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 		&lt;/td&gt;
@@ -236,10 +242,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;11 (102)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;11 (102)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/I-15 Murders&quot; title=&quot;I-15 Murders&quot;&gt;I-15 Murders&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;01/12/2001&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -252,10 +258,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;12 (112)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;12 (112)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Fahrenheit 932&quot; title=&quot;Fahrenheit 932&quot;&gt;Fahrenheit 932&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;02/01/2001&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -268,10 +274,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;13 (113)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;13 (113)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Boom&quot; title=&quot;Boom&quot;&gt;Boom&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;02/08/2001&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -284,10 +290,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;14 (114)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;14 (114)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/To Halve and to Hold&quot; title=&quot;To Halve and to Hold&quot;&gt;To Halve and to Hold&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;02/15/2001&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -300,10 +306,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;15 (115)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;15 (115)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Table Stakes&quot; title=&quot;Table Stakes&quot;&gt;Table Stakes&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;02/22/2001&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -316,10 +322,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;16 (116)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;16 (116)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Too Tough To Die&quot; title=&quot;Too Tough To Die&quot;&gt;Too Tough To Die&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;03/01/2001&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 		&lt;/td&gt;
@@ -329,10 +335,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;17 (117)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;17 (117)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Face Lift&quot; title=&quot;Face Lift&quot;&gt;Face Lift&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;03/08/2001&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -345,10 +351,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;18 (118)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;18 (118)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/$35K O.B.O.&quot; title=&quot;$35K O.B.O.&quot;&gt;$35K O.B.O.&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;03/29/2001&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -361,10 +367,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;19 (119)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;19 (119)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Gentle, Gentle&quot; title=&quot;Gentle, Gentle&quot;&gt;Gentle, Gentle&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;04/12/2001&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -377,10 +383,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;20 (120)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;20 (120)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Sounds of Silence&quot; title=&quot;Sounds of Silence&quot;&gt;Sounds of Silence&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;04/19/2001&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -393,10 +399,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;21 (121)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;21 (121)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Justice is Served&quot; title=&quot;Justice is Served&quot;&gt;Justice is Served&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;04/26/2001&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -409,10 +415,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;22 (122)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;22 (122)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/Evaluation Day&quot; title=&quot;Evaluation Day&quot;&gt;Evaluation Day&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;05/10/2001&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			
@@ -425,10 +431,10 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 	&lt;/tr&gt;
 
 	&lt;tr class=&quot;episodelist-name&quot;&gt;
-		&lt;td style=&quot;text-align: center&quot; width=&quot;100&quot;&gt;23 (123)&lt;/td&gt;
+		&lt;td style=&quot;text-align: center&quot;&gt;23 (123)&lt;/td&gt;
 		&lt;td style=&quot;text-align: left&quot;&gt; &quot;&lt;a href=&quot;/jekyll/The Strip Strangler&quot; title=&quot;The Strip Strangler&quot;&gt;The Strip Strangler&lt;/a&gt;&quot;&lt;/td&gt;
 		&lt;td&gt;05/17/2001&lt;/td&gt;
-		&lt;td width=&quot;100&quot;&gt;
+		&lt;td&gt;
 		&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;&lt;i style=&quot;color:gold;&quot; class=&quot;fa fa-star fa-lg fa-rotate-normal&quot; name=&quot;star&quot;&gt;&lt;/i&gt;
 		
 			

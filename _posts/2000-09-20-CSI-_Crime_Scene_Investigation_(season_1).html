@@ -10,14 +10,20 @@ CSI: Crime Scene Investigation's first season took place between September 2000 
 
 This season began with CSI airing Friday nights at 9 PM Eastern, following the much lauded new series, ''The Fugitive.''  While the lead-in show fared poorly (and was canceled), CSI moved to Thursday nights at 9 PM Eastern and took on the NBC Must See TV comedy line-up.
 
-<table>
+<table class="episodelist">
 
+<tbody><tr>
+<th> # </th>
+<th> Title </th>
+<th> Airdate </th>
+<th>Rating
+</th></tr>
 {% for episode in site.data.csi-01 %}
 	<tr class="episodelist-name">
-		<td style="text-align: center" width="100">{{ episode.epnum }}</td>
+		<td style="text-align: center">{{ episode.epnum }}</td>
 		<td style="text-align: left"> "<a href="{{ site.baseurl }}{{ episode.title }}" title="{{ episode.title }}">{{ episode.title }}</a>"</td>
 		<td>{{ episode.airdate }}</td>
-		<td width="100">
+		<td>
 		{% for i in (1..episode.rating) %}<i style="color:gold;" class="fa fa-star fa-lg fa-rotate-normal" name="star"></i>{% endfor %}
 		{% if 5 > episode.rating %}
 			{% assign greystar = 5 | minus: episode.rating %}
