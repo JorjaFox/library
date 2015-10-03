@@ -17,11 +17,11 @@ This season began with CSI airing Friday nights at 9 PM Eastern, following the m
 		<td style="text-align: center" width="100">{{ episode.epnum }}</td>
 		<td style="text-align: left"> "<a href="{{ site.baseurl }}{{ episode.title }}" title="{{ episode.title }}">{{ episode.title }}</a>"</td>
 		<td>{{ episode.airdate }}</td>
-		<td width="100">{{ episode.rating }}
-		{% for i in (1..episode.rating) %}<i style="color:gold;" class="fa fa-star fa-2x fa-rotate-normal" name="star"></i>{% endfor %}
+		<td width="100">
+		{% for i in (1..episode.rating) %}<i style="color:gold;" class="fa fa-star fa-lg fa-rotate-normal" name="star"></i>{% endfor %}
 		{% if 5 > episode.rating %}
 			{% assign greystar = 5 | minus: episode.rating %}
-			{% for i in (1..greystar) %}<i style="color:grey;" class="fa fa-star fa-2x fa-rotate-normal" name="star"></i>{% endfor %}
+			{% for i in (1..greystar) %}<i style="color:grey;" class="fa fa-star fa-lg fa-rotate-normal" name="star"></i>{% endfor %}
 		{% endif %}
 		</td>
 	</tr>
