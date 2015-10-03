@@ -46,16 +46,6 @@ div#column-one {
 ** http://style.cleverchimp.com/font_size_intervals/altintervals.html
 */
 
-body {
-	font: x-small sans-serif;
-	/* @embed */
-	background: #f9f9f9 url(../images/headbg.jpg) 0 0 no-repeat;
-	color: black;
-	margin: 0;
-	padding: 0;
-	direction: ltr; /* Needed for RTL flipping */
-	unicode-bidi: embed;
-}
 
 /* scale back up to a sane default */
 div#globalWrapper {
@@ -77,12 +67,6 @@ a:visited {
 a.new,
 #p-personal a.new {
 	color: #cc2200;
-}
-
-ul {
-	list-style-type: square;
-	/* @embed */
-	list-style-image: url(../images/bullet.gif);
 }
 
 pre, .mw-code {
