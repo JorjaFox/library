@@ -3,7 +3,10 @@ title: Filmography
 author: ipstenu
 layout: default
 permalink: /filmography/
-categories: "Jorja Fox"
+categories: "General"
+tags: 
+  - Movies
+  - Television
 
 ---
 A filmography is, in essence, the resume of a performer, listing all their cinematic achievements. This filmography has been broken down by section, to aid in sorting her work.
@@ -12,7 +15,7 @@ Jorja is credited as Jorja Fox unless otherwise noted.
 
 ## Actress##  
 
-<table class="wikitable" width="90%">
+<table class="wikitable" width="100%">
 <tbody>
 
 <tr>
@@ -24,12 +27,12 @@ Jorja is credited as Jorja Fox unless otherwise noted.
 	{% if item.role == "Actress" %}
 
 	<tr>
-		<td style="text-align: center">
+		<td>
 			<strong>{{ item.title }}</strong> ({{ item.type }})
 			<br /><strong>{{ item.character }}</strong>
 			<br /><small>{{ item.notes }}</small>
 		</td>
-		<td  valign="top">
+		<td valign="top">
 			{{ item.dates }}
 		</td>
 	</tr>
@@ -53,7 +56,7 @@ Jorja is credited as Jorja Fox unless otherwise noted.
 	{% if item.role == "Producer" %}
 
 	<tr>
-		<td style="text-align: center">
+		<td>
 			<strong>{{ item.title }}</strong> ({{ item.type }})
 			<br /><small>{{ item.notes }}</small>
 		</td>
@@ -67,8 +70,7 @@ Jorja is credited as Jorja Fox unless otherwise noted.
 </table>
 
 ##See Also##  
-*[[Readings]]  
-*[[Musical Performances]]  
-*[http://www.imdb.com/name/nm0289080/ IMDb]
 
-[[Category:Jorja Fox]]
+* [[Readings]]  
+* [[Musical Performances]]  
+* [IMDb](http://www.imdb.com/name/nm0289080/)

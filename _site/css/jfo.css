@@ -1,23 +1,7 @@
-/* Sidebar */
+/* Jekyll Tweaks */
 
-#searchGoButton {
-	display: none;
-}
-
-.search-form [type="submit"] {
-	background-color: rgba(0, 0, 0, 0)!important;
-	background: url('//jfo-static.net/wp-content/themes/jfogenesis/images/icon-search-ltr.png') no-repeat 75% 53% #FFF!important;
-	border: 1px solid #DDD!important;
-	top: 0;
-	text-indent: -9999px;
-}
-
-.search-form {
-	height: 53px;
-}
-
-.sidebar-primary {
-    float: none !important;
+h1.post-title {
+    display: none;
 }
 
 /* wikitable/prettytable class for skinning normal tables */
@@ -28,6 +12,7 @@ table.prettytable,
     margin: 1em;
     border: 1px #363 solid;
     border-collapse: collapse;
+    width: 100%!important;
 }
 .wikitable th,
 .prettytable th {
@@ -47,7 +32,7 @@ table.prettytable,
 /* Tables */
 
 table {border: 1px #363 solid!important;width: 0!important;}
-td {line-height: 25px;}
+td {line-height: 25px;border: 1px #aaa solid;}
 
 
 .thumb.tright {
@@ -124,91 +109,4 @@ div.divCell {
    float:left;
    width:50%;
    font-size: 85%;
-}
-
-/* MediaWiki Templates */
-
-.rellink {
-font-style: italic;
-padding-left: 1.6em;
-margin-bottom: 0.5em;
-}
-
-/* Category Links */
-
-#mw-normal-catlinks ul, #catlinks {
-display: inline-block;
-}
-
-#catlinks li:first-child {
-padding-left: .25em;
-border-left: none;
-}
-
-#catlinks li {
-list-style: none;
-display: inline-block;
-line-height: 1.25em;
-border-left: 1px solid #AAA;
-margin: .125em 0;
-padding: 0 .5em;
-}
-
-#mw-normal-catlinks::before {
-content: '\f301';
-font-family: 'Genericons';
-vertical-align: bottom;
-display: inline-block;
-width: 16px;
-height: 16px;
--webkit-font-smoothing: antialiased;
-font-size: 16px;
-line-height: 1;
-text-decoration: inherit;
-font-weight: normal;
-font-style: normal;
-vertical-align: top;
-}
-
-/* Weird footer thing */
-.entry-content .printfooter {
-    display:none
-}
-
-/* Logged in user sidebar links */
-
-#mediawikiviews li, #mediawikipersonaltools li, #mediawikitoolbox li {
-margin-bottom: 0px;
-}
-
-/* Edit Links */
-span.editsection, span.editsection a {font-size: 12px;margin-top: 50px;}
-
-/* Wiki Editor */
-
-div.sections .group.group-format, div.sections .group.group-insert {min-width: 100px;}
-
-.wikiEditor-ui textarea {
-width: 98.5%!important;
-padding: 4px!important;
-color: #333;
-font-family: monospace!important;
-}
-
-input[type="checkbox"], input[type="radio"] {
-box-sizing: border-box;
-padding: 0px;
-width: 20px;
-margin: 5px;
-}
-
-table.diff {
-width: 100%!important;
-}
-
-/* Ads */
-
-.jfo-adboxes.studiopress-120x240,
-.jfo-adboxes.line-buttons-500x250 {
-    max-width: 125px;
 }

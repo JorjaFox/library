@@ -43,3 +43,8 @@
 #toc-container {
 	margin-bottom: 10px;
 }
+
+div#toc-container {
+    float: right;
+    padding: 5px;
+}
