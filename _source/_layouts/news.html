@@ -1,0 +1,32 @@
+---
+layout: default
+categories:
+  - News
+---
+<div class="post">
+
+	<header class="post-header">
+		<h1 class="post-title">{{ page.title }}</h1>
+	</header>
+
+	<article class="post-content">
+
+		{% if page.sourceurl %}
+		<div class="newsheader"><a class="external text" href="{{page.sourceurl}}">{{page.title}}</a><br>{{ page.date | date: "%d %B %Y" }}<b></b></div>
+		{% endif %}
+
+		{{ content }}
+
+	    <div class="wikitable">
+			<div class="newsheader"><a href="/library/news/" title="News">News Articles by Year</a></div>
+			<div class="newsbody"><ul>
+				{% for post in site.news %}
+					{% if post.topic == 'index' %}
+						<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.tags }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul></div>
+		</div>
+  	</article>
+
+</div>
