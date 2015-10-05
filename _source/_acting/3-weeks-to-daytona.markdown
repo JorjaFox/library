@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "3 Weeks to Daytona"
+permalink: /acting/3-weeks-to-daytona/
 categories: Filmography
 tags: movies
 ---

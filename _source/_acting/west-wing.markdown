@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The West Wing"
+permalink: /acting/west-wing/
 categories: Filmography
 tags: television
 ---

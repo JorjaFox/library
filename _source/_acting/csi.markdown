@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "CSI: Crime Scene Investiation"
+permalink: /acting/csi/
 categories: Filmography
 tags: television
 ---

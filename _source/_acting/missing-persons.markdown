@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Missing Persons"
+permalink: /acting/missing-persons/
 categories: Filmography
 tags: television
 ---

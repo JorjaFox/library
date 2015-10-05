@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "ER"
+permalink: /acting/er/
 categories: Filmography
 tags: television
 ---
