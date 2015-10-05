@@ -3,7 +3,7 @@
   url: /acting/csi/
   type: TV Series
   character: Sara Sidle
-  notes: "– 2000-07 (main cast)<br />– 2008-09 (guest)<br />– 2009-2015 (recurring, then main cast - listed in opening credits)"
+  notes: "– 2000-07 (main cast)<br />– 2008-09 (guest)<br />– 2010-2015 (recurring, then main cast)"
   dates: 2000-2015
 
 - role: Actress
@@ -43,7 +43,7 @@
   url: /acting/west-wing/
   type: TV Series
   character: Gina Toscano
-  notes: "– In the Shadow of Two Gunmen: Part 1 (2000)<br />– What Kind of Day Has It Been? (2000)<br />– Six Meetings Before Lunch (2000)<br />– The White House Pro-Am (2000)<br />– 20 Hours in L.A. (2000)"
+  notes:
   dates: 2000
 
 - role: Actress
@@ -83,7 +83,7 @@
   url: /acting/forever-fabulous/
   type: Movie
   character: Liz Guild
-  notes: (aka Tiara Tango)
+  notes:
   dates: 2000 (1998)
 
 - role: Actress
@@ -104,8 +104,8 @@
 
 - role: Actress
   title: How to Make the Cruelest Month
-  url: /acting/how-make-crueslest-month/
-  type: TV Series
+  url: /acting/how-make-cruelest-month/
+  type: Movie
   character: Sarah Bryant
   notes:
   dates: 1998
@@ -137,9 +137,9 @@
 - role: Actress
   title: Alchemy
   url: /acting/alchemy/
-  type: Movie
+  type: TV Movie
   character: Josie
-  notes: [As Jorjan Fox]
+  notes:
   dates: 1996
 
 - role: Actress
@@ -171,7 +171,7 @@
   url: /acting/missing-persons/
   type: TV Series
   character: Constance Karadzic
-  notes: [As Jorja Fox]
+  notes:
   dates: 1993-1994
 
 - role: Actress
@@ -187,7 +187,7 @@
   url: /acting/dead-drunk/
   type: TV Series
   character: Maggie Glendon
-  notes: "[As Jorjan Fox]<br /> – Dead Drunk: The Kevin Tunell Story (1993)"
+  notes: "– Dead Drunk: The Kevin Tunell Story (1993)"
   dates: 1993
 
 - role: Actress
@@ -195,7 +195,7 @@
   url: /acting/the-mall/
   type: TV Series
   character: Diane Dravecki
-  notes: "[As Jorjan Fox]<br />– Summer Stories: The Mall - Part 3 (1993)<br />– Summer Stories: The Mall - Part 2 (1993)<br /> – Summer Stories: The Mall - Part 1 (1993)"
+  notes: "– Summer Stories: The Mall - Part 3 (1993)<br />– Summer Stories: The Mall - Part 2 (1993)<br /> – Summer Stories: The Mall - Part 1 (1993)"
   dates: 1992
 
 - role: Actress
@@ -211,7 +211,7 @@
   url: /acting/nineteen/
   type: TV Series
   character: Ruth Manicotti
-  notes: "[As Jorjan Fox]<br />– Pilot (1990)"
+  notes: "– Pilot (1990)"
   dates: 1990
 
 - role: Actress
@@ -244,6 +244,7 @@
 
 - role: Producer
   title: How I Became An Elephant
+  url: /producing/how-became-elephant/
   type: Documentary
   notes:
   dates: 2012
@@ -261,3 +262,17 @@
   type: Musical
   notes:
   dates: 2004
+
+- role: Writer
+  title: Loving Stanley
+  url: /producing/loving-stanley/
+  type: Stage Play
+  notes:
+  dates: unknown
+
+- role: Writer
+  title: In Hell with Love
+  url: /producing/in-hell-love/
+  type: Stage Play
+  notes:
+  dates: unknown

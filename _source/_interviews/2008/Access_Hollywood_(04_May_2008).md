@@ -1,6 +1,6 @@
 ---
 title: Access Hollywood 
-author: ipstenu
+author: Mika Epstein
 layout: interview
 date: 2008-05-04
 sourceurl: http://www.accesshollywood.com  

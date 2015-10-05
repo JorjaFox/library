@@ -1,6 +1,6 @@
 ---
 title: The Early Show
-author: ipstenu
+author: Mika Epstein
 layout: interview
 sourceurl: http://www.cbsnews.com/earlyshow/
 date: 2006-05-19

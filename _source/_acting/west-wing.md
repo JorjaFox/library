@@ -1,14 +1,19 @@
 ---
-layout: default
+layout: acting
 title: "The West Wing"
 permalink: /acting/west-wing/
 categories: Filmography
 tags: television
+year: 2000-2015
+type: Drama
+character: "Gina Toscano"
+chartype: guest
+episodes: 5
+station: NBC
+year: 1999-2006
+genre: "Political Drama"
+excerpt: "<strong>The West Wing</strong> was a popular and widely acclaimed American television serial drama set in the White House during the fictional Democratic administration of Josiah 'Jed' Bartlet."
 ---
-
-## Premise
-
-The West Wing was a popular and widely acclaimed American television serial drama created by Aaron Sorkin for NBC and premiered in 1999. The show is set in the White House -- which serves as the residence of the President and his family -- during the fictional Democratic administration of Josiah "Jed" Bartlet. The West Wing of the White House is the location of the President's Oval Office and the offices of most of his senior staff. The show is produced and co-written by John Wells. 
 
 ## Character
 

@@ -5,7 +5,7 @@ layout: default
 permalink: /biographies/
 categories: "Biographies"
 tags: "Index"
-
+regenerate: true
 ---
 
 Jorja Fox is an actress, producer, humanitarian, activist and environmentalist. She has been seen on such hit TV shows as CSI: Crime Scene Investigation, ER, The West Wing and Law & Order, as well as indie movies like Memento and Food for the Heart. She has been in numerous other television shows and movies.

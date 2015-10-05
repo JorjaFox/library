@@ -1,6 +1,6 @@
 ---
 title: KTLA Morning Show 
-author: ipstenu
+author: Mika Epstein
 layout: interview
 date: 2008-01-31
 sourceurl: http://ktla.trb.com/

@@ -1,6 +1,6 @@
 ---
 title: ET Online
-author: ipstenu
+author: Mika Epstein
 sourceurl: http://www.etonline.com
 date: 2006-04-27
 layout: interview

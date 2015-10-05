@@ -1,6 +1,6 @@
 ---
 title: Eyewitness News Video
-author: ipstenu
+author: Mika Epstein
 layout: interview
 sourceurl: http://www.lasvegasnow.com
 date: 2009-09-12

@@ -1,6 +1,6 @@
 ---
 title: Lions Arrive At San Francisco Airport with "CSI's" Jorja Fox
-author: ipstenu
+author: Mika Epstein
 layout: interview
 date: 2010-05-27
 sourceurl: http://lionark.com

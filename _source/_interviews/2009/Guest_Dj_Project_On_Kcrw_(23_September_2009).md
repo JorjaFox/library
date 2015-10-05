@@ -1,6 +1,6 @@
 ---
 title: Guest DJ Project on KCRW
-author: ipstenu
+author: Mika Epstein
 layout: interview
 sourceurl: http://kcrw.com/  
 date: 2009-09-23

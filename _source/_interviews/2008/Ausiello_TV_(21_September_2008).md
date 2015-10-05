@@ -1,6 +1,6 @@
 ---
 title: Ausiello TV 
-author: ipstenu
+author: Mika Epstein
 layout: interview
 date: 2008-09-21
 sourceurl: http://www.ew.com/ew/video/ausiello_tv  

@@ -1,6 +1,6 @@
 ---
 title: Ian Harvie Show 
-author: ipstenu
+author: Mika Epstein
 layout: interview
 date: 2008-01-21
 sourceurl: http://www.ianharvie.com/jorjafox.html

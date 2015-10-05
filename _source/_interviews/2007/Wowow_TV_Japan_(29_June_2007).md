@@ -1,6 +1,6 @@
 ---
 title: 'Wowow TV - Japan'
-author: ipstenu
+author: Mika Epstein
 layout: interview
 date: 2007-06-29
 sourceurl: http://www.wowow.co.jp/

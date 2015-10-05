@@ -1,6 +1,6 @@
 ---
 title: Radio Times
-author: ipstenu
+author: Mika Epstein
 layout: interview
 sourceurl: http://www.radiotimes.com
 date: 2006-06-06

@@ -1,16 +1,19 @@
 ---
-layout: default
+layout: acting
 title: "ER"
 permalink: /acting/er/
 categories: Filmography
 tags: television
+year: 2000-2015
+type: Drama
+character: "Maggie Doyle"
+chartype: recurring
+episodes: 32
+station: NBC
+year: 1994-2009
+genre: "Medical Drama"
+excerpt: "<strong>ER</strong> was an Emmy Award-winning drama series centering on the medical personnel in the emergency room of a Chicago hospital."
 ---
-
-## Premise
-
-The Emmy Award-winning drama series 'ER' has been on the air since September 1994, and is currently TV's longest running prime-time drama. Created by best-selling author Michael Crichton ('Jurassic Park'), the series centers on the medical personnel in the emergency room of a Chicago hospital. Crichton is also an executive producer, along with John Wells ('China Beach') and Christopher Chulack.
-
-Jorja Fox appeared on three seasons of ER as Dr. Maggie Doyle. 
 
 ## Character
 

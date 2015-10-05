@@ -30,19 +30,25 @@ minItemsToShowToc: 2
 tocTopTag: "h2"
 
 # Pages
-include: ['_pages']
+include: ['_pages', '.htaccess']
 
 # Collections
 collections:
   advocacy:
     output: true
+    permalink: /:collection/:title/
   biographies:
     output: true
+    permalink: /:collection/:title/
   news:
     output: true
+    permalink: /:collection/:title/
   interviews:
     output: true
+    permalink: /:collection/:title/
   acting:
     output: true
+    permalink: /:collection/:title/
   producing:
     output: true
+    permalink: /:collection/:title/

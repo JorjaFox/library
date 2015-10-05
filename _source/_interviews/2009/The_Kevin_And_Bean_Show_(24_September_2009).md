@@ -1,6 +1,6 @@
 ---
 title: The Kevin and Bean Show
-author: ipstenu
+author: Mika Epstein
 layout: interview
 sourceurl: http://kroq.com/  
 date: 2009-09-24

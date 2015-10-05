@@ -1,6 +1,6 @@
 ---
 title: The Insider
-author: ipstenu
+author: Mika Epstein
 layout: interview
 date: 2010-10-20
 sourceurl: http://www.theinsider.com

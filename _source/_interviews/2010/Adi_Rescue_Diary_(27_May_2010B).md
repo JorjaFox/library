@@ -1,6 +1,6 @@
 ---
 title: ADI Rescue Diary
-author: ipstenu
+author: Mika Epstein
 layout: interview
 date: 2010-05-27
 sourceurl: http://adirescuediary.com/2010/05/27/rescue-diary-jorja-fox-adi-team-await-the-lions/

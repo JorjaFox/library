@@ -1,6 +1,6 @@
 ---
 title: Democratic National Convention 
-author: ipstenu
+author: Mika Epstein
 layout: interview
 date: 2008-08-28
 sourceurl: http://www.youtube.com

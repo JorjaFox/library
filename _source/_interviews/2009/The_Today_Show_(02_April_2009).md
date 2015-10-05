@@ -1,6 +1,6 @@
 ---
 title: The Today Show
-author: ipstenu
+author: Mika Epstein
 layout: interview
 sourceurl: http://today.msnbc.msn.com/  
 date: 2009-04-02

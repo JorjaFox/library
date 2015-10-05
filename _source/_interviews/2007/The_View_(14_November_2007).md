@@ -1,6 +1,6 @@
 ---
 title: The View
-author: ipstenu
+author: Mika Epstein
 layout: interview
 date: 2007-11-17
 sourceurl: http://abc.go.com/daytime/theview  

@@ -1,12 +1,21 @@
 ---
-layout: default
+layout: acting
 title: "Missing Persons"
 permalink: /acting/missing-persons/
 categories: Filmography
 tags: television
+show: courthouse
+station: ABC
+rating: 4
+seasons: 1
+chartype: main
+genre: Drama
+year: 1993
+character: "Constance Karadzic"
+excerpt: "<strong>Missing Persons</strong> was a television show about missing people, and the detectives who tried to track them down while putting their own lives back together."
 ---
 
-**Missing Persons** was a television show about missing people, and the detectives who tried to track them down while putting their own lives back together. The show aired from August 1993 through February 1994 on ABC at 8 p.m., apart from the feature-length pilot episode, which was broadcast as the Monday Night Movie from 9 p.m.-11 p.m. ET.
+The show aired from August 1993 through February 1994 on ABC at 8 p.m., apart from the feature-length pilot episode, which was broadcast as the Monday Night Movie from 9 p.m.-11 p.m. ET.
 
 Episodes usually began with some sort of humorous exchange between the team as they all crowded round the coffee machine, eating doughnuts. Ray would then come out from his office and hand out the cases for the day. Episode titles were all taken from a quote from their episode. The characters are all very familiar and jovial with each other.
 

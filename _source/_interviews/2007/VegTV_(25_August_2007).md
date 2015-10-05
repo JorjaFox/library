@@ -1,6 +1,6 @@
 ---
 title: VegTV (25 August 2007)
-author: ipstenu
+author: Mika Epstein
 layout: interview
 date: 2007-08-25
 sourceurl: http://www.vegtv.com

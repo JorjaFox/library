@@ -1,6 +1,6 @@
 ---
 title: SpinDaily 
-author: ipstenu
+author: Mika Epstein
 layout: interview
 date: 2008-02-04
 sourceurl: http://www.spindaily.com/content/view/315/1/

@@ -1,14 +1,16 @@
 ---
-layout: default
+layout: acting
 title: "3 Weeks to Daytona"
 permalink: /acting/3-weeks-to-daytona/
 categories: Filmography
 tags: movies
+excerpt: "<strong>3 Weeks to Daytona</strong> is the movie of a down on his luck stock car racer with one dream left to hold onto, drive with best. Unfortunately, with a busted car, no money, and bad job, Chuck's limelight could be fading fast. When a final chance falls his way, can he patch things up with his son, crew chief, and turn himself around before its too late?"
+character: Cheryl
+chartype: main
+rating: 3
+year: 2011
+genre: Drama
 ---
-
-## Synopsis
-
-**3 Weeks to Daytona** is the story of a down on his luck stock car racer with one dream left to hold onto, drive with best. Unfortunately, with a busted car, no money, and bad job, Chuck's limelight could be fading fast. When a final chance falls his way, can he patch things up with his son, crew chief, and turn himself around before its too late?
 
 ## Recap
 
