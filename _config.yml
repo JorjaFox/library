@@ -12,8 +12,11 @@ url: "http://jorjafox.net" # the base hostname & protocol for your site
 twitter_username: jorjafoxonline
 github_username:  ipstenu
 
-# Moving source
-source:      _source
+# Moving Folders
+source:       _content
+plugins_dir:  _jekyll/plugins
+layouts_dir:  _jekyll/layouts
+includes_dir: _jekyll/includes
 
 # Build settings
 markdown: kramdown
@@ -39,7 +42,7 @@ collections:
     output: true
   interviews:
     output: true
-  television:
+  acting:
     output: true
-  movies:
+  producing:
     output: true
