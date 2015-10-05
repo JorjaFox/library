@@ -22,12 +22,12 @@ The JorjaPedia is a fan-run Jorja Fox encyclopedia, maintained by Jorja Fox -- O
 
 <!-- Scripts -->
 <script type='text/javascript' src='/library/assets/js/jquery-1.11.3.min.js'></script>
-<script type='text/javascript' src='/library/assets/js/jquery.tocLight.js'></script>
-    <script type="text/javascript">
-        $(function() {
-          $.toc.clickHideButton();
-        });
-  </script>
+<script type='text/javascript' src='/library/assets/js/toc.js'></script>
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#toc').toc();
+});
+</script>
 
 <script type='text/javascript' src='//jfo-static.net/wp-content/themes/jfogenesis/js/genwpacc.min.js'></script>
 <script type='text/javascript'>
@@ -137,6 +137,7 @@ var utilityBackstretchL10n = {"src":"\/\/jfo-static.net\/content\/images\/backgr
 	        </header>
 
 	        <div class="entry-content" itemprop="text"><div id="padbox">
+		        <div id="toc-container"><div id="toc"></div></div>
 				<p>Jorja Fox (Liz) co-stars in the new CBS breakout series C.S.I.: CRIME SCENE INVESTIGATION. She has also been featured as a Secret Service agent on NBC’s popular, Emmy-winning series THE WEST WING. She played the recurring role of Doyle on the NBC’s long-running ER, where she happily appeared for a number of seasons. She has made several made-for-TV films and mini-series including HOUSE OF FRANKENSTEIN, DEAD DRUNK and SUMMER STORIES. Film credits include MEMENTO, THE JERKY BOYS, THE HUNGRY BACHELORS’ CLUB, VELOCITY TRAP, HOW TO MAKE THE CRUELEST MONTH, ALCHEMY, DEAD FUNNY, HAPPY HELL NIGHT and KILL OFF.</p>
 
 	        </div></div>

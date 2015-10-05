@@ -13,10 +13,10 @@ twitter_username: jorjafoxonline
 github_username:  ipstenu
 
 # Moving Folders
-source:       _content
-plugins_dir:  _jekyll/plugins
-layouts_dir:  _jekyll/layouts
-includes_dir: _jekyll/includes
+source:       _source
+plugins_dir:  _jekyll/_plugins
+layouts_dir:  _jekyll/_layouts
+includes_dir: _jekyll/_includes
 
 # Build settings
 markdown: kramdown

@@ -22,12 +22,12 @@ The JorjaPedia is a fan-run Jorja Fox encyclopedia, maintained by Jorja Fox -- O
 
 <!-- Scripts -->
 <script type='text/javascript' src='/library/assets/js/jquery-1.11.3.min.js'></script>
-<script type='text/javascript' src='/library/assets/js/jquery.tocLight.js'></script>
-    <script type="text/javascript">
-        $(function() {
-          $.toc.clickHideButton();
-        });
-  </script>
+<script type='text/javascript' src='/library/assets/js/toc.js'></script>
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#toc').toc();
+});
+</script>
 
 <script type='text/javascript' src='//jfo-static.net/wp-content/themes/jfogenesis/js/genwpacc.min.js'></script>
 <script type='text/javascript'>
@@ -137,6 +137,7 @@ var utilityBackstretchL10n = {"src":"\/\/jfo-static.net\/content\/images\/backgr
 	        </header>
 
 	        <div class="entry-content" itemprop="text"><div id="padbox">
+		        <div id="toc-container"><div id="toc"></div></div>
 				<ul>
   <li><strong>Birth Name:</strong> Jorja-An Fox</li>
   <li><strong>Birth Place:</strong> New York, NY</li>
