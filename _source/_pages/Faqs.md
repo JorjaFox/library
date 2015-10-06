@@ -2,7 +2,7 @@
 title: FAQs
 author: Mika Epstein
 layout: default
-permalink: /faqs/
+permalink: /faq/
 categories: FAQ
 
 ---
@@ -36,6 +36,7 @@ STUDIO FAN MAIL
 BIG BEAR LAKE, CA 92315
 
 ### Can you get me in touch with Jorja?
+
 No, I cannot get you in touch with Jorja. Use the above info to contact her yourself.
 
 ### Does Jorja have a Social Media account?
@@ -57,8 +58,13 @@ Jorja's sexuality is her own business. Until Jorja says "I am <whatever>." or "I
 
 ###Have you met Jorja?###
 
-Yes. She's just as cool as you thing.
+Yes. She's just as cool as you think.
 
 ### Why wasn't Jorja in every episode of CSI? ###
 
 Because she didn't want to be.
+
+## See Also
+
+* [About Jorja Fox](http://jorjafox.net/library/about-jorja/)
+* [About Jorja's Career](http://jorjafox.net/library/about-career/)
