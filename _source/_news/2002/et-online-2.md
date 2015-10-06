@@ -4,7 +4,7 @@ date: 2002-10-31
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: This Week  
 newsauthor: Staff  
 newssource: ET Online  

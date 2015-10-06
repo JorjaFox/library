@@ -3,7 +3,7 @@ title: "Canoe Jam! Showbiz"
 date: 2001-01-24
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Jorja Fox goes three for three with CSI  
 newsauthor: Staff  

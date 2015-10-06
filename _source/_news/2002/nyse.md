@@ -4,7 +4,7 @@ date: 2002-05-17
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: NYSE  
 newsauthor: Staff  
 newssource: New York Stock Exchange  

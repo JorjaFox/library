@@ -4,8 +4,7 @@ date: 2002-06-01
 author: Mika Epstein
 layout: news
 tags: 2002
-categories:
-  - Articles
+categories: [Articles, News]
 newstitle: "Hole That Fiber!"
 newsauthor: Staff  
 newssource: Emmy Magazine  

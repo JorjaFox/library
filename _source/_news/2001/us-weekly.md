@@ -3,7 +3,7 @@ title: Us Weekly
 date: 2001-11-19
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: We're Like Family  
 newsauthor: Staff  

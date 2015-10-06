@@ -3,7 +3,7 @@ title: Find Law
 date: 2001-08-20
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Showbiz people briefs  
 newsauthor: Staff  

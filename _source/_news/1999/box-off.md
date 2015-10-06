@@ -4,8 +4,7 @@ date: 1999-01-01
 author: Mika Epstein
 layout: news
 tags: 1999
-categories:
-  - Articles
+categories: [Articles, News]
 newstitle: Review  
 newsauthor: Luisa F. Ribeiro  
 newssource: Box Off  

@@ -4,7 +4,7 @@ date: 2002-04-20
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: "Foxy Lady!"
 newsurl: http://www.starmagazine.com
 newsauthor: Staff

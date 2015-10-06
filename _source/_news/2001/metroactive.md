@@ -3,7 +3,7 @@ title: MetroActive
 date: 2001-04-05
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Backward Runs Mystery  
 newsauthor: Staff  

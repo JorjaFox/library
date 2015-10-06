@@ -4,7 +4,7 @@ date: 2002-09-01
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: Jorja Fox  
 newsauthor: Staff  
 newssource: In Style Magazine  

@@ -3,7 +3,7 @@ title: Gist
 date: 2001-01-24
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: CSI's Sly Fox  
 newsauthor: Staff  

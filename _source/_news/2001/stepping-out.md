@@ -3,7 +3,7 @@ title: Stepping Out
 date: 2001-04-29
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: "Jorja Fox Shines On TV's Hottest Show"
 newsauthor: Staff  

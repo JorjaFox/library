@@ -4,7 +4,7 @@ date: 2002-09-28
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: Briefly  
 newsauthor: Staff  
 newssource: Mantra Online  

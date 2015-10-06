@@ -3,7 +3,7 @@ title: Dish This
 date: 2000-02-21
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2000
 newstitle: "Can I getta 'Earshot'"
 newsauthor: Staff  

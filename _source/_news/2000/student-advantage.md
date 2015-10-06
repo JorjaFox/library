@@ -3,7 +3,7 @@ title: Student Advantage
 date: 2000-08-24
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2000
 newstitle: The West Wing NBC
 newsauthor: Staff  

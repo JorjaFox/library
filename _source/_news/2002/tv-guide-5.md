@@ -4,7 +4,7 @@ date: 2002-12-14
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: Hollywood Grapevine  
 newsauthor: Staff  
 newssource: TV Guide  

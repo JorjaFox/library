@@ -4,8 +4,7 @@ date: 2002-11-01
 author: Mika Epstein
 layout: news
 tags: 2002
-categories:
-  - Articles
+categories: [Articles, News]
 newstitle: Jorja Fox and Archie Kayo Talk About "C.S.I." at the Premiere of "The Emperor's Club"  
 newsauthor: Rebecca Murray  
 newssource: About.com  

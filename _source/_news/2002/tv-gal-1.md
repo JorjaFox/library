@@ -4,7 +4,7 @@ date: 2002-01-21
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: TV Gal Dishes Up the Globes  
 newsauthor: Staff  
 newssource: TV Gal  

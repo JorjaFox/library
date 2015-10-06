@@ -3,7 +3,7 @@ title: Post-Gazette
 date: 2000-10-04
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2000
 newstitle: "'West Wing' elects to keep its idealistic platform"
 newsauthor: Staff  

@@ -2,7 +2,7 @@
 title: Checkout
 author: Mika Epstein
 layout: news
-categories: News
+categories: [Articles, News]
 tags: 1995
 newstitle: Review
 date: 1995-01-01

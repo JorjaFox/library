@@ -4,7 +4,7 @@ date: 2002-06-22
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: Crime Scene Stealer  
 newsauthor: Deborah Starr Seibel  
 newssource: TV Guide  

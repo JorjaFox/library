@@ -3,7 +3,7 @@ title: Time Out New York
 date: 2001-09-27
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Line Of Duty  
 newsauthor: Staff  

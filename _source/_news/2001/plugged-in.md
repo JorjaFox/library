@@ -3,7 +3,7 @@ title: Plugged In
 date: 2001-02-01
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Review  
 newsauthor: Staff  

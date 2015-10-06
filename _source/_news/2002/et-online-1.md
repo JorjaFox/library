@@ -4,7 +4,7 @@ date: 2002-10-17
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: "CSI's Invasion of the Little People"
 newsauthor: Staff  
 newssource: ET Online  

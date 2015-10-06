@@ -4,7 +4,7 @@ date: 2002-09-01
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: How I Work Out  
 newsauthor: Shelly Levitt  
 newssource: Self  

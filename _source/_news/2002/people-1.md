@@ -4,7 +4,7 @@ date: 2002-09-23
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: CS-Why?  
 newsauthor: Staff  
 newssource: People Magazine  

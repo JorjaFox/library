@@ -3,7 +3,7 @@ title: In Style
 date: 2001-07-20
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Star Talk  
 newsauthor: Staff  

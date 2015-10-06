@@ -3,7 +3,7 @@ title: TV Guide
 date: 2000-11-24
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2000
 newstitle: Review  
 newsauthor: Staff  

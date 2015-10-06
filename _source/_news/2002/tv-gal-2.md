@@ -4,7 +4,7 @@ date: 2002-03-04
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: "TV Gal Chats up 'Once and Again'"
 newsauthor: Staff  
 newssource: TV Gal  

@@ -3,8 +3,8 @@ title: News
 author: Mika Epstein
 layout: news
 permalink: /news/
-tags:
-  - Index
+categories: [News]
+tags: [Index]
 regenerate: true
 ---
 

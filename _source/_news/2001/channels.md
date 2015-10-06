@@ -3,7 +3,7 @@ title: Channels
 date: 2001-12-01
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Jorja Peaches  
 newsauthor: Staff  

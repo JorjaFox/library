@@ -4,7 +4,7 @@ date: 2002-07-24
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: CSI Secrets  
 newsauthor: Staff  
 newssource: Entertainment Tonight  

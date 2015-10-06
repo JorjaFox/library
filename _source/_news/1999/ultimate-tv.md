@@ -4,8 +4,7 @@ date: 1999-02-09
 author: Mika Epstein
 layout: news
 tags: 1999
-categories:
-  - Articles
+categories: [Articles, News]
 newstitle: "ER's Fox Set to Lead New UPN Drama"
 newsauthor: Staff  
 newssource: Ultimate TV (now Zap2It.com)  

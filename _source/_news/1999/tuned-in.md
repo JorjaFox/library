@@ -4,8 +4,7 @@ date: 1999-07-20
 author: Mika Epstein
 layout: news
 tags: 1999
-categories:
-  - Articles
+categories: [Articles, News]
 newstitle: UPN schedule plays to men with WWF wrestling  
 newsauthor: Rob Owen  
 newssource: Post-Gazette Publishing  

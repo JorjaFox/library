@@ -3,7 +3,7 @@ title: USA Today
 date: 2000-12-22
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2000
 newstitle: "'CSI' succeeds with gritty realism."
 newsauthor: Staff  

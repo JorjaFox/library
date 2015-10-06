@@ -4,8 +4,7 @@ date: 1999-01-01
 author: Mika Epstein
 layout: news
 tags: 1999
-categories:
-  - Articles
+categories: [Articles, News]
 newstitle: Velocity Trap Movie Review  
 newsauthor: Dave Robinson  
 newssource: Apollo Guide  

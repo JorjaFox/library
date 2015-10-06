@@ -4,7 +4,7 @@ date: 2002-09-17
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: What are they doing to my show?  
 newsauthor: Staff  
 newssource: Post-Dispatch  

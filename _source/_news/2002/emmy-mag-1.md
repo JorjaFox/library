@@ -4,7 +4,7 @@ date: 2002-02-01
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: "Labors of Love: Cold Characters and Warm Regards"
 newsauthor: Todd Longwell  
 newssource: Emmy Magazine  

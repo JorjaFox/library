@@ -3,6 +3,7 @@ title: The Advocate
 author: Mika Epstein
 layout: news
 tags: 1997
+categories: [Articles, News]
 newstitle: The Buzz  
 date: 1997-03-18  
 newsauthor: Staff  

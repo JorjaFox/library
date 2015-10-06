@@ -4,8 +4,7 @@ date: 1999-11-12
 author: Mika Epstein
 layout: news
 tags: 1999
-categories:
-  - Articles
+categories: [Articles, News]
 newstitle: Hungry Bachelors" kills appetite  
 newsauthor: Jae-Ha Kim  
 newssource: Chicago Sun-Times  

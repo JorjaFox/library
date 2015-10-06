@@ -3,7 +3,7 @@ title: Dallas Morning News
 date: 2000-11-25
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2000
 newstitle: "TV Q&A: Did &#8216;CSI' star ever feel &#8216;Lonesome'?"
 newsauthor: Staff  

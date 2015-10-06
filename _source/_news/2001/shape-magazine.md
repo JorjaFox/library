@@ -3,7 +3,7 @@ title: Shape Magazine
 date: 2001-10-16
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: "The Hot 20: CSI's Foxy Lady"
 newsauthor: Staff  

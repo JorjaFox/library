@@ -4,7 +4,7 @@ date: 2002-02-02
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: Jorja Can Track Down Top Roles  
 newsauthor: Staff  
 newssource: Evening Times  

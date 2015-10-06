@@ -4,7 +4,7 @@ date: 2002-05-16
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: CSI Candy  
 newsauthor: Staff  
 newssource: Stuff Magazine  

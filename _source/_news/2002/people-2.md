@@ -4,7 +4,7 @@ date: 2002-10-03
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: "Inside TV's Top Drama"
 newsauthor: Staff  
 newssource: People Magazine  

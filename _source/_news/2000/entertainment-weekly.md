@@ -3,7 +3,7 @@ title: Entertainment Weekly
 date: 2000-02-25
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2000
 newstitle: Hopping Mad  
 newsauthor: Staff  

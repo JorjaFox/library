@@ -4,8 +4,7 @@ date: 1999-02-24
 author: Mika Epstein
 layout: news
 tags: 1999
-categories:
-  - Articles
+categories: [Articles, News]
 newstitle: A family drama with docs, cops, and inmates  
 newsauthor: Gail Shister  
 newssource: Bergen Record Corp.  

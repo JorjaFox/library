@@ -3,7 +3,7 @@ title: TV Guide Canada
 date: 2001-09-15
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Foxy Lady - 50 Most Beautiful People  
 newsauthor: Staff  

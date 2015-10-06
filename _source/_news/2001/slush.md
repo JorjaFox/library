@@ -3,7 +3,7 @@ title: Slush
 date: 2001-03-23
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Whaleness Begins Here  
 newsauthor: J.V. McAuley  

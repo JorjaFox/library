@@ -3,7 +3,7 @@ title: Filmhead.com
 date: 2001-05-08
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Review  
 newsauthor: Staff  

@@ -3,7 +3,7 @@ title: UNICRU
 date: 2001-04-27
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Pet Project  
 newsauthor: Paul Semel  

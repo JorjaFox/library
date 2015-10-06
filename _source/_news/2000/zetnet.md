@@ -3,7 +3,7 @@ title: Zetnet
 date: 2000-09-11
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2000
 newstitle: "Shadows on the Wall: MEMENTO"
 newsauthor: Staff  

@@ -3,6 +3,7 @@ title: Gay TV
 author: Mika Epstein
 layout: news
 tags: 1997
+categories: [Articles, News]
 newstitle: Gaynet  
 date: 1997-09-26  
 newsauthor: Staff  

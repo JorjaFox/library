@@ -3,8 +3,7 @@ title: BTinternet
 author: Mika Epstein
 layout: news
 tags: 1998
-categories:
-  - Articles
+categories: [Articles, News]
 newstitle: Review  
 date: 1998-01-01
 newsauthor: staff  

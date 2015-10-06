@@ -3,7 +3,7 @@ title: Star Magazine
 date: 2001-02-13
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Jorja Fox likes to Rock and Roll  
 newsauthor: Staff  

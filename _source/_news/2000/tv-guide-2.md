@@ -3,7 +3,7 @@ title: TV Guide
 date: 2000-12-08
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2000
 newstitle: CSI's Foxy Lady  
 newsauthor: Staff  

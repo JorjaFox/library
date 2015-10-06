@@ -4,8 +4,7 @@ date: 1999-02-09
 author: Mika Epstein
 layout: news
 tags: 1999
-categories:
-  - Articles
+categories: [Articles, News]
 newstitle: ER Actress Jumps to UPN  
 newsauthor: Andrew Wallenstein  
 newssource: Gist TV  

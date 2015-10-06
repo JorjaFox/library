@@ -2,7 +2,7 @@
 title: Entertainment Weekly
 author: Mika Epstein
 layout: news
-categories: News
+categories: [Articles, News]
 tags: 1992
 newstitle: "Summer Stories: The Mall"  
 date: 1992-03-13

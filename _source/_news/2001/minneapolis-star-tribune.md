@@ -3,7 +3,7 @@ title: Minneapolis Star Tribune
 date: 2001-01-19
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: The Success of CSI is No Mystery  
 newsauthor: Staff  

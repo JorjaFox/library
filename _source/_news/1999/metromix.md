@@ -4,8 +4,7 @@ date: 1999-05-01
 author: Mika Epstein
 layout: news
 tags: 1999
-categories:
-  - Articles
+categories: [Articles, News]
 newstitle: Relationships are at the core of &#8216;The Hungry Bachelors Club'  
 newsauthor: John Petrakis  
 newssource: Chicago MetroMix  

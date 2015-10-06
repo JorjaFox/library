@@ -3,7 +3,7 @@ title: Alliance-Atlantis
 date: 2000-08-09
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2000
 newssource: Alliance Atlantis
 newsauthor: Staff

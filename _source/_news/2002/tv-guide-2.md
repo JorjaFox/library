@@ -4,7 +4,7 @@ date: 2002-05-09
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: A Fox with Moxie!  
 newsauthor: Daniel R. Coleridge  
 newssource: TVGuide  

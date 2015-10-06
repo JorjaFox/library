@@ -3,7 +3,7 @@ title: Entertainment Weekly
 date: 2001-07-09
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Dead Heat  
 newsauthor: Staff  

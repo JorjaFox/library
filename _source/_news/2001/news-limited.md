@@ -3,7 +3,7 @@ title: News Limited
 date: 2001-07-02
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: Creating a Scene  
 newsauthor: Staff  

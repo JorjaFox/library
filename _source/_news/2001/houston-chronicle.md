@@ -3,7 +3,7 @@ title: Houston Chronicle
 date: 2001-09-26
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newstitle: "'CSI' star Jorja Fox focuses on another dream role"
 newsauthor: Staff  

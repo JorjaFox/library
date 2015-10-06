@@ -2,7 +2,7 @@
 title: The New York Times
 author: Mika Epstein
 layout: news
-categories: News
+categories: [Articles, News]
 tags: 1992
 newstitle: "Review/Television; &#8216;Afterschool' Mini-Series on Life at the Mall"  
 date: 1992-03-19  

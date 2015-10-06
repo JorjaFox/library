@@ -4,8 +4,7 @@ date: 1999-10-22
 author: Mika Epstein
 layout: news
 tags: 1999
-categories:
-  - Articles
+categories: [Articles, News]
 newstitle: Tiara Tango  
 newsauthor: Marjorie Baumgarten  
 newssource: Austin Chronicle  

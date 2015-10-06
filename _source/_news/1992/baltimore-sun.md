@@ -2,7 +2,7 @@
 title: The Baltimore Sun
 author: Mika Epstein
 layout: news
-categories: News
+categories: [Articles, News]
 tags: 1992
 newstitle: "&#8216;Summer Stories' offers characters worth watching"  
 date: 1992-03-19

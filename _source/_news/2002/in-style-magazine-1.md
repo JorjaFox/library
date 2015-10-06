@@ -4,7 +4,7 @@ date: 2002-04-01
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: "Scene + Heard"
 newsauthor: Staff  
 newssource: In Style Magazine  

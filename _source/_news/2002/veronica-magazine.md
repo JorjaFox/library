@@ -4,7 +4,7 @@ date: 2002-07-01
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: Babe Between Bodybags  
 newsauthor: Dutch text by Belinda Janssen, translated by Isis de Jong.  
 newssource: Veronica Magazine  

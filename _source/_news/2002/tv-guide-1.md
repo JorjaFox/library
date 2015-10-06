@@ -4,7 +4,7 @@ date: 2002-01-28
 author: Mika Epstein
 layout: news
 tags: 2002
-categories: Articles
+categories: [Articles, News]
 newstitle: "What a Crime! No Sex Scenes"
 newsauthor: Staff  
 newssource: TV Guide  

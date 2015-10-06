@@ -3,7 +3,7 @@ title: LA Weekly
 date: 2001-01-01
 author: Mika Epstein
 layout: news
-categories: Articles
+categories: [Articles, News]
 tags: 2001
 newsauthor: Chuck Stephens  
 newssource: LA Weekly  
