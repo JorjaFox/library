@@ -11,22 +11,60 @@ categories:
 
 	<article class="post-content">
 
-		{% if page.sourceurl %}
-		<div class="newsheader"><a class="external text" href="{{page.sourceurl}}">{{page.title}}</a><br>{{ page.date | date: "%d %B %Y" }}<b></b></div>
-		{% endif %}
+{% if page.newstitle %}
+	<div class="jfoinfobox">
+		<div class="newsheader"><strong>{{page.newstitle}}</strong><br />{{ page.date | date: "%d %B %Y" }}</div>
+		<div class="newsbody">
+{% endif %}
 
 		{{ content }}
 
-	    <div class="wikitable">
+{% if page.newstitle %}
+		</div><!-- end Newsbody -->
+		<div class="newsfooter"><b>By:</b> {{page.newsauthor}} | <b>Credit:</b> <a href="{{page.newsurl}}">{{page.newssource}}</a></div>
+	</div>
+{% endif %}
+
+{% if page.topic == 'index' %}
+
+<table class="jfoinfobox">
+
+	<thead><tr>
+		<th>Date</th>
+		<th>Source</th>
+		<th>Title</th>
+	</tr></thead>
+	<tbody>
+	{% assign posts    = site.news | sort: 'date' %}
+	{% assign thisyear = page.date | date: '%Y' %}
+
+	{% for post in posts %}
+		{% assign postyear = post.date | date: "%Y" %}
+		{% if post.topic != 'index' and postyear == thisyear %}
+			<tr>
+				<td>{{ post.date | date: "%d %B" }}</td>
+				<td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
+				<td>{{ post.newstitle }}</td>
+			</tr>
+		{% endif %}
+	{% endfor %}
+	</tbody>
+
+</table>
+
+{% endif %}
+
+	    <div class="jfoinfobox">
 			<div class="newsheader"><a href="/library/news/" title="News">News Articles by Year</a></div>
 			<div class="newsbody"><ul>
 				{% for post in site.news %}
 					{% if post.topic == 'index' %}
-						<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.tags }}</a></li>
+						<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y" }}</a></li>
 					{% endif %}
 				{% endfor %}
 			</ul></div>
 		</div>
+
   	</article>
 
 </div>

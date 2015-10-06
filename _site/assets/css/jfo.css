@@ -36,43 +36,39 @@ table.prettytable,
 
 /* Tables */
 
-table {border: 1px #363 solid!important;width: 0!important;}
-td {line-height: 25px;border: 1px #aaa solid;}
-
-
-.thumb.tright {
-border: 1px grey solid;
-padding: 5px;
-background: #EEE;
-margin: 5px;
+table {
+	border: 1px #363 solid!important;
+}
+td {
+	border: 1px #aaa solid;
+	padding: 3px;
+}
+th {
+	background-color: #ddd;
+	padding: 3px;
 }
 
 /* JFO Templates */
 
-.entry-content td, .entry-content th {padding: 5px!important;}
-.entry-content tr {background: #fff;}
-.entry-content tr th {background: #ddd;}
-table.newstable th {background: #ddd;}
-table.eptable, table.episodelist, table.newstable-year, table.newstable {width:98%!important; border-spacing: 0px;}
-table.eptable td, table.eptable th, tr.episodelist-summary td  {border-bottom: 1px solid black;}
-table.eptable td {font-size: 15px;}
-table.eptable th {background-color: #ddd;}
-tr.episodelist-name {text-align: center;background-color: #E1F3E1;font-size: 15px;}
-tr.collapsible:hover, tr.collapsible td:hover, tr.episodelist-name:hover, tr.episodelist-name td:hover {background-color: #E1F3E1!important;}
-tr.episodelist-summary:hover, tr.episodelist-summary td:hover {background-color: white!important;}
-table.episodelist td, table.newstable td {border-top: 1px black solid;font-size: 15px;}
+tr.episodelist-name {
+	text-align: center;
+	background-color: #E1F3E1;
+	border-top: 2px black solid;
+}
 
-div.csiepisodeinfobox {float:right; width:252px; padding-left: 5px;}
-
+table.jfoinfobox {
+    width: 100%!important;
+}
 
 div.jfoinfobox {
   display:table;
   border: 1px solid #363;
   margin: 10px 0px;
   font-size: 15px;
+  width: 100%;
 }
 
-div.tvheader, div.tvfooter, div.newsheader, div.newsfooter {
+div.newsheader, div.newsfooter {
   text-align:center;
   background:#E1F3E1;
   padding: 5px;
@@ -86,29 +82,6 @@ div.newsbody, div.tvbody {
 div.newsbody, div.newsfooter, div.newsheader {
     border-bottom: 1px solid #363;
 }
-
-div.tvnextprev.csi
-{
-   float:left;/*fix for  buggy browsers*/
-   display:table-column;
-   display:table-row;
-   padding:5px 5px 10px 5px;
-   width: 100%;
-}
-
-div.tvprev {
-    float: left;
-    width: 45%;
-    font-size: 85%;
-}
-
-div.tvnext {
-    float: right;
-    text-align: right;
-    width: 45%;
-    font-size: 85%;
-}
-
 
 div.divCell {
    float:left;
