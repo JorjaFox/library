@@ -1,7 +1,7 @@
 ---
 title: RedCarpetReport TV
 date: 2014-12-05
-sourceurl: http://www.redcarpetreporttv.com
+interviewurl: http://www.redcarpetreporttv.com
 author: Mika Epstein
 layout: interview
 permalink: /interviews/2014/:title/

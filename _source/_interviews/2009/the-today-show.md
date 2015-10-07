@@ -2,7 +2,7 @@
 title: The Today Show
 author: Mika Epstein
 layout: interview
-sourceurl: http://today.msnbc.msn.com/  
+interviewurl: http://today.msnbc.msn.com/  
 date: 2009-04-02
 permalink: /interviews/2009/:title/
 categories: Interviews

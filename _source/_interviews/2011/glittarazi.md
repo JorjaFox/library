@@ -8,7 +8,7 @@ categories: [Interviews]
 tags:
   - transcript
   - 2011
-sourceurl: http://glittarazzi.com/
+interviewurl: http://glittarazzi.com/
 ---
 
 **Glittarazi:** How does it feel to constantly be named one of PETA's sexiest vegetarians?

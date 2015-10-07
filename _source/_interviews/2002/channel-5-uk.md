@@ -1,9 +1,9 @@
 ---
 title: Channel 5 UK
 author: Mika Epstein
-layout: default
+layout: interview
 date: 2002-04-19
-sourceurl: http://www.channel5.co.uk/
+interviewurl: http://www.channel5.co.uk/
 permalink: /interviews/2002/:title/
 categories: Interviews
 tags:

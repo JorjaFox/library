@@ -1,7 +1,7 @@
 ---
 title: SuperPopACCESS
 date: 2014-01-26
-sourceurl: https://www.youtube.com/user/SuperPopACCESS
+interviewurl: https://www.youtube.com/user/SuperPopACCESS
 author: Mika Epstein
 layout: interview
 permalink: /interviews/2014/:title/

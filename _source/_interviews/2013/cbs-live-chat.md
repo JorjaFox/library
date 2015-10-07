@@ -3,7 +3,7 @@ title: CBS Live Chat
 author: Mika Epstein
 layout: interview
 date: 2013-02-20
-sourceurl: http://cbs.com/
+interviewurl: http://cbs.com/
 permalink: /interviews/2013/:title/
 categories: [Interviews]
 tags:

@@ -3,7 +3,7 @@ title: Inside Media at The Paley Center
 author: Mika Epstein
 layout: interview
 date: 2001-01-01
-sourceurl: http://mediaorigin.paleycenter.org/
+interviewurl: http://mediaorigin.paleycenter.org/
 permalink: /interviews/2001/:title/
 categories: Interviews
 tags:

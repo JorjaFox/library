@@ -3,7 +3,7 @@ title: ADI Rescue Diary
 author: Mika Epstein
 layout: interview
 date: 2010-05-28
-sourceurl: http://adirescuediary.com/2010/05/29/rescue-diary-the-lions-arrive-and-go-free/
+interviewurl: http://adirescuediary.com/2010/05/29/rescue-diary-the-lions-arrive-and-go-free/
 permalink: /interviews/2010/:title/
 categories: Interviews
 tags:

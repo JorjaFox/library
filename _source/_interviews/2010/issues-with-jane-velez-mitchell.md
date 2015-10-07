@@ -3,7 +3,7 @@ title: Issues with Jane Velez-Mitchell
 author: Mika Epstein
 layout: interview
 date: 2010-06-11
-sourceurl: http://edition.cnn.hu/TRANSCRIPTS/1006/11/ijvm.01.html
+interviewurl: http://edition.cnn.hu/TRANSCRIPTS/1006/11/ijvm.01.html
 permalink: /interviews/2010/:title/
 categories: Interviews
 tags:

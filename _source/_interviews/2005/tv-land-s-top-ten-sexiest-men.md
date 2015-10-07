@@ -3,7 +3,7 @@ title: "TV Land's Top Ten Sexiest Men"
 author: Mika Epstein
 layout: interview
 date: 2005-05-15
-sourceurl: http://www.tvland.com/topten/men.jhtml
+interviewurl: http://www.tvland.com/topten/men.jhtml
 permalink: /interviews/2005/:title/
 categories: Interviews
 

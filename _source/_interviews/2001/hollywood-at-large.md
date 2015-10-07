@@ -3,7 +3,7 @@ title: Hollywood At Large
 author: Mika Epstein
 layout: interview
 date: 2001-02-23
-sourceurl: http://www.imdb.com/title/tt0361191/
+interviewurl: http://www.imdb.com/title/tt0361191/
 permalink: /interviews/2001/:title/
 categories: Interviews
 tags: 

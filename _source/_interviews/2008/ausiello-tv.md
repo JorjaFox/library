@@ -3,7 +3,7 @@ title: Ausiello TV
 author: Mika Epstein
 layout: interview
 date: 2008-09-21
-sourceurl: http://www.ew.com/ew/video/ausiello_tv  
+interviewurl: http://www.ew.com/ew/video/ausiello_tv  
 permalink: /interviews/2008/:title/
 categories: Interviews
 tags:

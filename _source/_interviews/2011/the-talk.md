@@ -9,7 +9,7 @@ tags:
   - transcript
   - 2011
   - 'talk shows'
-sourceurl: http://www.cbs.com/shows/the_talk/
+interviewurl: http://www.cbs.com/shows/the_talk/
 ---
 
 Julie Chen: Welcome back to "The Talk". Our first guest is best known for her role as Sara Sidle on the hit CBS drama "CSI: Crime Scene Investigation". Take a look.

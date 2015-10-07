@@ -8,7 +8,7 @@ categories: [Interviews]
 tags:
   - transcript
   - 2011
-sourceurl: http://apimages.com/ 
+interviewurl: http://apimages.com/ 
 ---
 When she's not solving crimes on &#8216;CSI,' you can find actress Jorja Fox on a surfboard. (Nov. 16)
 

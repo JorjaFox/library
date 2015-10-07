@@ -1,9 +1,9 @@
 ---
 title: Living TV
 author: Karen P.
-layout: default
+layout: interview
 date: 2003-09-21
-sourceurl: http://www.livingtv.co.uk/
+interviewurl: http://www.livingtv.co.uk/
 permalink: /interviews/2003/:title/
 categories: Interviews
 tags:

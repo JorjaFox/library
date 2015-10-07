@@ -2,7 +2,7 @@
 title: The Kevin and Bean Show
 author: Mika Epstein
 layout: interview
-sourceurl: http://kroq.com/  
+interviewurl: http://kroq.com/  
 date: 2009-09-24
 permalink: /interviews/2009/:title/
 categories: Interviews

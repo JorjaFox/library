@@ -3,7 +3,7 @@ title: Memento Premiere
 author: Mika Epstein
 layout: interview
 date: 2001-01-01
-sourceurl: http://wireimage.com/
+interviewurl: http://wireimage.com/
 permalink: /interviews/2001/:title/
 categories:
   - Interviews

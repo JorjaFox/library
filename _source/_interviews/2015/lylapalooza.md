@@ -3,7 +3,7 @@ title: Lylapalooza
 date: 2015-09-29
 author: Mika Epstein
 layout: interview
-sourceurl: http://fkr.tv
+interviewurl: http://fkr.tv
 permalink: /interviews/2015/:title/
 categories: [Interviews]
 tags:

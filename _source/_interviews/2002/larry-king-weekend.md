@@ -1,9 +1,9 @@
 ---
 title: Larry King Weekend
 author: Mika Epstein
-layout: default
+layout: interview
 date: 2002-05-18
-sourceurl: http://www.cnn.com/TRANSCRIPTS/0205/18/lklw.00.html
+interviewurl: http://www.cnn.com/TRANSCRIPTS/0205/18/lklw.00.html
 permalink: /interviews/2002/:title/
 categories: Interviews
 tags:

@@ -3,7 +3,7 @@ title: CBS 2 Chicago Evening News (23 May 2007)
 author: Mika Epstein
 layout: interview
 date: 2007-05-23
-sourceurl: http://cbs2chicago.com/
+interviewurl: http://cbs2chicago.com/
 permalink: /interviews/2007/:title/
 categories: Interviews
 tags:

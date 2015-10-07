@@ -2,7 +2,7 @@
 title: Animal Planet Radio
 author: Mika Epstein
 layout: interview
-sourceurl: http://animal.discovery.com/fansites/radio/past/past.html
+interviewurl: http://animal.discovery.com/fansites/radio/past/past.html
 date: 2001-07-28
 permalink: /interviews/2001/:title/
 categories: Interviews
@@ -188,8 +188,7 @@ tags:
 
 **Theme to CSI: Who Are You?**
 
-**Steve Dale** Jorja Fox promoting the Pounce Purr-fections, that's a new cat treat, and Jorja was involved in a promotion to benefit the ASPCA. It was a treat talking to Jorja ...  
-}}
+**Steve Dale** Jorja Fox promoting the Pounce Purr-fections, that's a new cat treat, and Jorja was involved in a promotion to benefit the ASPCA. It was a treat talking to Jorja ...
 
 ## See Also
 * [Pounce Purrfections](http://www.pouncepurrfections.heinzpetproducts.com/index.asp )

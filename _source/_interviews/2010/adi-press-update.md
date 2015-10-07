@@ -3,7 +3,7 @@ title: ADI Press Update
 author: Mika Epstein
 layout: interview
 date: 2010-05-28
-sourceurl: http://adirescuediary.com/
+interviewurl: http://adirescuediary.com/
 permalink: /interviews/2010/:title/
 categories: Interviews
 tags:

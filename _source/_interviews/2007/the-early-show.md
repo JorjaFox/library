@@ -3,7 +3,7 @@ title: The Early Show
 author: Mika Epstein
 layout: interview
 date: 2007-05-10
-sourceurl: http://www.cbsnews.com 
+interviewurl: http://www.cbsnews.com 
 permalink: /interviews/2007/:title/
 categories: Interviews
 tags:

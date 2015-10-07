@@ -3,7 +3,7 @@ title: Democratic National Convention
 author: Mika Epstein
 layout: interview
 date: 2008-08-28
-sourceurl: http://www.youtube.com
+interviewurl: http://www.youtube.com
 permalink: /interviews/2008/:title/
 categories: Interviews
 tags:

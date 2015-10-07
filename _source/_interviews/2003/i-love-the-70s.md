@@ -1,9 +1,9 @@
 ---
 title: "I Love the '70s"
 author: Mika Epstein
-layout: default
+layout: interview
 date: 2003-08-18
-sourceurl: http://vh1.com/
+interviewurl: http://vh1.com/
 permalink: /interviews/2003/:title/
 categories: Interviews
 tags:

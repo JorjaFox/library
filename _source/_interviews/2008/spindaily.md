@@ -3,7 +3,7 @@ title: SpinDaily
 author: Mika Epstein
 layout: interview
 date: 2008-02-04
-sourceurl: http://www.spindaily.com/content/view/315/1/
+interviewurl: http://www.spindaily.com/content/view/315/1/
 permalink: /interviews/2008/:title/
 categories: Interviews
 tags:

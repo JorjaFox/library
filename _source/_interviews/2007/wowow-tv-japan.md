@@ -3,7 +3,7 @@ title: 'Wowow TV - Japan'
 author: Mika Epstein
 layout: interview
 date: 2007-06-29
-sourceurl: http://www.wowow.co.jp/
+interviewurl: http://www.wowow.co.jp/
 permalink: /interviews/2007/:title/
 categories: Interviews
 tags:

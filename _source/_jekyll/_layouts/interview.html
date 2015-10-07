@@ -9,11 +9,19 @@ layout: default
 
 	<article class="post-content">
 
-	{% if page.sourceurl %}
-		<div class="newsheader"><a class="external text" href="{{page.sourceurl}}">{{page.title}}</a><br>{{ page.date | date: "%d %B %Y" }}<b></b></div>
+	{% if page.interviewurl %}
+	<div class="jfoinfobox">
+		<div class="newsheader"><strong>{{page.title}}</strong><br />{{ page.date | date: "%d %B %Y" }}</div>
+		<div class="newsbody">
 	{% endif %}
 
 		{{ content }}
+
+	{% if page.interviewurl %}
+		</div><!-- end Newsbody -->
+		<div class="newsfooter"><b>Transcriber:</b> {{page.author}} | <b>Source:</b> <a href="{{page.interviewurl}}">{{page.title}}</a></div>
+	</div>
+	{% endif %}
 
 	{% if page.topic == 'index' %}
 <table class="jfoinfobox">

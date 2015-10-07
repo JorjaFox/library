@@ -1,9 +1,9 @@
 ---
 title: 'Women Of ... Primetime Crime'
 author: Mika Epstein
-layout: default
+layout: interview
 date: 2002-03-08
-sourceurl: http://www.eonline.com/
+interviewurl: http://www.eonline.com/
 permalink: /interviews/2002/:title/
 categories: Interviews
 tags:

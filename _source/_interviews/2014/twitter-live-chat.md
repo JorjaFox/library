@@ -3,7 +3,7 @@ title: Twitter Live Chat
 date: 2014-03-05
 author: Mika Epstein
 layout: interview
-sourceurl: http://cbs.com
+interviewurl: http://cbs.com
 permalink: /interviews/2014/:title/
 categories: [Interviews]
 tags:

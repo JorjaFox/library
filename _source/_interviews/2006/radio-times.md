@@ -2,7 +2,7 @@
 title: Radio Times
 author: Mika Epstein
 layout: interview
-sourceurl: http://www.radiotimes.com
+interviewurl: http://www.radiotimes.com
 date: 2006-06-06
 permalink: /interviews/2006/:title/
 categories: Interviews

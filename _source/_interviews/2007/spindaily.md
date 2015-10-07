@@ -3,7 +3,7 @@ title: SpinDaily
 author: David Masters
 layout: interview
 date: 2007-03-16
-sourceurl: http://www.spindaily.com/  
+interviewurl: http://www.spindaily.com/  
 permalink: /interviews/2007/:title/
 categories: Interviews
 tags:

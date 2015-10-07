@@ -3,7 +3,7 @@ title: Pulse
 author: Mika Epstein
 layout: interview
 date: 2004-02-13
-sourceurl: http://www.pulse.org/
+interviewurl: http://www.pulse.org/
 permalink: /interviews/2004/:title/
 categories: Interviews
 tags:

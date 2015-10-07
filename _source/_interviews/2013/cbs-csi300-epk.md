@@ -3,7 +3,7 @@ title: CBS CSI300 EPK
 author: Mika Epstein
 layout: interview
 date: 2013-10-22
-sourceurl: http://cbspressexpress.com/cbs-entertainment/video?watch=1pcg1hvw2x
+interviewurl: http://cbspressexpress.com/cbs-entertainment/video?watch=1pcg1hvw2x
 permalink: /interviews/2013/:title/
 categories: [Interviews]
 tags:

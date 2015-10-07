@@ -1,7 +1,7 @@
 ---
 title: ET Online
 author: Mika Epstein
-sourceurl: http://www.etonline.com
+interviewurl: http://www.etonline.com
 date: 2006-04-27
 layout: interview
 permalink: /interviews/2006/:title/

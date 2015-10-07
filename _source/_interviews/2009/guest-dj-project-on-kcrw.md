@@ -2,7 +2,7 @@
 title: Guest DJ Project on KCRW
 author: Mika Epstein
 layout: interview
-sourceurl: http://kcrw.com/  
+interviewurl: http://kcrw.com/  
 date: 2009-09-23
 permalink: /interviews/2009/:title/
 categories: Interviews

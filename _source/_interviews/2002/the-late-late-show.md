@@ -1,9 +1,9 @@
 ---
 title: The Late Late Show
 author: Mika Epstein
-layout: default
+layout: interview
 date: 2002-06-26
-sourceurl: http://www.cbs.com/
+interviewurl: http://www.cbs.com/
 permalink: /interviews/2002/:title/
 categories: Interviews
 tags:

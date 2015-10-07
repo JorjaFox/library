@@ -3,7 +3,7 @@ title: Ian Harvie Show
 author: Mika Epstein
 layout: interview
 date: 2008-01-21
-sourceurl: http://www.ianharvie.com/jorjafox.html
+interviewurl: http://www.ianharvie.com/jorjafox.html
 permalink: /interviews/2008/:title/
 categories: Interviews
 tags:

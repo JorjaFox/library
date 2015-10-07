@@ -3,7 +3,7 @@ title: The Insider
 author: Mika Epstein
 layout: interview
 date: 2010-10-20
-sourceurl: http://www.theinsider.com
+interviewurl: http://www.theinsider.com
 permalink: /interviews/2010/:title/
 categories: Interviews
 tags:

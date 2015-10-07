@@ -2,8 +2,8 @@
 title: "Marg Helgenberger's Star on Hollywood Boulevard"
 date: 2012-01-23
 author: Mika Epstein
-layout: default
-siteurl: http://www.walkoffame.com/
+layout: interview
+interviewurl: http://www.walkoffame.com/
 permalink: /interviews/2012/:title/
 categories: [Interviews]
 tags:

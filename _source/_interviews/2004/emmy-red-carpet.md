@@ -3,7 +3,7 @@ title: E! - Emmy Red Carpet
 author: Mika Epstein
 layout: interview
 date: 2004-09-19
-sourceurl: http://www.eonline.com  
+interviewurl: http://www.eonline.com  
 permalink: /interviews/2004/:title/
 categories: Interviews
 tags:

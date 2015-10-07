@@ -3,7 +3,7 @@ title: The Early Show
 author: Mika Epstein
 layout: interview
 date: 2001-04-26
-sourceurl: http://www.cbsnews.com/latest/the-early-show/
+interviewurl: http://www.cbsnews.com/latest/the-early-show/
 permalink: /interviews/2001/:title/
 categories: Interviews
 tags: 

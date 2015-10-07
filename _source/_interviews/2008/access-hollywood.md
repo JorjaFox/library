@@ -3,7 +3,7 @@ title: Access Hollywood
 author: Mika Epstein
 layout: interview
 date: 2008-05-04
-sourceurl: http://www.accesshollywood.com  
+interviewurl: http://www.accesshollywood.com  
 permalink: /interviews/2008/:title/
 categories: Interviews
 tags:

@@ -3,7 +3,7 @@ title: The View
 author: David Masters
 layout: interview
 date: 2004-02-19
-sourceurl: http://abc.go.com/daytime/theview/
+interviewurl: http://abc.go.com/daytime/theview/
 permalink: /interviews/2004/:title/
 categories: Interviews
 tags:

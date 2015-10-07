@@ -1,9 +1,9 @@
 ---
 title: Golden Globes Red Carpet
 author: Mika Epstein
-layout: default
+layout: interview
 date: 2002-01-20
-sourceurl: http://www.eonline.com/
+interviewurl: http://www.eonline.com/
 permalink: /interviews/2002/:title/
 categories: Interviews
 tags:

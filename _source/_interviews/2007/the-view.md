@@ -3,7 +3,7 @@ title: The View
 author: Mika Epstein
 layout: interview
 date: 2007-11-17
-sourceurl: http://abc.go.com/daytime/theview  
+interviewurl: http://abc.go.com/daytime/theview  
 permalink: /interviews/2007/:title/
 categories: Interviews
 tags:

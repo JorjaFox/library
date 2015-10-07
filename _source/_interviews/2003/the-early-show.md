@@ -1,9 +1,9 @@
 ---
 title: The Early Show
 author: David Masters
-layout: default
+layout: interview
 date: 2003-01-09
-sourceurl: http://www.cbsnews.com/earlyshow/
+interviewurl: http://www.cbsnews.com/earlyshow/
 permalink: /interviews/2003/:title/
 categories: Interviews
 tags:

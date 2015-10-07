@@ -3,7 +3,7 @@ title: Matters of the Heart
 author: Mika Epstein
 layout: interview
 date: 2005-10-10
-sourceurl: http://www.cbs.com  
+interviewurl: http://www.cbs.com  
 permalink: /interviews/2005/:title/
 categories: Interviews
 

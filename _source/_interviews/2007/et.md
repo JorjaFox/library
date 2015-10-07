@@ -3,7 +3,7 @@ title: ET
 author: Mika Epstein
 layout: interview
 date: 2007-10-25
-sourceurl: http://www.etonline.com 
+interviewurl: http://www.etonline.com 
 permalink: /interviews/2007/:title/
 categories: Interviews
 tags:

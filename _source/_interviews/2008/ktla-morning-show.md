@@ -3,7 +3,7 @@ title: KTLA Morning Show
 author: Mika Epstein
 layout: interview
 date: 2008-01-31
-sourceurl: http://ktla.trb.com/
+interviewurl: http://ktla.trb.com/
 permalink: /interviews/2008/:title/
 categories: Interviews
 tags:

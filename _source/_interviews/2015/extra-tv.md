@@ -3,7 +3,7 @@ title: ExtraTV
 date: 2015-08-18
 author: Mika Epstein
 layout: interview
-sourceurl: http://extratv.com/videos/0_mjhid6vd
+interviewurl: http://extratv.com/videos/0_mjhid6vd
 permalink: /interviews/2015/:title/
 categories: [Interviews]
 tags:

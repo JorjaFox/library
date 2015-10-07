@@ -3,7 +3,7 @@ title: Extra TV
 author: Mika Epstein
 layout: interview
 date: 2004-11-11
-sourceurl: http://www.extratv.com  
+interviewurl: http://www.extratv.com  
 permalink: /interviews/2004/:title/
 categories: Interviews
 tags:

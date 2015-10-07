@@ -3,7 +3,7 @@ title: VegTV (25 August 2007)
 author: Mika Epstein
 layout: interview
 date: 2007-08-25
-sourceurl: http://www.vegtv.com
+interviewurl: http://www.vegtv.com
 permalink: /interviews/2007/:title/
 categories: Interviews
 tags:

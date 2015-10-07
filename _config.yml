@@ -12,6 +12,8 @@ url: "http://jorjafox.net" # the base hostname & protocol for your site
 twitter_username: jorjafoxonline
 github_username:  ipstenu
 
+# Plugins
+
 # Moving Folders
 source:       _source
 plugins_dir:  _jekyll/_plugins
@@ -21,13 +23,8 @@ includes_dir: _jekyll/_includes
 # Build settings
 markdown: kramdown
 
-gems:
-  - jekyll-last-modified-at
-
 # Outputting
 permalink: "/:title"
-minItemsToShowToc: 2
-tocTopTag: "h2"
 
 # Pages
 include: ['_pages', '.htaccess']

@@ -3,7 +3,7 @@ title: Yahoo Chat
 author: Mika Epstein
 date: 2001-04-24
 layout: interview
-sourceurl: http://yahoo.com/
+interviewurl: http://yahoo.com/
 permalink: /interviews/2001/:title/
 categories:
   - Interviews

@@ -3,7 +3,7 @@ title: 'My First Place: Celebrity Style'
 author: Mika Epstein
 layout: interview
 date: 2005-01-01
-sourceurl: http://www.hgtv.com  
+interviewurl: http://www.hgtv.com  
 permalink: /interviews/2005/:title/
 categories: Interviews
 

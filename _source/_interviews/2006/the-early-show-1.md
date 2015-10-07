@@ -2,7 +2,7 @@
 title: The Early Show
 author: David Masters
 layout: interview
-sourceurl: http://www.cbsnews.com/earlyshow/
+interviewurl: http://www.cbsnews.com/earlyshow/
 date: 2006-05-11
 permalink: /interviews/2006/:title/
 categories: Interviews

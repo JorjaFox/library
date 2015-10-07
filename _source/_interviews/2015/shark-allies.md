@@ -3,7 +3,7 @@ title: Shark Allies
 date: 2015-09-29
 author: Mika Epstein
 layout: interview
-sourceurl: http://www.sharkallies.com/
+interviewurl: http://www.sharkallies.com/
 permalink: /interviews/2015/:title/
 categories: [Interviews]
 tags:

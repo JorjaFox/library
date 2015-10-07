@@ -2,7 +2,7 @@
 title: Eyewitness News Video
 author: Mika Epstein
 layout: interview
-sourceurl: http://www.lasvegasnow.com
+interviewurl: http://www.lasvegasnow.com
 date: 2009-09-12
 permalink: /interviews/2009/cbs8vegas/
 

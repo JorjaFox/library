@@ -3,7 +3,7 @@ title: Huckleberry Fund Benefit
 author: David Masters
 layout: interview
 date: 2004-12-05
-sourceurl: http://www.huckleberryfund.org/
+interviewurl: http://www.huckleberryfund.org/
 permalink: /interviews/2004/:title/
 categories: Interviews
 tags:

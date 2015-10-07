@@ -9,7 +9,7 @@ tags:
   - transcript
   - 2011
   - 'talk shows'
-sourceurl: http://transcripts.cnn.com/TRANSCRIPTS/1110/06/ijvm.01.html
+interviewurl: http://transcripts.cnn.com/TRANSCRIPTS/1110/06/ijvm.01.html
 ---
 
 (BEGIN VIDEO CLIP)

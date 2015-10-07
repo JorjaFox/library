@@ -2,7 +2,7 @@
 title: CTV eTalkDaily
 author: David Masters
 layout: interview
-sourceurl: http://www.ctv.ca
+interviewurl: http://www.ctv.ca
 date: 2006-04-13
 permalink: /interviews/2006/:title/
 categories: Interviews

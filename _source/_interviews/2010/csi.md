@@ -3,7 +3,7 @@ title: 'CSI: Season Ten EPK'
 author: Mika Epstein
 layout: interview
 date: 2010-07-01
-sourceurl: http://cbs.com/
+interviewurl: http://cbs.com/
 permalink: /interviews/2010/:title/
 categories: Interviews
 tags:

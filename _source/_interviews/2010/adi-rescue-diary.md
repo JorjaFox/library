@@ -3,7 +3,7 @@ title: ADI Rescue Diary
 author: Mika Epstein
 layout: interview
 date: 2010-05-27
-sourceurl: http://adirescuediary.com/2010/05/27/update-from-jorja-fox/
+interviewurl: http://adirescuediary.com/2010/05/27/update-from-jorja-fox/
 permalink: /interviews/2010/:title/
 categories: Interviews
 tags:

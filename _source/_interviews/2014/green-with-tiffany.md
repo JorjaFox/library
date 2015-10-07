@@ -1,7 +1,7 @@
 ---
 title: Green with Tiffany
 date: 2014-10-18
-sourceurl: http://www.greenwithtiffany.com/
+interviewurl: http://www.greenwithtiffany.com/
 author: Mika Epstein
 layout: interview
 permalink: /interviews/2014/:title/

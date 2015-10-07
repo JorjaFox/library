@@ -3,7 +3,7 @@ title: 'RTL.de - Germany'
 author: David Masters
 layout: interview
 date: 2007-11-01
-sourceurl: http://www.rtl.de/
+interviewurl: http://www.rtl.de/
 permalink: /interviews/2007/:title/
 categories: Interviews
 tags:
