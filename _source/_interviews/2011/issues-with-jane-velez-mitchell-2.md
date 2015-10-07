@@ -3,13 +3,13 @@ title: Issues with Jane Velez-Mitchell
 date: 2011-10-06
 author: Mika Epstein
 layout: interview
-categories:
-  - Interview
+permalink: /interviews/2011/:title/
+categories: [Interviews]
 tags:
   - transcript
   - 2011
   - 'talk shows'
-siteurl: http://transcripts.cnn.com/TRANSCRIPTS/1110/06/ijvm.01.html
+sourceurl: http://transcripts.cnn.com/TRANSCRIPTS/1110/06/ijvm.01.html
 ---
 
 (BEGIN VIDEO CLIP)

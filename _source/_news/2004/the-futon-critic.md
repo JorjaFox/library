@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "Pay Dispute Sacks &#8216;C.S.I.'s' Fox, Eads"
 newsauthor: Staff  
 newssource: The Futon Critic  

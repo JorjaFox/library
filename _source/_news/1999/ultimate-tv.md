@@ -3,6 +3,7 @@ title: Ultimate TV
 date: 1999-02-09
 author: Mika Epstein
 layout: news
+permalink: /news/1999/:title/
 tags: 1999
 categories: [Articles, News]
 newstitle: "ER's Fox Set to Lead New UPN Drama"

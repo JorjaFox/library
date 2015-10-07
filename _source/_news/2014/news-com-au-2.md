@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2014
 categories: [Articles, News]
+permalink: /news/2014/:title/
 newstitle: "Jorja Fox thought CSI: Crime Scene Investigation would last six weeks"
 newsauthor: Darren Devlyn  
 newssource: news.com.au  

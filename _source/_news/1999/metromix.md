@@ -3,6 +3,7 @@ title: MetroMix
 date: 1999-05-01
 author: Mika Epstein
 layout: news
+permalink: /news/1999/:title/
 tags: 1999
 categories: [Articles, News]
 newstitle: Relationships are at the core of &#8216;The Hungry Bachelors Club'  

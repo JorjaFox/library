@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2014
 categories: [Articles, News]
+permalink: /news/2014/:title/
 newstitle: "Jorja's Lionhearted Activism"
 newsauthor: Sarah Marloff  
 newssource: Entertainment Weekly  

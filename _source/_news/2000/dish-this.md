@@ -4,6 +4,7 @@ date: 2000-02-21
 author: Mika Epstein
 layout: news
 categories: [Articles, News]
+permalink: /news/2000/:title/
 tags: 2000
 newstitle: "Can I getta 'Earshot'"
 newsauthor: Staff  

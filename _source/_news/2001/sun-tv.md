@@ -3,6 +3,7 @@ title: Sun TV
 date: 2001-02-02
 author: Mika Epstein
 layout: news
+permalink: /news/2001/:title/
 categories: [Articles, News]
 tags: 2001
 newstitle: "Q&A with CSI's Jorja Fox"

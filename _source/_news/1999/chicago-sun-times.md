@@ -3,6 +3,7 @@ title: Chicago Sun-Times
 date: 1999-11-12
 author: Mika Epstein
 layout: news
+permalink: /news/1999/:title/
 tags: 1999
 categories: [Articles, News]
 newstitle: Hungry Bachelors" kills appetite  

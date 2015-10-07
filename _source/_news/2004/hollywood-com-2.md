@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "CSI Stars Canned"
 newsauthor: Staff  
 newssource: Hollywood.com  

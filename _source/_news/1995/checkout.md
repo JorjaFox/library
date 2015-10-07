@@ -2,6 +2,7 @@
 title: Checkout
 author: Mika Epstein
 layout: news
+permalink: /news/1995/:title/
 categories: [Articles, News]
 tags: 1995
 newstitle: Review

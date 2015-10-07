@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2014
 categories: [Articles, News]
+permalink: /news/2014/:title/
 newstitle: "HOW DO YOU DEFINE BALANCED LIVING?"
 newsauthor: Viva Magazine  
 newssource: Viva Magazine  

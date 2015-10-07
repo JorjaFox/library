@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "CSI star fired in &#8216;pay dispute'"
 newsauthor: Staff  
 newssource: BBC  

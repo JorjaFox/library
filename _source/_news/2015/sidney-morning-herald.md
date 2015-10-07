@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "'You don't win friends with salad': TV's best (and worst) vegetarians"
 newsauthor: Ellen Laughton  
 newssource: Sidney Morning Herald  

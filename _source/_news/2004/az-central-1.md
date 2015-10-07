@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "2 stars of &#8216;CSI' reportedly fired"
 newsauthor: Staff  
 newssource: AZ Central  

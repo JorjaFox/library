@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2002
 categories: [Articles, News]
+permalink: /news/2002/:title/
 newstitle: Jorja Fox  
 newsauthor: Staff  
 newssource: In Style Magazine  

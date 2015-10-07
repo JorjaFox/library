@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2003
 categories: [Articles, News]
+permalink: /news/2003/:title/
 newstitle: Maggie Doyle and the Lesbian-Feminist Connection  
 newsauthor: Sarah Warn  
 newssource: AfterEllen  

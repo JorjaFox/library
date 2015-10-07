@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "As 'CSI' comes to a close, actress Jorja Fox is open to an uncertain future"
 newsauthor: Jessica Ritz  
 newssource: LA Times  

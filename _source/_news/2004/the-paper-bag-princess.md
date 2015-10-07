@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "Jorja Fox Selects Vintage Gown from P.B.P. for Primetime Emmys"
 newsauthor: Staff  
 newssource: The Paper Bag Princess  

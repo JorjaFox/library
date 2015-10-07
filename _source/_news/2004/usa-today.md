@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "CBS sacks 2 stars in &#8216;CSI' salary flap"
 newsauthor: Staff  
 newssource: USA Today  

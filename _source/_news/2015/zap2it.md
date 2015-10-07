@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "'CSI' finale says goodbye with morgues, murder and mystery and a happy ending?"
 newsauthor: Larry Carroll  
 newssource: Zap2It  

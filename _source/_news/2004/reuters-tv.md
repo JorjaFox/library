@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "Fired &#8216;CSI' Star Hopes to Get Another Chance"
 newsauthor: Staff  
 newssource: Reuters  

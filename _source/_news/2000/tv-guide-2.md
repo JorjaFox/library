@@ -4,6 +4,7 @@ date: 2000-12-08
 author: Mika Epstein
 layout: news
 categories: [Articles, News]
+permalink: /news/2000/:title/
 tags: 2000
 newstitle: CSI's Foxy Lady  
 newsauthor: Staff  

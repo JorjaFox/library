@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 categories: [Articles, News]
 tags: 2003
+permalink: /news/2003/:title/
 newstitle: Guess Who's Serving You Dinner?  
 newsauthor: Staff  
 newssource: In Style Magazine  

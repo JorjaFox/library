@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: [2004, tabloids]
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "(Untitled)"
 newsauthor: Staff  
 newssource: Star Magazine

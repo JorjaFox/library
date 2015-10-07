@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "'CSI' Kills Back to Life?"
 newsauthor: Staff  
 newssource: E! Online  

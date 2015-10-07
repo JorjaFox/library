@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "CSI actors fired for breach of contract"
 newsauthor: Staff  
 newssource: The Mercury News  

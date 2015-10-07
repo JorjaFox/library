@@ -4,8 +4,8 @@ author: Mika Epstein
 layout: interview
 date: 2013-10-23
 sourceurl: http://cbs.com/shows/thetalk
-categories:
-  - Interview
+permalink: /interviews/2013/:title/
+categories: [Interviews]
 tags:
   - transcript
   - 2013

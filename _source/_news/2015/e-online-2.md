@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "CSI Series Finale: 49 Thoughts You Have When the First Episode You Ever Watch Is the Last One"  
 newsauthor: Tierney Bricker  
 newssource: E! Online  

@@ -3,6 +3,7 @@ title: Zap2It
 date: 2001-03-24
 author: Mika Epstein
 layout: news
+permalink: /news/2001/:title/
 categories: [Articles, News]
 tags: 2001
 newstitle:  The Meaning of 'Memento'

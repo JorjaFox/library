@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "William Petersen, Marg Helgenberger Tease Their CSI Return to Say Goodbye to the Show Where 'Each Day Was an Invention'"
 newsauthor: Lanford Beard  
 newssource: People  

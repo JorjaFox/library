@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "'CSI' finale: The cast looks back on 15 seasons"
 newsauthor: Lynette Rice  
 newssource: Entertainment Weekly  

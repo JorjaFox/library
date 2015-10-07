@@ -3,8 +3,8 @@ title: ET Online
 date: 2011-12-07
 author: Mika Epstein
 layout: interview
-categories:
-  - Interview
+permalink: /interviews/2011/:title/
+categories: [Interviews]
 tags:
   - transcript
   - 2011

@@ -4,8 +4,8 @@ author: Mika Epstein
 layout: interview
 date: 2013-10-05
 sourceurl: http://www.ad-international.org
-categories:
-  - Interview
+permalink: /interviews/2013/:title/
+categories: [Interviews]
 tags:
   - transcript
   - 2013

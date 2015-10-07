@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2002
 categories:
+permalink: /news/2002/:title/
 newstitle: TV Weekeinde  
 newsauthor: Staff  
 newssource: De Telegraaf  

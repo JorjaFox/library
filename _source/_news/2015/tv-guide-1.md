@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "Gil Grissom's Back! See His Reunion with Sara Sidle in This 'CSI' Finale Promo"
 newsauthor: Shelli Weinstein  
 newssource: TV Guide  

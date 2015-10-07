@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "CSI star, who grew up in Brevard, fired from show, report says"
 newsauthor: Staff  
 newssource: Florida Today  

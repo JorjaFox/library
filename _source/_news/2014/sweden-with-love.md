@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2014
 categories: [Articles, News]
+permalink: /news/2014/:title/
 newstitle: "What's The Best Thing You Ever Gave Up?"
 newsauthor: Ulrica Wihlborg  
 newssource: Sweden with Love  

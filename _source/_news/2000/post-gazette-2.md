@@ -4,6 +4,7 @@ date: 2000-07-29
 author: Mika Epstein
 layout: news
 categories: [Articles, News]
+permalink: /news/2000/:title/
 tags: 2000
 newstitle: Even celebrities are carried away with castaways  
 newsauthor: Staff  
