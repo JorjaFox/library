@@ -8,12 +8,15 @@ tags:
   - Movies
   - Television
 regenerate: true
+roles: [actor, producer, writer]
 ---
 A filmography is, in essence, the resume of a performer, listing all their cinematic achievements. This filmography has been broken down by section, to aid in sorting her work.
 
 Jorja is credited as Jorja Fox unless otherwise noted.
 
-## Actress##  
+{% for role in page.roles %}
+
+## {{role | capitalize }}
 
 <table class="wikitable" width="100%">
 <tbody>
@@ -24,75 +27,24 @@ Jorja is credited as Jorja Fox unless otherwise noted.
 </tr>
 
 {% for item in site.data.filmography %}
-	{% if item.role == "Actress" %}
+	{% if item.role == role %}
 
 	<tr>
-		<td>
-			<strong><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></strong> ({{ item.type }})
-			<br /><strong>{{ item.character }}</strong>
-			<br /><small>{{ item.notes }}</small>
+		<td><strong><a href="{{ site.baseurl }}/{{ item.role }}/{{ item.slug }}">{{ item.title }}</a></strong> ({{ item.type }})
+			{% if item.character %}<br /><strong>{{ item.character }}</strong> {% if item.jorjan %}<small>[Credited as Jorjan Fox]</small>{% endif %}{% endif %}
+			{% if item.notes %}<br /><small>{{ item.notes }}</small>{% endif %}
 		</td>
-		<td valign="top">
-			{{ item.dates }}
-		</td>
+		<td valign="top">{{ item.dates }}</td>
 	</tr>
 	{% endif %}
 {% endfor %}
 </tbody>
 </table>
 
-##Producer##  
-
-<table class="wikitable" width="90%">
-<tbody>
-
-<tr>
-	<th> Title </th>
-	<th> Date(s)</th>
-</tr>
-
-{% for item in site.data.filmography %}
-
-	{% if item.role == "Producer" %}
-
-	<tr>
-		<td>
-			<strong><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></strong> ({{ item.type }})
-			<br /><small>{{ item.notes }}</small>
-		</td>
-		<td  valign="top">
-			{{ item.dates }}
-		</td>
-	</tr>
-	{% endif %}
 {% endfor %}
-</tbody>
-</table>
 
-##Writer##  
+## See Also
 
-<table class="wikitable" width="90%">
-<tbody>
-
-<tr>
-	<th> Title </th>
-	<th> Date(s)</th>
-</tr>
-
-{% for item in site.data.filmography %}
-
-	{% if item.role == "Writer" %}
-
-	<tr>
-		<td>
-			<strong><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></strong> ({{ item.type }})
-			<br /><small>{{ item.notes }}</small>
-		</td>
-		<td  valign="top">
-			{{ item.dates }}
-		</td>
-	</tr>
-	{% endif %}
-{% endfor %}
-</tbody>
-</table>
+* [IMDb](http://www.imdb.com/name/nm0289080/)
+* [Honeypot Productions]( {{ site.baseurl }}/honeypot/ )
+* [Seafox Productions]( {{ site.baseurl }}/seafox/ )

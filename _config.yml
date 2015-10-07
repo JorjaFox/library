@@ -43,9 +43,12 @@ collections:
   interviews:
     output: true
     permalink: /:collection/:title/
-  acting:
+  actor:
     output: true
     permalink: /:collection/:title/
-  producing:
+  producer:
+    output: true
+    permalink: /:collection/:title/
+  writer:
     output: true
     permalink: /:collection/:title/

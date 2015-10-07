@@ -1,225 +1,240 @@
-- role: Actress
+- role: actor
+  title: "CSI: Immortality"
+  slug: csi
+  type: TV Movie
+  character: Sara Sidle
+  notes: 
+  dates: 2015
+ 
+- role: actor
   title: "CSI: Crime Scene Investigation"
-  url: /acting/csi/
+  slug: csi
   type: TV Series
   character: Sara Sidle
   notes: "– 2000-07 (main cast)<br />– 2008-09 (guest)<br />– 2010-2015 (recurring, then main cast)"
   dates: 2000-2015
 
-- role: Actress
+- role: actor
   title: 3 Weeks to Daytona
-  url: /acting/3-weeks-to-daytona/
+  slug: 3-weeks-to-daytona
   type: Movie
   character: Cheryl
   notes:
   dates: 2010
 
-- role: Actress
+- role: actor
   title: Drop Dead Diva
-  url: /acting/drop-dead-diva/
+  slug: drop-dead-diva
   type: TV Series
   character: MaryAnn Neely / Fay Greene
   notes: "– Second Chances (2009)"
   dates: 2009
 
-- role: Actress
+- role: actor
   title: Next Exit
-  url: /acting/next-exit/
+  slug: next-exit
   type: Movie
   character: Terri
   notes:
   dates: 2005
 
-- role: Actress
+- role: actor
   title: Down with the Joneses
-  url: /acting/down-with-the-joneses/
+  slug: down-with-the-joneses
   type: Movie
   character: Bev Jones
   notes:
   dates: 2003
 
-- role: Actress
+- role: actor
   title: The West Wing
-  url: /acting/west-wing/
+  slug: west-wing
   type: TV Series
   character: Gina Toscano
   notes:
   dates: 2000
 
-- role: Actress
+- role: actor
   title: Dodges City
-  url: /acting/dodges-city/
+  slug: dodges-city
   type: TV Series
   character: Unknown
   notes: "– Pilot"
   dates: 1999
 
-- role: Actress
+- role: actor
   title: The True Story
-  url: /acting/true-story/
+  slug: true-story
   type: TV Series
   character: McGann
   notes: "– Pilot"
   dates: 1999
 
-- role: Actress
+- role: actor
   title: Memento
-  url: /acting/memento/
+  slug: memento
   type: Movie
   character: Catherine Shelby
   notes:
   dates: 1999
 
-- role: Actress
+- role: actor
   title: Food for the Heart
-  url: /acting/food-heart/
+  slug: food-heart
   type: Movie
   character: Delmar Youngblood
   notes:
   dates: 1999
 
-- role: Actress
+- role: actor
   title: Forever Fabulous
-  url: /acting/forever-fabulous/
+  slug: forever-fabulous
   type: Movie
   character: Liz Guild
   notes:
   dates: 2000 (1998)
 
-- role: Actress
+- role: actor
   title: ER
-  url: /acting/er/
+  slug: er
   type: TV Series
   character: Maggie Doyle
   notes:
   dates: 1996-1999
 
-- role: Actress
+- role: actor
   title: Partners
-  url: /acting/partners/
+  slug: partners
   type: TV Series
   character: Alex
   notes: " – My Sister, My Enemy (season 1, episode 3)"
   dates: 1999
 
-- role: Actress
+- role: actor
   title: How to Make the Cruelest Month
-  url: /acting/how-make-cruelest-month/
+  slug: how-make-cruelest-month
   type: Movie
   character: Sarah Bryant
   notes:
   dates: 1998
 
-- role: Actress
+- role: actor
   title: Velocity Trap
-  url: /acting/velocity-trap/
+  slug: velocity-trap
   type: Movie
   character: Alice Pallas
   notes:
   dates: 1998
 
-- role: Actress
+- role: actor
   title: House of Frankenstein 1997
-  url: /acting/house-frankenstein/
+  slug: house-frankenstein
   type: TV Movie
   character: Felicity
   notes:
   dates: 1997
 
-- role: Actress
+- role: actor
   title: Ellen
-  url: /acting/ellen/
+  slug: ellen
   type: TV Series
   character: The Attractive Woman (uncredited)
   notes: "– The Puppy Episode: Part 2 (1997)"
   dates: 1997
 
-- role: Actress
+- role: actor
   title: Alchemy
-  url: /acting/alchemy/
+  slug: alchemy
   type: TV Movie
   character: Josie
   notes:
   dates: 1996
 
-- role: Actress
+- role: actor
   title: Courthouse
-  url: /acting/courthouse/
+  slug: courthouse
   type: TV Series
   character: Maureen Dawes
   notes: "– Pilot (1995)"
   dates: 1995
+  jorjan: yes
 
-- role: Actress
+- role: actor
   title: The Jerky Boys
-  url: /acting/jerky-boys/
+  slug: jerky-boys
   type: Movie
   character: "Lazarro's Young Lady"
   notes:
   dates: 1994
 
-- role: Actress
+- role: actor
   title: Dead Funny
-  url: /acting/dead-funny/
+  slug: dead-funny
   type: Movie
   character: Fate 3
   notes:
   dates: 1994
 
-- role: Actress
+- role: actor
   title: Missing Persons
-  url: /acting/missing-persons/
+  slug: missing-persons
   type: TV Series
+  jorjan: yes
   character: Constance Karadzic
   notes:
   dates: 1993-1994
 
-- role: Actress
+- role: actor
   title: "Law & Order"
-  url: /acting/law-order/
+  slug: law-order
   type: TV Series
   character: Paula Engren
+  jorjan: yes
   notes: "– Securitate (1993)"
   dates: 1993
 
-- role: Actress
+- role: actor
   title: "Lifestories: Families in Crisis"
-  url: /acting/dead-drunk/
+  slug: dead-drunk
   type: TV Series
   character: Maggie Glendon
+  jorjan: yes
   notes: "– Dead Drunk: The Kevin Tunell Story (1993)"
   dates: 1993
 
-- role: Actress
+- role: actor
   title: ABC Afterschool Specials
-  url: /acting/the-mall/
+  slug: the-mall
   type: TV Series
   character: Diane Dravecki
+  jorjan: yes
   notes: "– Summer Stories: The Mall - Part 3 (1993)<br />– Summer Stories: The Mall - Part 2 (1993)<br /> – Summer Stories: The Mall - Part 1 (1993)"
   dates: 1992
 
-- role: Actress
+- role: actor
   title: Happy Hell Night
-  url: /acting/happy-hell-night/
+  slug: happy-hell-night
   type: Movie
   character: Kappa Sig Girl
   notes: (uncredited)
   dates: 1992
 
-- role: Actress
+- role: actor
   title: Nineteen
-  url: /acting/nineteen/
+  slug: nineteen
   type: TV Series
   character: Ruth Manicotti
   notes: "– Pilot (1990)"
+  jorjan: yes
   dates: 1990
 
-- role: Actress
+- role: actor
   title: The Kill-Off
-  url: /acting/kill-off/
+  slug: kill-off
   type: Movie
   character: Myra Pavlov
-  notes: "[As Jorjan Fox]"
+  jorjan: yes
+  notes:
   dates: 1989
 
 - role: Herself
@@ -228,51 +243,58 @@
 
 - role: Voice-Over
 
-- role: Producer
+- role: producer
   title: Extinction Soup
-  url: /producing/extinction-soup/
-  type: Documentary
+  slug: extinction-soup
+  type: Documentary Film
   notes:
   dates: 2014
+  company: Seafox
 
-- role: Producer
+- role: producer
   title: Lion Ark
-  url: /producing/lion-ark/
-  type: Documentary
+  slug: lion-ark
+  type: Documentary Film
   notes:
   dates: 2013
+  company: Seafox
 
-- role: Producer
+- role: producer
   title: How I Became An Elephant
-  url: /producing/how-became-elephant/
-  type: Documentary
+  slug: how-became-elephant
+  type: Documentary Film
   notes:
   dates: 2012
+  company: Seafox
 
-- role: Producer
+- role: producer
   title: "Stay Forever: The Life and Music of Dusty Springfield"
-  url: /producing/stay-forever/
+  slug: stay-forever
   type: Musical
   notes:
   dates: 2008
+  company: Seafox
 
-- role: Producer
+- role: producer
   title: Dear Bernard
-  url: /producing/dear-bernard/
+  slug: dear-bernard
   type: Musical
   notes:
   dates: 2004
+  company: Honeypot
 
-- role: Writer
+- role: writer
   title: Loving Stanley
-  url: /producing/loving-stanley/
+  slug: loving-stanley
   type: Stage Play
   notes:
-  dates: unknown
+  dates: 1990s
+  company: Honeypot
 
-- role: Writer
+- role: writer
   title: In Hell with Love
-  url: /producing/in-hell-love/
+  slug: in-hell-love
   type: Stage Play
   notes:
-  dates: unknown
+  dates: 1990s
+  company: Honeypot
