@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "Axed &#8216;CSI' actors may return"
 newsauthor: Staff  
 newssource: Digital Spy  

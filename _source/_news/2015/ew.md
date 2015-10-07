@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "CSI finale: William Petersen's lips are sealed on a potential Sara-Grissom reunion"
 newsauthor: Mary Sollosi  
 newssource: Entertainment Weekly  

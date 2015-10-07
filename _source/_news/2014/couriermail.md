@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2014
 categories: [Articles, News]
+permalink: /news/2014/:title/
 newstitle: "Elisabeth Shue talks ahead of season 14 of CSI: Crime Scene Investigation"
 newsauthor: Darren Devlyn  
 newssource: Couriermail  

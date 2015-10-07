@@ -3,13 +3,13 @@ title: The Talk
 date: 2011-04-21
 author: Mika Epstein
 layout: interview
-categories:
-  - Interview
+permalink: /interviews/2011/:title/
+categories: [Interviews]
 tags:
   - transcript
   - 2011
   - 'talk shows'
-siteurl: http://www.cbs.com/shows/the_talk/
+sourceurl: http://www.cbs.com/shows/the_talk/
 ---
 
 Julie Chen: Welcome back to "The Talk". Our first guest is best known for her role as Sara Sidle on the hit CBS drama "CSI: Crime Scene Investigation". Take a look.

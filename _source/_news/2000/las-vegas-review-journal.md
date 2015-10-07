@@ -4,6 +4,7 @@ date: 2000-10-09
 author: Mika Epstein
 layout: news
 categories: [Articles, News]
+permalink: /news/2000/:title/
 tags: 2000
 newstitle: "'C.S.I.' returns to Las Vegas"
 newsauthor: Staff  

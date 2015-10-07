@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "61st Annual Golden Globe Awards: On the Red Carpet"
 newsauthor: Staff  
 newssource: Hollywood.com  

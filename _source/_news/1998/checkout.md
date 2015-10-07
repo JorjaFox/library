@@ -2,6 +2,7 @@
 title: Checkout
 author: Mika Epstein
 layout: news
+permalink: /news/1998/:title/
 tags: 1998
 categories: [Articles, News]
 newstitle: Review  

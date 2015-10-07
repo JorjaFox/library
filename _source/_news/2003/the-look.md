@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2003
 categories: [Articles, News]
+permalink: /news/2003/:title/
 newstitle: Foxy Lady  
 newsauthor: Rebecca Fletcher  
 newssource: The Look  

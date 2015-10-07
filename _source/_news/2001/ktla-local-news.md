@@ -3,6 +3,7 @@ title: KTLA Local News
 date: 2001-05-17
 author: Mika Epstein
 layout: news
+permalink: /news/2001/:title/
 categories: [Articles, News]
 tags: 2001
 newstitle: "CSI: Jorja Fox"

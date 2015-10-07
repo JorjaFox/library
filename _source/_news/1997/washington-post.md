@@ -2,6 +2,7 @@
 title: Washington Post
 author: Mika Epstein
 layout: news
+permalink: /news/1997/:title/
 tags: 1997
 categories: [Articles, News]
 newstitle: ER Live!  

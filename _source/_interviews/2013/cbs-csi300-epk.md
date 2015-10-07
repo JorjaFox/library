@@ -4,8 +4,8 @@ author: Mika Epstein
 layout: interview
 date: 2013-10-22
 sourceurl: http://cbspressexpress.com/cbs-entertainment/video?watch=1pcg1hvw2x
-categories:
-  - Interview
+permalink: /interviews/2013/:title/
+categories: [Interviews]
 tags:
   - transcript
   - 2013

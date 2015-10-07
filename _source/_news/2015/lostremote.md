@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: CSI Series Finale Drives Little Social Buzz  
 newsauthor: Karen Fratti  
 newssource: LostRemote  

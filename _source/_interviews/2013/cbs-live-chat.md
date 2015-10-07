@@ -4,8 +4,8 @@ author: Mika Epstein
 layout: interview
 date: 2013-02-20
 sourceurl: http://cbs.com/
-categories:
-  - Interview
+permalink: /interviews/2013/:title/
+categories: [Interviews]
 tags:
   - transcript
   - 2013

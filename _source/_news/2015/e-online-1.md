@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "CSI Says Goodbye With a Totally Insane But Perfectly Fitting Series Finale & We Are Weirdly Emotional Over It"
 newsauthor: Lauren Piester  
 newssource: E! Online  

@@ -2,6 +2,7 @@
 title: GLAAD
 author: Mika Epstein
 layout: news
+permalink: /news/1997/:title/
 tags: 1997
 categories: [Articles, News]
 newstitle: ER Doctor comes out of the OR and the closet  

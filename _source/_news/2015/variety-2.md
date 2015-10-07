@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "'CSI' Finally Becomes a Chalk Outline With Series Finale (SPOILERS)"
 newsauthor: Brian Lowry  
 newssource: Variety  

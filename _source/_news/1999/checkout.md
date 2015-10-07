@@ -3,6 +3,7 @@ title: Checkout
 date: 1999-01-01
 author: Mika Epstein
 layout: news
+permalink: /news/1999/:title/
 tags: 1999
 categories: [Articles, News]
 newstitle: Review  

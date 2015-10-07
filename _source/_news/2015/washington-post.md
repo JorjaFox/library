@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "How 'CSI' out-CSIed itself for the series finale"
 newsauthor: Stephanie Merry  
 newssource: Washington Post  

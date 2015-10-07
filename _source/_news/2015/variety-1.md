@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "'CSI' Finale: Creator Anthony Zuiker on Emotional Endings, Origins and Longevity"
 newsauthor: Cynthia Littleton  
 newssource: Variety  

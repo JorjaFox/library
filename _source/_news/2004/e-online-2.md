@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "CSI Pink Slips Two Players, O.C.ers Tee Up on Trump's Greens"
 newsauthor: Staff  
 newssource: E! Online  

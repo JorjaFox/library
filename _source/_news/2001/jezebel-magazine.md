@@ -3,6 +3,7 @@ title: Jezebel Magazine
 date: 2001-08-01
 author: Mika Epstein
 layout: news
+permalink: /news/2001/:title/
 categories: [Articles, News]
 tags: 2001
 newsauthor: Jorja Fox  

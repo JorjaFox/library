@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2003
 categories: [Articles, News]
+permalink: /news/2003/:title/
 newstitle: Behind the investigation  
 newsauthor: Staff  
 newssource: The Star Online  

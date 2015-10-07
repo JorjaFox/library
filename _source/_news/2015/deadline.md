@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "'CSI' Series Finale: Creator Anthony Zuiker On That Ending, Deleted Scene And The Future For The Characters & Himself"
 newsauthor: Nellie Andreeva  
 newssource: Deadline  

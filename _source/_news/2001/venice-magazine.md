@@ -3,6 +3,7 @@ title: Venice Magazine
 date: 2001-04-01
 author: Mika Epstein
 layout: news
+permalink: /news/2001/:title/
 categories: [Articles, News]
 tags: 2001
 newstitle: "For Jorja Fox It's Personal"

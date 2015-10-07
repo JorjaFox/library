@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2014
 categories: [Articles, News]
+permalink: /news/2014/:title/
 newstitle: "Watch Julie Finlay Face Death in 'CSI' Season 15 Premiere"
 newsauthor: Sandra Gonzalez  
 newssource: Mashable  

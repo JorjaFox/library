@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "Trade Round-Up: No More Negative Oscar Ads"
 newsauthor: Mark  
 newssource: Defamer Business  

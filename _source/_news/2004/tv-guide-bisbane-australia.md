@@ -6,6 +6,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "Now she's crowing"
 newsauthor: Staff  
 newssource: TV Guide (Brisbane Australia)

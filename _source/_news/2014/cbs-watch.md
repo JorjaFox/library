@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2014
 categories: [Articles, News]
+permalink: /news/2014/:title/
 newstitle: "GILT-Y Pleasures"
 newsauthor: Staff  
 newssource: CBS Watch! Magazine  

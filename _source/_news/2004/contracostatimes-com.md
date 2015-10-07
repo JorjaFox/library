@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "CBS exec. defends firing of &#8216;CSI' stars"
 newsauthor: Staff  
 newssource: ContraCostaTimes  

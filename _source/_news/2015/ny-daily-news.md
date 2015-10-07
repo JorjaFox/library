@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "'CSI' wraps up epic 15-year run with a two-hour movie"
 newsauthor: David Hinckley  
 newssource: NY Daily News  

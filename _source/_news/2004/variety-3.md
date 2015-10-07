@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "&#8216;CSI' thesp back on set"
 newsauthor: Staff  
 newssource: Variety  

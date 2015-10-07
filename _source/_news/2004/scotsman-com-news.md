@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "TV drama stars sacked at scene of the crime"
 newsauthor: Staff  
 newssource: Scotsman.com News  

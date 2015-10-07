@@ -3,6 +3,7 @@ title: BartCop
 date: 2001-02-06
 author: Mika Epstein
 layout: news
+permalink: /news/2001/:title/
 categories: [Articles, News]
 tags: 2001
 newstitle: "Do you know who Jorja Fox is?"

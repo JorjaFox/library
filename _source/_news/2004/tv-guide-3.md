@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "BACK ON THE SCENE"
 newsauthor: Staff  
 newssource: TV Guide  

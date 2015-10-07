@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "AXED &#8216;CSIER' IN TALKS"
 newsauthor: Staff  
 newssource: New York Post  

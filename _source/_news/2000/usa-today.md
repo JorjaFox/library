@@ -4,6 +4,7 @@ date: 2000-12-22
 author: Mika Epstein
 layout: news
 categories: [Articles, News]
+permalink: /news/2000/:title/
 tags: 2000
 newstitle: "'CSI' succeeds with gritty realism."
 newsauthor: Staff  

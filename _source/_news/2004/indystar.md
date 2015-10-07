@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "Fired &#8216;CSI' stars will return to show after all"
 newsauthor: Staff  
 newssource: IndyStar  

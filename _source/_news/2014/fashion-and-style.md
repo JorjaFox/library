@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2014
 categories: [Articles, News]
+permalink: /news/2014/:title/
 newstitle: "'CSI' Season 15 News, Spoilers: Will Someone DIE? Sara And Greg Quarantined After Exposure To Deadly Pathogen [VIDEO]"
 newsauthor: Jess Goodwin  
 newssource: Fashion and Style  

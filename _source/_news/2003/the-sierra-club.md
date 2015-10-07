@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2003
 categories: [Articles, News]
+permalink: /news/2003/:title/
 newstitle: Celebrities give props to the environment  
 newsauthor: Staff  
 newssource: The Sierra Club  

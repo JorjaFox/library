@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "Prime Time Crime News"
 newsauthor: Staff  
 newssource: Lexington Herald-Leader  

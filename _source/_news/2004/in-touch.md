@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2004
 categories: [Articles, News]
+permalink: /news/2004/:title/
 newstitle: "*CSI*&#8216;s Jorja skips Work"
 newsauthor: Staff  
 newssource: In Touch  

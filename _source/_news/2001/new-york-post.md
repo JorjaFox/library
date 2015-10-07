@@ -3,6 +3,7 @@ title: New York Post
 date: 2001-06-24
 author: Mika Epstein
 layout: news
+permalink: /news/2001/:title/
 categories: [Articles, News]
 tags: 2001
 newstitle: 4 Questions  

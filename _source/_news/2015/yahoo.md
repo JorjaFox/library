@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2015
 categories: [Articles, News]
+permalink: /news/2015/:title/
 newstitle: "'CSI' ends its 15-season run with 2-hour reunion finale"
 newsauthor: Fraizer Moore  
 newssource: Yahoo! News  

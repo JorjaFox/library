@@ -5,6 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2014
 categories: [Articles, News]
+permalink: /news/2014/:title/
 newstitle: "A Definitive Ranking of Every Character on 'The West Wing'"
 newsauthor: Joe Reid, David Sims, Kevin O'Keeffe  
 newssource: The Wire  
