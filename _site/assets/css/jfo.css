@@ -1,0 +1,90 @@
+/* Jekyll Tweaks */
+
+h1.post-title {
+    display: none;
+}
+
+div.newsbody ul, div.newsbody li {
+    display: inline;
+    margin: 5px!important;
+}
+
+/* wikitable/prettytable class for skinning normal tables */
+
+table.wikitable,
+table.prettytable,
+.wikitable {
+    margin: 1em;
+    border: 1px #363 solid;
+    border-collapse: collapse;
+    width: 100%!important;
+}
+.wikitable th,
+.prettytable th {
+    background: #E1F3E1!important;
+    text-transform: uppercase;
+    text-align: left!important;
+    font-size: 1em;
+    line-height: 2.5em;
+    font-weight: bold;
+}
+
+.wikitable caption,
+.prettytable caption {
+    font-weight: bold;
+}
+
+/* Tables */
+
+table {
+	border: 1px #363 solid!important;
+}
+td {
+	border: 1px #aaa solid;
+	padding: 3px;
+}
+th {
+	background-color: #ddd;
+	padding: 3px;
+}
+
+/* JFO Templates */
+
+tr.episodelist-name {
+	text-align: center;
+	background-color: #E1F3E1;
+	border-top: 2px black solid;
+}
+
+table.jfoinfobox {
+    width: 100%!important;
+}
+
+div.jfoinfobox {
+  display:table;
+  border: 1px solid #363;
+  margin: 10px 0px;
+  font-size: 15px;
+  width: 100%;
+}
+
+div.newsheader, div.newsfooter {
+  text-align:center;
+  background:#E1F3E1;
+  padding: 5px;
+}
+
+div.newsbody, div.tvbody {
+  padding: 5px;
+  background: #fff;
+}
+
+div.newsbody, div.newsfooter, div.newsheader {
+    border-bottom: 1px solid #363;
+}
+
+div.divCell {
+   float:left;
+   width:50%;
+   font-size: 85%;
+}
