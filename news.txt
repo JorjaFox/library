@@ -1,0 +1,35 @@
+\((\d{2}) (.*) (\d{4})\)
+author: ipstenu
+layout: default
+permalink: (.*)
+categories:
+  - Article
+
+---
+{{News Entry  
+\| Title = (.*)
+\| Date = (.*)
+\| Year = (.*)  
+\| Author = (.*)
+\| Source = (.*)
+\| URL = (.*)
+\| Content =
+
+
+REAPLCE (keep the blank line at the top and bottom)
+
+
+date: \3-\2-\1
+author: Mika Epstein
+layout: news
+tags: \7
+categories: [Articles, News]
+permalink: /news/\7/:title/
+
+newstitle: "\5"
+newsauthor: \8
+newssource: \9
+newsurl: \10
+
+---
+
