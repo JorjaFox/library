@@ -2,8 +2,7 @@
 author: ipstenu
 layout: default
 permalink: (.*)
-categories:
-  - Article
+categories:(.*)
 
 ---
 {{News Entry  
@@ -22,14 +21,14 @@ REAPLCE (keep the blank line at the top and bottom)
 date: \3-\2-\1
 author: Mika Epstein
 layout: news
-tags: \7
+tags: \8
 categories: [Articles, News]
-permalink: /news/\7/:title/
+permalink: /news/\8/:title/
 
-newstitle: "\5"
-newsauthor: \8
-newssource: \9
-newsurl: \10
+newstitle: "\6"
+newsauthor: \9
+newssource: \10
+newsurl: \11
 
 ---
 
