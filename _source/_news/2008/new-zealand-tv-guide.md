@@ -12,12 +12,6 @@ newsauthor: Jenny Cooney Carillo
 newssource: TV Guide (New Zealand)
 newsurl: http://tv-guide.co.nz
 
-
-author: ipstenu
-layout: default
-permalink: /2008/09/01/new_zealand_tv_guide__february_2008_/
-categories:
-
 ---
 
 [...]
