@@ -13,6 +13,8 @@ twitter_username: jorjafoxonline
 github_username:  ipstenu
 
 # Plugins
+gems:
+  - jekyll-last-modified-at
 
 # Moving Folders
 source:       _source
