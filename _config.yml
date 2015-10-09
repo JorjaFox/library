@@ -20,6 +20,13 @@ plugins_dir:  _jekyll/_plugins
 layouts_dir:  _jekyll/_layouts
 includes_dir: _jekyll/_includes
 
+# Jekyll Deploy for Rsync
+deployment:
+  type: rsync
+  host: ftp.jorjafox.net
+  user: jorjafox
+  directory: /home/jorjafox/public_html/library
+
 # Build settings
 markdown: kramdown
 
