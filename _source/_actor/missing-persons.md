@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "Missing Persons"
 categories: Filmography
 tags: television

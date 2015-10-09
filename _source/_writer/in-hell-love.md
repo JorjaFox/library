@@ -1,7 +1,7 @@
 ---
 title: "In Hell With Love"
 author: Mika Epstein
-layout: producing
+layout: producer
 categories: Filmography
 tags: producer, stage, honeypot, writer
 genre: Stage Play

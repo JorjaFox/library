@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "The Kill-Off"
 categories: Filmography
 tags: movies

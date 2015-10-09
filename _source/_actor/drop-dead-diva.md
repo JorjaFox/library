@@ -1,7 +1,7 @@
 ---
 title: 'Drop Dead Diva'
 author: Mika Epstein
-layout: acting
+layout: actor
 date: 2009-08-16
 categories: Filmography
 tags: television

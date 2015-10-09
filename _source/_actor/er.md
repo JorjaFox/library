@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "ER"
 categories: Filmography
 tags: television

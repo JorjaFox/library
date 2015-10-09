@@ -18,7 +18,7 @@ Most of their plays are performed in small community theaters (or, as they've sa
 
 <ul>
 {% for item in site.data.filmography %}
-	{% if item.company == 'Honeypot' %}
+	{% if item.company contains 'Honeypot' %}
 		<li><a href="{{ site.baseurl }}/{{ item.role }}/{{ item.slug }}">{{ item.title }}</a></li>
 	{% endif %}
 {% endfor %}

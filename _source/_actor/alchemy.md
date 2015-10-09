@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "Alchemy"
 categories: Filmography
 tags: movies

@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "Dead Funny"
 categories: Filmography
 tags: movies

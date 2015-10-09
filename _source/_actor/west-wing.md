@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "The West Wing"
 categories: Filmography
 tags: television

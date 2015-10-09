@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "Next Exit"
 categories: Filmography
 tags: movies

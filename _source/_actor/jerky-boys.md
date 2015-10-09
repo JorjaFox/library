@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "The Jerky Boys"
 categories: Filmography
 tags: movies

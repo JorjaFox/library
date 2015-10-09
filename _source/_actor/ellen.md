@@ -1,7 +1,7 @@
 ---
 title: "Ellen"
 author: Mika Epstein
-layout: acting
+layout: actor
 categories: Filmography
 tags: television
 show: ellen

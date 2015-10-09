@@ -1,7 +1,7 @@
 ---
 title: "Lion Ark"
 author: Mika Epstein
-layout: producing
+layout: producer
 categories: Filmography
 tags: producer, movies
 genre: Documentary

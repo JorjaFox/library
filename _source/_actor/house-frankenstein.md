@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "House of Frankenstein 1997"
 categories: Filmography
 tags: movies

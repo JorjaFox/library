@@ -1,7 +1,7 @@
 ---
 title: "Law & Order"
 author: Mika Epstein
-layout: acting
+layout: actor
 categories: Filmography
 tags: television
 show: law-order

@@ -3,9 +3,9 @@
   slug: csi
   type: TV Movie
   character: Sara Sidle
-  notes: 
+  notes:
   dates: 2015
- 
+
 - role: actor
   title: "CSI: Crime Scene Investigation"
   slug: csi
@@ -249,7 +249,7 @@
   type: Documentary Film
   notes:
   dates: 2014
-  company: Seafox
+  company: Seafox Productions
 
 - role: producer
   title: Lion Ark
@@ -257,7 +257,7 @@
   type: Documentary Film
   notes:
   dates: 2013
-  company: Seafox
+  company: Seafox Productions
 
 - role: producer
   title: How I Became An Elephant
@@ -265,7 +265,7 @@
   type: Documentary Film
   notes:
   dates: 2012
-  company: Seafox
+  company: Seafox Productions
 
 - role: producer
   title: "Stay Forever: The Life and Music of Dusty Springfield"
@@ -273,7 +273,7 @@
   type: Musical
   notes:
   dates: 2008
-  company: Seafox
+  company: Seafox Productions
 
 - role: producer
   title: Dear Bernard
@@ -281,7 +281,7 @@
   type: Musical
   notes:
   dates: 2004
-  company: Honeypot
+  company: Honeypot Productions
 
 - role: writer
   title: Loving Stanley
@@ -289,7 +289,7 @@
   type: Stage Play
   notes:
   dates: 1990s
-  company: Honeypot
+  company: Honeypot Productions
 
 - role: writer
   title: In Hell with Love
@@ -297,4 +297,4 @@
   type: Stage Play
   notes:
   dates: 1990s
-  company: Honeypot
+  company: Honeypot Productions

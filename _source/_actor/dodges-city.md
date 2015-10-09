@@ -1,7 +1,7 @@
 ---
 title: "Dodges City"
 author: Mika Epstein
-layout: acting
+layout: actor
 categories: Filmography
 tags: television
 show: dodges-city

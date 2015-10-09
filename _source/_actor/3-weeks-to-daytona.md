@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "3 Weeks to Daytona"
 categories: Filmography
 tags: movies

@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "Food for the Heart"
 categories: Filmography
 tags: movies

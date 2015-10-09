@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "Happy Hell Night"
 categories: Filmography
 tags: movies

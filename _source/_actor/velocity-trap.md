@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "Velocity Trap"
 categories: Filmography
 tags: movies

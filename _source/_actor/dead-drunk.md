@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "Dead Drunk: The Kevin Tunell Story"
 categories: Filmography
 tags: movies

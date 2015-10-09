@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "Memento"
 categories: Filmography
 tags: movies

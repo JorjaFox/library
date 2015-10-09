@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "CSI: Crime Scene Investigation"
 categories: Filmography
 tags: television

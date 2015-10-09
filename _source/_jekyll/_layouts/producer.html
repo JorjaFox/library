@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <article class="post-content">
+
+  <p>{{ page.excerpt }}</p>
+
+<ul class="infobox">
+	{% if page.year %}<li>{{page.year}}</li>{% endif %}
+	{% if page.genre %}<li>{{page.genre}}</li>{% endif %}
+	{% if page.distributor %}<li>{{page.distributor}}</li>{% endif %}
+	{% for item in site.data.filmography %}
+		{% if item.title == page.title %}<li>{{ item.company }}</li>{% endif %}
+	{% endfor %}
+
+</ul>
+
+
+    {{ content }}
+  </article>
+
+</div>

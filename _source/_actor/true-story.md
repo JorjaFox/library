@@ -1,7 +1,7 @@
 ---
 title: "The True Story"
 author: Mika Epstein
-layout: acting
+layout: actor
 categories: Filmography
 tags: television
 show: true-story

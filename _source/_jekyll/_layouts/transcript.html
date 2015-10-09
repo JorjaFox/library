@@ -1,0 +1,64 @@
+---
+layout: default
+---
+<div class="post">
+
+	<header class="post-header">
+		<h1 class="post-title">{{ page.title }}</h1>
+	</header>
+
+	<article class="post-content">
+
+	{% if page.interviewurl %}
+	<div class="jfoinfobox">
+		<div class="newsheader"><strong>{{page.title}}</strong><br />{{ page.date | date: "%d %B %Y" }}</div>
+		<div class="newsbody">
+	{% endif %}
+
+		{{ content }}
+
+	{% if page.interviewurl %}
+		</div><!-- end Newsbody -->
+		<div class="newsfooter"><b>Transcriber:</b> {{page.author}} | <b>Source:</b> <a href="{{page.interviewurl}}">{{page.title}}</a></div>
+	</div>
+	{% endif %}
+
+	{% if page.topic == 'index' %}
+<table class="jfoinfobox">
+
+	<thead><tr>
+		<th>Date</th>
+		<th>Source</th>
+	</tr></thead>
+
+	<tbody>
+	{% assign posts    = site.transcript | sort: 'date' %}
+	{% assign thisyear = page.date | date: '%Y' %}
+
+	{% for post in posts %}
+		{% assign postyear = post.date | date: "%Y" %}
+		{% if post.topic != 'index' and postyear == thisyear %}
+			<tr>
+				<td>{{ post.date | date: "%d %B" }}</td>
+				<td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
+			</tr>
+		{% endif %}
+	{% endfor %}
+	</tbody>
+</table>
+	{% endif %}
+
+	    <div class="jfoinfobox">
+			<div class="newsheader"><a href="/library/transcript/" title="Interviews">Interviews and Chats By Year</a></div>
+			<div class="newsbody"><ul>
+				{% for post in site.transcript %}
+					{% if post.topic == 'index' %}
+						<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y" }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul></div>
+		</div>
+
+  	</article>
+
+</div>

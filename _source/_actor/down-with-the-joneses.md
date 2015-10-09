@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "Down With The Joneses"
 categories: Filmography
 tags: movies

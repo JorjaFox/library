@@ -21,7 +21,7 @@ Currently, Seafox Productions focuses on documentary and biographical projects t
 
 <ul>
 {% for item in site.data.filmography %}
-	{% if item.company == 'Seafox' %}
+	{% if item.company contains 'Seafox' %}
 		<li><a href="{{ site.baseurl }}/{{ item.role }}/{{ item.slug }}">{{ item.title }}</a></li>
 	{% endif %}
 {% endfor %}
@@ -29,4 +29,4 @@ Currently, Seafox Productions focuses on documentary and biographical projects t
 </ul>
 
 ## See Also
-*[Seafox Productions](http://www.seafoxproductions.com/)
+* [Seafox Productions](http://www.seafoxproductions.com/)

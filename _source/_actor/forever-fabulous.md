@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "Forever Fabulous"
 categories: Filmography
 tags: movies

@@ -1,5 +1,5 @@
 ---
-layout: acting
+layout: actor
 title: "How to Make the Cruelest Month"
 categories: Filmography
 tags: movies
