@@ -1,4 +1,14 @@
 .sass-cache
 Gemfile.lock
 .jekyll-metadata
-_source/.jekyll-metadata
+*.gem
+pkg/
+*.swp
+*~
+.bundle/
+.DS_Store
+.ruby-version
+.ruby-gemset
+tmp/*
+.jekyll-metadata
+/vendor
