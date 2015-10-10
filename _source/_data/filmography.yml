@@ -15,6 +15,13 @@
   dates: 2000-2015
 
 - role: actor
+  title: "Accidental Icon: The Real Gidget Story"
+  slug: gidget
+  type: Documentary
+  notes: Narrator
+  dates: 2007
+
+- role: actor
   title: 3 Weeks to Daytona
   slug: 3-weeks-to-daytona
   type: Movie
@@ -237,16 +244,10 @@
   notes:
   dates: 1989
 
-- role: Herself
-
-- role: Soundtrack
-
-- role: Voice-Over
-
 - role: producer
   title: Extinction Soup
   slug: extinction-soup
-  type: Documentary Film
+  type: Documentary
   notes:
   dates: 2014
   company: Seafox Productions
@@ -254,7 +255,7 @@
 - role: producer
   title: Lion Ark
   slug: lion-ark
-  type: Documentary Film
+  type: Documentary
   notes:
   dates: 2013
   company: Seafox Productions
@@ -262,7 +263,7 @@
 - role: producer
   title: How I Became An Elephant
   slug: how-became-elephant
-  type: Documentary Film
+  type: Documentary
   notes:
   dates: 2012
   company: Seafox Productions
@@ -298,3 +299,263 @@
   notes:
   dates: 1990s
   company: Honeypot Productions
+
+- role: soundtrack
+  title: Traveling Companion
+  slug:
+  type: Short
+  notes: "Performer/Writer: 'Lullabye'"
+  dates: 1993
+
+- role: self
+  title: Entertainment Tonight
+  slug:
+  type: TV Series
+  notes: "- Episode dated 18 August 2015<br />- Episode dated 25 October 2007<br />- Episode dated 24 May 2007<br />- Episode dated 5 October 2006<br />- Episode dated 24 July 2002<br />- Episode dated 14 May 2002<br />- Episode dated 4 October 2001<br />- Episode dated 16 May 2001"
+  dates: 2001-2015
+
+- role: self
+  title: Extra
+  slug:
+  type: TV Series
+  notes: "- Episode #21.247 (2015)"
+  dates: 2015
+
+- role: self
+  title: Unity
+  slug: unity
+  type: Documentary
+  notes: Narrator (voice)
+  dates: 2014
+
+- role: self
+  title: "CSI: Crime Scene Investigation - Season 14: Back to Basics"
+  slug: csi
+  type: Video Documentary Short
+  notes:
+  dates: 2014
+
+- role: self
+  title: "CSI: Crime Scene Investigation - Season 14: The Making of Girls Gone Wild"
+  slug: csi
+  type: Video Documentary Short
+  notes:
+  dates: 2014
+
+- role: self
+  title: "CSI: Crime Scene Investigation - Season 14: Guest Who's Coming to Visit?"
+  slug: csi
+  type: Video Documentary Short
+  notes:
+  dates: 2014
+
+- role: self
+  title: "CSI: Crime Scene Investigation - Season 14: Throwback 300th"
+  slug: csi
+  type: Video Documentary Short
+  notes:
+  dates: 2013
+
+- role: self
+  title: The Talk
+  slug:
+  type: TV Series
+  notes: "- Guest Co-Hostess Amelia Santanillo/Ted Danson, Elisabeth Shue, Jorja Fox & Eric Szmanda/Chi-Lan Lieu (2013)<br />- Episode #3.138 (2013) - Guest"
+  dates: 2013
+
+- role: self
+  title: Lion Ark
+  slug: lion-ark
+  type: Documentary
+  notes:
+  dates: 2013
+
+- role: self
+  title: "CSI: Crime Scene Investigation - Season 13: Providing Food and Shelter"
+  slug: csi
+  type: Video Short
+  notes:
+  dates: 2013
+
+- role: self
+  title: "A Crime a Dozen: Season 12 of CSI"
+  slug: csi
+  type: Video Short
+  notes:
+  dates: 2012
+
+- role: self
+  title: "A Farewell to Marg"
+  slug: csi
+  type: Video Short
+  notes:
+  dates: 2012
+
+- role: self
+  title: "Welcome to Fabulous Las Vegas"
+  slug: csi
+  type: Video Short
+  notes:
+  dates: 2012
+
+- role: self
+  title: Skin Trade
+  slug: skin-trade
+  type: Documentary
+  notes:
+  dates: 2010
+
+- role: self
+  title: "Previously On: E.R."
+  slug: er
+  type: TV Movie documentary
+  notes:
+  dates: 2009
+
+- role: self
+  title: "23rd Annual Genesis Awards"
+  slug:
+  type: TV Special
+  notes:
+  dates: 2009
+
+- role: self
+  title: The View
+  slug:
+  type: TV Series
+  notes: "- Episode dated 14 November 2007 (2007)<br />- Episode dated 12 October 2004 (2004)<br />- Episode dated 15 May 2002 (2002)"
+  dates: 2002-2007
+
+- role: self
+  title: "The Late Late Show with Craig Ferguson"
+  slug:
+  type: TV Series
+  notes: "- Episode #4.174 (2007)"
+  dates: 2007
+
+- role: self
+  title: "Your Mommy Kills Animals"
+  slug: mommy-kills-animals
+  type: Documentary
+  notes:
+  dates: 2007
+
+- role: self
+  title: "CBS Cares"
+  slug:
+  type: TV Series
+  notes: "- Episode dated 1 January 2006<br />- Episode dated 1 January 2005 (2005)- Episode dated 1 January 2004<br />- Episode dated 1 January 2003<br />- Episode dated 1 January 2002<br />- Episode dated 1 January 2001"
+  dates: 2001-2006
+
+
+- role: self
+  title: "TV Land's Top Ten"
+  slug:
+  type: TV Series documentary
+  notes: "- Sexiest Men (2005)"
+  dates: 2005
+
+- role: self
+  title: "11th Annual Screen Actors Guild Awards"
+  slug:
+  type: TV Special
+  notes: "Winner: Outstanding Performance by an Ensemble in a Drama Series"
+  dates: 2005
+
+- role: self
+  title: "The 31st Annual People's Choice Awards"
+  slug:
+  type: TV Special
+  notes: "Winner"
+  dates: 2005
+
+- role: self
+  title: "Ellen: The Ellen DeGeneres Show"
+  slug: ellen
+  type: TV Series
+  notes: "- Episode dated 18 May 2004"
+  dates: 2004
+
+- role: self
+  title: "Pulse"
+  slug:
+  type: TV Series Documentary
+  notes: "Episode #1.15 (2004)"
+  dates: 2004
+
+- role: self
+  title: "The 30th Annual People's Choice Awards"
+  slug:
+  type: TV Special
+  notes:
+  dates: 2004
+
+- role: self
+  title: "The 29th Annual People's Choice Awards"
+  slug:
+  type: TV Special
+  notes:
+  dates: 2003
+
+- role: self
+  title: "I Love the '70s"
+  slug:
+  type: TV Series documentary
+  notes: "- 1977"
+  dates: 2003
+
+- role: self
+  title: "9th Annual Screen Actors Guild Awards"
+  slug:
+  type: TV Special
+  notes:
+  dates: 2003
+
+- role: self
+  title: "E! News Live"
+  slug:
+  type: TV Series
+  notes: "- Episode dated 8 March 2003"
+  dates: 2003
+
+- role: self
+  title: "The Early Show"
+  slug:
+  type: TV Series
+  notes: "- Episode dated 9 January 2003<br />- Episode dated 15 May 2002<br />- Episode dated 26 April 2001"
+  dates: 2001-2003
+
+- role: self
+  title: "The Late Late Show with Craig Kilborn"
+  slug:
+  type: TV Series
+  notes: "- Episode dated 26 June 2002<br />- Episode dated 25 June 2001"
+  dates: 2002-2003
+
+- role: self
+  title: "Larry King Live"
+  slug:
+  type: TV Series
+  notes: "- Episode dated 18 May 2002"
+  dates: 2002-2003
+
+- role: self
+  title: "Hollywood Squares"
+  slug:
+  type: TV Series
+  notes: "- Episode dated 3 May 2002"
+  dates: 2002
+
+- role: self
+  title: "8th Annual Screen Actors Guild Awards"
+  slug:
+  type: TV Special
+  notes:
+  dates: 2002
+
+- role: self
+  title: "The Test"
+  slug: the-test
+  type: TV Series
+  notes: "The Friendship Test (2001)"
+  dates: 2001

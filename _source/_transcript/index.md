@@ -1,10 +1,10 @@
 ---
-title: Interviews
+title: Transcripts
 author: Mika Epstein
 layout: transcript
 permalink: /transcript/
 categories:
-  - Interviews
+  - Transcripts
 tags:
   - Index
 regenerate: true

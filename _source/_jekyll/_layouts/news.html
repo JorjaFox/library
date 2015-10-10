@@ -54,7 +54,7 @@ layout: default
 
 	    <div class="jfoinfobox">
 			<div class="newsheader"><a href="/library/news/" title="News">News Articles by Year</a></div>
-			<div class="newsbody"><ul>
+			<div class="newsbody"><ul class="infobox">
 				{% for post in site.news %}
 					{% if post.topic == 'index' %}
 						<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y" }}</a></li>

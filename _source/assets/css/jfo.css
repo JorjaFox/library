@@ -9,6 +9,27 @@ div.newsbody ul, div.newsbody li {
     margin: 5px!important;
 }
 
+/* Table of Contents */
+
+ul#markdown-toc {
+	border: #AAA 1px solid;
+	background-color: #f9f9f9;
+	padding: 5px;
+	list-style-type: none;
+	font-size: 95%;
+	width: 50%
+}
+
+ul#markdown-toc:before {
+	content: "Contents";
+	font-size: 125%;
+	padding-left: 15%;
+}
+
+ul#markdown-toc li {
+	list-style-type: none;
+}
+
 /* wikitable/prettytable class for skinning normal tables */
 
 table.wikitable,
@@ -48,6 +69,21 @@ th {
 	padding: 3px;
 }
 
+/* Infobox UL */
+
+ul.infobox li:after {
+    content: "•";
+    padding: 0 .5em;
+}
+ul.infobox li {
+    display: inline;
+    margin: 0px!important;
+}
+
+ul.infobox li:last-child:after {
+    content: ""!important;
+}
+
 /* JFO Templates */
 
 tr.episodelist-name {
@@ -66,12 +102,14 @@ div.jfoinfobox {
   margin: 10px 0px;
   font-size: 15px;
   width: 100%;
+  text-align: center;
 }
 
 div.newsheader, div.newsfooter {
   text-align:center;
   background:#E1F3E1;
   padding: 5px;
+  border-bottom: 1px solid #363;
 }
 
 div.newsbody, div.tvbody {
@@ -79,9 +117,11 @@ div.newsbody, div.tvbody {
   background: #fff;
 }
 
+/*
 div.newsbody, div.newsfooter, div.newsheader {
     border-bottom: 1px solid #363;
 }
+*/
 
 div.divCell {
    float:left;

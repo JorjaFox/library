@@ -8,7 +8,7 @@ tags: producer, company
 regenerate: true
 ---
 
-Seafox Productions is an independent film, television and theater company based in Los Angeles, California.
+Seafox Productions is an independent film, television and theater company based in Los Angeles, California. It is owned by Sea Turtle Inc.
 
 Currently, Seafox Productions focuses on documentary and biographical projects that highlight the critical inter-connectedness between humans and the natural world.
 

@@ -15,6 +15,7 @@ github_username:  ipstenu
 # Plugins
 gems:
   - jekyll-last-modified-at
+  - jekyll-redirect-from
 
 # Moving Folders
 source:       _source
@@ -30,6 +31,7 @@ deployment:
   directory: /home/jorjafox/public_html/library
 
 # Build settings
+redirects: yes
 markdown: kramdown
 
 # Outputting
@@ -62,5 +64,11 @@ collections:
     output: true
     permalink: /:collection/:title/
   recaps:
+    output: true
+    permalink: /:collection/:title/
+  faq:
+    output: true
+    permalink: /:collection/:title/
+  self:
     output: true
     permalink: /:collection/:title/

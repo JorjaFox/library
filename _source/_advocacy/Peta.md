@@ -1,12 +1,11 @@
 ---
 title: PETA
 author: Mika Epstein
-layout: post
-permalink: /advocacy/peta/
-categories:
-  - Advocacy
+layout: advocacy
+categories: [Advocacy]
 tags: 
   - "Animal Rights"
+website: http://www.peta.org/
 ---
 
 PETA (People for the Ethical Treatment of Animals) is the largest animal rights organization in the world. 
@@ -15,6 +14,5 @@ PETA focuses its attention on the four areas in which the largest numbers of ani
 
 Jorja Fox is a supporter of PETA and has attended many functions, as well as appearing in a celebrity vegetarian testimonial campaign.
 
-##See Also##  
+## See Also
 * [Investigate Vegetarianism](http://veggietestimonial.peta.org/psa.aspx?CID=a3493023-a4f4-4309-961c-8e4e3528908c)
-* [Official Website](http://www.peta.org/)

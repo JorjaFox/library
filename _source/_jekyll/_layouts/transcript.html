@@ -49,8 +49,8 @@ layout: default
 	{% endif %}
 
 	    <div class="jfoinfobox">
-			<div class="newsheader"><a href="/library/transcript/" title="Interviews">Interviews and Chats By Year</a></div>
-			<div class="newsbody"><ul>
+			<div class="newsheader"><a href="/library/transcript/" title="Transcripts">Transcripts of Interviews and Chats By Year</a></div>
+			<div class="newsbody"><ul class="infobox">
 				{% for post in site.transcript %}
 					{% if post.topic == 'index' %}
 						<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y" }}</a></li>

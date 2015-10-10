@@ -1,7 +1,7 @@
 ---
 title: Advocacy
 author: Mika Epstein
-layout: default
+layout: advocacy
 permalink: /advocacy/
 categories: Advocacy
 tags: index

@@ -11,14 +11,16 @@ layout: default
 
   <p>{{ page.excerpt }}</p>
 
-<ul class="infobox">
+<ul>
 	<li><strong>Rating:</strong> {% if page.rating %}{% for i in (1..page.rating) %}<i style="color:gold;" class="fa fa-star" name="star"></i>{% endfor %}{% if 5 > page.rating %}{% assign greystar = 5 | minus: page.rating %}{% for i in (1..greystar) %}<i style="color:grey;" class="fa fa-star" name="star"></i>{% endfor %}{% endif %}{% else %}<em>Not Available</em>{% endif %}</li>
 	{% if page.genre %}<li>{{page.year}} &bull; {{page.genre}} {% if page.station %}&bull; {{page.station}}{% endif %}</li>{% endif %}
 	{% if page.character %}<li><strong>Character:</strong> {{page.character}} ({{page.chartype}} character)
 		{% if page.seasons %}for {{page.seasons}} season{% if page.seasons > 1 %}s{% endif %} {% endif %}
 		{% if page.episodes %}for {{page.episodes}} episode{% if page.episodes > 1 %}s{% endif %} {% endif %}
-		{% for item in site.data.filmography %}{% if item.character == page.character %}<br /><small>{{ item.notes }}</small>{% endif %}{% endfor %}
+		{% for item in site.data.filmography %}{% if item.character == page.character and item.notes %}<br /><small>{{ item.notes }}</small>{% endif %}{% endfor %}
 	</li>{% endif %}
+	{% if page.website %}<li><a href="{{page.website}}">Official Website</a></li>{% endif %}
+	{% if page.imdb %}<li><a href="{{page.imdb}}">IMDb</a></li>{% endif %}
 </ul>
 
     {{ content }}
