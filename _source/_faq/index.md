@@ -68,7 +68,7 @@ Because she didn't want to be.
 ## See Also
 
 <ul>
-{% for faq in site.faq %}
+{% for faq in site.faq %}{% if post.topic != 'index' %}
 	<li><a href="{{ site.baseurl }}{{ faq.url }}">{{ faq.title }}</a></li>
-{% endfor %}
+{% endif %}{% endfor %}
 </ul>
