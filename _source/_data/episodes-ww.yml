@@ -1,35 +1,41 @@
 - epnum: 16 (225915)
   season: One
   title: 20 Hours in LA
+  slug: 20-hours-in-la
   airdate: 23 Feb 2000
   rating: 3
 
 - epnum: 17 (225916)
   season: One
   title: The White House Pro-Am
+  slug: the-white-house-pro-am
   airdate: 22 Mar  2000
   rating: 2
 
 - epnum: 18 (225917)
   season: One
   title: Six Meetings before Lunch
+  slug: six-meetings-before-lunch
   airdate: 05 Apr 2000
   rating: 4
 
 - epnum: 22 (225921)
   season: One
   title: What Kind of Day has it Been
+  slug: what-kind-of-day-has-it-been
   airdate: 17 May 2000
   rating: 4
 
 - epnum: 1 (226201)
   season: Two
   title: "In the Shadow of Two Gunmen: Part I"
+  slug: in-the-shadow-of-two-gunmen-i
   airdate: 04 Oct 2000
   rating: 3
 
 - epnum: 2 (226202)
   season: Two
   title: "In the Shadow of Two Gunmen: Part II"
+  slug: in-the-shadow-of-two-gunmen-ii
   airdate: 04 Oct 2000
   rating: 0

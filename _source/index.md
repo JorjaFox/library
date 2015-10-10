@@ -13,3 +13,4 @@ The goal of the JFO Library is to provide a comprehensive resource for informati
 * <a href="advocacy/" title="Advocacy">Advocacy</a> - The good she does for the world
 * <a href="transcript/" title="Interviews">Transcripts</a> - Interviews and Online Chats
 * <a href="news/" title="News Articles">News Articles</a> - News where she is mentioned
+* <a href="recaps/" title="Recaps">Episode Recaps</a> - Recaps of TV episodes

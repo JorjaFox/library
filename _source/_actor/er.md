@@ -25,7 +25,7 @@ It never happened, and February 18, 1999 Maggie Doyle made her last appearance o
 ## See Also
 
 <ul>
-	{% for post in site.acting %}
+	{% for post in site.actor %}
 		{% if post.categories == 'er' %}
 			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 		{% endif %}

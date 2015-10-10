@@ -30,43 +30,71 @@ ul#markdown-toc li {
 	list-style-type: none;
 }
 
-/* wikitable/prettytable class for skinning normal tables */
+/* Tables */
 
-table.wikitable,
-table.prettytable,
-.wikitable {
+table.jfotable {
     margin: 1em;
     border: 1px #363 solid;
     border-collapse: collapse;
     width: 100%!important;
 }
-.wikitable th,
-.prettytable th {
+.jfotable th {
     background: #E1F3E1!important;
     text-transform: uppercase;
     text-align: left!important;
     font-size: 1em;
     line-height: 2.5em;
     font-weight: bold;
+    white-space: nowrap;
 }
 
-.wikitable caption,
-.prettytable caption {
-    font-weight: bold;
-}
-
-/* Tables */
-
-table {
-	border: 1px #363 solid!important;
-}
-td {
+ .jfotable td,
+ .jfoinfobox td {
 	border: 1px #aaa solid;
 	padding: 3px;
 }
-th {
+
+table.jfoinfobox, table.episodelist {
+	border: 1px #363 solid!important;
+	width: 100%;
+}
+
+.jfoinfobox td#dates {
+	white-space: nowrap;
+}
+
+.jfoinfobox th, .episodelist th {
 	background-color: #ddd;
 	padding: 3px;
+	white-space: nowrap;
+}
+
+.jfoinfobox td, .episodelist td {
+	padding: 3px;
+}
+
+tr.episodelist-name {
+	text-align: center;
+	background-color: #E1F3E1;
+	border-top: 2px black solid;
+}
+
+table.episodelist .fa {
+    display: inline;
+}
+
+/* TV Ep Box */
+
+.episodeinfobox {
+    float: right;
+    max-width: 252px;
+    border: 1px solid #ddd;
+}
+
+.tvheader {
+    text-align: center;
+    background: #E1F3E1;
+    padding: 5px;
 }
 
 /* Infobox UL */
@@ -85,16 +113,6 @@ ul.infobox li:last-child:after {
 }
 
 /* JFO Templates */
-
-tr.episodelist-name {
-	text-align: center;
-	background-color: #E1F3E1;
-	border-top: 2px black solid;
-}
-
-table.jfoinfobox {
-    width: 100%!important;
-}
 
 div.jfoinfobox {
   display:table;
@@ -115,6 +133,7 @@ div.newsheader, div.newsfooter {
 div.newsbody, div.tvbody {
   padding: 5px;
   background: #fff;
+  text-align: left;
 }
 
 /*

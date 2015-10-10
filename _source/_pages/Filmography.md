@@ -24,7 +24,7 @@ Jorja is credited as Jorja Fox unless otherwise noted.
 
 ## {{role | capitalize }} ( {{credits}} Credit{% if credits != 1 %}s{% endif %})
 
-<table class="wikitable" width="100%"><tbody>
+<table class="jfotable" width="100%"><tbody>
 <tr>
 	<th> Title </th>
 	<th> Date(s)</th>

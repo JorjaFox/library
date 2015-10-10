@@ -25,7 +25,7 @@ Gina attended University of Virginia (studying Criminology), and was in the Army
 ## See Also
 
 <ul>
-	{% for post in site.acting %}
+	{% for post in site.actor %}
 		{% if post.categories == 'west wing' %}
 			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 		{% endif %}

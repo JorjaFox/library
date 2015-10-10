@@ -1,101 +1,118 @@
 - epnum: 1x01
   season: One
   title: Pilot
+  slug: pilot
   airdate: August 30, 1993
   rating: 4
 
 - epnum: 1x02
   season: One
   title: Cabe?... What kind of name is that?
+  slug: cabe-what-kind-of-name-is-that
   airdate: September 23, 1993
   rating: 3
 
 - epnum: 1x03
   season: One
   title: "People Don't Talk to Cops, People Lie to Cops"
+  slug: people-dont-talk-to-cops-people-lie-to-cops
   airdate: September 30, 1993
   rating: 3
 
 - epnum: 1x04
   season: One
   title: "I Can't Even Imagine"
+  slug: i-cant-even-imagine
   airdate: October 7, 1993
   rating: 4
 
 - epnum: 1x05
   season: One
   title: "That's My Sister Pal"
+  slug: thats-my-sister-pal
   airdate: October 14, 1993
   rating: 4
 
 - epnum: 1x06
   season: One
   title: "The Man's an Emotional Termite"
+  slug: the-mans-an-emotional-termite
   airdate: October 28, 1993
   rating: 3
 
 - epnum: 1x07
   season: One
   title: "Some People's Priorities"
+  slug: some-peoples-priorities
   airdate: November 4, 1993
   rating: 4
 
 - epnum: 1x08
   season: One
   title: "I'm Gonna Miss Him Too"
+  slug: im-gonna-miss-him-too
   airdate: November 11, 1993
   rating: 3
 
 - epnum: 1x09
   Season: One
   title: "Sometimes You Can't Help Getting Involved"
+  slug: sometimes-you-cant-help-getting-involved
   airdate: November 25, 1993
   rating: 3
 
 - epnum: 1x10
   season: One
   title: Right Neighborhood ... Wrong Door
+  slug: right-neighborhood-wrong-door
   airdate: December 2, 1993
   rating: 3
 
 - epnum:  1x11
   Season: One
   title: How Hard Is It Just to Get Off at the Next Exit?
+  slug: how-hard-is-it-just-to-get-off-at-the-next-exit
   airdate: December 16, 1993
   rating: 2
 
 - epnum: 1x12
   season: One
   title: If You Could Pick Your Own Parents
+  slug: if-you-could-pick-your-own-parents
   airdate: January 6, 1994
   rating: 2
 
 - epnum:  1x13
   season: One
   title: "I've Got a Siren"
+  slug: ive-got-a-siren
   airdate: January 13, 1994
   rating: 3
 
 - epnum: 1x14
   season: One
   title: My Beautiful Son is Okay
+  slug: my-beautiful-son-is-okay
   airdate: January 20, 1994
   rating: 4
 
 - epnum:  1x15
   season: One
   title: All They Had to Do Was Ask...
+  slug: all-they-had-to-do-was-ask
   airdate: February 3, 1994
   rating: 4
 
 - epnum: 1x16
   season: One
   title: "Tell Me You Didn't Do It ... I'll Go to the Wall for You"
+  slug: tell-me-you-didnt-do-it-ill-go-to-the-wall-for-you
   airdate: February 10, 1994
   rating: 4
 
 - epnum:  1x17
   season: One
   title: What Do You Want, a Signed Confession ... ?
+  slug: what-do-you-want-a-signed-confession
   airdate: February 17, 1994
   rating: 2

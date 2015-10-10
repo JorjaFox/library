@@ -10,21 +10,10 @@ layout: default
   <article class="post-content">
     {{ content }}
 
-{% if page.show == 'csi' %}
-	{% assign episodelist = site.data.episodes-csi %}
-{% endif %}
-
-{% if page.show == 'er' %}
-	{% assign episodelist = site.data.episodes-er %}
-{% endif %}
-
-{% if page.show == 'west-wing' %}
-	{% assign episodelist = site.data.episodes-ww %}
-{% endif %}
-
-{% if page.show == 'missing-persons' %}
-	{% assign episodelist = site.data.episodes-mp %}
-{% endif %}
+{% if page.show == 'csi' %}{% assign episodelist = site.data.episodes-csi %}{% endif %}
+{% if page.show == 'er' %}{% assign episodelist = site.data.episodes-er %}{% endif %}
+{% if page.show == 'west-wing' %}{% assign episodelist = site.data.episodes-ww %}{% endif %}
+{% if page.show == 'missing-persons' %}{% assign episodelist = site.data.episodes-mp %}{% endif %}
 
 {% for season in page.seasons %}
 
@@ -36,15 +25,15 @@ layout: default
 	<th>#</th>
 	<th>Title</th>
 	<th>Airdate</th>
-	<th>Rating</th>
+	<th id="dates">Rating</th>
 </tr>
 
 {% for episode in episodelist %}
 {% if episode.season == season %}
 <tr class="episodelist-name">
 	<td style="text-align: center">{{ episode.epnum }}</td>
-	<td style="text-align: left">"{{ episode.title }}"</td>
-	<td>{{ episode.airdate }}</td>
+	<td style="text-align: left">"<a href="{{ site.baseurl }}/recaps/{{ page.show }}/{{ episode.slug }}/">{{ episode.title }}</a>"</td>
+	<td id="dates">{{ episode.airdate | date: "%d %b, %Y" }}</td>
 	<td>{% for i in (1..episode.rating) %}<i style="color:gold;" class="fa fa-star fa-rotate-normal" name="star"></i>{% endfor %}{% if 5 > episode.rating %}{% assign greystar = 5 | minus: episode.rating %}{% for i in (1..greystar) %}<i style="color:grey;" class="fa fa-star fa-rotate-normal" name="star"></i>{% endfor %}{% endif %}</td>
 </tr>
 {% if episode.summary %}

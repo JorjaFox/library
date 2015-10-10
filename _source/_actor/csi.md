@@ -30,7 +30,7 @@ In the series finale, Sara is promoted to Lab Director following a convoluted an
 ## See Also
 
 <ul>
-	{% for post in site.acting %}
+	{% for post in site.actor %}
 		{% if post.categories == 'csi' %}
 			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 		{% endif %}

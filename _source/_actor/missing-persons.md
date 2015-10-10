@@ -37,7 +37,7 @@ By the end of the series, Connie is dating again and has a new boyfriend.
 ## See Also
 
 <ul>
-	{% for post in site.acting %}
+	{% for post in site.actor %}
 		{% if post.categories == 'missing persons' %}
 			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 		{% endif %}
