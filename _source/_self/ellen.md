@@ -1,6 +1,7 @@
 ---
 layout: self
 title: "Ellen: The Ellen Degeneres Show"
+author: Mika Epstein
 categories: Filmography
 tags: ["talk shows"]
 website: http://www.ellentv.com/

@@ -4,6 +4,7 @@ author: Mika Epstein
 layout: advocacy
 permalink: /advocacy/
 categories: Advocacy
+topic: index
 tags: index
 regenerate: true
 ---

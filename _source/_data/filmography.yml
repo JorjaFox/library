@@ -499,9 +499,9 @@
 
 - role: self
   title: "I Love the '70s"
-  slug:
+  slug: i-love-the-70s
   type: TV Series documentary
-  notes: "- 1977"
+  notes: "- 1970, 1973, 1974, 1976, 1977"
   dates: 2003
 
 - role: self

@@ -9,11 +9,13 @@ layout: default
 
   <article class="post-content">
 
+{% if page.topic != 'index' %}
 <div class="jfoinfobox">
 <div class="newsbody"><ul class="infobox">
 	{% if page.website %}<li><a href="{{page.website}}">Official Website</a></li>{% endif %}
 </ul></div>
 </div>
+{% endif %}
 
     {{ content }}
   </article>
