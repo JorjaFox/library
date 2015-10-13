@@ -14,7 +14,7 @@ newsurl: http://www.cbsnews.com/
 
 ---
 
-"'The Hit Show's Seventh Season Has Been An Eventful One"'
+**The Hit Show's Seventh Season Has Been An Eventful One**
 
 The seventh season of "CSI: Crime Scene Investigation" has been a tumultuous one. So far, investigator Greg Sanders has been nearly beaten to death while Catherine Willows not only dealt with her daughter's kidnapping but also with her father's murder. 
 

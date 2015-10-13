@@ -17,7 +17,7 @@ prodnum: 305
 
 ## Synopsis## 
 
-The episode opens with Morgan Brody rushing through the lab to tell D.B. Russell that **Sara** was involved in a shooting in Larkston, but there's still no word on Finn. DB and Nick take a helicopter out to find Sara has been grazed by a bullet, but Finn is missing. We cut to Finn, who is beaten and bloodied, walking down a desert road, only to be hit by a car. Sara is checked out alright, and she is sent back to talk to Brass while DB puts a BOLO out on the last car Finn was seen using.
+The episode opens with Morgan Brody rushing through the lab to tell D.B. Russell that Sara was involved in a shooting in Larkston, but there's still no word on Finn. DB and Nick take a helicopter out to find Sara has been grazed by a bullet, but Finn is missing. We cut to Finn, who is beaten and bloodied, walking down a desert road, only to be hit by a car. Sara is checked out alright, and she is sent back to talk to Brass while DB puts a BOLO out on the last car Finn was seen using.
 
 Forty-eight hours before, Morgan was leaving on a trip to a spa in Reno, and since Finn and Sara also had the weekend off, they decided to make a trio of it. Taking Finn's car is a mistake, as it breaks down, leaving them stranded in Larkston. They make the best of it, with drinks and karaoke, until Finn leaves with the mechanic, Darryl. He turns out to be married, so she leaves him, only to be attacked and assaulted, with intent to rape. In the tussle, Finn stabs Darryl with his own knife and leaves him for dead. Except ... the body vanished.
 

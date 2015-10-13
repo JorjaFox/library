@@ -6,7 +6,7 @@ permalink: /2008/04/30/stage_acting/
 categories:
   - Uncategorized
 ---
-While the majority of Jorja&#8217;s stage work has been with [[Honeypot Productions]], she has also performed on stage elsewhere.
+While the majority of Jorja's stage work has been with [[Honeypot Productions]], she has also performed on stage elsewhere.
 
 ==Stage Acting==  
 {|  

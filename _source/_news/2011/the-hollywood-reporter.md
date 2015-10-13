@@ -22,7 +22,7 @@ newsurl: http://www.hollywoodreporter.com/live-feed/csi-jorja-fox-back-as-213517
 
 Fox first appeared as Sara Sidle on "CSI" in Season 1 and departed early in Season 8. She returned as a guest star the following season and has remained billed as such through last season.
 
-"'Ted Danson"' joins the veteran series' 12th season as its new team leader -- replacing "'Laurence Fishburne"' -- and also see the drama move from its longtime Thursday night time slot to Wednesdays at 10 p.m. beginning Sept. 21.
+**Ted Danson** joins the veteran series' 12th season as its new team leader -- replacing **Laurence Fishburne** -- and also see the drama move from its longtime Thursday night time slot to Wednesdays at 10 p.m. beginning Sept. 21.
 
-Series creator "'Anthony Zuiker"' also swapped studios from his longtime home at CBS to ABC Studios.
+Series creator **Anthony Zuiker** also swapped studios from his longtime home at CBS to ABC Studios.
 

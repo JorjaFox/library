@@ -27,7 +27,7 @@ Facial recognition determines that Shredder Guy is Larry LaMotte. The *real* Lar
 
 ## Sara Sidle Review
 
-After loosing Rock-Paper-Scissors, **Sara** gets stuck with picking the body parts out from the garbage, working directly with the body bits and, yet again, Sara ends up with residual dead body smell.  Sara comes up with the idea of checking the bins for blood, which leads them to Julius Kaplan.
+After loosing Rock-Paper-Scissors, Sara gets stuck with picking the body parts out from the garbage, working directly with the body bits and, yet again, Sara ends up with residual dead body smell.  Sara comes up with the idea of checking the bins for blood, which leads them to Julius Kaplan.
 
 Sara, seeing Ray's inner angst over being attacked by Nate Haskell, and reminds him that everything, the good and the bad, go into making us who we are, but we don't have to let it define us. We get to define that.
 

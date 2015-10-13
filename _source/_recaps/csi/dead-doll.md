@@ -17,7 +17,7 @@ prodnum: 801
 
 ## Synopsis
 
-The miniature serial killer, Natalie Davis, kidnapped **Sara**  and left her in the desert, trapped under a car. While the CSIs try to determine how Natalie kidnapped her and where Sara might be, three thunderstorms converge on the Las Vegas area, promising flash floods.
+The miniature serial killer, Natalie Davis, kidnapped Sara  and left her in the desert, trapped under a car. While the CSIs try to determine how Natalie kidnapped her and where Sara might be, three thunderstorms converge on the Las Vegas area, promising flash floods.
 
 Through flashbacks, the story of Sara's kidnapping and the perils she faced in the desert are told, intercut with her teammates hunt for her and with all the CSIs remembering past cases where they worked with Sara. The stories interweave until the car is found in the dry desert, the morning after Sara's abduction, without Sara underneath.
 

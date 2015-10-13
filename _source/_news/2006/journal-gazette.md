@@ -14,7 +14,7 @@ newsurl: http://www.fortwayne.com/
 
 ---
 
-"'Romance blossomed at end of CBS show's sixth season"'
+**Romance blossomed at end of CBS show's sixth season**
 
 TV's highest-rated scripted show, which is all about science, has proven a crucial law of nature.
 

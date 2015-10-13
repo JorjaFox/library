@@ -18,7 +18,7 @@ Fans of TV's top-rated show, now in its fourth season, think it's a pretty hot d
 
 "The production team has been torn apart," a source says.
 
-"One group believes workaholic Grissom is so emtionally stunted that he could never have an affair and that's the way he should be played.
+"One group believes workaholic Grissom is so emotionally stunted that he could never have an affair and that's the way he should be played.
 
 "But the rival faction is campaigning for some action between the sheets.
 
@@ -32,7 +32,7 @@ Petersen, 50, wants the pair to explore their growing attraction, as long as it 
 
 But Fox, 35, believes that although their constant flirting is a great dynamic for creating tension, a segue into sex would detract from the show's strong stories.
 
-She admits she'll be making goo-goo eyes at Grissom for the forseeable future.
+She admits she'll be making goo-goo eyes at Grissom for the foreseeable future.
 
 "I think we're going to have a very personal year for the characters," she reveals, "more-so that we've ever done."
 
@@ -46,6 +46,4 @@ Other online fans agreed, licking their lips at the prospect of the two stodgy c
 
 But some viewers are squarely against pairing up the investigators in the bedroom.
 
-"It does nothing for the show," one dissapointed fan complains.
-
-"'Source:"' The National Examiner
+"It does nothing for the show," one disappointed fan complains.

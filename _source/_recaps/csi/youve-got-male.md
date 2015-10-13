@@ -17,7 +17,7 @@ prodnum: 212
 
 ## Synopsis
 
-Grissom and **Sara** are called to the crime scene when two murder victims are found hidden in pipes at a construction site in the middle of an alfalfa field, while Catherine and Nick investigate an ostensible hunting accident.
+Grissom and Sara are called to the crime scene when two murder victims are found hidden in pipes at a construction site in the middle of an alfalfa field, while Catherine and Nick investigate an ostensible hunting accident.
 
 The investigation of the construction site murder reveals that the victims were sisters and the relationship of one of the sisters to a former prison inmate is a cause for suspicion -- especially when his presence is traced to the scene of the crime.
 
@@ -44,9 +44,9 @@ Sara sees the similarities between herself and one of the sisters. As she questi
 - - -
 
 **Grissom** Agoraphobic maybe? Or she just doesn't like people?  
-**Sidle** __smiling__ Ah, that's you talking.  
+**Sidle** _(smiling)_ Ah, that's you talking.  
 
 - - -
 
-**Sidle** __questioning ex-con__ She was vulnerable. No social life, no friends, not even a cat. All she had was her work. She ordered from catalogs to give herself something to look forward to.
+**Sidle** _(questioning ex-con)_ She was vulnerable. No social life, no friends, not even a cat. All she had was her work. She ordered from catalogs to give herself something to look forward to.
 

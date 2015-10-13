@@ -17,7 +17,7 @@ prodnum: 401
 
 ## Synopsis
 
-Grissom and Warrick work a case of an old woman found mummified in her closet. **Sara** and Nick arrive to investigate a breaking and entering, only to find a raped teen. These cases are not as disparate as they first seem. Catherine looks into a gun found by a boy. The gun is connected to a week old murder across town that Warrick caught.
+Grissom and Warrick work a case of an old woman found mummified in her closet. Sara and Nick arrive to investigate a breaking and entering, only to find a raped teen. These cases are not as disparate as they first seem. Catherine looks into a gun found by a boy. The gun is connected to a week old murder across town that Warrick caught.
 
 ## Sara Sidle Review
 

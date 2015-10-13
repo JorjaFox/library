@@ -12,7 +12,7 @@ newssource: Post-Gazette
 newsurl: http://www.post-gazette.com  
 
 ---
-"'Who's been shot?"'
+**Who's been shot?**
 
 It's the question fans of NBC's "The West Wing" have been asking all summer following the show's season finale shooting attack on the president and his staff. Tonight viewers will get their answer. 
 

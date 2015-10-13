@@ -21,7 +21,7 @@ An undercover cop is killed by a possibly racist police officer under suspicious
 
 ## Sara Sidle Review
 
-**Sara** returns from visiting Grissom in Paris for a week. She joins Ecklie at the morgue to help identify the body and work with the autopsy, before heading to crime scene to work with Greg. At the autopsy, she recognizes that based on the color of the body fat, the dead police officer was a vegetarian, which makes his ordering burgers from a fast food meat restaurant very strange.
+Sara returns from visiting Grissom in Paris for a week. She joins Ecklie at the morgue to help identify the body and work with the autopsy, before heading to crime scene to work with Greg. At the autopsy, she recognizes that based on the color of the body fat, the dead police officer was a vegetarian, which makes his ordering burgers from a fast food meat restaurant very strange.
 
 When the second case comes in, Sara picks it up. When Nick calls the phone of a contact to his case, Sara's victim's phone rings and she answers, connecting the cases. Working with the detectives, and some fancy new software, Sara narrows down her vic's possible killers to a gang known as the D-Street Killers, where they find the killer, and he's also a witness to the cop killing.
 

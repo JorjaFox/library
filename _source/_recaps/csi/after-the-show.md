@@ -17,15 +17,15 @@ prodnum: 408
 
 ## Synopsis
 
-A suspect's infatuation with Catherine results in her taking over a high profile case. The case is a missing woman who aspired to be a showgirl. **Sara** and Nick are angered since it takes the career making case away from them.
+A suspect's infatuation with Catherine results in her taking over a high profile case. The case is a missing woman who aspired to be a showgirl. Sara and Nick are angered since it takes the career making case away from them.
 
 ## Sara Sidle Review
 
-Sara shows no real emotion when the suspect says he'll only talk to ...the pretty one_ (Catherine), not to her or Brass. **Sara** and Nick had the original missing persons case, but since the suspect has a fascination for Catherine, Grissom gives the case to her. While Nick remains fairly calm about that decision, it pisses Sara off (it's a career-making case, and both she and Nick are up for promotion), making her abrupt and snippy towards Catherine during much of the case. **Sara** and Nick discover that there may have been another victim. When Sara and Catherine are going through the victim's effects, Sara is hesitant in her reply when Catherine asks if her father ever called her pretty, but agrees right away that her father called her 'smart'.
+Sara shows no real emotion when the suspect says he'll only talk to ...the pretty one_ (Catherine), not to her or Brass. Sara and Nick had the original missing persons case, but since the suspect has a fascination for Catherine, Grissom gives the case to her. While Nick remains fairly calm about that decision, it pisses Sara off (it's a career-making case, and both she and Nick are up for promotion), making her abrupt and snippy towards Catherine during much of the case. Sara and Nick discover that there may have been another victim. When Sara and Catherine are going through the victim's effects, Sara is hesitant in her reply when Catherine asks if her father ever called her pretty, but agrees right away that her father called her 'smart'.
 
 ## Character Notes
 
-* Both **Sara** and Nick are up for the promotion.  
+* Both Sara and Nick are up for the promotion.  
 * Sara is more than a little irritated when a career-making case goes to someone else.  
 * Nude and SART photos don't bother Sara.  
 * In _Nesting Dolls_ we learn that Sara's mother killed her father, which gives new meaning to the final quote below.

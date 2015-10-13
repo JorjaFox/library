@@ -21,7 +21,7 @@ A feverish night in Las Vegas results in one dead male in an alien suit, one mor
 
 ## Sara Sidle Review
 
-Greg is the only one to inquire about Sara's summer (she took some vacation time), but Grissom is apparently the only one who knows she saw a PEAP (Police Employees Assistance Program) counselor -- sessions that were mandatory as a result of her drunk driving arrest the previous season. Sara is sitting in the locker room, rehearsing her speech to Grissom -- a supervisory review is mandatory after the PEAP visits -- but is interrupted by Greg, who introduces her to the new DNA tech. **Sara** and Nick investigate the case of an 'alien' buried in the desert near the infamous Area 51. Their search leads them to various quickie marriage chapels in Vegas, where the victim -- dressed as an alien -- was an marriage official, and a feud between two different chapels. Both **Sara** and Nick seem a little amused -- and a little flustered -- when the preacher at the first chapel assumes they are there to get married.
+Greg is the only one to inquire about Sara's summer (she took some vacation time), but Grissom is apparently the only one who knows she saw a PEAP (Police Employees Assistance Program) counselor -- sessions that were mandatory as a result of her drunk driving arrest the previous season. Sara is sitting in the locker room, rehearsing her speech to Grissom -- a supervisory review is mandatory after the PEAP visits -- but is interrupted by Greg, who introduces her to the new DNA tech. Sara and Nick investigate the case of an 'alien' buried in the desert near the infamous Area 51. Their search leads them to various quickie marriage chapels in Vegas, where the victim -- dressed as an alien -- was an marriage official, and a feud between two different chapels. Both Sara and Nick seem a little amused -- and a little flustered -- when the preacher at the first chapel assumes they are there to get married.
 
 ## Character Notes
 
@@ -31,7 +31,7 @@ Greg is the only one to inquire about Sara's summer (she took some vacation time
 
 ## Quotes
 
-_'Sara** _(to a mirror)_ So I had some time to think while I was away -- enough time to figure out why I made such a stupid mistake. I do not have a drinking problem -- I have a _me_ problem. My P.E.A.P. counselor suggested that it would be a good idea for me to talk to my supervisor -- and that&#8217;s you -- Grissom. _(pause)_ I never told you about my family -- I never told anyone about my family, why would I&#8211;  --  
+**Sidle**: _(to a mirror)_ So I had some time to think while I was away -- enough time to figure out why I made such a stupid mistake. I do not have a drinking problem -- I have a _me_ problem. My P.E.A.P. counselor suggested that it would be a good idea for me to talk to my supervisor -- and that's you -- Grissom. _(pause)_ I never told you about my family -- I never told anyone about my family, why would I&#8211;  --  
 
 - - -
 

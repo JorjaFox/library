@@ -21,7 +21,7 @@ Grissom and Nick investigate the death of a book restorer while Catherine and Sa
 
 When the female book restorer is found dead and locked inside a 'cage' a temperature-controlled workspace, Grissom and Nick attempt to determine whether this is a case of suicide or homicide. They discover that the key to solving the case may be a co-worker who suffers from autism.
 
-Meanwhile, Catherine and **Sara** are sent to comb through the wreckage of a collision between a train and an SUV and find out if it is a case of road rage or simply an accident.
+Meanwhile, Catherine and Sara are sent to comb through the wreckage of a collision between a train and an SUV and find out if it is a case of road rage or simply an accident.
 
 ## Sara Sidle Review
 
@@ -47,7 +47,7 @@ At the scene, when Sara finds the dog running loose, she's concerned about getti
 - - -
 
 **Archie** Hear that? Turbo. Definitely diesel.  
-**Willows** __nods and walks out__  
+**Willows** _(nods and walks out)_  
 **Sidle** She really likes you.  
 
 - - -

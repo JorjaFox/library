@@ -23,7 +23,7 @@ Tangerine (real name Angela Glenn) turns out to be Lex's daughter. The killer wa
 
 ## Sara Sidle Review
 
-**Sara** is first on the scene, taking photos of the dead woman when D.B. Russell arrives. She and Nick investigate the owner of the fantasy camp (Marty Kirch, played by "Food for the Heart" alum Michael DesBarres).
+Sara is first on the scene, taking photos of the dead woman when D.B. Russell arrives. She and Nick investigate the owner of the fantasy camp (Marty Kirch, played by "Food for the Heart" alum Michael DesBarres).
 
 ## Character Notes## 
 

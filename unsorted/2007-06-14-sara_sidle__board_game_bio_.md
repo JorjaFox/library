@@ -16,7 +16,7 @@ categories:
 | hair = brown  
 | eyes = brown  
 | weight = 107 lbs.  
-| height = 5&#8217;9&#8243;  
+| height = 5'9&#8243;  
 | dob = 16 Sept 1971  
 | birthplace = Tamales Bay, CA  
 | actor = [[Jorja Fox]]  
@@ -31,7 +31,7 @@ Sara Sidle is a fictional character featured in the television series [[CSI: Cri
 
 ==Biography==
 
-The newest member of the team, Sara was the only child of two ex-hippies. Her drive, discipline, and intellect sets her apart from those around her. She graduated from Harvard with a degree in Physics and earned her masters at Berkley, where she met Grissom when she attended one of his guest lectures. After working with the San Francisco Coroner&#8217;s Office, Grissom recruited her to join his team.
+The newest member of the team, Sara was the only child of two ex-hippies. Her drive, discipline, and intellect sets her apart from those around her. She graduated from Harvard with a degree in Physics and earned her masters at Berkley, where she met Grissom when she attended one of his guest lectures. After working with the San Francisco Coroner's Office, Grissom recruited her to join his team.
 
 [[Category:CSI]]  
 [[Category:Characters]]

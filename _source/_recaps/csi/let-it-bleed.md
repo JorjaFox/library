@@ -21,7 +21,7 @@ Nick and Riley witness a man in a police costume rob a convenience store. They t
 
 ## Sara Sidle Review
 
-_**Sara** does not appear in the episode._
+_Sara does not appear in the episode._
 
 ## Character Notes
 

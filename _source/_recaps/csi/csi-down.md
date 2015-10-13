@@ -23,7 +23,7 @@ Cafferty killed the boyfriend of his daughter, Samantha, and was trying to rescu
 
 ## Sara Sidle Review
 
-Catherine and **Sara** are in court at the beginning of the episode. When they come back, they help at the lab going over Cafferty's personal life.
+Catherine and Sara are in court at the beginning of the episode. When they come back, they help at the lab going over Cafferty's personal life.
 
 ## Quotes
 

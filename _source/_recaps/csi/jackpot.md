@@ -21,4 +21,4 @@ A severed head is shipped to Dr. Robbins from Jackpot, Nevada. Grissom goes to J
 
 ## Sara Sidle Review
 
-**Sara** does not appear in this episode.
+Sara does not appear in this episode.

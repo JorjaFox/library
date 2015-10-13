@@ -15,7 +15,7 @@ categories:
 | hair = brown  
 | eyes = brown  
 | weight = 107 lbs.  
-| height = 5&#8217;9&#8243;  
+| height = 5'9&#8243;  
 | dob = 16 Sept 1971  
 | birthplace = Tamales Bay, CA  
 | actor = [[Jorja Fox]]  
@@ -48,15 +48,15 @@ Like any tragic figure worth her salt, Sara has a single flaw: people. She can s
 ==Trivia==
 
 ==Quotation==  
-:&#8221;&#8217;Sara&#8221;&#8217;: When my father died, my mother came to a place like this for a while for evaluation. It looked the same, it smelled the same. It smelled like lies.  
-:&#8221;&#8217;Grissom&#8221;&#8217;: You sure you&#8217;re okay?  
-:&#8221;&#8217;Sara&#8221;&#8217;: Crazy people do make me feel crazy.[&#8230;]
+:&#8221;'Sara&#8221;': When my father died, my mother came to a place like this for a while for evaluation. It looked the same, it smelled the same. It smelled like lies.  
+:&#8221;'Grissom&#8221;': You sure you're okay?  
+:&#8221;'Sara&#8221;': Crazy people do make me feel crazy.[&#8230;]
 
-:&#8221;&#8217;Sara:&#8221;&#8217; [&#8230;] The only reason this is your lab is because Grissom doesn&#8217;t kiss ass. You couldn&#8217;t hack it in the field, so you fail your way up, you break up our team, and now you just hang out in the hallways waiting for one of us to screw up.  
-:&#8221;&#8217;Ecklie:&#8221;&#8217; Sidle, you&#8217;re on one-week suspension without pay&#8230;  
-:&#8221;&#8217;Sara:&#8221;&#8217; Great.  
-:&#8221;&#8217;Ecklie:&#8221;&#8217; &#8230;and when you get back, you&#8217;re apologizing to Catherine.  
-:&#8221;&#8217;Sara:&#8221;&#8217; No, I&#8217;m not
+:&#8221;'Sara:&#8221;' [&#8230;] The only reason this is your lab is because Grissom doesn't kiss ass. You couldn't hack it in the field, so you fail your way up, you break up our team, and now you just hang out in the hallways waiting for one of us to screw up.  
+:&#8221;'Ecklie:&#8221;' Sidle, you're on one-week suspension without pay&#8230;  
+:&#8221;'Sara:&#8221;' Great.  
+:&#8221;'Ecklie:&#8221;' &#8230;and when you get back, you're apologizing to Catherine.  
+:&#8221;'Sara:&#8221;' No, I'm not
 
 ==See Also==  
 [[Grissom Sara Romance]]

@@ -17,7 +17,7 @@ prodnum: 117
 
 ## Synopsis
 
-A sudden rainstorm washes away the evidence Grissom, Warrick, **Sara** and Nick are collecting after an apparent car jacking that ended in a triple homicide. Meanwhile, Catherine investigates a collapse of a building that killed three senior citizens.
+A sudden rainstorm washes away the evidence Grissom, Warrick, Sara and Nick are collecting after an apparent car jacking that ended in a triple homicide. Meanwhile, Catherine investigates a collapse of a building that killed three senior citizens.
 
 ## Sara Sidle Review## 
 

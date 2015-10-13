@@ -35,7 +35,7 @@ Trace on the baby's clothes comes back positive for Rifampin, a drug used to tre
 
 ## Sara Sidle Review
 
-**Sara** arrives on the scene with Nick and David Phillips, just as surprised as they are to learn about the fake loot and the thief's condition.
+Sara arrives on the scene with Nick and David Phillips, just as surprised as they are to learn about the fake loot and the thief's condition.
 
 She and Morgan Brody go to the maintenance room to meet with Ryan, and learn about the app for the lights, as well as the soap Ryan uses. This is beneficial later when David Hodges and Henry both try to one-up each other, explaining the trace found on Julian's shirt. It's Sara who puts it together as mechanic's soap, and she and Jim Brass interrogate Ryan.
 

@@ -31,7 +31,7 @@ Winthrop is shot when the police burst in and Finn is left in critical condition
 
 ## Sara Sidle Review
 
-Nick asks **Sara** if he should take the job in San Diego. 
+Nick asks Sara if he should take the job in San Diego. 
 
 While Nick is in San Diego, Sara is left in charge of the lab as DB and Finn are headed to Seattle. She proves herself more than capable, reading the situation and sending out the CSIs to the right places at the right time.
 

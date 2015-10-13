@@ -32,7 +32,7 @@ Sara works with recovering evidence from the golf cart with Ray and Nick, and is
 ## Character Notes
 
 * Sara isn't a fan of golf.  
-* **Sara** and Greg are still sibling-comfortable around each other.
+* Sara and Greg are still sibling-comfortable around each other.
 
 ## Quotes
 

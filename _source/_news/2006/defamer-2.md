@@ -18,6 +18,6 @@ newsurl: http://defamer.com/hollywood/kiefer-sutherland/hollywood-privacywatch-k
 
 Dec. 14th.  
   
-"'Jorja Fox"' (Sara Sidle from CSI) at JCrew Fashion Square
+**Jorja Fox** (Sara Sidle from CSI) at JCrew Fashion Square
 
 [...]  

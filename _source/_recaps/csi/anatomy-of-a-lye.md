@@ -17,7 +17,7 @@ prodnum: 221
 
 ## Synopsis
 
-Grissom and **Sara** investigate when a man's body, which has been doused with lye, is found buried in a park; Nick tries to determine how a hiker apparently drowned in a desert.
+Grissom and Sara investigate when a man's body, which has been doused with lye, is found buried in a park; Nick tries to determine how a hiker apparently drowned in a desert.
 
 ## Sara Sidle Review
 

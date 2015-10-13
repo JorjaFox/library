@@ -16,7 +16,7 @@ newsurl: http://www.wavenewspapers.com/community/calendar/38493429.html
 
 [...]
 
-==Event Description==
+##Event Description
 
 CELEBRITY COMEDIANS LILY TOMLIN AND CAROL LEIFER ARE JOINED BY ANIMAL WELFARE EXPERTS IN FINAL PUSH TO SHUT DOWN THE LA ZOO ELEPHANT EXHIBIT
 

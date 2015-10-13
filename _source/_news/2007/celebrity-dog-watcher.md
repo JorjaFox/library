@@ -13,7 +13,6 @@ newssource: Celebrity Dog Watcher
 newsurl: http://celebritydogwatcher.com/
 
 ---
-====
 
 "Los Angeles Confidential" magazine featured "CSI: Crime Scene Investigation**s Jorja Fox in the May issue, âGimmie Shelter' column.
 

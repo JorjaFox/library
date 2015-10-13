@@ -23,7 +23,7 @@ Meanwhile Lance and Denise Irwin, are found dead in their apartment, with the ca
 
 ## Sara Sidle Review
 
-**Sara** and Greg work the domestic abuse case, which Sara handles far better than she did in the past. S When first presented with the idea that the parrot killed Mrs. Irwin, Sara winds herself up and Dr. Robbins has to talk her down a bit.
+Sara and Greg work the domestic abuse case, which Sara handles far better than she did in the past. S When first presented with the idea that the parrot killed Mrs. Irwin, Sara winds herself up and Dr. Robbins has to talk her down a bit.
 
 ## Character Notes
 

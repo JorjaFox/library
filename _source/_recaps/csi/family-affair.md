@@ -25,7 +25,7 @@ Actress Olivia Hamilton has been found dead in her car following what appears to
 
 Now married, Grissom and Sara were in France, allowing Grissom to lecture at Sorbone while they waited for a research grant to be approved. Ecklie called to say the lab was short handed, but also because Riley blames Catherine's management style (or lack there of) for her reason to leave. Catherine is filled with self-doubt from that as well as the many other interpersonal issues plaguing the night shift. Sara reminds Catherine that she is a great CSI, but the one thing Grissom had that Catherine doesn't was Catherine.
 
-When the Russians break into the lab, **Sara** and Nick chase them out, firing at them as they drove out.
+When the Russians break into the lab, Sara and Nick chase them out, firing at them as they drove out.
 
 ## Character Notes
 

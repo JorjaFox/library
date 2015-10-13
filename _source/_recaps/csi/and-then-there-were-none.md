@@ -17,7 +17,7 @@ prodnum: 209
 
 ## Synopsis
 
-Grissom and his team investigate a casino heist during which innocent victims were shot, while Catherine and **Sara** are called to the scene of a murder in a remote part of the desert.
+Grissom and his team investigate a casino heist during which innocent victims were shot, while Catherine and Sara are called to the scene of a murder in a remote part of the desert.
 
 The evidence found at both crime scenes -- the crowded local casino and the isolated desert convenience store where a clerk was murdered -- has the CSI team drawing a correlation between the two crimes. Featuring the return of Tammy Felton.
 

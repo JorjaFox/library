@@ -27,7 +27,7 @@ Meanwhile, Mac Taylor visits from New York to surprise his girlfriend, in Vegas 
 
 ## Sara Sidle Review
 
-**Sara** and Greg work the primary case of the wine.
+Sara and Greg work the primary case of the wine.
 
 ## Character Notes
 

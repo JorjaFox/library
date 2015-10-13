@@ -23,7 +23,7 @@ They manage to match DNA at the scene to the most unlikely suspect, Mary Haymond
 
 ## Sara Sidle Review
 
-**Sara** goes with Morgan Brody to the after hours club 'The Rails' and find blood and snakeskin matching that which was found on the scene.
+Sara goes with Morgan Brody to the after hours club 'The Rails' and find blood and snakeskin matching that which was found on the scene.
 
 ## Character Notes
 

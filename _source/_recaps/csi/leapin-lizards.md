@@ -23,7 +23,7 @@ A group of cultists who believe that alien reptiles are breeding with humans in 
 
 Everyone works on the cult case, Sara providing a support role.
 
-Grissom and **Sara** watch a Godzilla movie together at Grissom's home, with his dog. Sara finds the letter Grissom never sent on his night-stand, and reads it while he's out of the room. 
+Grissom and Sara watch a Godzilla movie together at Grissom's home, with his dog. Sara finds the letter Grissom never sent on his night-stand, and reads it while he's out of the room. 
 
 ## Character Notes
 
@@ -39,7 +39,7 @@ Grissom and **Sara** watch a Godzilla movie together at Grissom's home, with his
 - - -
 
 **Sidle** What are you doing?  
-**Stokes** __sorting through a pig sty__ I read about a killer in Canada who fed his victim to his pigs.  
+**Stokes** _(sorting through a pig sty)_ I read about a killer in Canada who fed his victim to his pigs.  
 **Sidle** Oh.  
 **Stokes** They had to put out a notice, 'Warning, your pork may be contaminated with human.'  
 **Sidle** I'm so glad I'm a vegetarian.

@@ -21,7 +21,7 @@ The CSIs are brought in to solve the case of a recently murdered student whose d
 
 ## Sara Sidle Review
 
-_**Sara** does not appear in this episode._
+_Sara does not appear in this episode._
 
 ## Quotes## 
 

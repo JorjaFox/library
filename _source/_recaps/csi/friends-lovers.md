@@ -38,7 +38,7 @@ Sara investigates a dumped body in Henderson, dumpster dives and realizes the co
 - - -
 
 **Phillips** I really admire the gusto with which you approach your job.  
-**Sidle** Are you hitting on me, David? __David nods, shyly_ _Sidle laughs softly__ Let me give you some advice. If you want to pull chicks, you've gotta get aggressive. Lose the glasses, lose the coat, grow some scruff. __thoughtful pause__ You do get a C for cute, though.  
+**Sidle** Are you hitting on me, David? _(David nods, shyly_ _Sidle laughs softly)_ Let me give you some advice. If you want to pull chicks, you've gotta get aggressive. Lose the glasses, lose the coat, grow some scruff. _(thoughtful pause)_ You do get a C for cute, though.  
 
 - - -
 

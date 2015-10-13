@@ -17,7 +17,7 @@ prodnum: 108
 
 ## Synopsis
 
-When a man is found dead in a setting disturbingly similar to a previous case (in the Pilot episode), Grissom realizes that a serial killer is on the loose. The Killer begins leaving clues to taunt Grissom, while **Sara** and Catherine work with Grissom. Warrick and Nick clash when they investigate a peculiar car accident.
+When a man is found dead in a setting disturbingly similar to a previous case (in the Pilot episode), Grissom realizes that a serial killer is on the loose. The Killer begins leaving clues to taunt Grissom, while Sara and Catherine work with Grissom. Warrick and Nick clash when they investigate a peculiar car accident.
 
 ## Character Notes
 
@@ -48,5 +48,5 @@ When a man is found dead in a setting disturbingly similar to a previous case (i
 
 **Sidle** He's toying with us.  
 **Sanders** Who is?  
-**Sidle** __pause__ Anonymous.
+**Sidle** _(pause)_ Anonymous.
 

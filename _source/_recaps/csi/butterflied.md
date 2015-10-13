@@ -17,7 +17,7 @@ prodnum: 412
 
 ## Synopsis
 
-A woman found murdered in her home. Her resemblance to **Sara** causes Grissom to take a personal interest in the case and forces him to examine the decisions he has made in his life.
+A woman found murdered in her home. Her resemblance to Sara causes Grissom to take a personal interest in the case and forces him to examine the decisions he has made in his life.
 
 ## Sara Sidle Review
 

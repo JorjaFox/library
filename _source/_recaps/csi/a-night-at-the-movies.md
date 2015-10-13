@@ -19,7 +19,7 @@ prodnum: 319
 
 Grissom and Catherine are called to an art house movie theater, where a dentist was killed during a showing of the Alfred Hitchcock film Strangers on a Train. Under the victim's seat, Grissom finds a cell phone, with all the recent calls from a private number, and Catherine a bloody Phillips head screw driver. One of the theater's staff says he saw a tall, blond woman leave the cinema during the movie, and she never returned.
 
-Meanwhile, Warrick, **Sara** and Nick's case centers around a dead fifteen-year-old who was found in a warehouse with mysterious round bruises on his body and a single gunshot through his chest. DNA evidence on a beer bottle discovered at the scene places his older brother, Kevin, at the warehouse, but he denies all knowledge of what happened.
+Meanwhile, Warrick, Sara and Nick's case centers around a dead fifteen-year-old who was found in a warehouse with mysterious round bruises on his body and a single gunshot through his chest. DNA evidence on a beer bottle discovered at the scene places his older brother, Kevin, at the warehouse, but he denies all knowledge of what happened.
 
 ## Sara Sidle Review
 

@@ -16,7 +16,7 @@ categories:
 | hair = brown  
 | eyes = brown  
 | weight = 107 lbs.  
-| height = 5&#8217;9&#8243;  
+| height = 5'9&#8243;  
 | dob = 16 Sept 1971  
 | birthplace = Tamales Bay, CA  
 | actor = [[Jorja Fox]]  
@@ -30,7 +30,7 @@ brother(?)
 Sara Sidle is a fictional character featured in the television series [[CSI: Crime Scene Investigation]]. She is depicted by [[Jorja Fox]].
 
 ==Biography==  
-Sara works under Gil at the CSI lab. She has feelings for Gil and a problem with authority figures like Conrad Ecklie. Sara&#8217;s specialty is element and materials analysis.
+Sara works under Gil at the CSI lab. She has feelings for Gil and a problem with authority figures like Conrad Ecklie. Sara's specialty is element and materials analysis.
 
 ==Source==  
 [http://www.msnbc.msn.com/id/9357379/ MSNBC]

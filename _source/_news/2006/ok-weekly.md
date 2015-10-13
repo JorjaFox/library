@@ -7,18 +7,18 @@ permalink: /news/2006/:title/
 categories: [News, Articles]
 tags: 2006
 
-newstitle: "Foxy Lady  "
+newstitle: "Foxy Lady"
 newsauthor: Staff  
 newssource: OK Weekly  
-newsurl:  
+newsurl:  http://okmagazine.com/
 
 ---
 
 "My six-pack is not like most actresses' &#8212; my six-pack is beer."
 
-"'From gritty crime scenes to sexy love scenes, JORJA FOX's role on "[[CSI]]" has been through a lot of changes due to her new romance."'
+**From gritty crime scenes to sexy love scenes, JORJA FOX's role on "CSI" has been through a lot of changes due to her new romance.**
 
-"'WITH HER TOMBOYISH"' demeanor and love of rock music, surfing, beer and dogs, no one, least of all actress Jorja Fox, would have predicted that she'd be in one of the most talked-about love affairs on TV this season. But as one of the stars of "CSI", Jorja has given the CBS drama a hot new look, with her character, [[Sara Sidle]], going from crime scenes to love scenes. Her surprising romance with fellow forensics investigator Gil Grissom (played by William Petersen) is keeping fans guessing at the snow near the top of the ratings in its Thursday-night battle against ABC's "Grey's Anatomy",
+**WITH HER TOMBOYISH** demeanor and love of rock music, surfing, beer and dogs, no one, least of all actress Jorja Fox, would have predicted that she'd be in one of the most talked-about love affairs on TV this season. But as one of the stars of "CSI", Jorja has given the CBS drama a hot new look, with her character, Sara Sidle, going from crime scenes to love scenes. Her surprising romance with fellow forensics investigator Gil Grissom (played by William Petersen) is keeping fans guessing at the snow near the top of the ratings in its Thursday-night battle against ABC's "Grey's Anatomy",
 
 "I'm really exited about the thing between Grissom and Sara," Jorja told "OK!". "What's not sexy about William Petersen? Going into the seventh year of a show, to have something so big and so different to play after all this time is very unique and rare. We're having a ball. I hope the fans love it."
 
@@ -28,7 +28,7 @@ A self-described hippie, Jorja often comes to work with her best friend, her dog
 
 Jorja's four-legged pal, Ali, 10, is a shelter dog herself and is named for the famous boxer Muhammad Ali. "She's Ali the boxer, because she's so pretty," Jorja smiled. "I've always had a dog in my life. I know this is a cliched thing to say, but she's my best friend."
 
-Jorja's love for animals affects her diet as well. "I am a 20-year vegetarian," she said. "I eat a lot of grains and vegetables and fruit and soy products. I eat a little bit of dairy, especially if I can find it organiv and made in local, humane and free-range conditions."
+Jorja's love for animals affects her diet as well. "I am a 20-year vegetarian," she said. "I eat a lot of grains and vegetables and fruit and soy products. I eat a little bit of dairy, especially if I can find it organic and made in local, humane and free-range conditions."
 
 Still, she does admit to allowing herself "some" splurges. "Chocolate, coffee, pizza. And beer. I could show you my six-pack, which is not like most actresses' six-packs in this town!"
 

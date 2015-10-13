@@ -33,8 +33,8 @@ The entire team works the Paula / Paul Millander case. Again showing her mechani
 
 ## Quotes
 
-**Brass** __standing, holding a hitchhiker's sign reading 'Vegas'__  
-**Sidle** __teasing__ I believe hitchhiking is illegal in Clark County.  
+**Brass** _(standing, holding a hitchhiker's sign reading 'Vegas')_  
+**Sidle** _(teasing)_ I believe hitchhiking is illegal in Clark County.  
 **Brass** You got me!  
 
 - - -

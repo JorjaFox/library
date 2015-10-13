@@ -30,7 +30,7 @@ newsurl: http://www.csifiles.com/content/2011/09/interview-jorja-fox/
 
 **CSI Files**: One of my favorite moments of the season so far is Sara teasing Morgan (**Elisabeth Harnois**) about her driving in episode two. The smirk you two exchange is worth a million bucks!
 
-**Fox**: Aww, thank you. Well her character is really great and I think we're gonna see a lot of cool one-liners coming out of Morgan. She's rough in a really humorous way and sexy at the same time. The more I get to know her I'm like, "you're a lot like your character!â [Laughs.]
+**Fox**: Aww, thank you. Well her character is really great and I think we're gonna see a lot of cool one-liners coming out of Morgan. She's rough in a really humorous way and sexy at the same time. The more I get to know her I'm like, "you're a lot like your character!" [Laughs.]
 
 **CSI Files**: Well Morgan also has a vibe going on that reminds me of a younger Sara.
 

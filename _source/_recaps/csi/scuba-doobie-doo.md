@@ -27,7 +27,7 @@ At the initial scene, Sara is trying to figure out what made the blood spatter o
 
 When she and Grissom are tearing apart the walls with a sledgehammer, Grissom gets frustrated with their lack of progress and goes outside -- Sara follows him out to check on him. She brushes chalk dust off Grissom's cheek, it what may be a comforting or supportive gesture. For Sara, it appears to be an intimate gesture, however Grissom seems confused. This action will come back to haunt them at trial, even though there is apparently no one around to witness it.
 
-After solving the case, **Sara** and Nick ask Grissom out to breakfast, but he prefers to dine with his beetle.
+After solving the case, Sara and Nick ask Grissom out to breakfast, but he prefers to dine with his beetle.
 
 ## Character Notes
 

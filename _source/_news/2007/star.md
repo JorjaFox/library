@@ -20,9 +20,9 @@ Head honchos at CBS's top-rated crime drama "CSI: Crime Scene Investigation", si
 
 "Jorja demanded a major raise over her $100,000-per episode salary," according to the source. "CBS offered a moderate raise, but far from the doubling of salary she was hoping fore." When Fox balked, the source says "CSI" decided to say "Sayonara, Sara!"
 
-===AWOL ACTRESS===
+## AWOL ACTRESS
 
-## Diva Deja Vu: Fox's First Firing!
+### Diva Deja Vu: Fox's First Firing!
   
 Jorja and George Eads were kicked off the show in 2004 during a salary dispute, but ended up crawling back &#8212; without a raise. "There comes a point where we feel a contract is a contract," CBS boss Les Moonves said at the time.
 
@@ -36,13 +36,13 @@ With the actress unavailable for the episode's final scenes, "CSI""s producers h
 
 "It was a miracle they pulled it off. One thing's for sure, Jorja probably won't be invited back next season. They were furious at having been left in the lurch."
 
-==="CSI" IN CRISIS===
+##"CSI" IN CRISIS
 
 "CSI" is no stranger to on-set controversy, but "this is pretty much the worst crisis the show has faced," the set source tells "Star". And there have been quite a few!
 
 One even involved Jorja, who was fired, along with costar **George Eads**, in 2004, before being reinstated. [...]
 
-===STAYING ALIVE===  
+##STAYING ALIVE
 Fox's latest mutiny will likely not be forgiven, according to the insider. "The network and the producer are fed up," says the source. CBS declined to comment on this story, but Fox's rep denies the actress made any additional salary demands. "She did not demand a raise. Her contract is up, and they are in conversations, but it has yet to be determined if she will be back next season," says the rep. "The season finale is open-ended. She filmed it, which you will see when it airs."
 
 Indeed, the set source says Fox did film some scenes for the finale, set to air May 17, regarding Sara's relationship with **William Petersen""s character, Gil Grissom. but the only reason the show is a cliffhanger, the source claims, is because Jorja didn't show up to get killed!

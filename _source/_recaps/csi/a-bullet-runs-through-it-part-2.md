@@ -27,7 +27,7 @@ The final answer is that Jim Brass shot officer Bell. During the fire fight, bot
 
 ## Sara Sidle Review
 
-Early in the episode, Sofia Curtis comes to unburden herself to Grissom, who repeatedly asks her not to tell him. Sofia is on administrative leave and shouldn't talk to anyone on the force, which is hard since most of her friends are cops, including her mother. As Sofia talks over Grissom's objections, **Sara** arrives and reinforces Grissom's statement of how Sofia shouldn't be there, talking to them. Sofia spits back that Sara doesn't have many friends outside the force, and Sara offers the name of a police psychologist.
+Early in the episode, Sofia Curtis comes to unburden herself to Grissom, who repeatedly asks her not to tell him. Sofia is on administrative leave and shouldn't talk to anyone on the force, which is hard since most of her friends are cops, including her mother. As Sofia talks over Grissom's objections, Sara arrives and reinforces Grissom's statement of how Sofia shouldn't be there, talking to them. Sofia spits back that Sara doesn't have many friends outside the force, and Sara offers the name of a police psychologist.
 
 While hunting for the bullet that killed Bell in the alley, Grissom swoops by and asks Sara to work with him, saying it'll be fun. Sara goes along, and seems only mildly annoyed by Grissom's normal quiz and games attitude. Based on the information that there was red clay on the gun of the shooter killed in the alley, and eye-witnesses claimed he'd been unarmed while the cops said otherwise, Grissom reconstruced the situation. Sara demonstrates how the shooter threw the gun up and how he caught it when the gun slid back down.
 

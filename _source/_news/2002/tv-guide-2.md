@@ -13,7 +13,7 @@ newsurl: http://tvguide.com
 
 ---
 
-"'CSI Star MIA at ER Funeral"'
+**CSI Star MIA at ER Funeral**
 
 On tonight's ER ? airing 10 pm/ET on NBC ? many ex-cast members are expected to return for the farewell of Dr. Mark Greene (Anthony Edwards). Who? Exec producer John Wells has kept that info under tight wraps. But we can tell you who won't be there: CSI star Jorja Fox, who played lesbian lady doc Maggie Doyle from 1996-99.
 

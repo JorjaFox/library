@@ -23,7 +23,7 @@ Kevin Fetzer, a well-off entrepreneur who created Joystick Jungle, an arcade for
 
 ## Sara Sidle Review
 
-**Sara** and Nick work the Castillo case until it merges with the others.
+Sara and Nick work the Castillo case until it merges with the others.
 
 ## Quotes
 

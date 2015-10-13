@@ -16,6 +16,6 @@ newsurl: http://defamer.com/hollywood/sightings/hollywood-privacywatch-gene-simm
 
 [...]
 
-* Tues 8-15 Arclight caf âCSI's salary holdout near-casualty "'Jorja Fox"' with older, male friend. She looked pretty good. Turns out, she was seeing the same movie as I wasâthe 7:55 Talladega Nights. I wonder if she, like me, looked down at her own yellow stream the very next dawn and immediately thought to herself: "I wake up in the morning and I piss excellence."
+* Tues 8-15 Arclight caf âCSI's salary holdout near-casualty **Jorja Fox** with older, male friend. She looked pretty good. Turns out, she was seeing the same movie as I wasâthe 7:55 Talladega Nights. I wonder if she, like me, looked down at her own yellow stream the very next dawn and immediately thought to herself: "I wake up in the morning and I piss excellence."
 
 [...]  

@@ -21,5 +21,5 @@ When Nick learns that a man he helped put in prison is going to have his convict
 
 ## Sara Sidle Review
 
-_**Sara** does not appear in this episode._
+Sara Sidle does not appear in this episode._
 

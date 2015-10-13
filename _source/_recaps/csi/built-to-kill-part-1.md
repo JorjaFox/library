@@ -27,7 +27,7 @@ Grissom finds an exact miniature replica of the crime scene he's investigating, 
 
 ## Sara Sidle Review
 
-**Sara** works the O'Brien case, and inquires as to how David is doing with his in laws. Sara teases Grissom in his office later, quoting him for effect. The two are quite obviously still in a relationship. While Sara's working with Warrick over lunch, Grissom brings her food: a veggie burger.
+Sara works the O'Brien case, and inquires as to how David is doing with his in laws. Sara teases Grissom in his office later, quoting him for effect. The two are quite obviously still in a relationship. While Sara's working with Warrick over lunch, Grissom brings her food: a veggie burger.
 
 ## Character Notes
 
@@ -37,9 +37,9 @@ Grissom finds an exact miniature replica of the crime scene he's investigating, 
 
 ## Quotes
 
-**Sara** It's hard to swallow when you have a gun in your mouth.  
+**Sidle** It's hard to swallow when you have a gun in your mouth.  
 
 - - -
 
-**Sara** to Grissom According to my supervisor, we're not really in the business of why.
+**Sidle** _(to Grissom)_ According to my supervisor, we're not really in the business of why.
 

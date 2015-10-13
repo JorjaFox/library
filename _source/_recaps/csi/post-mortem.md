@@ -33,8 +33,3 @@ Catherine is sent to assist Sara on this case. Sara finds that Penny had been ca
 
 **Sidle** If one was horrifying, what is two?  
 **Grissom** A possible serial killer.
-
-==References==
-
-<references/>
-

@@ -19,7 +19,7 @@ prodnum: 337
 
 Unlike the last time Grissom was mentioned in the lab , this time everyone is angry at Grissom because of Lady Heather. However they allow him in the room when Heather is interrogated.
 
-She claims there was an intruder in her home whom she attacked and then ran off, not calling the cops because of recent experiences. Heather needles **Sara** until Sara breaks and leaves the room, promising to get Heather. It's Heather who says 'you mean him', indicating Grissom. Heather explains that while she's certainly the 'cause' for the killings, she's not behind them. She's being framed by one of the thirteen people who had a key to her special room.
+She claims there was an intruder in her home whom she attacked and then ran off, not calling the cops because of recent experiences. Heather needles Sara until Sara breaks and leaves the room, promising to get Heather. It's Heather who says 'you mean him', indicating Grissom. Heather explains that while she's certainly the 'cause' for the killings, she's not behind them. She's being framed by one of the thirteen people who had a key to her special room.
 
 Of the thirteen people, only five are male and alive. They include Dalton Barrow, Heather's first client. But none of their blood matches. As they mull that over, Lindsey Willows brings in Grissom's suitcase. Only it's not Grissom's. It's a dead body in a suitcase. In the body is a MicroSD card with a video message for Grissom. All the killings are being done for him.
 

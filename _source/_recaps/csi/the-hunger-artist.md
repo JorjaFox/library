@@ -28,5 +28,5 @@ Season Finale. The CSIs investigate when the body of an unidentified young woman
 
 **Sidle** I got crabs.  
 **Grissom** Excuse me?  
-**Sidle** I got crabs __points at the microscope__ Take a look.
+**Sidle** I got crabs _(points at the microscope)_ Take a look.
 

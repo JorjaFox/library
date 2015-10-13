@@ -17,7 +17,7 @@ prodnum: 520
 
 ## Synopsis
 
-Grissom and **Sara** investigate the murder of a mental-hospital patient and quickly narrow down the suspects to a handful of other patients and staff members.
+Grissom and Sara investigate the murder of a mental-hospital patient and quickly narrow down the suspects to a handful of other patients and staff members.
 
 ## Sara Sidle Review
 

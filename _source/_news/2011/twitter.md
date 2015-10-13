@@ -16,7 +16,7 @@ newsurl: http://jorjafox.net/2011/tweetcap-of-the-live-csi-chat/
 
 Welcome to everyone. Don and I are excited to be here and talk about the new season #CSI
 
-âA TO Qâ means "Answer to Questionâ.
+"A TO Q" means "Answer to Question".
 
 [..]
 

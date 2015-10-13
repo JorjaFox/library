@@ -13,7 +13,6 @@ newssource: Watch With Kristin
 newsurl: http://www.eonline.com
 
 ---
-====
 
 [...]
 

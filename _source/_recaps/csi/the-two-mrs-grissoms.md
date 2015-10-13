@@ -19,7 +19,7 @@ prodnum: 242
 
 A night full of celebration ends with a bang when the director of a scholarship foundation for the deaf is killed by a deadly car bomb, prompting Sara to interrogate the students and faculty of the college where her mother-in-law, Betty Grissom, works.
 
-Grissom's ex girlfriend, Julia Holden, is on the selection committed for the grant to be given out by Dr. Eric Lambert (the head of the Gilbert Foundation). She's also first on the scene when his car is exploded and then shoved down a hill, on fire. Sara has to drag her away before the car burns up entirely. The CSIs find that there was a bomb in the car, and he was dead before the fire started. When they determine Julia is lying to them about feeling the explosion, **Sara** and Nick investigate her office and find enough evidence to bring Julia in for questioning. In interrogation, Julia professes her innocence, but offers no explanations. She derails the questioning by revealing that she and Grissom were once intimate, and accuses Sara of allowing that relationship to color the case.
+Grissom's ex girlfriend, Julia Holden, is on the selection committed for the grant to be given out by Dr. Eric Lambert (the head of the Gilbert Foundation). She's also first on the scene when his car is exploded and then shoved down a hill, on fire. Sara has to drag her away before the car burns up entirely. The CSIs find that there was a bomb in the car, and he was dead before the fire started. When they determine Julia is lying to them about feeling the explosion, Sara and Nick investigate her office and find enough evidence to bring Julia in for questioning. In interrogation, Julia professes her innocence, but offers no explanations. She derails the questioning by revealing that she and Grissom were once intimate, and accuses Sara of allowing that relationship to color the case.
 
 The bomb used to blow of Dr. Lambert was made with a Shake Alert device found on Gilbert College. The CSIs search all the dorm rooms and finds that Michael, Julia's TA, has a Shake Alert device that is totally different. They talk to him, but he wasn't at the party. He tips the CSIs off to Sean Wyatt, who had a fight with Dr. Lambert, and a favorite of Julia, *and* they find trace in his room. He is innocent, but he was sleeping with Julia. In fact, his alibi is that he and Julia were together after they left the party.
 
@@ -51,7 +51,7 @@ After solving the case, Sara and Betty share a Skype conversation with Grissom, 
 
 * * *:
 
-**Gil Grissom** The graves were littered with pupae casings. It looked like someone dumped a ton of Rice Krispies on top of a bunch of halloween skeletons. It indicated that it wasn't a proper burial. During the Inca period, there was no greater punishment. We think it was meant as a warning. 'Don&#8217;t mess with the Moche.'  
+**Gil Grissom** The graves were littered with pupae casings. It looked like someone dumped a ton of Rice Krispies on top of a bunch of halloween skeletons. It indicated that it wasn't a proper burial. During the Inca period, there was no greater punishment. We think it was meant as a warning. 'Don't mess with the Moche.'  
 **Sara Sidle** Ah ha.  
 **Gil Grissom** So anyway. How was your week? What'd you do?  
 **Sara Sidle** Well. I almost got blown up twice. I accused your ex-girlfriend of murder. And ... Oh, and I told off your mother.  

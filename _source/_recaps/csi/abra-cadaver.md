@@ -21,7 +21,7 @@ The strange worlds of magic and rock music are explored in this creepy episode. 
 
 ## Sara Sidle Review
 
-**Sara** assists Grissom.
+Sara assists Grissom.
 
 ## Quotes
 

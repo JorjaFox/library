@@ -25,4 +25,4 @@ Holland was having an affair with his CO, who killed him to cover up their homos
 
 ## Sara Sidle Review
 
-**Sara** talks to Morgan about her initial theory involving a Columbian cartel.
+Sara talks to Morgan about her initial theory involving a Columbian cartel.

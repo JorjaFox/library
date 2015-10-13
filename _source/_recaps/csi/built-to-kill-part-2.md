@@ -23,7 +23,7 @@ Rock star Izzy Delancy has been killed by a blow to the head, and an identical m
 
 ## Sara Sidle Review
 
-While Grissom and **Sara** are alone at the Delancy crime scene, there's considerable banter between the two, continuing the level of intimacy demonstrated in the last two episodes. Even after Sara leaves the case to help Catherine, she returns to talk with Grissom on the case.
+While Grissom and Sara are alone at the Delancy crime scene, there's considerable banter between the two, continuing the level of intimacy demonstrated in the last two episodes. Even after Sara leaves the case to help Catherine, she returns to talk with Grissom on the case.
 
 Conrad Ecklie asks them about releasing information on the miniature to the media, but Grissom says no. Ecklie mutters 'Of course you do' when Sara says she agrees with Grissom. After Ecklie leaves, Sara and Grissom exchange looks, and Sara shakes her head -- this may or may not imply that Ecklie is unaware of their relationship.
 

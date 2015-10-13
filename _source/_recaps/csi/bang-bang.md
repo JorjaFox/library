@@ -21,7 +21,7 @@ It starts out in a casino with a guard having his gun stolen and a guest shoots 
 
 Brass, Grissom, Warrick, David and Doc Robbins are on the scene of a domestic homicide case, where the wife (Janice Cutler) was shot in the face. There is no other signs of a struggle in the room, and Grissom is suspicious. There was signs of sex, but not rape, in the body. The gun was placed inside the mouth. Grissom admits he was only close to marriage when he was seven.
 
-**Sara** and Warrick inspect the house. Warrick laments he and Tina got married so fast. Warrick finds light porn in the house. The gardener's sock was found in the bedroom, and the young man, Timmy, admits that he'd been having an affair with Janice. Timmy says that her husband, Willie, was in a rage, but both were alive when he left.
+Sara and Warrick inspect the house. Warrick laments he and Tina got married so fast. Warrick finds light porn in the house. The gardener's sock was found in the bedroom, and the young man, Timmy, admits that he'd been having an affair with Janice. Timmy says that her husband, Willie, was in a rage, but both were alive when he left.
 
 The prints on the porn match the husband, and Nick calls one of the numbers. Sally, the hooker, says that she'd been screwing around with Willie, and he'd given her his card. Catherine goes to Willie's office, where a man is found dead on the floor. Another body is dead in the back office, and one man is alive in the back office: Willie Cutler. Willie had no idea his wife was dead.
 
@@ -45,6 +45,6 @@ Sara works the side of the case involving the dead wife.
 
 ## Quotes
 
-**Sara** And grass, not the kind you smoke on the floor in the closet. But all the shoes in the closet were clean.  
-**Warrick** So someone was walking around in here with grass on their shoes? Maybe it was the missing husband... or a desperate gardener.  
-**Sara** Who was mowing more than the lawn.
+**Sidle** And grass, not the kind you smoke on the floor in the closet. But all the shoes in the closet were clean.  
+**Brown** So someone was walking around in here with grass on their shoes? Maybe it was the missing husband... or a desperate gardener.  
+**Sidle** Who was mowing more than the lawn.

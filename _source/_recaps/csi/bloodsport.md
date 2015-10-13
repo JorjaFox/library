@@ -25,7 +25,7 @@ However it was Calvin who killed the coach, upset at having let Coach Miller tal
 
 ## Sara Sidle Review
 
-Greg and **Sara** work the sunken car case. Sara remarks on how hard it is to break out of a car, and demonstrates her old skill set with finding evidence in the vehicle. She also shows good eyesight, spotting Jimenez's jacket, hidden in the brush.
+Greg and Sara work the sunken car case. Sara remarks on how hard it is to break out of a car, and demonstrates her old skill set with finding evidence in the vehicle. She also shows good eyesight, spotting Jimenez's jacket, hidden in the brush.
 
 ## Character Notes
 

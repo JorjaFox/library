@@ -34,5 +34,5 @@ Meanwhile, Nick and Catherine take on a case with little more than angora fibers
 
 - - -
 
-**Sidle** __thrilled__ You turned my pickle into a light bulb!
+**Sidle** _(thrilled)_ You turned my pickle into a light bulb!
 

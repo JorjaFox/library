@@ -33,7 +33,7 @@ After texting Finn to inform her about Russell's granddaughter, Sara is on hand 
 
 Sara also tries to find Nick, leaving him messages, and finally picking him up from the drunk tank because they need his help. She drafts him back to work for the case. Nick helps Sara work through the evidence, including the note left at the scene, which reveals the fingerprint of Lt. Paul Kimball, McKeen's number one guy and the kidnapper.
 
-As the episode ends, Nick, Sara, and Greg are sitting in the break room again, just as they did in the season twelve finale. Greg asks Nick if he's really quitting, which brings an argument between **Sara** and Nick about when Sara left the lab.
+As the episode ends, Nick, Sara, and Greg are sitting in the break room again, just as they did in the season twelve finale. Greg asks Nick if he's really quitting, which brings an argument between Sara and Nick about when Sara left the lab.
 
 ## Character Notes
 

@@ -21,7 +21,7 @@ A casino employee is beaten and raped on her way home from work, but she survive
 
 ## Sara Sidle Review
 
-After they discover that the promotion was cancelled, Sara, Nick and Warrick go out for a few drinks. **Sara** is later picked up for DUI, and Grissom -- as her supervisor -- is notified and takes her home.
+After they discover that the promotion was cancelled, Sara, Nick and Warrick go out for a few drinks. Sara is later picked up for DUI, and Grissom -- as her supervisor -- is notified and takes her home.
 
 ## Character Notes
 
@@ -38,5 +38,5 @@ After they discover that the promotion was cancelled, Sara, Nick and Warrick go 
 
 - - -
 
-**Sidle** When was the last time you took vacation? __pause__ Never, right?  
+**Sidle** When was the last time you took vacation? _(pause)_ Never, right?  
 **Grissom** Okay.

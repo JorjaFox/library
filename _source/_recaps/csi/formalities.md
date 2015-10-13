@@ -21,4 +21,4 @@ Grissom is called to a murder of a 17-year-old in a casino penthouse. Sofia Curt
 
 ## Sara Sidle Review
 
-**Sara** does not appear in this episode.
+Sara does not appear in this episode.

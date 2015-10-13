@@ -13,7 +13,7 @@ newsurl: http://www.instyle.com/
 
 ---
 
-"'She said ... Jorja Fox"'
+**She said ... Jorja Fox**
 
 *33-year-old co-star of CBS's* CSI.
 

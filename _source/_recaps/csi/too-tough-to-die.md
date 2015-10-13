@@ -29,7 +29,7 @@ Later, Sara goes through missing persons reports on the computer, hoping to iden
 
 A suspect is brought in, and Sara discovers that Grissom told Nick to keep her out of the interrogation room.
 
-**Sara** and Nick are back in the lab, and Sara begins to sing to herself again (Blondie's 'One Way Or Another') -- when Nick tells her she has a nice singing voice, she denies it.
+Sara and Nick are back in the lab, and Sara begins to sing to herself again (Blondie's 'One Way Or Another') -- when Nick tells her she has a nice singing voice, she denies it.
 
 Sara goes to the hospital to tell the unconscious victim that they found the assailant, and meets the victim's husband. Sara is barely able to control her emotions. She talks to Grissom about the victim and loses control, crying. She says that she wishes she was like Grissom, without feelings.
 

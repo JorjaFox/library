@@ -23,12 +23,12 @@ Shelby turns out to be the birth mother of Harper, with whom TJ was having an af
 
 ## Sara Sidle Review
 
-At the autopsy, **Sara** is delighted when David the coroner's assistant makes light in the morgue using luminol.
+At the autopsy, Sara is delighted when David the coroner's assistant makes light in the morgue using luminol.
 
 ## Character Notes
 
 * Sara and David (aka Super Dave) still flirt as friends.  
-* **Sara** and Nick confess to being out of practice reviewing prints by eye and not computer.
+* Sara and Nick confess to being out of practice reviewing prints by eye and not computer.
 
 ## Quotes## 
 

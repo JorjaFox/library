@@ -19,7 +19,7 @@ prodnum: 601
 
 The two forensic teams come back together under the leadership of Grissom and Catherine just in time to tackle three separate investigations: a murdered couple found in bed in a suspicious trailer explosion; a beautiful stripper discovered dead and dumped in the worst part of town; and two bodies found baked and decomposed after spending five days in the trunk of a car exposed to the hot Vegas sun, forcing the CSIs to 'wrap' up the evidence and bring it back to the lab for further analysis.
 
-The episode starts with a 402 -- fire in a trailer park, with two victims (male and female). The CSIs are all back together, with Catherine giving direction to Warrick. **Sara** and Nick check the trailer (she takes outside, he takes inside) while a cop suggests it's a meth lab. Brass learns from the neighbors that the woman was single and the car outside wasn't hers, but no one saw anything. One neighbor says he heard the explosion and came out five minutes later because he was watching TV.
+The episode starts with a 402 -- fire in a trailer park, with two victims (male and female). The CSIs are all back together, with Catherine giving direction to Warrick. Sara and Nick check the trailer (she takes outside, he takes inside) while a cop suggests it's a meth lab. Brass learns from the neighbors that the woman was single and the car outside wasn't hers, but no one saw anything. One neighbor says he heard the explosion and came out five minutes later because he was watching TV.
 
 Catherine and Warrick leave to check out a 419 (dead body) in the industrial part of time. The woman was found in a bag for a dress and rubber boots. No ID other than that. Catherine notices Warrick's ring and he confesses to having gotten married the day before. Vartann and David Phillips congratulate Warrick. David gives time of death as no more than four hours.
 
@@ -37,7 +37,7 @@ In his A/V lab, Archie is listening to the tape that Nick had in the coffin (in 
 
 At the trailer park, Grissom, Nick and Brass run into the drunk guy (who'd left his trailer about five minutes after he heard the explosion). Apparently, while drunk, he'd hit the gas main, vaulted through the other trailer causing it to catch on fire, and then driven home. The car still worked, but the man was obviously messed up from it.
 
-That leaves **Sara** and Greg to process the car with the liquid bodies. Greg has to reach in and unplug the drain, which splashes fluid on Sara and into his mouth. The two drain the car, saving the remains, and find a bullet.
+That leaves Sara and Greg to process the car with the liquid bodies. Greg has to reach in and unplug the drain, which splashes fluid on Sara and into his mouth. The two drain the car, saving the remains, and find a bullet.
 
 Hodges has no good news on Catherine and Warrick's case (the rust stain was caused by rust). The CSIs can't figure out why their victim was so far from her car. Warrick wants to talk with Catherine, who's obviously a little upset about his marriage, and explains that he did it because of what happened to Nick. It made Warrick rethink his life. Catherine confesses she's jealous because Warrick was her fantasy man.
 

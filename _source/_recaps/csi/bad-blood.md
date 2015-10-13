@@ -17,7 +17,7 @@ prodnum: 319
 
 ## Synopsis
 
-**Sara** and Greg arrive on scene to find the dead 'Jack Smith' in a pool of blood, shot in the neck, in an apartment covered in blood. When they examine the body, Sara notices the victim's eyes were bleeding and calls the CDC. The two are quickly put in special suits and transported to a hospital as they may be infected. The evidence from the case is at risk, since the CDC generally destroys everything to prevent contamination.
+Sara and Greg arrive on scene to find the dead 'Jack Smith' in a pool of blood, shot in the neck, in an apartment covered in blood. When they examine the body, Sara notices the victim's eyes were bleeding and calls the CDC. The two are quickly put in special suits and transported to a hospital as they may be infected. The evidence from the case is at risk, since the CDC generally destroys everything to prevent contamination.
 
 The CDC, working with a lab called Rynelab, determines it is a virus, similar to ebola, and has an 80% fatality rate.
 

@@ -25,7 +25,7 @@ When the house is searched for Fred's murder weapon, a skeleton is found in the 
 
 ## Sara Sidle Review
 
-**Sara** and Nick talk about Nick's dating life as they come to the crime scene. When Sara goes back to the lab, she officially meets Finn. Back at the house, when the Hicks' siblings argue, Sara leans on the horn till they shut up.
+Sara and Nick talk about Nick's dating life as they come to the crime scene. When Sara goes back to the lab, she officially meets Finn. Back at the house, when the Hicks' siblings argue, Sara leans on the horn till they shut up.
 
 In the end, the siblings fight again over the house and Finn threatens to take a chainsaw to it, until Sara points out that whomever owns the house will pay the bills for the damage caused when it was hauled into the hills.
 

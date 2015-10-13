@@ -17,7 +17,7 @@ prodnum: 103
 
 ## Synopsis
 
-When the wife of a well-to-do business man is kidnapped, Grissom, **Sara** and Nick investigate her disappearance, eventually saving her after she was buried underground, only to find the deceptions are deeper than they thought. Meanwhile, Warrick and Catherine investigate a hit-and-run.
+When the wife of a well-to-do business man is kidnapped, Grissom, Sara and Nick investigate her disappearance, eventually saving her after she was buried underground, only to find the deceptions are deeper than they thought. Meanwhile, Warrick and Catherine investigate a hit-and-run.
 
 ## Sara Sidle Review
 

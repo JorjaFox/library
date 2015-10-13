@@ -13,7 +13,6 @@ newssource: Daily Sundial
 newsurl: http://media.sundial.csun.edu
 
 ---
-====
 
 [...]
 

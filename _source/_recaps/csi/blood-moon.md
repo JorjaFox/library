@@ -21,14 +21,14 @@ A headless body is found, propped up against a barbed-wire fence with the head o
 
 ## Sara Sidle Review
 
-**Sara** works on the body after it's brought to the morgue, and determines that all body hair was waxed off, finding some wax and sugar in his belly button. She also works in the lab for much of the episode, with the evidence.
+Sara works on the body after it's brought to the morgue, and determines that all body hair was waxed off, finding some wax and sugar in his belly button. She also works in the lab for much of the episode, with the evidence.
 
 When Nick and Sara go look for evidence in the woods
 
 ## Character Notes
 
 * Sara works in the lab this episode.  
-* **Sara** and Nick tease each other.  
+* Sara and Nick tease each other.  
 * Sara still doesn't call Grissom 'Gil'.
 
 ## Quotes

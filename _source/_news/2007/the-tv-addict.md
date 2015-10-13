@@ -13,7 +13,6 @@ newssource: The TV Addict
 newsurl: http://thetvaddict.com
 
 ---
-====
 
 [...]
 

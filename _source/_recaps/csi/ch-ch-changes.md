@@ -21,7 +21,7 @@ A woman who was pulled over by police is found murdered two miles up the road fr
 
 ## Character Notes
 
-***Sara** doesn't have any problems dealing with transgendered or transsexual people.
+*Sara doesn't have any problems dealing with transgendered or transsexual people.
 
 ## Quotes
 

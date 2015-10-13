@@ -21,7 +21,7 @@ A body hidden in the Western Las Vegas Anthropology Department leads the CSI tea
 
 ## Sara Sidle Review
 
-**Sara** always wanted to go to the body farm, and is excited to hear about it. When Grissom perfoms experiments with raw beef, he asks Sara to clean it up, apparently unaware she is a vegetarian and has been since the pig experiment. 
+Sara always wanted to go to the body farm, and is excited to hear about it. When Grissom perfoms experiments with raw beef, he asks Sara to clean it up, apparently unaware she is a vegetarian and has been since the pig experiment. 
 
 Feeling she is unnoticed and not respected by Grissom, she puts in for a leave of absence. When Sara tries to talk about it with Grissom, he further compounds the matter with a noticeable lack of attention; she is disappointed when he says that the lab needs her -- she was hoping that he did. Grissom sends her a plant as an apology, because Sara likes living things, which seems to inspire Sara to stay.
 

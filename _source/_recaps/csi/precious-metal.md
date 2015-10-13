@@ -21,7 +21,7 @@ Catherine, Nick, and Sara investigate a seemingly months old body found in the m
 
 ## Sara Sidle Review
 
-Nick has apparently heard about Sara's breakup with Hank, and tries to set her up with his buddy; she firmly rejects the idea. **Sara** and Nick work with Catherine on the 'soap mummy' case -- Sara traces the ring found in the barrel to an engineering honor society, and later links the ring with the victim's buddy. Sara and Nick strip down the various bots, and discover blood on parts from different bots -- blood that traces back to the victim. Sara and Nick reassemble the victim's bot -- Sara stretches out and hesitantly switches it on, then pulls back, as if expecting it to jump.
+Nick has apparently heard about Sara's breakup with Hank, and tries to set her up with his buddy; she firmly rejects the idea. Sara and Nick work with Catherine on the 'soap mummy' case -- Sara traces the ring found in the barrel to an engineering honor society, and later links the ring with the victim's buddy. Sara and Nick strip down the various bots, and discover blood on parts from different bots -- blood that traces back to the victim. Sara and Nick reassemble the victim's bot -- Sara stretches out and hesitantly switches it on, then pulls back, as if expecting it to jump.
 
 ## Character Notes
 

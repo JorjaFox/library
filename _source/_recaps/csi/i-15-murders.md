@@ -45,7 +45,7 @@ Sara works the apartment murder by herself until Warrick is assigned to help her
 **Willows** Former girlfriend?  
 **Stokes** That depends. Is she the assaulter or the assaulted?  
 **Sidle** You tell us -- you like leather or lace?  
-**Stokes** __laughs__ I'm not going to answer that _turns to leave_ Lace.  
+**Stokes** _(laughs)_ I'm not going to answer that _turns to leave_ Lace.  
 
 - - -
 

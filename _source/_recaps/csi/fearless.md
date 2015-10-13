@@ -21,7 +21,7 @@ David Hodges fiancee, Elisabetta, is at a spiritual seminar/retreat run by Alan 
 
 Justin Wade had attended as part of a corporate retreat, but wasn't a fan of the New Agey aspects, and skipped out on the firewalk, upsetting his teammates. After spending some time in the mud springs (and spurning the advances of a coworker), Justin went back to the firewalk and attempted it and somehow fell into the coals, killing himself in the process. Alan claims not to have known that Justin was the dead man, and admitted that Justin did ask to try the firewalk afterwards, but Alan turned him down because he wasn't ready.
 
-The autopsy reveals Justin had an allergic reaction, causing him to go into anaphylactic shock. As he was allergic to latex, and inhaled it at the firewalk, Greg goes back to sort through the coal and ash, where he finds latex hormone pellets made by Bixton, the pharmaceutical company Justin worked for. Meanwhile, **Sara** interviews the wife, telling her that signs pointed to Justin having an affair with a coworker, Jessica Lowell. The wife admits she suspected as much, but decided not to confront them about it: she trusted her husband.
+The autopsy reveals Justin had an allergic reaction, causing him to go into anaphylactic shock. As he was allergic to latex, and inhaled it at the firewalk, Greg goes back to sort through the coal and ash, where he finds latex hormone pellets made by Bixton, the pharmaceutical company Justin worked for. Meanwhile, Sara interviews the wife, telling her that signs pointed to Justin having an affair with a coworker, Jessica Lowell. The wife admits she suspected as much, but decided not to confront them about it: she trusted her husband.
 
 Jessica was suspected of stealing company secrets, but in truth she worked in security, teamed with the FBI. Justin and fellow teammate Heather Connor were making meth. Meth which caused Heather to OD while being interviewed by Finn. Goat milk was found in Heather's stomach, and goat hair on her skin, as well as in some street drugs, so the CSIs follow the leads to a drug lab in the middle of nowhere. Curiously, the trashed lab is far too high tech for *just* meth, including goat's milk enzymes and membrane patches. Hiding in the lab is Justin's wife, Mary.
 
@@ -31,7 +31,7 @@ The subplot is Hodges and Elisabetta. He distrusts her for being at the retreat 
 
 ## Sara Sidle Review
 
-**Sara** works with Doc Robbins in autopsy and later talks to the wife. When she goes to talk to Hodges later, and he's wearing a blue swimming cap with a bright flower on it, she doesn't want to ask, even though he claims to have worn it for her. Sara also digs deeper into the evidence, finding that Mary has a strange disease, and Justin was making a cure for her.
+Sara works with Doc Robbins in autopsy and later talks to the wife. When she goes to talk to Hodges later, and he's wearing a blue swimming cap with a bright flower on it, she doesn't want to ask, even though he claims to have worn it for her. Sara also digs deeper into the evidence, finding that Mary has a strange disease, and Justin was making a cure for her.
 
 At the end, when Sara returns Justin's wedding ring to Mary, they discuss love, loneliness, and fear. 
 

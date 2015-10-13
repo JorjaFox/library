@@ -19,7 +19,7 @@ prodnum: 230
 
 Multiple bombs go off at the funeral of Officer Clark, killed by Dr. Jekyll at the end of last season, leading Jim Brass to suspect Nate Haskell, who is still in the hospital as well, having been roughly restrained following his attack on Ray Langston. Ray assists the case from the hospital, and does not agree that Haskell has anything to do with the funeral bombing. They trace one of the bombs to a far right-wing anti-government group (where special guest star, Justin Bieber as Jason McCann is in attendance). Nick interviews Jason, after Jason's brother, Alex's prints are found on a radio controlled airplane that Ray determined was used to detonate the bombs. Jason knows about the bombs, but he only bought the plane. Alex used it, saying he was only going to scare the cops, upset that their foster father was being harassed by the police. Nick gets Alex's information from Jason, and the CSIs are just in time to stop an even worse attack on the police department itself.
 
-The episode ends with a staged dumped body left boobytrapped with a bomb. &#8220;This isn&#8217;t over,&#8221; announces Catherine, knowing that the far right-wingers will still be attacking the LVPD.
+The episode ends with a staged dumped body left boobytrapped with a bomb. "This isn't over," announces Catherine, knowing that the far right-wingers will still be attacking the LVPD.
 
 ## Sara Sidle Review
 

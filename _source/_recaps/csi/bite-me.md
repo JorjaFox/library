@@ -25,9 +25,9 @@ Through it all, Ray insists he slept through it, but the CSIs are quite sure he 
 
 ## Sara Sidle Review
 
-**Sara** drives Nick and Warrick to the scene; there, she processes the stairs and is the first one to realize that the victim didn't fall as was reported. Sara shares an interesting scene with Grissom in the wife's bedroom. They discuss the reasons a couple may sleep in separate rooms (Sara saying snoring and other mundane reasons). Grissom suggests that they were suffocating each other. Sara comments on sex and romance and gives Grissom a look. Grissom walks off without commenting and they go on to find evidence in the case and move on.
+Sara drives Nick and Warrick to the scene; there, she processes the stairs and is the first one to realize that the victim didn't fall as was reported. Sara shares an interesting scene with Grissom in the wife's bedroom. They discuss the reasons a couple may sleep in separate rooms (Sara saying snoring and other mundane reasons). Grissom suggests that they were suffocating each other. Sara comments on sex and romance and gives Grissom a look. Grissom walks off without commenting and they go on to find evidence in the case and move on.
 
-Sara and Catherine work well together puzzling out who wrote the blackmail note. Sara's a little surprised to think the wife was blackmailing her husband. **Sara** and Greg check out the husband's home office, and discover a bloody fingerprint on the phone.
+Sara and Catherine work well together puzzling out who wrote the blackmail note. Sara's a little surprised to think the wife was blackmailing her husband. Sara and Greg check out the husband's home office, and discover a bloody fingerprint on the phone.
 
 ## Character Notes
 
@@ -40,4 +40,7 @@ Sara and Catherine work well together puzzling out who wrote the blackmail note.
 - - -
 
 **Sidle** Two viable prints, both in a light coat of lube. One was Becky's and the other is an Adam Gilford. Work card is in the system. He's an executive at Western Airlines.  
+
+- - -
+
 **Sidle** Lovers and co-workers. That never works.

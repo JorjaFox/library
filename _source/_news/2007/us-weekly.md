@@ -13,7 +13,6 @@ newssource: Us Weekly
 newsurl: http://www.usmagazine.com
 
 ---
-====
 
 [...]
 

@@ -23,7 +23,7 @@ Nick and Sara watch a divorce end with the death of both parties. Michael and Lo
 
 ## Sara Sidle Review
 
-**Sara** and Nick are both sharp cookies on this case. While Nick follows the blood drops, Sara investigates the missing vinyl selection. Both determine that the missing albums, between the Beach Boys and Billy Joel can only be [http://www.beatles.com/ The Beatles].
+Sara and Nick are both sharp cookies on this case. While Nick follows the blood drops, Sara investigates the missing vinyl selection. Both determine that the missing albums, between the Beach Boys and Billy Joel can only be [http://www.beatles.com/ The Beatles].
 
 After learning Michael was shot (there was no blood on the scene or an exit wound, the .22 lodged in his brain), Sara returns to the Tinsley House and deduces the gun was thrown when the dog attacked Lori. With little work, she finds it under the couch.
 

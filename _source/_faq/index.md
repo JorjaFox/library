@@ -8,7 +8,7 @@ tags: index
 regenerate: true
 ---
 
-FAQ stands for "'frequently asked questions"', and refers to listed questions and answers, all supposed to be frequently asked in some context, and pertaining to a particular topic.
+FAQ stands for **frequently asked questions**, and refers to listed questions and answers, all supposed to be frequently asked in some context, and pertaining to a particular topic.
 
 ## Most Frequently Asked Questions
 
@@ -20,7 +20,7 @@ You're probably trying to ask if the contact information is up to date. Yes, yes
 
 No, this is not, nor has it ever claimed to be an official Jorja Fox website. Nor has anyone who works on the site ever been or claimed to be Jorja.
 
-Jorja Fox: Online (JFO) is NOT an official Jorja Fox website. JFO is run by fans for the purpose of sharing information about Jorja Fox's career. Jorja's official site is "'http://jorjafox.org/"'.
+Jorja Fox: Online (JFO) is NOT an official Jorja Fox website. JFO is run by fans for the purpose of sharing information about Jorja Fox's career. Jorja's official site is [jorjafox.org](http://jorjafox.org/).
 
 ### How can I contact Jorja?
 

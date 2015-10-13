@@ -19,13 +19,13 @@ prodnum: 206
 
 Grissom and his team investigate a murder suspect who is caught red-handed -- burying the victims -- while Catherine and Warrick take on the case of a woman found dead in a hotel spa.
 
-As Grissom, Nick and **Sara** investigate the seemingly clear-cut murder case, Grissom questions the simplicity of the evidence when he discovers that the suspect burying the victims is the brother of a convicted felon.
+As Grissom, Nick and Sara investigate the seemingly clear-cut murder case, Grissom questions the simplicity of the evidence when he discovers that the suspect burying the victims is the brother of a convicted felon.
 
 Meanwhile, Catherine and Warrick must determine if the woman found dead in the hotel spa was the victim of negligence, foul play or heat-induced natural causes.
 
 ## Sara Sidle Review
 
-Both **Sara** and Nick apologize to Grissom when they jump the gun with the evidence, presenting the case to the D.A. before all the facts are known. Later they find bloodstained clothing and the possible murder weapon at the suspect's trailer, but neither are usable as evidence.
+Both Sara and Nick apologize to Grissom when they jump the gun with the evidence, presenting the case to the D.A. before all the facts are known. Later they find bloodstained clothing and the possible murder weapon at the suspect's trailer, but neither are usable as evidence.
 
 ## Quotes
 
@@ -41,7 +41,6 @@ Both **Sara** and Nick apologize to Grissom when they jump the gun with the evid
 
 **Sidle** Pizza guy wasn't so smart. Dry cleaning bakes in blood.
   
-
 - - -
 
 **Stokes** Could be red sauce.  

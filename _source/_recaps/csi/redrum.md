@@ -45,5 +45,5 @@ Sara is unhappy, going behind people's backs, to solve the fake case, but collec
 - - -
 
 **Willows** Sara?  
-**Sidle** If I have something to say to you, Catherine, I'll say it in private. __pause__ No offense.
+**Sidle** If I have something to say to you, Catherine, I'll say it in private. _(pause)_ No offense.
 

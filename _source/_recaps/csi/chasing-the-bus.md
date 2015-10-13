@@ -21,7 +21,7 @@ Grissom and the entire crew investigate a deadly tour-bus accident in this chang
 
 ## Sara Sidle Review
 
-**Sara** gathers tread scraps from the scene. Later she painstakingly separates them according to which vehicle they came from, and discovers chloroform on the inside of the bus tire that blew, proving sabotage.
+Sara gathers tread scraps from the scene. Later she painstakingly separates them according to which vehicle they came from, and discovers chloroform on the inside of the bus tire that blew, proving sabotage.
 
 ## Character Notes
 

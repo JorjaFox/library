@@ -21,7 +21,7 @@ The entire CSI team investigates a disappearance at a local university. A young 
 
 ## Character Notes
 
-***Sara** knows about the trick of filling nail holes with toothpaste to get a security deposit back.
+*Sara knows about the trick of filling nail holes with toothpaste to get a security deposit back.
 
 ## Quotes
 

@@ -17,7 +17,7 @@ prodnum: 336
 
 ## Synopsis## 
 
-We start with a 'normal' episode of CSI. Finn is dead, D.B. Russell is leaving to work for the CSI: Cyber people, **Sara** is applying for a 'key position' And then it all goes to hell with a suicide bomber. 
+We start with a 'normal' episode of CSI. Finn is dead, D.B. Russell is leaving to work for the CSI: Cyber people, Sara is applying for a 'key position' And then it all goes to hell with a suicide bomber. 
 
 We find Grissom working on a boat in San Diego, helping catch people illegally trapping sharks for shark fin soup. The CSIs that show up don't mention Nick, who is their head last we heard. 
 

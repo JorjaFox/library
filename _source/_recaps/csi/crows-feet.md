@@ -17,11 +17,11 @@ prodnum: 504
 
 ## Synopsis
 
-A woman is found dead in a hotel suite with what appears to be symptoms of the ebola virus. Another woman is found dead with similar symptoms. Catherine and Nick investigate. **Sara** and Greg Sanders (with help from Grissom) try to determine how a the owner of a home was killed; his home was tented for infestation.
+A woman is found dead in a hotel suite with what appears to be symptoms of the ebola virus. Another woman is found dead with similar symptoms. Catherine and Nick investigate. Sara and Greg Sanders (with help from Grissom) try to determine how a the owner of a home was killed; his home was tented for infestation.
 
 ## Sara Sidle Review
 
-Grissom, **Sara** and Greg investigate the death of a man who died in his house, which was tented by an extermination company. On their arrival at the scene, Sara 'allows' Greg to carry her kit as well as his. **Sara** and Greg discover that the homeowner re-entered his tented house to get a cage for his macaw; they later discover that one of the exterminators was robbing the house. During a search of the exterminator's house, they discover stolen jewelry and the missing macaw. This is the beginning of Sara's tutoring of Greg.
+Grissom, Sara and Greg investigate the death of a man who died in his house, which was tented by an extermination company. On their arrival at the scene, Sara 'allows' Greg to carry her kit as well as his. Sara and Greg discover that the homeowner re-entered his tented house to get a cage for his macaw; they later discover that one of the exterminators was robbing the house. During a search of the exterminator's house, they discover stolen jewelry and the missing macaw. This is the beginning of Sara's tutoring of Greg.
 
 ## Character Notes
 

@@ -17,7 +17,7 @@ prodnum: 220
 
 ## Synopsis
 
-Grissom and Catherine investigate the stabbing death of an 80-year-old woman who lived in a run-down house full of cats; Nick and **Sara** comb through the remains of a car bombing that was, apparently, a murder plot gone awry.
+Grissom and Catherine investigate the stabbing death of an 80-year-old woman who lived in a run-down house full of cats; Nick and Sara comb through the remains of a car bombing that was, apparently, a murder plot gone awry.
 
 ## Quotes
 

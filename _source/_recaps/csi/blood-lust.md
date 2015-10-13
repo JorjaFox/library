@@ -21,7 +21,7 @@ Grissom encounters a crime scene unlike any he has ever investigated before in t
 
 ## Sara Sidle Review
 
-An all-hands case, it seems. **Sara** is pulled away from a required forensics anthropology seminar by Grissom to help with this case (Grissom himself says he was out on a date). Together they backtrack the bloodstains and discover their origin in a local park. With sniffer dogs and a metal detector, they discover a gun -- and another body. Joking with Catherine later, Sara claims not to know what a 'Bridal Barbie' is. With something about the scene bothering her, Sara goes back there at night and discovers drag marks from where the body was moved. Later she participates in an experiment with Warrick and Grissom to discover who moved the body.
+An all-hands case, it seems. Sara is pulled away from a required forensics anthropology seminar by Grissom to help with this case (Grissom himself says he was out on a date). Together they backtrack the bloodstains and discover their origin in a local park. With sniffer dogs and a metal detector, they discover a gun -- and another body. Joking with Catherine later, Sara claims not to know what a 'Bridal Barbie' is. With something about the scene bothering her, Sara goes back there at night and discovers drag marks from where the body was moved. Later she participates in an experiment with Warrick and Grissom to discover who moved the body.
 
 ## Character Notes
 

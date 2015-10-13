@@ -33,5 +33,5 @@ Wendy was in one of the horror films by Mr. Putrid, which she shows to the Lab R
 
 **Sidle** You know how in slasher movies, when they go after the dark-haired girl, she always dies?  
 **Sanders** Yeah. And the blond always lives. Well aren't you glad it wasn't a movie?  
-**Sidle** __desperate laughter__ I think, um .. I think I am sick of having my face shoved in death every day. The murder rate has gone up every year since I've been here. It's totally out of control and we're not even slowing them down.
+**Sidle** _(desperate laughter)_ I think, um .. I think I am sick of having my face shoved in death every day. The murder rate has gone up every year since I've been here. It's totally out of control and we're not even slowing them down.
 

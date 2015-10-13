@@ -23,7 +23,7 @@ Carrie Warren is thrown from her own car by Sam Trent, her on again/off again bo
 
 When Sam woke up, not dead, he wrapped the injured Carrie in a quilt and drove her to the hospital, but Carrie was accidentally thrown from the car, struck her head, and died. Sam tucked her in with the quilt and walked to the gun shop, hoping to kill himself there, but ends up walking away unscathed. He goes to their favorite spot in Las Vegas and plans jumps off the deck, but Carrie's neighbor, John, saves him but wants to shoot him. As soon as John lets go of Sam, he jumps back to the railing.
 
-**Sara** is unable to talk him out of jumping, but she managed to stall enough for the emergency rescue team to fill an airbag and save Sam's life.
+Sara is unable to talk him out of jumping, but she managed to stall enough for the emergency rescue team to fill an airbag and save Sam's life.
 
 ## Sara Sidle Review
 

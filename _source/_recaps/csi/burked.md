@@ -21,7 +21,7 @@ Grissom and crew are called in after high roller Tony Braun, a known drug addict
 
 ## Sara Sidle Review
 
-**Sara** hands off 20 rolls of film to be processed, then finds an earring backing on the rug. She later finds balled up duct tape in the kitchen trash, and with an idea she got from a TV commercial, recovers a print from the tape by putting it in the freezer.
+Sara hands off 20 rolls of film to be processed, then finds an earring backing on the rug. She later finds balled up duct tape in the kitchen trash, and with an idea she got from a TV commercial, recovers a print from the tape by putting it in the freezer.
 
 ## Character Notes
 

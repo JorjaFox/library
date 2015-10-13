@@ -28,9 +28,9 @@ The animals were rescued from small, traveling circuses in Bolivia, and they com
 
 The conditions and treatment of the lions was so bad, the government of Bolivia recently passed a law banning the use of animals in circuses, and many of the animals were in poor health when they were rescued.
 
-"Operation Lion Ark,â sponsored by Animal Defenders International, has been working for the past three months to rescue the big cats which were being housed in crates and cages.
+"Operation Lion Ark," sponsored by Animal Defenders International, has been working for the past three months to rescue the big cats which were being housed in crates and cages.
 
-Former "Price is Rightâ host Bob Barker, a longtime animal rights activist, helped fund the operation. 
+Former "Price is Right" host Bob Barker, a longtime animal rights activist, helped fund the operation. 
 
 "It is calling attention to the cruelty to animals in the circus unlike anything that's happened in a long time," Barker says.
 

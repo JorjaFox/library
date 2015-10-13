@@ -12,7 +12,7 @@ newssource: Gay TV
 newsurl: http://gay.com  
 
 ---
-"'FUN FACTOID"'
+**FUN FACTOID**
 
 Jorja Fox is also the actress known as Jorjan Fox. They're the same person, but when she joined the cast of *ER,* Jorjan shortened her name to Jorja. Oh, those showbiz types.
 

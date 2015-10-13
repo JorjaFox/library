@@ -19,7 +19,7 @@ prodnum: 802
 
 The CSIs work two cases, one of a high school student, Vincent Bartley, whose head is found along side the road, and the other of a rich pornographer, Huxley, found dead in a blind eatery. Vinnie was a Go-Kart enthusiast who'd lost his head in a race on the streets, getting it and his hand severed by a blown out truck tire. Huxley was killed out of a waiter's revenge on the restaurant's chef, who had made her living off his ideas and their past relationship.
 
-Meanwhile, Grissom and **Sara** are under review for their relationship, which is in violation of lab policy. Grissom dodges the review for most of the day. The other CSIs discuss Grissom and Sara's relationship during their cases.
+Meanwhile, Grissom and Sara are under review for their relationship, which is in violation of lab policy. Grissom dodges the review for most of the day. The other CSIs discuss Grissom and Sara's relationship during their cases.
 
 ## Sara Sidle Review
 

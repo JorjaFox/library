@@ -23,7 +23,7 @@ The episode ends as Grissom speaks at Warrick's funeral, with all the lab in att
 
 ## Sara Sidle Review
 
-Sara arrives a few hours after Warrick has been killed and waits for Grissom in his office; she hugs him, and hugs everyone else when they arrive. Grissom tells Sara how Warrick died, and that he loved him. Unable to work on the case, Sara takes over the funeral arrangements. **Sara** and Greg go to Warrick's apartment, where they learn he has a son and was suing for custody. When Sara tries to show the paternity suit evidence to Grissom, he tells her 'Not now.', but she insists. While she and Grissom are watching Warrick's paternity suit tape, at one point (on tape) Warrick says that Grissom inspires him -- Sara glances over at Grissom. Ecklie lets Sara sit in on the case review, and she suggests they try and print the .25 caliber shell casing which gives them their first solid evidence on McKeen.
+Sara arrives a few hours after Warrick has been killed and waits for Grissom in his office; she hugs him, and hugs everyone else when they arrive. Grissom tells Sara how Warrick died, and that he loved him. Unable to work on the case, Sara takes over the funeral arrangements. Sara and Greg go to Warrick's apartment, where they learn he has a son and was suing for custody. When Sara tries to show the paternity suit evidence to Grissom, he tells her 'Not now.', but she insists. While she and Grissom are watching Warrick's paternity suit tape, at one point (on tape) Warrick says that Grissom inspires him -- Sara glances over at Grissom. Ecklie lets Sara sit in on the case review, and she suggests they try and print the .25 caliber shell casing which gives them their first solid evidence on McKeen.
 
 ## Character Notes
 

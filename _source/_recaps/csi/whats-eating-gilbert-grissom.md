@@ -32,7 +32,7 @@ Sara is tasked to decipher the psychological clues in the bondage comic book. La
 **Willows** Uh, sorry, Sara. I need the microscope. Priority.  
 **Sidle** I got three more samples to run. When I'm finished, it'll be your turn.  
 **Willows** This can't wait.  
-**Sidle** It can't? Or you can't? __she looks at Catherine__  
+**Sidle** It can't? Or you can't? _(she looks at Catherine)_  
 **Willows** Both. Go have a cup of coffee on me.  
-**Sidle** __stands up__ The coffee's free.  
-**Willows** Thank you. __sits down as Sara leaves__
+**Sidle** _(stands up)_ The coffee's free.  
+**Willows** Thank you. _(sits down as Sara leaves__

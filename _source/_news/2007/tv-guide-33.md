@@ -13,7 +13,6 @@ newssource: TV Guide
 newsurl: http://www.tvguide.com/
 
 ---
-======
 
 [...]
 

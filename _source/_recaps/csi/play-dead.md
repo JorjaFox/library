@@ -21,5 +21,5 @@ A police officer is killed, and the only living witness is his dog; a predatory 
 
 ## Sara Sidle Review
 
-***Sara** does not appear in this episode.*
+*Sara does not appear in this episode.*
 

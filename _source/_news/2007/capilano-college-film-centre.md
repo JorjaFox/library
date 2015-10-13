@@ -13,7 +13,6 @@ newssource: Capilano College
 newsurl: http://www.capcollege.bc.ca/programs/film/news.html
 
 ---
-====
 
 [...]
 

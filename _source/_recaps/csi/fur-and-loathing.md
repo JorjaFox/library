@@ -21,7 +21,7 @@ The team is introduced to the 'Furry' side of Vegas when a man is found dead on 
 
 ## Sara Sidle Review
 
-**Sara** and Nick investigate the freezer shooting. They find blood spatter, and eventually they find the shooter. They share several 'you've got to be kidding' moments during the case when they discover that the suspect used granite glue to repair his rifle, and used house paint on his car.
+Sara and Nick investigate the freezer shooting. They find blood spatter, and eventually they find the shooter. They share several 'you've got to be kidding' moments during the case when they discover that the suspect used granite glue to repair his rifle, and used house paint on his car.
 
 ## Character Notes
 

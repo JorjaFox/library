@@ -17,7 +17,7 @@ prodnum: 419
 
 ## Synopsis
 
-Warrick, Catherine, and Nick try to determine the cause of a house fire that kills a teenage kill. The fire is in the same neighborhood as a similar arson fire. Grissom and **Sara** investigate a man found dead with letter tiles in his stomach. The man was a competitor in a word game tournament.
+Warrick, Catherine, and Nick try to determine the cause of a house fire that kills a teenage kill. The fire is in the same neighborhood as a similar arson fire. Grissom and Sara investigate a man found dead with letter tiles in his stomach. The man was a competitor in a word game tournament.
 
 ## Sara Sidle Review
 

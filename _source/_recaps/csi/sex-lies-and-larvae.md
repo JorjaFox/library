@@ -53,19 +53,19 @@ This prompts Grissom to re-investigate the bugs, and Sara keeps Grissom company 
 
 - - -
 
-**Sidle** __pissed off__ I'm a woman, and I have a gun, and look how he treated me! I can only imagine how he treated his wife!
+**Sidle** _(pissed off)_ I'm a woman, and I have a gun, and look how he treated me! I can only imagine how he treated his wife!
   
 
 - - -
 
-**Sidle** You know how you say we&#8217;re the victim&#8217;s last voice? I thought it was our job to speak for Kaye Shelton.  
+**Sidle** You know how you say we're the victim's last voice? I thought it was our job to speak for Kaye Shelton.  
 **Grissom** You don't crunch evidence to fit a theory.  
 **Sidle** What if you hear the victim's screams? In the car, at the store.  
 **Grissom** You have empathy for her Sara. You want someone to pay for what was done to her, that's normal.  
-**Sidle** __nods_ _long pause__ You wanna sleep with me?  
-**Grissom** __confused pause, removes glasses__ Did you just say what I think you said?  
+**Sidle** _(nods_ _long pause)_ You wanna sleep with me?  
+**Grissom** _(confused pause, removes glasses)_ Did you just say what I think you said?  
 **Sidle** That way, when I wake up in a cold sweat under the blanket, hearing Kaye's screams, you can tell me it's nothing. It's just empathy.  
 
 - - -
 
-**Sidle** I checked out Warrick. His story about missing court was, uh &#8230; lame. I got this surveillance tape from the Monaco. He was in the casino. &#8221;(hands the tape to Grissom)&#8221; I&#8217;m sorry.
+**Sidle** I checked out Warrick. His story about missing court was, uh &#8230; lame. I got this surveillance tape from the Monaco. He was in the casino. &#8221;(hands the tape to Grissom)&#8221; I'm sorry.

@@ -19,7 +19,7 @@ prodnum: 300
 
 Gwen Onetto is found murdered in front of a miniature casino model. The model is of the Premiere, a casino that never was, because Jack Witten was accused of murdering a young woman fourteen years ago.
 
-When D.B. Russell arrives, Jim Brass explains that fourteen years ago, Jack was a suspect in a similar murder, but they had no evidence. **Sara** , having wandered away from Greg, is exploring the house alone. She tells DB that this is one of the cases that got away. It was Sara's first high profile case since joining the team in Las Vegas.
+When D.B. Russell arrives, Jim Brass explains that fourteen years ago, Jack was a suspect in a similar murder, but they had no evidence. Sara , having wandered away from Greg, is exploring the house alone. She tells DB that this is one of the cases that got away. It was Sara's first high profile case since joining the team in Las Vegas.
 
 Down in the cold-case storage, Sara runs into Conrad, who has already pulled the files. They go over the old case, the evidence they had is slim, and consists of a carpet fiber found soaked in blood in the trunk of Darcy's car. The fourteen year-old fiber is a visual match to the sample Sara took the night before, following Gwen's murder. It is not, according to David Hodges, an actual match, and Sara must yet again tell Darcy Blaine's father that they have nothing new.
 

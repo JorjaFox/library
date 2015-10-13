@@ -29,7 +29,7 @@ All of this ties back to magician, Dr. Jimmy, who loaned Coe $4000 to get into t
 
 ## Sara Sidle Review
 
-**Sara** works on the S&M case with Nick until it crosses over with the main site, and then reviews the old cases. Nick asks Sara how she's doing, touching back on her recent separation from Grissom.
+Sara works on the S&M case with Nick until it crosses over with the main site, and then reviews the old cases. Nick asks Sara how she's doing, touching back on her recent separation from Grissom.
 
 ## Character Notes
 

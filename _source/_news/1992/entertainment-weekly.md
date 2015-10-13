@@ -12,7 +12,7 @@ newssource: Entertainment Weekly
 newsurl: http://www.ew.com/ew/article/0,,309807,00.html  
 ---
 
-Here's something different and ambitious from ABC's Afterschool Specials series: its first miniseries. For the next three weeks, "'Summer Stories: The Mall"' will dole out tales of teens laboring in a suburban mall. (The Mall was filmed at the Nanuet Mall in Rockland County, N.Y.)
+Here's something different and ambitious from ABC's Afterschool Specials series: its first miniseries. For the next three weeks, **Summer Stories: The Mall** will dole out tales of teens laboring in a suburban mall. (The Mall was filmed at the Nanuet Mall in Rockland County, N.Y.)
 
 [...]
 

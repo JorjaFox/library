@@ -13,7 +13,6 @@ newssource: E Canada Now
 newsurl: http://www.ecanadanow.com
 
 ---
-====
 
 Jorja Fox was supposed to die at the end of "CSI" this year - but she has refused to show up for work on the set to film her "death scene."
 

@@ -13,7 +13,6 @@ newssource: TVGal
 newsurl: http://blog.zap2it.com
 
 ---
-====
 
 [...]
 

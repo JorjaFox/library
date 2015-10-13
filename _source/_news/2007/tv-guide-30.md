@@ -13,7 +13,6 @@ newssource: TVGuide
 newsurl: http://www.tvguide.com/
 
 ---
-===Ausiello Report===
 
 **Warning: If You Haven't Watched Tonight's "CSI", Stop Reading!**
 

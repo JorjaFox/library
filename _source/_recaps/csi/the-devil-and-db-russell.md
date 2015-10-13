@@ -31,7 +31,7 @@ In the present, the CSIs are at the funeral of Jim Brass' ex wife, and Ellie's m
 
 ## Sara Sidle Review
 
-Initially **Sara** is still in San Francisco when Morgan initial goes missing, however she had returned around the time the SUV was discovered. When Ecklie called her in, Sara checked up on and verified Father Larson's claims about Oliver Tate's ties to some of the missing girls.
+Initially Sara is still in San Francisco when Morgan initial goes missing, however she had returned around the time the SUV was discovered. When Ecklie called her in, Sara checked up on and verified Father Larson's claims about Oliver Tate's ties to some of the missing girls.
 
 In the lab, Sara works on processing and decrypting the dowels found in a boat in a storage room, with a dead girl. When Greg determines the dowels are in ternary, he likens it to the synthetic DNA found in the same scene, as well as in Tate's condo, which can be used to store data. Sara gets a court order for computers from Tate's old biotech company to decrypt the data, where she finds porn.
 

@@ -17,7 +17,7 @@ prodnum: 112
 
 ## Synopsis
 
-Grissom, Warrick and **Sara** investigate a bombing that occurred in the lobby of a Las Vegas business building; Nick spends the night with a prostitute who is later found murdered in her house and he becomes the chief suspect, and only Catherine can exonerate him.
+Grissom, Warrick and Sara investigate a bombing that occurred in the lobby of a Las Vegas business building; Nick spends the night with a prostitute who is later found murdered in her house and he becomes the chief suspect, and only Catherine can exonerate him.
 
 ## Sara Sidle Review
 
@@ -32,25 +32,25 @@ Sara and Grissom blowing up bombs to determine the container components (Sara se
 ## Quotes
 
 **Grissom** So, Sara. What's orange and melts?  
-**Sidle** __grins__ I would have to investigate that.  
+**Sidle** _(grins)_ I would have to investigate that.  
 
 - - -
 
 **Brown** What are you going to do?  
 **Sidle** We're going to go blow up some bombs.  
-**Brown** Oh I definitely got the wrong end of this investigation. __leaves__  
+**Brown** Oh I definitely got the wrong end of this investigation. _(leaves)_  
 **Grissom** Alas, poor Warrick.  
 
 - - -
 
 **Grissom** What are you doing [with that jacket]?  
-**Sidle** __holding the jacket__ Polyethylene terephtalete.  
+**Sidle** _(holding the jacket)_ Polyethylene terephtalete.  
 **Grissom** Polyester.  
-**Sidle** __nods__ Orange stuff.  
+**Sidle** _(nods)_ Orange stuff.  
 
 - - -
 
 **Sidle** I have a new favorite color.  
 **Grissom** Orange?  
-**Sidle** __grins__ The orange polyester from the bomb is a match to the Thrift-Rite jacket.
+**Sidle** _(grins)_ The orange polyester from the bomb is a match to the Thrift-Rite jacket.
 

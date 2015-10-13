@@ -19,7 +19,7 @@ categories:
 |website= [http://www.ubi.com/ UBI Soft]  
 }}
 
-&#8221;&#8217;CSI: Crime Scene Investigation &#8211; Dark Motives&#8221;&#8217; is a video game based on the television series [[CSI: Crime Scene Investigation]]. The character of [[Sara Sidle]] is voiced by [[Jorja Fox]].
+&#8221;'CSI: Crime Scene Investigation &#8211; Dark Motives&#8221;' is a video game based on the television series [[CSI: Crime Scene Investigation]]. The character of [[Sara Sidle]] is voiced by [[Jorja Fox]].
 
 In CSI: Crime Scene Investigation you become a CSI agent working alongside Gil Grissom, Catherine Willows and the rest of the CSI Las Vegas team. As a member of the team you question witnesses, examine crime scenes, and analyze evidence utilizing the latest in forensic equipment.
 

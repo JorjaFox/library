@@ -23,7 +23,7 @@ _Note: This episode originally aired as 'If This Walls Could Talk'
 
 ## Sara Sidle Review
 
-**Sara** arrives at the scene and relieves the about-to-be-sick rookie cop who was taking Grissom's notes; she heard the call on her scanner and decided to come in. Sara is a little disquieted by the blood dripping from the mother's corpse, mentions that she feels the soul still in the room. At Grissom's orders, Sara returns to the lab to get the photos processed. When the entire team arrives, Grissom details Sara to escort the little girl to police headquarters despite Sara's protests that she should be at the scene. Brass tells Sara to escort the little girl to the hospital, though Sara protests that she's not good with kids.
+Sara arrives at the scene and relieves the about-to-be-sick rookie cop who was taking Grissom's notes; she heard the call on her scanner and decided to come in. Sara is a little disquieted by the blood dripping from the mother's corpse, mentions that she feels the soul still in the room. At Grissom's orders, Sara returns to the lab to get the photos processed. When the entire team arrives, Grissom details Sara to escort the little girl to police headquarters despite Sara's protests that she should be at the scene. Brass tells Sara to escort the little girl to the hospital, though Sara protests that she's not good with kids.
 
 At the hospital, Sara refuses to leave the little girl alone while they wait for her psych evaluation, despite the social worker telling her she can leave. Everybody is in the break room at the lab, reviewing the case -- Sara reports on the kid's psych evaluation and makes a few jokes (with a completely straight face) at Grissom's expense about leaving the kid in the car with the windows cracked. Sara takes UV photos of the little girl and discovers signs of abuse, which doesn't make her happy. Sara remains at the hospital with the little girl, keeping her company.
 
@@ -41,7 +41,7 @@ At the hospital, Sara refuses to leave the little girl alone while they wait for
 
 **Sidle** Heard it on the scanner. Quadruple. Thought you might need some help.  
 **Grissom** You don't sleep, do you?  
-**Sidle** Eh __shrugs__  
+**Sidle** Eh _(shrugs)_  
 
 - - -
 
@@ -61,5 +61,5 @@ At the hospital, Sara refuses to leave the little girl alone while they wait for
 **Grissom** Respond how?  
 **Sidle** She freaked out.  
 **Grissom** And what are you doing about it now?  
-**Sidle** Going back to the girl. _deadpan_ I left her in the car. __Grissom and Willows gape__ The windows are cracked. __Grissom looks worried__ Give me some credit; she's at the hospital __Sidle leaves to get the girl while Stokes and Brown crack up__
+**Sidle** Going back to the girl. _deadpan_ I left her in the car. _(Grissom and Willows gape)_ The windows are cracked. _(Grissom looks worried)_ Give me some credit; she's at the hospital _(Sidle leaves to get the girl while Stokes and Brown crack up__
 

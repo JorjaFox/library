@@ -21,7 +21,7 @@ Only by working with a convicted pedophile are the CSI's able to find out what h
 
 ## Sara Sidle Review
 
-**Sara** works the related arson case, photographing the house and investigating the car.
+Sara works the related arson case, photographing the house and investigating the car.
 
 ## Character Notes
 

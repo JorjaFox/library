@@ -21,7 +21,7 @@ A violent murder in a casino parking garage and another episode in the police in
 
 ## Sara Sidle Review
 
-**Sara** has very little to do in this ep, and is fairly low key throughout it. She and Nick review the casino video tapes, and discover the suspect 'snaking' (stealing chips from) the victim. Later they investigate the suspect's car, and Nick shows that envelope and discovers that it's postmarked Henderson, which leads them to the suspect's sister.
+Sara has very little to do in this ep, and is fairly low key throughout it. She and Nick review the casino video tapes, and discover the suspect 'snaking' (stealing chips from) the victim. Later they investigate the suspect's car, and Nick shows that envelope and discovers that it's postmarked Henderson, which leads them to the suspect's sister.
 
 ## Quotes
 
