@@ -1,5 +1,5 @@
 ---
-title: "Pilot (CSI)"
+title: "Pilot"
 author: Mika A. Epstein
 layout: recap
 permalink: /recaps/csi/:title/
