@@ -16,6 +16,7 @@ github_username:  ipstenu
 gems:
   - jekyll-last-modified-at
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 # Moving Folders
 source:       _source
