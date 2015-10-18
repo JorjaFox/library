@@ -1,5 +1,4 @@
 ---
-regenerate: true
 title: 'List of Missing Persons episodes'
 author: Mika Epstein
 layout: episodes

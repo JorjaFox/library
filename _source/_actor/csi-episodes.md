@@ -1,5 +1,4 @@
 ---
-regenerate: true
 title: 'List of CSI: Crime Scene Investigation episodes'
 author: Mika Epstein
 layout: episodes

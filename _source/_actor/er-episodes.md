@@ -1,5 +1,4 @@
 ---
-regenerate: true
 title: 'List of ER episodes'
 author: Mika Epstein
 layout: episodes

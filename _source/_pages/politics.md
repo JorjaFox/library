@@ -4,6 +4,7 @@ author: ipstenu
 layout: post
 categories: Politics
 tags: 
+permalink: /politics/
 ---
 
 In addition to her [Advocacy]({{ site.baseurl }}/advocacy/), Jorja is very politically active. She spends time with the [Artists & Athletes Alliance]({{ site.baseurl }}/advocacy/artists-athletes/), fights for legislation for the protection of animals, and has spoken out against candidates like George W. Bush.

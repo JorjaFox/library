@@ -1,5 +1,4 @@
 ---
-regenerate: true
 title: 'List of The West Wing episodes'
 author: Mika Epstein
 layout: episodes
