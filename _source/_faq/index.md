@@ -5,7 +5,6 @@ layout: default
 permalink: /faq/
 categories: FAQ
 tags: index
-regenerate: true
 ---
 
 FAQ stands for **frequently asked questions**, and refers to listed questions and answers, all supposed to be frequently asked in some context, and pertaining to a particular topic.
@@ -68,7 +67,7 @@ Because she didn't want to be.
 ## See Also
 
 <ul>
-{% for faq in site.faq %}{% if post.topic != 'index' %}
+{% for faq in site.faq %}{% if faq.title != 'FAQs' %}
 	<li><a href="{{ site.baseurl }}{{ faq.url }}">{{ faq.title }}</a></li>
 {% endif %}{% endfor %}
 </ul>
