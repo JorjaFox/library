@@ -11,7 +11,7 @@ showslug: csi
 
 season: 15
 epnum: 1  
-date: 2015-09-28
+date: 2014-09-28
 prodnum: 319  
 ---
 

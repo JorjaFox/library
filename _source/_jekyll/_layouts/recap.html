@@ -18,9 +18,10 @@ layout: default
 <table class="jfoinfobox">
 
 	<thead><tr>
+		<th>Ep. Info</th>
 		<th>Date</th>
 		<th>Episode Title</th>
-		<th>Info</th>
+		<th>Rating</th>
 	</tr></thead>
 	<tbody>
 
@@ -31,12 +32,14 @@ layout: default
 {% for thisep in episodelist %}{% if episode.title == thisep.title %}
 	{% assign epnum  = thisep.epnum %}
 	{% assign season = thisep.season %}
+	{% assign rating = thisep.rating %}
 {% endif %}{% endfor %}
 
 	<tr>
-		<td id="dates">{{ episode.date | date: "%d %B, %Y" }}</td>
-		<td><a href="{{ site.baseurl }}{{ episode.url }}">{{ episode.title }}</a></td>
 		<td><small>Season {{ season }}, Ep. {{ epnum }}</small></td>
+		<td id="dates">{{ episode.date | date: "%d %b, %Y" }}</td>
+		<td><a href="{{ site.baseurl }}{{ episode.url }}">{{ episode.title }}</a></td>
+		<td>{% if rating == 'na' %}<i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i>{% else %}{% for i in (1..rating) %}<i style="color:gold;" class="fa fa-star fa-rotate-normal" name="gold star"></i>{% endfor %}{% if 5 > rating %}{% assign greystar = 5 | minus: rating %}{% for i in (1..greystar) %}<i style="color:grey;" class="fa fa-star fa-rotate-normal" name="grey star"></i>{% endfor %}{% endif %}{% endif %}</td>
 	</tr>
 {% endif %}{% endfor %}
 	</tbody>
