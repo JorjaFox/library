@@ -1,7 +1,7 @@
 ---
 title: "Got Murder?"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,24 +29,24 @@ Sara works with Catherine and Nick on the body found in the dump, and she is the
 
 ## Quotes
 
-**Sidle** You know the average Nevadan generates more than three times waste than the average American?  
-**Stokes** Yeah, well, that's tourist trash.  
-**Sidle** Thirteen million pounds per day. I went to the recycling forum in March.  
+**Sidle:** You know the average Nevadan generates more than three times waste than the average American?  
+**Stokes:** Yeah, well, that's tourist trash.  
+**Sidle:** Thirteen million pounds per day. I went to the recycling forum in March.  
 
 - - -
 
-**Sidle** It's like peeling an onion into peoples' lives.  
-**Willows** Well, this onion is our time line so peel back accordingly.  
+**Sidle:** It's like peeling an onion into peoples' lives.  
+**Willows:** Well, this onion is our time line so peel back accordingly.  
 
 - - -
 
-**Sidle** Well, she wasn't in town on business.  
-**Stokes** What's that? _((looks at Sidle))_  
-**Sidle** _((turns around and holds a black teddy in front of her, then clicks her tongue and shakes the teddy in front of her))_  
+**Sidle:** Well, she wasn't in town on business.  
+**Stokes:** What's that? _((looks at Sidle))_  
+**Sidle:** _((turns around and holds a black teddy in front of her, then clicks her tongue and shakes the teddy in front of her))_  
 
 - - -
 
-**Sidle** She's a virgin? What are we talking, immaculate conception?  
-**Willows** More like the immaculate perception. 'Pseudocyesis' -- imagined pregnancy.  
-**Sidle** It's all in her head? Well, that would explain what she was doing in dad's bed.
+**Sidle:** She's a virgin? What are we talking, immaculate conception?  
+**Willows:** More like the immaculate perception. 'Pseudocyesis' -- imagined pregnancy.  
+**Sidle:** It's all in her head? Well, that would explain what she was doing in dad's bed.
 

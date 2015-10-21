@@ -1,7 +1,7 @@
 ---
 title: "Post-Mortem"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,5 +31,5 @@ Catherine is sent to assist Sara on this case. Sara finds that Penny had been ca
 
 ## Quotes
 
-**Sidle** If one was horrifying, what is two?  
-**Grissom** A possible serial killer.
+**Sidle:** If one was horrifying, what is two?  
+**Grissom:** A possible serial killer.

@@ -1,7 +1,7 @@
 ---
 title: "Feeling the Heat"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,13 +29,13 @@ Sara is suspicious of the boyfriend until he's found dead, having tried to rescu
 
 ## Quotes
 
-**Stokes** Dollar slots [by the lakeshore]?  
-**Sidle** Is there truly no place left in Vegas without slot machines.  
+**Stokes:** Dollar slots [by the lakeshore]?  
+**Sidle:** Is there truly no place left in Vegas without slot machines.  
 
 - - -
 
-**Sidle** What did you tell him? His son died a hero?  
-**Stokes** Look, I'm just trying to give the guy a little peace, you know?  
-**Sidle** Oh, well, who are you trying to help feel better, him or you?  
-**Stokes** Hey, let me ask you something, Sara: You're Mr. Young, would you rather know this much or nothing at all?  
-**Sidle** You know, if the evidence doesn't support the answer, a CSI shouldn't be asking that question.
+**Sidle:** What did you tell him? His son died a hero?  
+**Stokes:** Look, I'm just trying to give the guy a little peace, you know?  
+**Sidle:** Oh, well, who are you trying to help feel better, him or you?  
+**Stokes:** Hey, let me ask you something, Sara: You're Mr. Young, would you rather know this much or nothing at all?  
+**Sidle:** You know, if the evidence doesn't support the answer, a CSI shouldn't be asking that question.

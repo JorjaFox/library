@@ -1,7 +1,7 @@
 ---
 title: "Girls Gone Wild"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -42,13 +42,13 @@ While Sara is angry that she, and Finn and Morgan, aren't taken seriously by the
 
 ## Quotes
 
-**Sidle** Larkston was never part of the plan. How often do we all have the weekend off?  
+**Sidle:** Larkston was never part of the plan. How often do we all have the weekend off?  
 
 * * *
 
-**Sidle** Uh... who's BeyoncÃ©?  
+**Sidle:** Uh... who's BeyoncÃ©?  
 
 * * *
 
-**Sidle** So, what do you want to do next weekend?
+**Sidle:** So, what do you want to do next weekend?
 

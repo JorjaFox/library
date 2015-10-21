@@ -1,7 +1,7 @@
 ---
 title: "All For Our Country"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -19,7 +19,7 @@ prodnum: 403
 
 When the lead suspects in Grissom's serial killer case are murdered, Grissom suspects an inside job. Grissom and Brass are at odds when Grissom suggests it was a cop. Catherine and Sara investigate what happened to a college football fan when his bloated body is found in a bathtub.
 
-_Note This episode is continued from "Assume Nothing"__
+_Note This episode is continued from "Assume Nothing"_
 
 ## Sara Sidle Review
 
@@ -34,30 +34,30 @@ Sara and Catherine get pulled off the serial killer case, and are given the chor
 
 ## Quotes
 
-**Willows** Whoa, this isn't half bad for college kids.  
-**Sidle** Yeah. Why live in a one-room flea bag when you can pool your resources and live like this.  
-**Willows** Hey, how 'bout it: You, me, Warrick, Nick, Grissom...  
-**Sidle** [shakes her head] Oh, ew, no... not Grissom.  
+**Willows:** Whoa, this isn't half bad for college kids.  
+**Sidle:** Yeah. Why live in a one-room flea bag when you can pool your resources and live like this.  
+**Willows:** Hey, how 'bout it: You, me, Warrick, Nick, Grissom...  
+**Sidle:** _(shakes her head)_ Oh, ew, no... not Grissom.  
 
 - - -
 
-**Willows** It's raining man juice?  
-**Sidle** Hallelujah?  
+**Willows:** It's raining man juice?  
+**Sidle:** Hallelujah?  
 
 - - -
 
-**Sidle** How do you get paint on the inside of your clothes?  
-**Willows** Rubs off your chest. Oh, what kind of guy paints his chest?  
-**Sidle** Performance artist? A clown maybe?  
-**Willows** _(smiling)_ Sports freak.  
-**Sidle** _(frowns, not understanding)_  
+**Sidle:** How do you get paint on the inside of your clothes?  
+**Willows:** Rubs off your chest. Oh, what kind of guy paints his chest?  
+**Sidle:** Performance artist? A clown maybe?  
+**Willows:** _(smiling)_ Sports freak.  
+**Sidle:** _(frowns, not understanding)_  
 
 - - -
 
-**Sidle** What tipped you to the ring?  
-**Willows** Jaws.  
-**Sidle** Peter Benchley's Jaws?  
+**Sidle:** What tipped you to the ring?  
+**Willows:** Jaws.  
+**Sidle:** Peter Benchley's Jaws?  
 
 - - -
 
-**Sidle** Now who's the punk... bitch?
+**Sidle:** Now who's the punk... bitch?

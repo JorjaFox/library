@@ -1,7 +1,7 @@
 ---
 title: "Play With Fire"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,13 +33,13 @@ Sara follows Grissom around the lab, curious, which results in her being caught 
 
 ## Quotes
 
-**Stokes** Yeah, they passed her around like a party favor.  
-**Sidle** Actually ... she passed around herself.  
+**Stokes:** Yeah, they passed her around like a party favor.  
+**Sidle:** Actually ... she passed around herself.  
 
 - - -
 
-**Sidle** Would you like to have dinner with me?  
-**Grissom** _pause_ No ...  
-**Sidle** Why not? Let's- Let's have dinner. Let's see what happens.  
-**Grissom** Sara ... I don't know what to do about this.  
-**Sidle** I do. _looks at Grissom for a moment_ You know, by the time you figure it out, you really could be too late. _Sidle leaves, Grissom watches her, a little surprised_
+**Sidle:** Would you like to have dinner with me?  
+**Grissom:** _pause_ No ...  
+**Sidle:** Why not? Let's- Let's have dinner. Let's see what happens.  
+**Grissom:** Sara ... I don't know what to do about this.  
+**Sidle:** I do. _looks at Grissom for a moment_ You know, by the time you figure it out, you really could be too late. _Sidle leaves, Grissom watches her, a little surprised_

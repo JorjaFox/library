@@ -1,7 +1,7 @@
 ---
 title: "Sweet Jane"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,5 +29,5 @@ Sara works the 1999 Jane Doe case, and takes the detective from that case to tas
 
 ## Quotes
 
-**Sidle** Weak is the best that we have right now.
+**Sidle:** Weak is the best that we have right now.
 

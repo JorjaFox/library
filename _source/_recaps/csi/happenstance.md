@@ -1,7 +1,7 @@
 ---
 title: "Happenstance"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,8 +29,8 @@ Sara spent the day waiting for her court case to be called up. It never was. Aft
 
 ## Quotes
 
-**Sidle** You missed one. Misanthrope.
+**Sidle:** You missed one. Misanthrope.
 
 <hr width=50%>
 
-**Sidle** I won't wait up.
+**Sidle:** I won't wait up.

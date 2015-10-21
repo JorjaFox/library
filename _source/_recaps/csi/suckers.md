@@ -1,7 +1,7 @@
 ---
 title: "Suckers"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,8 +29,8 @@ Sara works closely with Grissom on the antiquities case, despite recent events .
 
 ## Quotes
 
-**Grissom** Do you have any duct tape in your kit?  
-**Sidle** Yeah, it's what I use to keep it together.
+**Grissom:** Do you have any duct tape in your kit?  
+**Sidle:** Yeah, it's what I use to keep it together.
 
 ## References
 

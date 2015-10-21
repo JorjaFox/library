@@ -1,7 +1,7 @@
 ---
 title: "Double-Cross"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,12 +29,12 @@ Sara processes the body and finds bougainvillea stuck in the body's foot. She ex
 
 ## Quotes
 
-**Sidle** Did you memorize that information in anticipation of the question, in order to impress me?
+**Sidle:** Did you memorize that information in anticipation of the question, in order to impress me?
 
 <hr width=50%>
 
-**Sidle** I'm not an atheist, but I am _not_ sold on the idea of a higher power.
+**Sidle:** I'm not an atheist, but I am _not_ sold on the idea of a higher power.
 
 <hr width=50%>
 
-**Sidle** Sometimes ... I think we made up God just to have someone to blame for our mistakes. _(Grissom turns and leaves the morgue, and Sara calls after him.)_ It's just a theory.
+**Sidle:** Sometimes ... I think we made up God just to have someone to blame for our mistakes. _(Grissom turns and leaves the morgue, and Sara calls after him.)_ It's just a theory.

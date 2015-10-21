@@ -1,7 +1,7 @@
 ---
 title: "Burden of Proof"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -32,34 +32,34 @@ Feeling she is unnoticed and not respected by Grissom, she puts in for a leave o
 
 ## Quotes
 
-**Sidle** Wow! You go to go to the body farm!? I always wanted to go there. What's it like?  
-**Willows** Quiet.  
+**Sidle:** Wow! You go to go to the body farm!? I always wanted to go there. What's it like?  
+**Willows:** Quiet.  
 
 - - -
 
-**Stokes** Well according to Sara, 94% of all arsonists are male.  
-**Brown** Yeah, that sounds like Sara.  
+**Stokes:** Well according to Sara, 94% of all arsonists are male.  
+**Brown:** Yeah, that sounds like Sara.  
 
 - - -
 
-**Willows** Sara's not going to be too happy with that experiment in the fridge.  
-**Grissom** I'm putting it in the freezer.  
-**Willows** _(grimaces as Grissom fails to take the hint)_  
+**Willows:** Sara's not going to be too happy with that experiment in the fridge.  
+**Grissom:** I'm putting it in the freezer.  
+**Willows:** _(grimaces as Grissom fails to take the hint)_  
 
 - - -
 
-**Grissom** We have the best lab in the country.  
-**Sidle** I need a different work environment.  
-**Grissom** What does that mean?  
-**Sidle** One with, um, communication ... respect.  
-**Grissom** Everybody here respects you.  
-**Sidle** You don't.  
-**Grissom** _(pause)_ Is this about that hamburger thing?  
-**Sidle** No, Grissom. This is not about that 'hamburger' thing. I-I-I don't believe you. How can you reduce everything that I've said to some kind of single quirk? Do you think the problem here is just about me?  
-**Grissom** _(looks surprised)_  
-**Sidle** If you don't sign my leave, I'm going to have to quit. _(she turns to leave)_  
-**Grissom** Hey, Sara?  
-**Sidle** _(she turns around)_  
-**Grissom** The lab needs you here.  
-**Sidle** _(disappointed)_ Great.
+**Grissom:** We have the best lab in the country.  
+**Sidle:** I need a different work environment.  
+**Grissom:** What does that mean?  
+**Sidle:** One with, um, communication ... respect.  
+**Grissom:** Everybody here respects you.  
+**Sidle:** You don't.  
+**Grissom:** _(pause)_ Is this about that hamburger thing?  
+**Sidle:** No, Grissom. This is not about that 'hamburger' thing. I-I-I don't believe you. How can you reduce everything that I've said to some kind of single quirk? Do you think the problem here is just about me?  
+**Grissom:** _(looks surprised)_  
+**Sidle:** If you don't sign my leave, I'm going to have to quit. _(she turns to leave)_  
+**Grissom:** Hey, Sara?  
+**Sidle:** _(she turns around)_  
+**Grissom:** The lab needs you here.  
+**Sidle:** _(disappointed)_ Great.
 

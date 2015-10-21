@@ -1,7 +1,7 @@
 ---
 title: "Burked"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,15 +31,15 @@ Sara hands off 20 rolls of film to be processed, then finds an earring backing o
 
 ## Quotes
 
-**Sidle** Interesting love bites on the chest.  
+**Sidle:** Interesting love bites on the chest.  
 
 - - -
 
-**Sidle** Oops! Watch it! Evidence.  
-**Grissom** Where'd you get it?  
-**Sidle** Cracker box. It was all stuck together, muckity-muck. I don't want to ruin any potential prints, but I saw this TV dinner commercial and it hit me. I'm going to put it in the freezer!  
+**Sidle:** Oops! Watch it! Evidence.  
+**Grissom:** Where'd you get it?  
+**Sidle:** Cracker box. It was all stuck together, muckity-muck. I don't want to ruin any potential prints, but I saw this TV dinner commercial and it hit me. I'm going to put it in the freezer!  
 
 - - -
 
-**Sidle** Listen to you. Would you rather hit a home run in the fourth or the bottom of the ninth?
+**Sidle:** Listen to you. Would you rather hit a home run in the fourth or the bottom of the ninth?
 

@@ -1,7 +1,7 @@
 ---
 title: "Werewolves"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -49,6 +49,6 @@ Sara's most interesting scene is when she meets Sofia by the phone booth. Sofia 
 
 ## Quotes
 
-**Curtis** I've been waiting for you.  
-**Sidle** Sorry. I headed out as soon as I got your page.  
-**Curtis** Really? 'Cause, uh, I left you a voicemail several hours ago.
+**Curtis:** I've been waiting for you.  
+**Sidle:** Sorry. I headed out as soon as I got your page.  
+**Curtis:** Really? 'Cause, uh, I left you a voicemail several hours ago.

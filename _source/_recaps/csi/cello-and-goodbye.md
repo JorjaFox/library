@@ -1,7 +1,7 @@
 ---
 title: "Cello and Goodbye"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,5 +31,5 @@ N/A
 
 ## Quotes
 
-**Sidle**: So ... no free airfare then?
+**Sidle:**: So ... no free airfare then?
 

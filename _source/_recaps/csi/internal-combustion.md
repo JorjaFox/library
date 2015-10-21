@@ -1,7 +1,7 @@
 ---
 title: "Internal Combustion"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -39,8 +39,8 @@ When investigating the race, Sara flirts with the boys, talking about cars, in o
 
 ## Quotes
 
-**Stokes** Putting an electric motor in this [car] is sacrilegious.  
-**Sidle** Not a polar bears.
+**Stokes:** Putting an electric motor in this [car] is sacrilegious.  
+**Sidle:** Not a polar bears.
 
 * * *
 

@@ -1,7 +1,7 @@
 ---
 title: "Organ Grinder"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,23 +29,23 @@ When the body of Bob Fairmont, the real estate developer, is found, the team dis
 
 ## Quotes
 
-**Sidle** No matter how clean or expensive the [hotel] room is, that's why I always travel with NonOxynal9.  
-**Grissom** You sound like you're a commercial.  
+**Sidle:** No matter how clean or expensive the [hotel] room is, that's why I always travel with NonOxynal9.  
+**Grissom:** You sound like you're a commercial.  
 
 - - -
 
-**Grissom** What's the most important ingredient in a poison?  
-**Sidle** ... the poison?  
-**Grissom** Patience.  
+**Grissom:** What's the most important ingredient in a poison?  
+**Sidle:** ... the poison?  
+**Grissom:** Patience.  
 
 - - -
 
-**Sidle** _(places her hand on Greg's chest)_ I could really, really, kiss you right now. _(Greg turns his head away to present his cheek, and Sara leaves the room)_
+**Sidle:** _(places her hand on Greg's chest)_ I could really, really, kiss you right now. _(Greg turns his head away to present his cheek, and Sara leaves the room)_
   
 
 - - -
 
-**Sidle** What are we doing? Digging up graves, chasing prints...if it's no good in court, if the killers win --  
-**Grissom** It isn't a competition. We don't 'win.' The courts are like dice. They have no memory; what works one week won't work the next.  
-**Sidle** I know that. I do. I know that. That's why I'm mad.
+**Sidle:** What are we doing? Digging up graves, chasing prints...if it's no good in court, if the killers win --  
+**Grissom:** It isn't a competition. We don't 'win.' The courts are like dice. They have no memory; what works one week won't work the next.  
+**Sidle:** I know that. I do. I know that. That's why I'm mad.
 

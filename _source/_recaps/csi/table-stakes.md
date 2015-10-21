@@ -1,7 +1,7 @@
 ---
 title: "Table Stakes"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -38,29 +38,29 @@ Sara, Nick, Catherine and Brass have lunch in a restaurant as they discuss the c
 
 ## Quotes
 
-**Stokes** Someone's bitter.  
-**Sidle** _(growls)_ I'm tired.  
-**Stokes** You? Tired? I thought you never sleep. _(Sidle yawns)_ Oh, nice. Nice. _(both walk into the lab)_ What up, G? _(to Greg)_  
-**Sidle** You're awake. I hate you.  
+**Stokes:** Someone's bitter.  
+**Sidle:** _(growls)_ I'm tired.  
+**Stokes:** You? Tired? I thought you never sleep. _(Sidle yawns)_ Oh, nice. Nice. _(both walk into the lab)_ What up, G? _(to Greg)_  
+**Sidle:** You're awake. I hate you.  
 **Greg** Couple glasses of merlot, rack of lamb on my day off. Slept like a baby yesterday. _(looks at Sidle)_ You look horrible.  
-**Sidle** Thanks, Greg.  
+**Sidle:** Thanks, Greg.  
 **Nick** Don't look at me, I've got Sunshine all night. _[re: Sidle]_ [...]  
-**Sidle** Everything has to be in CODOS, ASAP.  
+**Sidle:** Everything has to be in CODOS, ASAP.  
 **Greg** Oh, is that all? Wanna know who's going to authorize my overtime?  
-**Sidle** Suck it up, Greg. You're well rested. _leaves_  
+**Sidle:** Suck it up, Greg. You're well rested. _leaves_  
 **Greg** _(to Nick)_ You want a Valium for her?  
-**Sidle** _(off screen)_ I heard that.  
+**Sidle:** _(off screen)_ I heard that.  
 
 - - -
 
-**Sidle** She's dead.  
-**Willows** Well, not necessarily. Maybe she's been swept off her feet?  
-**Stokes** _(laughs derisively)_ Some guys still like to foot the bill.  
-**Sidle** Really? How would you know?  
-**Stokes** Hey, I only go dutch if girls ask the wrong question.  
-**Willows** And what question is that, Nick?  
-**Stokes** 'What do you drive?'  
-**Sidle** It's an honest question.  
-**Stokes** No, no it's not. What it means is 'How much money do you make, so you can take care of me.'  
-**Sidle** Well, not _this_ girl.
+**Sidle:** She's dead.  
+**Willows:** Well, not necessarily. Maybe she's been swept off her feet?  
+**Stokes:** _(laughs derisively)_ Some guys still like to foot the bill.  
+**Sidle:** Really? How would you know?  
+**Stokes:** Hey, I only go dutch if girls ask the wrong question.  
+**Willows:** And what question is that, Nick?  
+**Stokes:** 'What do you drive?'  
+**Sidle:** It's an honest question.  
+**Stokes:** No, no it's not. What it means is 'How much money do you make, so you can take care of me.'  
+**Sidle:** Well, not _this_ girl.
 

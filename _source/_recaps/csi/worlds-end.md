@@ -1,7 +1,7 @@
 ---
 title: "World's End"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -32,6 +32,6 @@ Sara catches Lindsey reviewing the case files and talks to her. Lindsey is sympa
 
 ## Quotes
 
-**Brass** You'd rather deliver notification to next of kin [...]? That doesn't sound like the down and dirty Sara I used to know.  
-**Sidle** I like to see where haters come from.
+**Brass:** You'd rather deliver notification to next of kin [...]? That doesn't sound like the down and dirty Sara I used to know.  
+**Sidle:** I like to see where haters come from.
 

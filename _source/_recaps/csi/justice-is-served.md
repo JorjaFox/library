@@ -1,7 +1,7 @@
 ---
 title: "Justice is Served"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -35,13 +35,13 @@ Sara and Catherine experiment with the ride and a dummy, and realize that only t
 
 ## Quotes
 
-**Sidle** Hey! _(Catherine runs off)_ We aren't going to lunch, are we?  
+**Sidle:** Hey! _(Catherine runs off)_ We aren't going to lunch, are we?  
 
 - - -
 
-**Sidle** _(grinning)_  
-**Willows** What?  
-**Sidle** This is fun.  
-**Willows** As opposed to what?  
-**Sidle** A more scientific approach.
+**Sidle:** _(grinning)_  
+**Willows:** What?  
+**Sidle:** This is fun.  
+**Willows:** As opposed to what?  
+**Sidle:** A more scientific approach.
 

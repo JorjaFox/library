@@ -1,7 +1,7 @@
 ---
 title: "Long Ball"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -36,12 +36,12 @@ Sara works with recovering evidence from the golf cart with Ray and Nick, and is
 
 ## Quotes
 
-**Stokes** Each [golf ball] is unique.  
-**Sidle** Awww. Just like a snowflake!
+**Stokes:** Each [golf ball] is unique.  
+**Sidle:** Awww. Just like a snowflake!
 
 * * *:
 
-**Sanders** Sometimes I wonder if you two are really married.  
-**Sidle** Well ... Now that you mention it ... Just kidding!  
-**Sanders** Hah. 6000 miles?  
-**Sidle** *_grinning_* So far, so good.
+**Sanders:** Sometimes I wonder if you two are really married.  
+**Sidle:** Well ... Now that you mention it ... Just kidding!  
+**Sanders:** Hah. 6000 miles?  
+**Sidle:** *_grinning_* So far, so good.

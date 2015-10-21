@@ -1,7 +1,7 @@
 ---
 title: "Turn of the Screws"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,29 +31,29 @@ Sara, Nick and Greg arrive at the scene; Greg is carrying Sara's kit. Sara is a 
 
 ## Quotes
 
-**Sanders** So, when he asks if anybody has any questions, he's not really asking?  
-**Sidle** _(smiles)_ Well, I don't know much about roller coaster accidents, but in auto collisions, the victims found furthest away from the car usually weren't wearing a seat belt. That'd be my bet.  
+**Sanders:** So, when he asks if anybody has any questions, he's not really asking?  
+**Sidle:** _(smiles)_ Well, I don't know much about roller coaster accidents, but in auto collisions, the victims found furthest away from the car usually weren't wearing a seat belt. That'd be my bet.  
 
 - - -
 
-**Sidle** 'A Turn of the Screw' isn't really a horror story. It's more of a mystery. Did the governess kill the little boy, or did the ghost do it?  
-**Grissom** Well, it's only a mystery if you believe in ghosts.  
+**Sidle:** 'A Turn of the Screw' isn't really a horror story. It's more of a mystery. Did the governess kill the little boy, or did the ghost do it?  
+**Grissom:** Well, it's only a mystery if you believe in ghosts.  
 
 - - -
 
-**Sidle** What? Sex on a rollercoaster?  
-**Sanders** Or some kid shaking hands with Shorty.  
+**Sidle:** What? Sex on a rollercoaster?  
+**Sanders:** Or some kid shaking hands with Shorty.  
 
 - - -
 
-**Sidle** Oh, roller coaster wacko at 12:00.
+**Sidle:** Oh, roller coaster wacko at 12:00.
   
 
 - - -
 
-**Hodges** Your killer has a rash.  
-**Sidle** And we need to catch it.  
+**Hodges:** Your killer has a rash.  
+**Sidle:** And we need to catch it.  
 
 - - -
 
-**Sidle** You want a clue? Her death ended the Ptolemy dynasty's reign in ancient Egypt, hence making her the last pharaoh.
+**Sidle:** You want a clue? Her death ended the Ptolemy dynasty's reign in ancient Egypt, hence making her the last pharaoh.

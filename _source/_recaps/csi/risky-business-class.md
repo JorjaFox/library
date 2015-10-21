@@ -1,7 +1,7 @@
 ---
 title: "Risky Business Class"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -47,49 +47,49 @@ When Doug asks Sara and Grissom out to dinner, and then just Sara, she asks him 
 
 ## Quotes
 
-**Sidle** *to phone* Hey, Gil. Just wanted to hear your voice. It's kind of a slow night here. Give me a call if you get the chance.  
+**Sidle:** *to phone* Hey, Gil. Just wanted to hear your voice. It's kind of a slow night here. Give me a call if you get the chance.  
 
 * * *
 
 **Wilson** Did you hear that the Rusty Nickel closed?  
-**Sidle** Hah! Well, that's about time, that bar gave dives a bad name.  
+**Sidle:** Hah! Well, that's about time, that bar gave dives a bad name.  
 **Wilson** What are you talking about? You loved that place.  
-**Sidle** Well, yeah. You're right. I did love it. Right up until the moment they kicked me out for life.  
+**Sidle:** Well, yeah. You're right. I did love it. Right up until the moment they kicked me out for life.  
 **Wilson** They did do that.  
-**Sidle** Yep.  
+**Sidle:** Yep.  
 
 * * *
 
-**Sidle** I tell you what. I'm going to take my physics and find whatever it was that fell out of your plane.  
+**Sidle:** I tell you what. I'm going to take my physics and find whatever it was that fell out of your plane.  
 **Wilson** What about me? What am I going to do?  
-**Sidle** You're going to build me a plane.  
+**Sidle:** You're going to build me a plane.  
 
 * * *
 
 **Finn** You can take that. I'll come back.  
-**Sidle** No, that's alright. I-- I'll call him back later.  
+**Sidle:** No, that's alright. I-- I'll call him back later.  
 **Finn** If you ever feel like talking â¦  
-**Sidle** You ever try the long distance thing?  
+**Sidle:** You ever try the long distance thing?  
 **Finn** No. But I think it would have helped with my relationship with husband number two.  
-**Sidle** Ah, the Seattle Ex.  
+**Sidle:** Ah, the Seattle Ex.  
 **Finn** Yeah.  
-**Sidle** What was that like? Seeing him again.  
+**Sidle:** What was that like? Seeing him again.  
 **Finn** It was weird. And then it wasn't.  
-**Sidle** You know, I wondered why you took a later flight.  
+**Sidle:** You know, I wondered why you took a later flight.  
 **Finn** What about you and your NTSB guy? Is that weird?  
-**Sidle** Very weird.  
+**Sidle:** Very weird.  
 **Finn** Gonna stay that way?  
-**Sidle** It has to, right?  
+**Sidle:** It has to, right?  
 
 * * *
 
 **Wilson** Listen, Sara, I was wondering if I could buy you and Grissom dinner tonight. You pick the place, NTSB picks up the tab, I'm a, uh, hell of a third wheel.  
-**Sidle** Actually... Gil's out of town.  
+**Sidle:** Actually... Gil's out of town.  
 **Wilson** So just the two of us, then?  
-**Sidle** Don't.  
+**Sidle:** Don't.  
 **Wilson** Don't what?  
-**Sidle** Do this.  
+**Sidle:** Do this.  
 **Wilson** Okay. I mean, if everything's good between you two, and I know you Sara, so I'm getting the feeling that maybe it isn't, then I understand--  
-**Sidle** Everything's great.  
+**Sidle:** Everything's great.  
 **Wilson** Okay.
 

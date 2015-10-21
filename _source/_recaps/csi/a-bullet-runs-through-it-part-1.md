@@ -1,7 +1,7 @@
 ---
 title: "A Bullet Runs Through It (Part 1)"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -39,13 +39,13 @@ Seen primarily in the scene with the Spanish speaking mother, Sara is obviously 
 
 ## Quotes
 
-**Sidle** I'm gonna go dig bullets out of walls.  
+**Sidle:** I'm gonna go dig bullets out of walls.  
 
 - - -
 
-**Sidle** I'm sorry. I don't have the answer to that.  
+**Sidle:** I'm sorry. I don't have the answer to that.  
 
 - - -
 
-**Sanders** Who's with me?  
-**Sidle** A bunch of pissed off locals with shot up cars.
+**Sanders:** Who's with me?  
+**Sidle:** A bunch of pissed off locals with shot up cars.

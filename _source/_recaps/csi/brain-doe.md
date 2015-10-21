@@ -1,7 +1,7 @@
 ---
 title: "Brain Doe"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -35,9 +35,9 @@ Sara and Nick go over Clegg's car and find a yellow residue, which Sara is later
 
 ## Quotes
 
-**Sidle** Well, he was definitely into medicine, but I wouldn't trust him to drive my brain around.
+**Sidle:** Well, he was definitely into medicine, but I wouldn't trust him to drive my brain around.
 
 * * *
 
-**Sidle** You know chicken nuggets donât really look like that?* * *
+**Sidle:** You know chicken nuggets donât really look like that?* * *
 

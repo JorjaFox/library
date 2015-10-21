@@ -1,7 +1,7 @@
 ---
 title: "Inside the Box"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -25,5 +25,5 @@ Lockwood's death provides Grissom and his crew with added incentive to find the 
 
 ## Quotes
 
-**Sidle** This [crime] was the epitome of precision.
+**Sidle:** This [crime] was the epitome of precision.
 

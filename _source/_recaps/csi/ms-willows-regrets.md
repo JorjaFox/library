@@ -1,7 +1,7 @@
 ---
 title: "Ms. Willows Regrets"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,7 +31,7 @@ Sara and Morgan investigate the lawyers offices, where the victims were killed, 
 
 ## Quotes
 
-**Sidle** You know, the only janitor I knew who cleaned this throughly turned out to be a serial killer.
+**Sidle:** You know, the only janitor I knew who cleaned this throughly turned out to be a serial killer.
 
 * * *
 

@@ -1,7 +1,7 @@
 ---
 title: Missing Persons Recaps
 author: Mika Epstein
-layout: recap
+layout: recap-tv
 topic: index
 permalink: /recaps/missing-persons/
 categories: "Recaps"

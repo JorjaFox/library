@@ -1,7 +1,7 @@
 ---
 title: "Seeing Red"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -35,4 +35,4 @@ Investigating the warehouse, they determine the one survivor was picked up by a 
 
 ## Quotes
 
-**Sidle** Well I see your palm print and I raise you a knee impression and a footprint.  
+**Sidle:** Well I see your palm print and I raise you a knee impression and a footprint.  

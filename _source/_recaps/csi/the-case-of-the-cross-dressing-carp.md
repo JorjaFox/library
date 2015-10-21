@@ -1,7 +1,7 @@
 ---
 title: "The Case of the Cross-Dressing Carp"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -37,13 +37,13 @@ During the case, Sara meets Grissom by his beehives. After telling her all about
 ## Quotes
 
 **Lake** Why did you pick Vegas?  
-**Sidle** Well it, ah, kind of picked me.
+**Sidle:** Well it, ah, kind of picked me.
 
 <hr width=50%>
 
-**Sidle** I was hoping just once, Vegas would have to honor its past.
+**Sidle:** I was hoping just once, Vegas would have to honor its past.
 
 <hr width=50%>
 
-**Grissom** Wanna get married?  
-**Sidle** Yes... let's do it.
+**Grissom:** Wanna get married?  
+**Sidle:** Yes... let's do it.

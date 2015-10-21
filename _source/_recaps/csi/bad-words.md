@@ -1,7 +1,7 @@
 ---
 title: "Bad Words"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,13 +31,13 @@ Sara and Grissom investigate the death of a man in a hotel bathroom, which leads
 
 ## Quotes
 
-**Sidle** It's always reassuring to see an empty soap dispenser in a public bathroom.  
+**Sidle:** It's always reassuring to see an empty soap dispenser in a public bathroom.  
 
 - - -
 
-**Sidle** Head bashed in and asphyxiated. No soap was the least of his problems.
+**Sidle:** Head bashed in and asphyxiated. No soap was the least of his problems.
   
 - - -
 
-**Grissom** Good. What's an 'exvin'?  
-**Sidle** I was actually hoping you'd know. It's not in the OED.
+**Grissom:** Good. What's an 'exvin'?  
+**Sidle:** I was actually hoping you'd know. It's not in the OED.

@@ -1,7 +1,7 @@
 ---
 title: "Dead Doll"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -50,9 +50,9 @@ Sara wakes up in the helicopter with Grissom smiling at her, and she returns the
 
 ## Quotes
 
-**Sidle** Hello, Gilbert.  
+**Sidle:** Hello, Gilbert.  
 
 - - -
 
-**Sidle** I have a fear of trunks. In my line of work, you only find one thing in them.
+**Sidle:** I have a fear of trunks. In my line of work, you only find one thing in them.
 

@@ -1,7 +1,7 @@
 ---
 title: "Mea Culpa"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,15 +29,15 @@ Sara remains on the night shift, with Grissom and Greg -- Ecklie moves those he 
 
 * Sara lies to Ecklie about having her required PEAP conversation with Grissom.  
 * Sara shows Greg how to raise an abraded serial number on a gun -- part of her mentoring of him that continues throughout the season.  
-* E)cklie considers Sara to be a trouble-maker (and unlikely to ever turn her back on Grissom, so she stays with the night shift.
+* Ecklie considers Sara to be a trouble-maker (and unlikely to ever turn her back on Grissom, so she stays with the night shift.
 
 ## Quotes
 
-**Ecklie** Ah. As you know, it's my job to review everyone's file. I just want to make sure you finished up with your PEAP Counselor.  
-**Sidle** That's none of your business, Ecklie.  
-**Ecklie** Well, not only is it my business, but I plan to speak with your supervisor.  
-**Sidle** About what?  
-**Ecklie** You have updated him, right?  
-**Sidle** Yeah, yeah, we've had an abbreviated conversation. I'm doing fine. Completed my required number of sessions months ago.  
-**Ecklie** Huh. Grissom failed to note that conversation in your file. Um ... But I'll take care of it. All right.  
-**Sidle** Thanks.
+**Ecklie:** Ah. As you know, it's my job to review everyone's file. I just want to make sure you finished up with your PEAP Counselor.  
+**Sidle:** That's none of your business, Ecklie.  
+**Ecklie:** Well, not only is it my business, but I plan to speak with your supervisor.  
+**Sidle:** About what?  
+**Ecklie:** You have updated him, right?  
+**Sidle:** Yeah, yeah, we've had an abbreviated conversation. I'm doing fine. Completed my required number of sessions months ago.  
+**Ecklie:** Huh. Grissom failed to note that conversation in your file. Um ... But I'll take care of it. All right.  
+**Sidle:** Thanks.

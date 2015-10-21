@@ -1,7 +1,7 @@
 ---
 title: "Ghost of the Past"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -39,9 +39,9 @@ After the case, Sara asks DB for a leave to return to San Francisco and work on 
 ## Quotes
 
 **Finn** It's for you. Want it? SFPD?  
-**Sidle** I'll call 'em back.  
+**Sidle:** I'll call 'em back.  
 
 - - -
 
-**Sidle** Hmm. Twenty years has done nothing to cure the crazy.
+**Sidle:** Hmm. Twenty years has done nothing to cure the crazy.
 

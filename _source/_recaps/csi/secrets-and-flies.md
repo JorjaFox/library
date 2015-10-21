@@ -1,7 +1,7 @@
 ---
 title: "Secrets and Flies"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -35,8 +35,8 @@ Perhaps unexpectedly, Sara doesn't have a lot of emotional investment in this ca
 
 ## Quotes
 
-**Sidle** Ducks. That's a new decorating choice.  
+**Sidle:** Ducks. That's a new decorating choice.  
 
 - - -
 
-**Sidle** Hey, Professor -- looking good.
+**Sidle:** Hey, Professor -- looking good.

@@ -1,7 +1,7 @@
 ---
 title: "Let It Bleed"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,6 +29,6 @@ _Sara does not appear in the episode._
 
 ## Quotes
 
-**Willows** What do you hear from Sara?  
-**Grissom** I don't know where she is.
+**Willows:** What do you hear from Sara?  
+**Grissom:** I don't know where she is.
 

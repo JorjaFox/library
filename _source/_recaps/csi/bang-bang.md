@@ -1,7 +1,7 @@
 ---
 title: "Bang-Bang"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -45,6 +45,6 @@ Sara works the side of the case involving the dead wife.
 
 ## Quotes
 
-**Sidle** And grass, not the kind you smoke on the floor in the closet. But all the shoes in the closet were clean.  
-**Brown** So someone was walking around in here with grass on their shoes? Maybe it was the missing husband... or a desperate gardener.  
-**Sidle** Who was mowing more than the lawn.
+**Sidle:** And grass, not the kind you smoke on the floor in the closet. But all the shoes in the closet were clean.  
+**Brown:** So someone was walking around in here with grass on their shoes? Maybe it was the missing husband... or a desperate gardener.  
+**Sidle:** Who was mowing more than the lawn.

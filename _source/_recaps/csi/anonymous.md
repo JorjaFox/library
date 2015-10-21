@@ -1,7 +1,7 @@
 ---
 title: "Anonymous"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -25,28 +25,28 @@ When a man is found dead in a setting disturbingly similar to a previous case (i
 
 ## Quotes
 
-**Grissom** Be thorough. Don't take anything for granted.  
-**Sidle** Yes, sir.  
+**Grissom:** Be thorough. Don't take anything for granted.  
+**Sidle:** Yes, sir.  
 
 - - -
 
-**Sidle** Wow, this stuff rocks. I love bathrooms. Last time I printed a hotel bathroom, I had over 1,000 prints.
+**Sidle:** Wow, this stuff rocks. I love bathrooms. Last time I printed a hotel bathroom, I had over 1,000 prints.
   
 
 - - -
 
-**Sidle** Okay... close the doors and hit the lights, daddio.
+**Sidle:** Okay... close the doors and hit the lights, daddio.
   
 
 - - -
 
-**Sidle** Not a single print.  
+**Sidle:** Not a single print.  
 **Detective Evans** He wiped it clean.  
-**Sidle** Yeah. This guy's a real pro. Not only did he wipe it clean, it's sterile.  
+**Sidle:** Yeah. This guy's a real pro. Not only did he wipe it clean, it's sterile.  
 
 - - -
 
-**Sidle** He's toying with us.  
-**Sanders** Who is?  
-**Sidle** _(pause)_ Anonymous.
+**Sidle:** He's toying with us.  
+**Sanders:** Who is?  
+**Sidle:** _(pause)_ Anonymous.
 

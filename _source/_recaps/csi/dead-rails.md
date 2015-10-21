@@ -1,7 +1,7 @@
 ---
 title: "Dead Rails"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,13 +31,13 @@ Sara goes with Morgan Brody to the after hours club 'The Rails' and find blood a
 
 ## Quotes
 
-**Sidle** Same with this glass.  
+**Sidle:** Same with this glass.  
 **Brody** Confirms the Hornet's trick shot.  
-**Sidle** Somebody used it for a different sort of trick.  
+**Sidle:** Somebody used it for a different sort of trick.  
 
 * * *
 
 **Brody** You ready for another weird?  
-**Sidle** It's what keeps me coming back.  
+**Sidle:** It's what keeps me coming back.  
 ---
 

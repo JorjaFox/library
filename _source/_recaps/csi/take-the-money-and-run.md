@@ -1,7 +1,7 @@
 ---
 title: "Take the Money and Run"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -48,5 +48,5 @@ Later, Sara and Finn go over Paul's history, learning about his less than honora
 ## Quotes
 
 **Archer** I didn't do it for me.  
-**Sidle** Oh let me guess. This is the part where you argue for father of the year?
+**Sidle:** Oh let me guess. This is the part where you argue for father of the year?
 

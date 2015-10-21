@@ -1,7 +1,7 @@
 ---
 title: "Eleven Angry Jurors"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,9 +29,9 @@ Sara is fairly nondescript in this -- a good, general workman-like job with noth
 
 ## Quotes
 
-**Brown** Take me out to the ballgame.  
-**Sidle** Buy me some peanuts.  
+**Brown:** Take me out to the ballgame.  
+**Sidle:** Buy me some peanuts.  
 
 - - -
 
-**Sidle** The killer, I presume. _(holding up dead bee)_
+**Sidle:** The killer, I presume. _(holding up dead bee)_

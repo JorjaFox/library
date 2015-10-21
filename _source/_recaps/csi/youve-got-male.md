@@ -1,7 +1,7 @@
 ---
 title: "You've Got Male"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -34,19 +34,19 @@ Sara sees the similarities between herself and one of the sisters. As she questi
 
 ## Quotes
 
-**Sidle** We already know she cooks like I do: take out on speed dial.  
+**Sidle:** We already know she cooks like I do: take out on speed dial.  
 
 - - -
 
-**Sidle** I like the shoes. Like 'em enough to get a warrant.
+**Sidle:** I like the shoes. Like 'em enough to get a warrant.
   
 
 - - -
 
-**Grissom** Agoraphobic maybe? Or she just doesn't like people?  
-**Sidle** _(smiling)_ Ah, that's you talking.  
+**Grissom:** Agoraphobic maybe? Or she just doesn't like people?  
+**Sidle:** _(smiling)_ Ah, that's you talking.  
 
 - - -
 
-**Sidle** _(questioning ex-con)_ She was vulnerable. No social life, no friends, not even a cat. All she had was her work. She ordered from catalogs to give herself something to look forward to.
+**Sidle:** _(questioning ex-con)_ She was vulnerable. No social life, no friends, not even a cat. All she had was her work. She ordered from catalogs to give herself something to look forward to.
 

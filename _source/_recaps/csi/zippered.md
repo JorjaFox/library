@@ -1,7 +1,7 @@
 ---
 title: "Zippered"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,12 +31,12 @@ She later works with Doc Robbins when the body comes in, and determines a way to
 
 ## Quotes
 
-**Sidle** Catherine, who do you want to be? Victim or killer.  
-**Willows** I'll be the killer.  
-**Sidle** I'll be the victim. I've got a beer in my hand, standing in my own kitchen. I've got every kind of gun six meters that way. I'm heading that way when I'm shot.  
+**Sidle:** Catherine, who do you want to be? Victim or killer.  
+**Willows:** I'll be the killer.  
+**Sidle:** I'll be the victim. I've got a beer in my hand, standing in my own kitchen. I've got every kind of gun six meters that way. I'm heading that way when I'm shot.  
 
 * * *
 
-**Sidle** The thing about tattoos, they're forever. Doc, can I take this part to go?  
+**Sidle:** The thing about tattoos, they're forever. Doc, can I take this part to go?  
 **Robbins** Not yet, but we deliver.
 

@@ -1,7 +1,7 @@
 ---
 title: "Malice In Wonderland"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -36,18 +36,18 @@ At the end of the episode, Sara finds a plant sent to the office, from Grissom.
 ## Quotes
 
 **Alan Widcom** Elvis is a big cliche these days.  
-**Sidle** And Liberace is all the rage.  
+**Sidle:** And Liberace is all the rage.  
 
 * * *
 
 **Widcom** Are you married?  
-**Sidle** I am.  
+**Sidle:** I am.  
 **Widcom** It's ... special, isn't it?  
-**Sidle** Yes. It is.  
+**Sidle:** Yes. It is.  
 
 * * *
 
-**Ecklie** ... Fredrick Ladd. Runs a cash-for-gold store in a some strip mall.  
-**Sidle** Yeah! Like the ads! 'Market Crash! Cold Hard Cash!'  
-**Ecklie** Seriously. You watch too much TV.  
-**Sidle** I work the night shift and my husband's living abroad. Cut me some slack, please.
+**Ecklie:** ... Fredrick Ladd. Runs a cash-for-gold store in a some strip mall.  
+**Sidle:** Yeah! Like the ads! 'Market Crash! Cold Hard Cash!'  
+**Ecklie:** Seriously. You watch too much TV.  
+**Sidle:** I work the night shift and my husband's living abroad. Cut me some slack, please.

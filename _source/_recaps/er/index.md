@@ -1,7 +1,7 @@
 ---
 title: ER Recaps
 author: Mika Epstein
-layout: recap
+layout: recap-tv
 topic: index
 permalink: /recaps/er/
 categories: "Recaps"

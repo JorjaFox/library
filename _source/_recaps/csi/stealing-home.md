@@ -1,7 +1,7 @@
 ---
 title: "Stealing Home"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -36,9 +36,9 @@ In the end, the siblings fight again over the house and Finn threatens to take a
 
 ## Quotes
 
-**Sidle** Siblings like that kinda make me glad I'm an only child.  
+**Sidle:** Siblings like that kinda make me glad I'm an only child.  
 
 * * *
 
-**Sidle** That's ... one killer house.
+**Sidle:** That's ... one killer house.
 

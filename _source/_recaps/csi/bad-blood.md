@@ -1,7 +1,7 @@
 ---
 title: "Bad Blood"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -40,8 +40,8 @@ After the case is solved, Greg wakes up to see Sara's bed empty and stripped of 
 
 ## Quotes
 
-**Sanders** I'm starving.  
-**Sidle** Me too.  
-**Sanders** Breakfast?  
-**Sidle** _Coffee._
+**Sanders:** I'm starving.  
+**Sidle:** Me too.  
+**Sanders:** Breakfast?  
+**Sidle:** _Coffee._
 

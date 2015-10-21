@@ -1,7 +1,7 @@
 ---
 title: "Dune and Gloom"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -46,15 +46,15 @@ When Russell tells Sara about his cousin, who became a paranoid schizophrenic, s
 
 * * *
 
-**Sanders** Actually, I've been working the case. And I think we're doing it all wrong.  
-**Sidle** Cite your source.  
+**Sanders:** Actually, I've been working the case. And I think we're doing it all wrong.  
+**Sidle:** Cite your source.  
 
 * * *
 
-**Russell** [My cousin was] a really good kid. But one summer he started telling me about this birdhouse that the neighbor had built across the street. He was convinced there was a camera inside it. [...] Got worse, too. Towards the end, he thought my glasses were cameras, and that I was recording his every move.  
-**Sidle** What happened to him  
-**Russell** Not a happy ending.  
-**Sidle** Yeah, I know a little bit about that kid of sad ending myself. My mom.  
-**Russell** I didn't know that. I'm sorry.  
-**Sidle** Me too.
+**Russell:** [My cousin was] a really good kid. But one summer he started telling me about this birdhouse that the neighbor had built across the street. He was convinced there was a camera inside it. [...] Got worse, too. Towards the end, he thought my glasses were cameras, and that I was recording his every move.  
+**Sidle:** What happened to him  
+**Russell:** Not a happy ending.  
+**Sidle:** Yeah, I know a little bit about that kid of sad ending myself. My mom.  
+**Russell:** I didn't know that. I'm sorry.  
+**Sidle:** Me too.
 

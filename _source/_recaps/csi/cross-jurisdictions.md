@@ -1,7 +1,7 @@
 ---
 title: "Cross Jurisdictions"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -23,5 +23,5 @@ _Note: This episode was used to introduce the cast of the future spin-off, _CSI:
 
 ## Quotes
 
-**Sidle** Frat party. I wouldn't know anything about that ... How wild?
+**Sidle:** Frat party. I wouldn't know anything about that ... How wild?
 

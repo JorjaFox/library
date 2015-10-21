@@ -1,7 +1,7 @@
 ---
 title: "For Warrick"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,16 +33,16 @@ Sara arrives a few hours after Warrick has been killed and waits for Grissom in 
 
 ## Quotes
 
-**Sidle** I caught the first flight out.  
+**Sidle:** I caught the first flight out.  
 
 * * *
 
-**Sidle** You know he loved you.  
-**Grissom** And I loved him.  
+**Sidle:** You know he loved you.  
+**Grissom:** And I loved him.  
 
 * * *
 
-**Sidle** You know, after being in so many victims' houses, I never left the house without making the bed and taking out the trash. In case I didn't come home.  
-**Sanders** What about now?  
-**Sidle** Since I left Vegas, I don't do that anymore.
+**Sidle:** You know, after being in so many victims' houses, I never left the house without making the bed and taking out the trash. In case I didn't come home.  
+**Sanders:** What about now?  
+**Sidle:** Since I left Vegas, I don't do that anymore.
 

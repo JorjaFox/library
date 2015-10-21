@@ -1,7 +1,7 @@
 ---
 title: "Snakes"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -28,18 +28,18 @@ The swing shift has a busy time. Warrick looks into the murder of man by someone
 
 ## Quotes
 
-**Sidle** We really haven't had a chance to talk since the staff changes. _sits down_ I, uh ... I wanted to let you know that I said some things to Ecklie that might have done the team a disservice.  
-**Grissom** Ecklie wanted to break up the team and he did.  
-**Sidle** He asked me if you and I had had our post-PEAP counseling session.  
-**Grissom** And we didn't. Regardless, you should never have to cover for your boss. I'm sorry.  
-**Sidle** You've always been a little more than a boss to me. _smiles at Grissom_ Why do you think I moved to Vegas? Look, I know our relationship has been complicated. It's probably my fault. It's probably definitely my fault.  
-**Grissom** You, uh, completed your counseling, right?  
-**Sidle** Yeah. Yes.  
-**Grissom** And ... ?  
-**Sidle** Let's just say that ... I sometimes ... I look for validation in inappropriate places.  
+**Sidle:** We really haven't had a chance to talk since the staff changes. _sits down_ I, uh ... I wanted to let you know that I said some things to Ecklie that might have done the team a disservice.  
+**Grissom:** Ecklie wanted to break up the team and he did.  
+**Sidle:** He asked me if you and I had had our post-PEAP counseling session.  
+**Grissom:** And we didn't. Regardless, you should never have to cover for your boss. I'm sorry.  
+**Sidle:** You've always been a little more than a boss to me. _smiles at Grissom_ Why do you think I moved to Vegas? Look, I know our relationship has been complicated. It's probably my fault. It's probably definitely my fault.  
+**Grissom:** You, uh, completed your counseling, right?  
+**Sidle:** Yeah. Yes.  
+**Grissom:** And ... ?  
+**Sidle:** Let's just say that ... I sometimes ... I look for validation in inappropriate places.  
 :(They lapse into silence.)  
-**Grissom** Look ... let's, um ...  
+**Grissom:** Look ... let's, um ...  
 :(More silence.)  
-**Sidle** It's okay. Okay. You know what, we did our session. Don't forget to document this for Ecklie. _smiles_  
-**Grissom** Right.  
-**Sidle** Thanks. _stands up and leaves_
+**Sidle:** It's okay. Okay. You know what, we did our session. Don't forget to document this for Ecklie. _smiles_  
+**Grissom:** Right.  
+**Sidle:** Thanks. _stands up and leaves_

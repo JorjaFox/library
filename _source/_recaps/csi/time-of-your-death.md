@@ -1,7 +1,7 @@
 ---
 title: "Time of Your Death"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -41,5 +41,5 @@ Sara Please tell me there are something more to this guys and cars thing, beside
 
 - - -
 
-**Grissom** Some guys are intimidated by beauty. Or fear rejection. _  
-**Sidle** _(narrows her eyes in reaction to this__
+**Grissom:** Some guys are intimidated by beauty. Or fear rejection. _  
+**Sidle:** _(narrows her eyes in reaction to this__

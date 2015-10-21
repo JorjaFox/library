@@ -1,7 +1,7 @@
 ---
 title: "Bad to the Bone"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -25,11 +25,11 @@ Sara has very little to do in this ep, and is fairly low key throughout it. She 
 
 ## Quotes
 
-**Sidle** You've got to be kidding me. He just did it again.  
-**Stokes** Two for two.  
-**Sidle** That guy has got stones going after a mark as big as Tony.  
+**Sidle:** You've got to be kidding me. He just did it again.  
+**Stokes:** Two for two.  
+**Sidle:** That guy has got stones going after a mark as big as Tony.  
 
 - - -
 
-**Stokes** Burn holes.  
-**Sidle** The guy takes on five cops in their house. Makes you wonder what he might have done to a waitress.
+**Stokes:** Burn holes.  
+**Sidle:** The guy takes on five cops in their house. Makes you wonder what he might have done to a waitress.

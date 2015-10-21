@@ -1,7 +1,7 @@
 ---
 title: "Room Service"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -36,4 +36,4 @@ N/A
 ## Quotes
 
 **Cop** Why's [Grissom] leaving?  
-**Sidle** Well. That's kind of what he does.
+**Sidle:** Well. That's kind of what he does.

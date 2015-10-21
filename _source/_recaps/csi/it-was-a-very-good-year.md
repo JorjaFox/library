@@ -1,7 +1,7 @@
 ---
 title: "It was a Very Good Year"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,5 +33,5 @@ Sara was mostly in the background this episode.
 
 ## Quotes
 
-**Sidle** If it were a Radiohead song, I could help you.
+**Sidle:** If it were a Radiohead song, I could help you.
 

@@ -1,7 +1,7 @@
 ---
 title: "Torch Song"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -37,5 +37,5 @@ While Nick and Finn work the arson, Morgan and Sara work the deaths.
 
 ## Quotes
 
-**Sidle** However the physics worked, this kid went through hell.
+**Sidle:** However the physics worked, this kid went through hell.
 

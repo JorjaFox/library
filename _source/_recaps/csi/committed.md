@@ -1,7 +1,7 @@
 ---
 title: "Committed"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -34,17 +34,17 @@ _Note 2: During the interrogation scene, when the camera pans down Sara, her fin
 
 ## Quotes
 
-**Sidle** _(patient bites at swab)_ Grissom... you take this one.  
+**Sidle:** _(patient bites at swab)_ Grissom... you take this one.  
 
 - - -
 
-**Sidle** Sometimes a dying whale is just a dying whale.
+**Sidle:** Sometimes a dying whale is just a dying whale.
   
 
 - - -
 
-**Sidle** When my father died, my mother came to a place like this for a while for evaluation. It looked the same, it smelled the same. It smelled like lies.  
-**Grissom** You sure you're okay?  
-**Sidle** Crazy people do make me feel crazy.  
-**Grissom** If you want, I can have somebody take your place.  
-**Sidle** I appreciate that. I do, I really do, but ... [...] I kind of made a decision to move beyond that and ... I really want to finish this case.
+**Sidle:** When my father died, my mother came to a place like this for a while for evaluation. It looked the same, it smelled the same. It smelled like lies.  
+**Grissom:** You sure you're okay?  
+**Sidle:** Crazy people do make me feel crazy.  
+**Grissom:** If you want, I can have somebody take your place.  
+**Sidle:** I appreciate that. I do, I really do, but ... [...] I kind of made a decision to move beyond that and ... I really want to finish this case.

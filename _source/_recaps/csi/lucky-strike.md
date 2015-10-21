@@ -1,7 +1,7 @@
 ---
 title: "Lucky Strike"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -25,8 +25,8 @@ The 5-year-old son of a professional basketball player is kidnapped while his fa
 
 ## Quotes
 
-**Sidle** So you've got nothing.  
-**Brown** Nothing I can see.  
-**Sidle** _(sniffs the paper, hands it back to Warrick)_  
-**Brown** _(sniffs the paper and takes it to the gas spec__
+**Sidle:** So you've got nothing.  
+**Brown:** Nothing I can see.  
+**Sidle:** _(sniffs the paper, hands it back to Warrick)_  
+**Brown:** _(sniffs the paper and takes it to the gas spec__
 

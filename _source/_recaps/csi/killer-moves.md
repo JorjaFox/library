@@ -1,7 +1,7 @@
 ---
 title: "Killer Moves"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -28,8 +28,8 @@ Sara works the case as Greg's second, and while initially she thinks he might be
 
 ## Quotes
 
-**Sanders** Maybe the killer was making a reference to Edgar Allan Poe.  
-**Sidle** Well then he needs to brush up on his birds. This isn't a raven it's a rook. See the white skin around it's beak?  
-**Sanders** A rook.  
-**Sidle** The weird thing is rooks are indigenous to central Europe and Asia. What's one doing in southern Nevada?
+**Sanders:** Maybe the killer was making a reference to Edgar Allan Poe.  
+**Sidle:** Well then he needs to brush up on his birds. This isn't a raven it's a rook. See the white skin around it's beak?  
+**Sanders:** A rook.  
+**Sidle:** The weird thing is rooks are indigenous to central Europe and Asia. What's one doing in southern Nevada?
 

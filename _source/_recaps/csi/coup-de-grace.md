@@ -1,7 +1,7 @@
 ---
 title: "Coup de Grace"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,9 +31,9 @@ When the second case comes in, Sara picks it up. When Nick calls the phone of a 
 
 ## Quotes
 
-**Ecklie** Sara, good to see you back from your week of in Paris.  
-**Sidle** Ecklie. Dr. Grissom sends his regards.
+**Ecklie:** Sara, good to see you back from your week of in Paris.  
+**Sidle:** Ecklie. Dr. Grissom sends his regards.
 
 * * *
 
-**Sidle** If there's a bullet in his ass ... his ass is evidence.
+**Sidle:** If there's a bullet in his ass ... his ass is evidence.

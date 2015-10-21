@@ -1,7 +1,7 @@
 ---
 title: "Bloodlines"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -26,17 +26,17 @@ After they discover that the promotion was cancelled, Sara, Nick and Warrick go 
 ## Character Notes
 
 * In an unusual turn of events, Sara isn't that involved in the rape case, and doesn't stick around the hospital to wait for the result of the SART exam.  
-* A)fter going out drinking with Nick and Warrick, Sara gets picked up for DUI (barely over the limit -- Grissom, as her supervisor, is notified, and takes her home.
+* After going out drinking with Nick and Warrick, Sara gets picked up for DUI (barely over the limit -- Grissom, as her supervisor, is notified, and takes her home.
 
 ## Quotes
 
-**Sidle** What?  
-**Grissom** How many vacation days do you have on the books?  
-**Sidle** About ... ten weeks, I guess. Why?  
-**Grissom** I think you should take a week or two.  
-**Sidle** I-I'm still on the case. I just didn't do the interview for once in my life.  
+**Sidle:** What?  
+**Grissom:** How many vacation days do you have on the books?  
+**Sidle:** About ... ten weeks, I guess. Why?  
+**Grissom:** I think you should take a week or two.  
+**Sidle:** I-I'm still on the case. I just didn't do the interview for once in my life.  
 
 - - -
 
-**Sidle** When was the last time you took vacation? _(pause)_ Never, right?  
-**Grissom** Okay.
+**Sidle:** When was the last time you took vacation? _(pause)_ Never, right?  
+**Grissom:** Okay.

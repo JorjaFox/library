@@ -1,7 +1,7 @@
 ---
 title: "Law of Gravity"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -34,9 +34,9 @@ Sara and Catherine check out the witness' apartment, while the other CSIs are se
 
 ## Quotes
 
-**Sidle** You know, some women live out of their purses. [...] I think we just found her office.  
+**Sidle:** You know, some women live out of their purses. [...] I think we just found her office.  
 
 - - -
 
-**Grissom** I'll see you later.  
-**Sidle** Yeah, you will.
+**Grissom:** I'll see you later.  
+**Sidle:** Yeah, you will.

@@ -1,7 +1,7 @@
 ---
 title: "In A Dark, Dark House"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -39,17 +39,17 @@ Sara reads the evidence accurately right away, concluding the facts promptly, re
 
 ## Quotes
 
-**Sidle** Shoot, sample, sort.
+**Sidle:** Shoot, sample, sort.
 
 * * *
 
-**Sidle** We can't talk to [Langston and Gloria] until after they talk to I.A., but we can let the walls talk to us.
+**Sidle:** We can't talk to [Langston and Gloria] until after they talk to I.A., but we can let the walls talk to us.
 
 * * *
 
-**Sidle** Nate Haskell may have died in this house, but I think a serial killer was born in this room.
+**Sidle:** Nate Haskell may have died in this house, but I think a serial killer was born in this room.
 
 * * *
 
-**Sanders** If it was me, my kit...  
-**Sidle** I'd open it. We have all had a moment in the dark, where we had to fight our way out, and when we did, it was up to the rest of the team to shine a light on that darkness to see what happened. That's our job. I just need to know what I'm dealing with, and then I will deal with it.
+**Sanders:** If it was me, my kit...  
+**Sidle:** I'd open it. We have all had a moment in the dark, where we had to fight our way out, and when we did, it was up to the rest of the team to shine a light on that darkness to see what happened. That's our job. I just need to know what I'm dealing with, and then I will deal with it.

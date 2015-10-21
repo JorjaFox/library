@@ -1,7 +1,7 @@
 ---
 title: "The Hunger Artist"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -26,7 +26,7 @@ Season Finale. The CSIs investigate when the body of an unidentified young woman
 
 ## Quotes
 
-**Sidle** I got crabs.  
-**Grissom** Excuse me?  
-**Sidle** I got crabs _(points at the microscope)_ Take a look.
+**Sidle:** I got crabs.  
+**Grissom:** Excuse me?  
+**Sidle:** I got crabs _(points at the microscope)_ Take a look.
 

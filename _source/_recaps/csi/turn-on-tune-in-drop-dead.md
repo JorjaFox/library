@@ -1,7 +1,7 @@
 ---
 title: "Turn On, Tune In, Drop Dead"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -37,11 +37,11 @@ Sara processes the alley where the second body walks away. She and Ray go to tal
 
 ## Quotes
 
-**Sidle** Doctor, are you saying you conducted re-animation experiments at Stonewall?  
+**Sidle:** Doctor, are you saying you conducted re-animation experiments at Stonewall?  
 **Dr. Aden** What's your clearance, soldier?  
-**Sidle** Uh, about 5'9&#8243;?
+**Sidle:** Uh, about 5'9&#8243;?
 
 * * *:
 
-**Langston** You ever see the movie *Altered States*?  
-**Sidle** Oh yeah. My mom took me. She found it therapeutic, calming. Tells you everything, huh?
+**Langston:** You ever see the movie *Altered States*?  
+**Sidle:** Oh yeah. My mom took me. She found it therapeutic, calming. Tells you everything, huh?

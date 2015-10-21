@@ -60,9 +60,10 @@ layout: default
 		<br /><center>{% for i in (1..rating) %}<i style="color:gold;" class="fa fa-star fa-rotate-normal" name="star"></i>{% endfor %}{% if 5 > rating %}{% assign greystar = 5 | minus: rating %}{% for i in (1..greystar) %}<i style="color:grey;" class="fa fa-star fa-rotate-normal" name="star"></i>{% endfor %}{% endif %}</center>
 	</div>
 	<div class="tvbody">
-		<span style="text-align:center;">Season {{ season }}, Episode {{ epnum }}</span>
+		<span style="text-align:center;"><a href="{{ site.baseurl }}/actor/{{ page.showslug }}-episodes/#season-{{season}}">Season {{ season }}</a>, Episode {{ epnum }}</span>
 		<br /><strong>Station (US):</strong> {{ page.station }}
 		<br /><strong>Air Date (US):</strong> {{ page.date | date: '%B %d, %Y' }}
+		<br /><a href="{{ site.baseurl }}/actor/{{ page.showslug }}-episodes/">Complete list of {{ page.showname }} episodes</a>
 	</div>
 
 	{% if page.previous or page.next %}

@@ -1,7 +1,7 @@
 ---
 title: "Spark of Life"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -21,5 +21,5 @@ Two CSI investigations intertwine when a woman's suicide in the Vegas wilderness
 
 ## Quotes
 
-**Grissom** This area was always a good place for stargazing.  
-**Sidle** It's a good make-out spot too, so I've heard.
+**Grissom:** This area was always a good place for stargazing.  
+**Sidle:** It's a good make-out spot too, so I've heard.

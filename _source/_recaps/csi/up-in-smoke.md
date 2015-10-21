@@ -1,7 +1,7 @@
 ---
 title: "Up in Smoke"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -32,12 +32,12 @@ Sara again shows her type-A personality (wanting to do everything herself) when 
 
 ## Quotes
 
-**Willows** Warrick and I were looking for a missing person about a year ago, and we tried to get a warrant to search this residence. The owner denied us access.  
-**Sidle** Now that it's a crime scene, it's fair game, if you're part of the investigation.  
-**Brown** You're picking up what we're putting down.  
+**Willows:** Warrick and I were looking for a missing person about a year ago, and we tried to get a warrant to search this residence. The owner denied us access.  
+**Sidle:** Now that it's a crime scene, it's fair game, if you're part of the investigation.  
+**Brown:** You're picking up what we're putting down.  
 
 - - -
 
-**Sidle** She was still bleeding when she was brought here.  
-**Willows** Which means that her heart was probably still beating.  
-**Sidle** This isn't the 'Cask of Amontillado.' She was sealed into a wall and left to die.
+**Sidle:** She was still bleeding when she was brought here.  
+**Willows:** Which means that her heart was probably still beating.  
+**Sidle:** This isn't the 'Cask of Amontillado.' She was sealed into a wall and left to die.

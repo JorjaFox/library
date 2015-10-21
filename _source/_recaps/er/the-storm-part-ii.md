@@ -1,7 +1,7 @@
 ---
 title: The Storm, Part II
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/er/:title/
 categories: [Recaps]
 tags: ["ER"]

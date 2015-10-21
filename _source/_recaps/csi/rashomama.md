@@ -1,7 +1,7 @@
 ---
 title: "Rashomama"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -39,30 +39,30 @@ There is a duality to Sara in this episode -- she goes from pessimistic and nega
 
 ## Quotes
 
-**Sidle** _(holding up lingerie against herself for size)_ Just in time. I need your hands.  
-**Stokes** I thought you'd never ask.  
-**Sidle** I need you to reprint the bumper, since the tape lifts were stolen.  
-**Stokes** Oh.  
+**Sidle:** _(holding up lingerie against herself for size)_ Just in time. I need your hands.  
+**Stokes:** I thought you'd never ask.  
+**Sidle:** I need you to reprint the bumper, since the tape lifts were stolen.  
+**Stokes:** Oh.  
 
 - - -
 
-**Sidle** Ah tradition, like becoming property exchanged between your father and your husband.
+**Sidle:** Ah tradition, like becoming property exchanged between your father and your husband.
   
 
 - - -
 
-**Sidle** _(voiceover)_ Can the love be real when the flowers aren't?
+**Sidle:** _(voiceover)_ Can the love be real when the flowers aren't?
   
 
 - - -
 
-**Stokes** Should I write down flirting?  
-**Sidle** I was printing. _He_ was flirting.  
+**Stokes:** Should I write down flirting?  
+**Sidle:** I was printing. _He_ was flirting.  
 
 - - -
 
-**Sidle** _(waking up from nap in locker room)_ Finally. Something to process.
+**Sidle:** _(waking up from nap in locker room)_ Finally. Something to process.
 
 - - -
 
-**Sidle** I'm not anti-wedding, I'm just anti-stupid.
+**Sidle:** I'm not anti-wedding, I'm just anti-stupid.

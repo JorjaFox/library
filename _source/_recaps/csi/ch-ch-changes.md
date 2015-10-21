@@ -1,7 +1,7 @@
 ---
 title: "Ch-Ch-Changes"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -25,9 +25,9 @@ A woman who was pulled over by police is found murdered two miles up the road fr
 
 ## Quotes
 
-**Brown** Wow. Mascara, tweezers ... under-eye cream ... ... neck-firming lotion. (He shakes his head and mutters.) Girls. Pads ... one, two, three, four jars of depilatory cream?  
-**Sidle** That's a lot of bikini wax. Some girls hate the nether-stubble.  
-**Brown** Nether-stubble?
+**Brown:** Wow. Mascara, tweezers ... under-eye cream ... ... neck-firming lotion. (He shakes his head and mutters.) Girls. Pads ... one, two, three, four jars of depilatory cream?  
+**Sidle:** That's a lot of bikini wax. Some girls hate the nether-stubble.  
+**Brown:** Nether-stubble?
 
 ## References
 

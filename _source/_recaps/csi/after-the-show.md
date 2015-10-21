@@ -1,7 +1,7 @@
 ---
 title: "After the Show"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -32,24 +32,24 @@ Sara shows no real emotion when the suspect says he'll only talk to ...the prett
 
 ## Quotes
 
-**Willows** Oh, I've got a good feeling about this.  
-**Sidle** So does the suspect. The only reason that we're out here today on this wild goose chase is because he wanted to hang out with you.  
+**Willows:** Oh, I've got a good feeling about this.  
+**Sidle:** So does the suspect. The only reason that we're out here today on this wild goose chase is because he wanted to hang out with you.  
 
 - - -
 
-**Sidle** You know what the worst part about this whole thing is? Catherine knows I can do this case.  
-**Stokes** So can I.  
-**Sidle** I would take you and me over Catherine and Greg anytime.  
-**Stokes** _(startled)_ She's got Greg helping her?  
+**Sidle:** You know what the worst part about this whole thing is? Catherine knows I can do this case.  
+**Stokes:** So can I.  
+**Sidle:** I would take you and me over Catherine and Greg anytime.  
+**Stokes:** _(startled)_ She's got Greg helping her?  
 
 - - -
 
-**Willows** How's it going?  
-**Sidle** _(abrupt)_ Your case. You tell us.  
+**Willows:** How's it going?  
+**Sidle:** _(abrupt)_ Your case. You tell us.  
 
 - - -
 
-**Willows** Did your father ever call you pretty?  
-**Sidle** _hesitant_ ... I guess.  
-**Willows** He ever tell you you were smart?  
-**Sidle** Yeah.
+**Willows:** Did your father ever call you pretty?  
+**Sidle:** _hesitant_ ... I guess.  
+**Willows:** He ever tell you you were smart?  
+**Sidle:** Yeah.

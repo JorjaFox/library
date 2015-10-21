@@ -1,7 +1,7 @@
 ---
 title: "Face Lift"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -35,12 +35,12 @@ Warrick asks Sara to meet him behind CSI and to bring a cotton nightgown (she co
 
 ## Quotes
 
-**Sidle** Interesting voice mail you left me.  
-**Brown** What's that?  
-**Sidle** 'Meet me behind CSI and bring a cotton nightgown.' I'd wear it for you, but I prefer pajamas.  
-**Brown** Oh really, it's actually for my girlfriend here. Miss Piggy.  
-**Sidle** We're experimenting on a pig again?  
-**Brown** Yeah.  
-**Sidle** You know I, I haven't eaten meat since Grissom used one to estimate postmortem insect growth.  
-**Brown** I tried for a human volunteer, but no takers.
+**Sidle:** Interesting voice mail you left me.  
+**Brown:** What's that?  
+**Sidle:** 'Meet me behind CSI and bring a cotton nightgown.' I'd wear it for you, but I prefer pajamas.  
+**Brown:** Oh really, it's actually for my girlfriend here. Miss Piggy.  
+**Sidle:** We're experimenting on a pig again?  
+**Brown:** Yeah.  
+**Sidle:** You know I, I haven't eaten meat since Grissom used one to estimate postmortem insect growth.  
+**Brown:** I tried for a human volunteer, but no takers.
 

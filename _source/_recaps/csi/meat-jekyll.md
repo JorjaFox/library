@@ -1,7 +1,7 @@
 ---
 title: "Meat Jekyll"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -25,6 +25,6 @@ While Charlie/Jekyll shoots a cop and Nick, and holds Ray and his father at gunp
 
 ## Quotes
 
-**Sidle** I'll come back and drive you home.  
-**Stokes** No, you're a terrible driver.
+**Sidle:** I'll come back and drive you home.  
+**Stokes:** No, you're a terrible driver.
 

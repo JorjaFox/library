@@ -1,7 +1,7 @@
 ---
 title: "Caged"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -35,28 +35,28 @@ At the scene, when Sara finds the dog running loose, she's concerned about getti
 
 ## Quotes
 
-**Willows** Thanks, but you got to give me some guys.  
-**Grissom** Sara's all you get.  
-**Willows** She's all I need.  
+**Willows:** Thanks, but you got to give me some guys.  
+**Grissom:** Sara's all you get.  
+**Willows:** She's all I need.  
 
 - - -
 
-**Sidle** I hate rushing through a crime scene [...] You can testify for this one.  
-**Willows** Oh, thanks.  
+**Sidle:** I hate rushing through a crime scene [...] You can testify for this one.  
+**Willows:** Oh, thanks.  
 
 - - -
 
-**Archie** Hear that? Turbo. Definitely diesel.  
-**Willows** _(nods and walks out)_  
-**Sidle** She really likes you.  
+**Archie:** Hear that? Turbo. Definitely diesel.  
+**Willows:** _(nods and walks out)_  
+**Sidle:** She really likes you.  
 
 - - -
 
-**Willows** She could have jumped out!  
-**Sidle** Not without her dog.  
+**Willows:** She could have jumped out!  
+**Sidle:** Not without her dog.  
 
 - - -
 
-**Willows** I think I know the word that made her throw the coffee.  
-**Sidle** I hate that word.
+**Willows:** I think I know the word that made her throw the coffee.  
+**Sidle:** I hate that word.
 

@@ -1,7 +1,7 @@
 ---
 title: "Built to Kill (Part 2)"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -34,11 +34,11 @@ Conrad Ecklie asks them about releasing information on the miniature to the medi
 
 ## Quotes
 
-**Sidle** I think Malibu Barbie did it.  
+**Sidle:** I think Malibu Barbie did it.  
 
 - - -
 
-**Sidle** I've never heard of him.  
-**Grissom** Probably before your time.  
-**Sidle** I'll download it.
+**Sidle:** I've never heard of him.  
+**Grissom:** Probably before your time.  
+**Sidle:** I'll download it.
 

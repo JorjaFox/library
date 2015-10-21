@@ -1,7 +1,7 @@
 ---
 title: "Alter Boys"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,25 +29,25 @@ Both Sara and Nick apologize to Grissom when they jump the gun with the evidence
 
 ## Quotes
 
-**Sidle** Gimme your right foot ... Your _other_ right.  
+**Sidle:** Gimme your right foot ... Your _other_ right.  
 
 - - -
 
-**Grissom** What about the neck? Any fibers in the wound?  
-**Sidle** You told me to wait for you.  
-**Grissom** Well, that hasn't stopped you yet.  
+**Grissom:** What about the neck? Any fibers in the wound?  
+**Sidle:** You told me to wait for you.  
+**Grissom:** Well, that hasn't stopped you yet.  
 
 - - -
 
-**Sidle** Pizza guy wasn't so smart. Dry cleaning bakes in blood.
+**Sidle:** Pizza guy wasn't so smart. Dry cleaning bakes in blood.
   
 - - -
 
-**Stokes** Could be red sauce.  
-**Sidle** Oh, _now_ you're cautious.  
+**Stokes:** Could be red sauce.  
+**Sidle:** Oh, _now_ you're cautious.  
 
 - - -
 
-**Grissom** He transported them. Show me the gun with Ben's prints on it. Gun shot residue, the ligature, the ...  
-**Sidle** ... The holes in Christ's hands, Doubting Thomas?
+**Grissom:** He transported them. Show me the gun with Ben's prints on it. Gun shot residue, the ligature, the ...  
+**Sidle:** ... The holes in Christ's hands, Doubting Thomas?
 

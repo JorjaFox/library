@@ -1,7 +1,7 @@
 ---
 title: "The Accused is Entitled"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,11 +29,11 @@ During the trial, the defense references Sara's actions in an earlier case (brus
 
 ## Quotes
 
-**Sidle** _re murder suspect_ I like his movies. Some of them are good.  
+**Sidle:** _re murder suspect_ I like his movies. Some of them are good.  
 
 - - -
 
-**Grissom** You look nice.  
-**Sidle** Thanks. Wish me luck.  
-**Grissom** Sara, whatever happens in court, it's not because you're seeing this guy. _(pauses)_ You deserve to have a life.
+**Grissom:** You look nice.  
+**Sidle:** Thanks. Wish me luck.  
+**Grissom:** Sara, whatever happens in court, it's not because you're seeing this guy. _(pauses)_ You deserve to have a life.
 

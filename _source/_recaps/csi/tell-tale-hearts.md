@@ -1,7 +1,7 @@
 ---
 title: "Tell-Tale Hearts"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -37,5 +37,5 @@ She works with Morgan and Greg, looking for drugs in the house, teasing Morgan f
 
 ## Quotes
 
-**Sidle** I'll drive. I know the way.
+**Sidle:** I'll drive. I know the way.
 

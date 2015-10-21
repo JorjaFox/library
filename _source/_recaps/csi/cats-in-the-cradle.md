@@ -1,7 +1,7 @@
 ---
 title: "Cats in the Cradle"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -21,17 +21,17 @@ Grissom and Catherine investigate the stabbing death of an 80-year-old woman who
 
 ## Quotes
 
-**Stokes** Wow. You look ...  
-**Sidle** Happy?  
-**Stokes** Smug.  
-**Sidle** I got a perfect print.  
+**Stokes:** Wow. You look ...  
+**Sidle:** Happy?  
+**Stokes:** Smug.  
+**Sidle:** I got a perfect print.  
 
 - - -
 
-**Sidle** Liar, liar car on fire.
+**Sidle:** Liar, liar car on fire.
   
 
 - - -
 
-**Sidle** Sometimes a shot in the dark hits anyway.
+**Sidle:** Sometimes a shot in the dark hits anyway.
 

@@ -1,7 +1,7 @@
 ---
 title: "Buzz Kill"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,5 +31,5 @@ Sara and Nick work the majority of the case. Sara is a little bit of a square, n
 
 ## Quotes
 
-**Sidle** There was this guy who lived in my dorm in college, everybody used to call him Space Bob. Your lab smells like his room. That's not a compliment to either of you.
+**Sidle:** There was this guy who lived in my dorm in college, everybody used to call him Space Bob. Your lab smells like his room. That's not a compliment to either of you.
 

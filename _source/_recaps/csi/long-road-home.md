@@ -1,7 +1,7 @@
 ---
 title: "Long Road Home"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,6 +29,6 @@ Sara is first on the scene, taking photos of the dead woman when D.B. Russell ar
 
 ## Quotes
 
-**Sidle** No matter who they are, the song remains the same.  
+**Sidle:** No matter who they are, the song remains the same.  
 **Russell:_ We're gonna find 'em.
 

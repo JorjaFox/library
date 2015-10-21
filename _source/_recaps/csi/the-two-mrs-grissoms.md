@@ -1,7 +1,7 @@
 ---
 title: "The Two Mrs. Grissoms"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -46,8 +46,8 @@ After solving the case, Sara and Betty share a Skype conversation with Grissom, 
 
 ## Quotes
 
-**Sidle** Grissom and I have great sex.  
-**Willows** I'm sure you do.
+**Sidle:** Grissom and I have great sex.  
+**Willows:** I'm sure you do.
 
 * * *:
 

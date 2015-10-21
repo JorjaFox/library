@@ -1,7 +1,7 @@
 ---
 title: "Homebodies"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,14 +29,14 @@ Sara works the second break-in, and is affected when she discovers that the daug
 
 ## Quotes
 
-**Sidle** Heard about your mummy in the closet. Very cool.  
+**Sidle:** Heard about your mummy in the closet. Very cool.  
 
 - - -
 
-**Sidle** _(holds out a dental mold)_ Bite it.
+**Sidle:** _(holds out a dental mold)_ Bite it.
   
 
 - - -
 
-**Stokes** But the busboy, Kelly James -- not only went to the same high school, but graduated from the same juvie center.  
-**Sidle** It's always nice when they come out worse than when they went in.
+**Stokes:** But the busboy, Kelly James -- not only went to the same high school, but graduated from the same juvie center.  
+**Sidle:** It's always nice when they come out worse than when they went in.

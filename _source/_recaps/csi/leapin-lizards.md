@@ -1,7 +1,7 @@
 ---
 title: "Leapin' Lizards"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,14 +33,14 @@ Grissom and Sara watch a Godzilla movie together at Grissom's home, with his dog
 
 ## Quotes
 
-**Grissom** Do you believe in intelligent life on other planets in the universe?  
-**Sidle** I'm not sure if I believe in intelligent life on this planet -- I just saw the barn.  
+**Grissom:** Do you believe in intelligent life on other planets in the universe?  
+**Sidle:** I'm not sure if I believe in intelligent life on this planet -- I just saw the barn.  
 
 - - -
 
-**Sidle** What are you doing?  
-**Stokes** _(sorting through a pig sty)_ I read about a killer in Canada who fed his victim to his pigs.  
-**Sidle** Oh.  
-**Stokes** They had to put out a notice, 'Warning, your pork may be contaminated with human.'  
-**Sidle** I'm so glad I'm a vegetarian.
+**Sidle:** What are you doing?  
+**Stokes:** _(sorting through a pig sty)_ I read about a killer in Canada who fed his victim to his pigs.  
+**Sidle:** Oh.  
+**Stokes:** They had to put out a notice, 'Warning, your pork may be contaminated with human.'  
+**Sidle:** I'm so glad I'm a vegetarian.
 

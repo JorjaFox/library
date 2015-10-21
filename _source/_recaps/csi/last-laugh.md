@@ -1,7 +1,7 @@
 ---
 title: "Last Laugh"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -28,10 +28,10 @@ Also: Brass reopens a woman's accidental-death case after spotting the deceased'
 
 ## Quotes
 
-**Sidle** Do you want to go to the bathroom?  
+**Sidle:** Do you want to go to the bathroom?  
 
 - - -
 
-**Stokes** Yeah, but you're taller, thinner.  
-**Sidle** Ohh, butter that toast, Nick.
+**Stokes:** Yeah, but you're taller, thinner.  
+**Sidle:** Ohh, butter that toast, Nick.
 

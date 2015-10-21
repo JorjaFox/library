@@ -1,7 +1,7 @@
 ---
 title: "Blood Lust"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,27 +29,27 @@ An all-hands case, it seems. Sara is pulled away from a required forensics anthr
 
 ## Quotes
 
-**Sidle** You know you pulled me away from a forensic anthropology seminar, right? It's required. It's part of the continuing education program.  
-**Grissom** Well, I'm sorry, but everyone seems to have something to do today. ... I need you.  
-**Sidle** _(long pause, ending with a smile)_ How can I help?  
+**Sidle:** You know you pulled me away from a forensic anthropology seminar, right? It's required. It's part of the continuing education program.  
+**Grissom:** Well, I'm sorry, but everyone seems to have something to do today. ... I need you.  
+**Sidle:** _(long pause, ending with a smile)_ How can I help?  
 
 - - -
 
-**Brown** You think it was racially motivated?  
-**Sidle** Yeah, I do. White mob, white kid, dark-skinned cabbie -- I don't like the math.  
-**Brown** Yeah. We got to wait for the science, don't we?  
-**Sidle** I'm trying.  
+**Brown:** You think it was racially motivated?  
+**Sidle:** Yeah, I do. White mob, white kid, dark-skinned cabbie -- I don't like the math.  
+**Brown:** Yeah. We got to wait for the science, don't we?  
+**Sidle:** I'm trying.  
 
 - - -
 
-**Sidle** What's a Bridal Barbie?
+**Sidle:** What's a Bridal Barbie?
   
 
 - - -
 
-**Grissom** How much do you weigh?  
-**Brown** That's between me and my trainer.  
-**Grissom** Do I have to get a scale?  
-**Brown** A buck 95, give or take a donut.  
-**Sidle** Don't even ask, I'm not telling you.
+**Grissom:** How much do you weigh?  
+**Brown:** That's between me and my trainer.  
+**Grissom:** Do I have to get a scale?  
+**Brown:** A buck 95, give or take a donut.  
+**Sidle:** Don't even ask, I'm not telling you.
 

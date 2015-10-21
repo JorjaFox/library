@@ -1,7 +1,7 @@
 ---
 title: "Blood Drops"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -39,27 +39,27 @@ At the hospital, Sara refuses to leave the little girl alone while they wait for
 
 ## Quotes
 
-**Sidle** Heard it on the scanner. Quadruple. Thought you might need some help.  
-**Grissom** You don't sleep, do you?  
-**Sidle** Eh _(shrugs)_  
+**Sidle:** Heard it on the scanner. Quadruple. Thought you might need some help.  
+**Grissom:** You don't sleep, do you?  
+**Sidle:** Eh _(shrugs)_  
 
 - - -
 
-**Grissom** Sara, those photos -- blown up times ten. Tell the lab that we need every forensics tool available to us here right away. This is the only crime scene in Las Vegas tonight.  
-**Sidle** Yes, sir.  
+**Grissom:** Sara, those photos -- blown up times ten. Tell the lab that we need every forensics tool available to us here right away. This is the only crime scene in Las Vegas tonight.  
+**Sidle:** Yes, sir.  
 
 - - -
 
-**Sidle** You want me inside?  
-**Grissom** I want you to transport the little girl to the police department. Brass is waiting.  
-**Sidle** You've got to be kidding me? I'm playing taxi service on the biggest case of the year!?  
-**Grissom** Sara, I need one of us with that little girl.  
+**Sidle:** You want me inside?  
+**Grissom:** I want you to transport the little girl to the police department. Brass is waiting.  
+**Sidle:** You've got to be kidding me? I'm playing taxi service on the biggest case of the year!?  
+**Grissom:** Sara, I need one of us with that little girl.  
 
 - - -
 
-**Sidle** The shrink says she's in a catatonic state from the trauma. I could have told you that. But she did respond to the word 'buffalo.'  
-**Grissom** Respond how?  
-**Sidle** She freaked out.  
-**Grissom** And what are you doing about it now?  
-**Sidle** Going back to the girl. _deadpan_ I left her in the car. _(Grissom and Willows gape)_ The windows are cracked. _(Grissom looks worried)_ Give me some credit; she's at the hospital _(Sidle leaves to get the girl while Stokes and Brown crack up__
+**Sidle:** The shrink says she's in a catatonic state from the trauma. I could have told you that. But she did respond to the word 'buffalo.'  
+**Grissom:** Respond how?  
+**Sidle:** She freaked out.  
+**Grissom:** And what are you doing about it now?  
+**Sidle:** Going back to the girl. _deadpan_ I left her in the car. _(Grissom and Willows gape)_ The windows are cracked. _(Grissom looks worried)_ Give me some credit; she's at the hospital _(Sidle leaves to get the girl while Stokes and Brown crack up__
 

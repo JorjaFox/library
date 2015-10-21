@@ -1,7 +1,7 @@
 ---
 title: "Don't Ask, Don't Tell"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/er/:title/
 categories: [Recaps]
 tags: ["ER"]

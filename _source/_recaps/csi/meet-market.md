@@ -1,7 +1,7 @@
 ---
 title: "Meet Market"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -36,15 +36,15 @@ Meanwhile, on his sabbatical, Grissom writes Sara a letter, claiming their parti
 ## Quotes
 
 **Greeter** A relationship. Isn't that what most women want?  
-**Sidle** I, I don't know.  
+**Sidle:** I, I don't know.  
 
 - - -
 
 **Greeter** Would you like a Meet Book or do you have a regular host?  
-**Sidle** Actually, it's my first time.  
+**Sidle:** Actually, it's my first time.  
 
 - - -
 
 **Jesse** Who doesn't want to be swept off their feet?  
-**Sidle** I'm not sure that it's something I'd pay for.
+**Sidle:** I'm not sure that it's something I'd pay for.
 

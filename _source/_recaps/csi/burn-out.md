@@ -1,7 +1,7 @@
 ---
 title: "Burn Out"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -30,20 +30,20 @@ Sara works the related arson case, photographing the house and investigating the
 
 ## Quotes
 
-**Sidle** Guy lives in a trailer, drives an old Mercury, he has a ton of expensive DVDs and video games, there's gummy bears and chips on the floor... house might as well be made of gingerbread.  
+**Sidle:** Guy lives in a trailer, drives an old Mercury, he has a ton of expensive DVDs and video games, there's gummy bears and chips on the floor... house might as well be made of gingerbread.  
 
 - - -
 
-**Sidle** People are so predictable.
+**Sidle:** People are so predictable.
   
 
 - - -
 
-**Grissom** _(enters the lab, shuts off the music)_ Didn't we talk about this once before, Greg?  
-**Sidle** I'm the one who turned the music on.  
+**Grissom:** _(enters the lab, shuts off the music)_ Didn't we talk about this once before, Greg?  
+**Sidle:** I'm the one who turned the music on.  
 :_(Grissom looks at Sara but says nothing)_  
 
 - - -
 
-**Sidle** Greg's got the coroner's inquest coming up, he's been under a lot of stress -- maybe you should be a little nicer to him.
+**Sidle:** Greg's got the coroner's inquest coming up, he's been under a lot of stress -- maybe you should be a little nicer to him.
 

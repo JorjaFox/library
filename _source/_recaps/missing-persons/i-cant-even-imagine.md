@@ -1,7 +1,7 @@
 ---
 title: "I Can't Even Imagine"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/missing-persons/:title/
 categories: [Recaps]
 tags: ["Missing Persons"]

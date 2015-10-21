@@ -1,7 +1,7 @@
 ---
 title: "CSI: Crime Scene Investigation Recaps"
 author: Mika Epstein
-layout: recap
+layout: recap-tv
 topic: index
 permalink: /recaps/csi/
 categories: "Recaps"

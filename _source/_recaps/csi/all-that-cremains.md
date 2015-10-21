@@ -1,7 +1,7 @@
 ---
 title: "All That Cremains"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,6 +33,6 @@ Nick and Sara meet Detective Frankie Reed (Katee Sackhoff) at a thrift store whe
 
 ## Quotes
 
-**Sidle** You know, I shop here. They have some good stuff.  
-**Reed** Do they always sell dead bodies?
+**Sidle:** You know, I shop here. They have some good stuff.  
+**Reed:** Do they always sell dead bodies?
 

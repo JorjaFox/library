@@ -1,7 +1,7 @@
 ---
 title: "XX"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -25,12 +25,12 @@ A mutilated female body is discovered tied to the undercarriage of a bus carryin
 
 ## Quotes
 
-**Hodges** Since when did you become an insects expert?  
-**Sidle** Entomology textbook. Grissom gave it to me last Christmas.  
-**Hodges** Oh.  
-**Sidle** When I can't sleep, I read.  
+**Hodges:** Since when did you become an insects expert?  
+**Sidle:** Entomology textbook. Grissom gave it to me last Christmas.  
+**Hodges:** Oh.  
+**Sidle:** When I can't sleep, I read.  
 
 - - -
 
-**Stokes** Looks like a half moon. Gang moniker, maybe.  
-**Sidle** Every woman knows what that is. It's a heart. Well, half a heart.
+**Stokes:** Looks like a half moon. Gang moniker, maybe.  
+**Sidle:** Every woman knows what that is. It's a heart. Well, half a heart.

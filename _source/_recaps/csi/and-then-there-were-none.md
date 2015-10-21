@@ -1,7 +1,7 @@
 ---
 title: "And Then There Were None"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,23 +33,23 @@ Sara and Catherine check out a convenience store robbery / murder in far away Ca
 
 ## Quotes
 
-**Sidle** _(looking at fingerprint dust)_ I've never tried green...  
+**Sidle:** _(looking at fingerprint dust)_ I've never tried green...  
 
 - - -
 
-**Sidle** You got a mirror?  
-**Willows** Since when do you care about your appearance? _(pauses, noting Sara's reaction)_ At a crime scene.  
+**Sidle:** You got a mirror?  
+**Willows:** Since when do you care about your appearance? _(pauses, noting Sara's reaction)_ At a crime scene.  
 
 - - -
 
-**Phillips** I can smell the body. Where is it?  
-**Sidle** _(pops up from behind the counter)_ Hey, David. I wasn't touching it.  
-**Phillips** I know you better than that.  
+**Phillips:** I can smell the body. Where is it?  
+**Sidle:** _(pops up from behind the counter)_ Hey, David. I wasn't touching it.  
+**Phillips:** I know you better than that.  
 
 - - -
 
-**Willows** We ID'd one from the ...open/closed_ sign.  
-**Sidle** Great.  
-**Willows** No. Not so great. State trooper.  
-**Sidle** You've _got_ to be kidding me. ...Officer Moron_ contaminated the scene.
+**Willows:** We ID'd one from the ...open/closed_ sign.  
+**Sidle:** Great.  
+**Willows:** No. Not so great. State trooper.  
+**Sidle:** You've _got_ to be kidding me. ...Officer _Moron_ contaminated the scene.
 

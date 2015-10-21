@@ -1,6 +1,6 @@
 ---
 title: "If You Could Pick Your Own Parents"
-layout: recap
+layout: recap-tv
 permalink: /recaps/missing-persons/:title/
 categories: [Recaps]
 tags: ["Missing Persons"]

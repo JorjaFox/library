@@ -1,7 +1,7 @@
 ---
 title: "Iced"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -32,16 +32,16 @@ Sara and Greg investigate the college murders, and after several setbacks (inclu
 
 ## Quotes
 
-**Sidle** I'll drive.  
-**Sanders** You _always_ do.  
+**Sidle:** I'll drive.  
+**Sanders:** You _always_ do.  
 
 - - -
 
 **Zach** turns to Greg You know how it is, you look like you were a jock in college.  
-**Sanders** stunned Me?  
-**Sidle** stunned Him??  
+**Sanders:** stunned Me?  
+**Sidle:** stunned Him??  
 
 - - -
 
 **Dickerson** Hey. Want to talk about semen?  
-**Sidle** Okay.
+**Sidle:** Okay.

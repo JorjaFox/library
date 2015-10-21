@@ -1,7 +1,7 @@
 ---
 title: "Who Are You?"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -30,22 +30,22 @@ Sara and Warrick work the police shooting. At first, Sara is sympathetic towards
 
 ## Quotes
 
-**Sidle** I drive.  
-**Brown** Picture that.  
+**Sidle:** I drive.  
+**Brown:** Picture that.  
 
 - - -
 
-**Brown** I don't give a damn what Brass likes.  
-**Sidle** Like I do? If Tyner's dirty, he goes down. I just know what happens when you piss off the P.D.  
+**Brown:** I don't give a damn what Brass likes.  
+**Sidle:** Like I do? If Tyner's dirty, he goes down. I just know what happens when you piss off the P.D.  
 
 - - -
 
-**Sidle** _(to Tyner)_ And with a record like yours we're supposed to just take you at your word?
+**Sidle:** _(to Tyner)_ And with a record like yours we're supposed to just take you at your word?
   
 
 - - -
 
-**Sidle** You think the bullet's somewhere in the jeep.  
-**Brown** It's not in the body. It's not at the crime scene. I like our odds.  
-**Sidle** Let's do it.
+**Sidle:** You think the bullet's somewhere in the jeep.  
+**Brown:** It's not in the body. It's not at the crime scene. I like our odds.  
+**Sidle:** Let's do it.
 

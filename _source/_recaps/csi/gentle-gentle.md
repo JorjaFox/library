@@ -1,7 +1,7 @@
 ---
 title: "Gentle, Gentle"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,12 +33,12 @@ Sara and several officers bring in the printers from the husband's office -- ove
 
 ## Quotes
 
-**Sidle** _(As Grissom runs off to investigate)_ Hey, can I come with you?  
+**Sidle:** _(As Grissom runs off to investigate)_ Hey, can I come with you?  
 
 - - -
 
-**Sidle** Grissom?  
-**Grissom** _(angrily)_ What?  
-**Sidle** _(speaking softly)_ You told me a few weeks ago that nothing is personal. No victim should be special. _(pauses)_ Everyone follows your lead.  
-**Grissom** Everyone didn't find that baby. I did. And that little boy is dead because someone lost their temper or screwed up, or god knows what. So, excuse me, but this victim is special.
+**Sidle:** Grissom?  
+**Grissom:** _(angrily)_ What?  
+**Sidle:** _(speaking softly)_ You told me a few weeks ago that nothing is personal. No victim should be special. _(pauses)_ Everyone follows your lead.  
+**Grissom:** Everyone didn't find that baby. I did. And that little boy is dead because someone lost their temper or screwed up, or god knows what. So, excuse me, but this victim is special.
 

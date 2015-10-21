@@ -1,7 +1,7 @@
 ---
 title: "Code Blue Plate Special"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -40,10 +40,10 @@ Sara chases the rabbit trail of Basderic, assuming he had to have stalked someon
 
 ## Quotes
 
-**Sidle** You're done, you son of a bitch.  
+**Sidle:** You're done, you son of a bitch.  
 
 * * *
 
 **Basderic** You see. You were wrong. I didn't hurt her. I couldn't. I loved her.  
-**Sidle** You loved her? Are you kidding me? You terrorized her. You kept her awake at night. You made her afraid to walk down the street. And you want to know what else your twisted love did? It killed her, Ronald. Edie was supposed to be off work at 4:00. She should have been gone when the shooting happened, it she was afraid to walk home because she was afraid that you were out there. It's because of you that she stayed, and now she's dead.
+**Sidle:** You loved her? Are you kidding me? You terrorized her. You kept her awake at night. You made her afraid to walk down the street. And you want to know what else your twisted love did? It killed her, Ronald. Edie was supposed to be off work at 4:00. She should have been gone when the shooting happened, it she was afraid to walk home because she was afraid that you were out there. It's because of you that she stayed, and now she's dead.
 

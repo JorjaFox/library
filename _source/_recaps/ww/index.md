@@ -1,7 +1,7 @@
 ---
 title: West Wing Recaps
 author: Mika Epstein
-layout: recap
+layout: recap-tv
 topic: index
 permalink: /recaps/west-wing/
 categories: "Recaps"

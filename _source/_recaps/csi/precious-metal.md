@@ -1,7 +1,7 @@
 ---
 title: "Precious Metal"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -30,15 +30,15 @@ Nick has apparently heard about Sara's breakup with Hank, and tries to set her u
 
 ## Quotes
 
-**Stokes** Hey, Sara, I don't want to cross any lines here, but, uh, I've got this buddy who's not going out with anybody...  
-**Sidle** No. No, no, forget it.  
-**Stokes** He's a cool guy.  
-**Sidle** No.  
-**Stokes** I mean, you don't...  
-**Sidle** No, Nick...  
+**Stokes:** Hey, Sara, I don't want to cross any lines here, but, uh, I've got this buddy who's not going out with anybody...  
+**Sidle:** No. No, no, forget it.  
+**Stokes:** He's a cool guy.  
+**Sidle:** No.  
+**Stokes:** I mean, you don't...  
+**Sidle:** No, Nick...  
 
 - - -
 
-**Sidle** Well, you know what they say -- it's what's on the inside that counts.  
-**Stokes** _(tests the drill he's holding, then hands it to Sara)_ Well put.
+**Sidle:** Well, you know what they say -- it's what's on the inside that counts.  
+**Stokes:** _(tests the drill he's holding, then hands it to Sara)_ Well put.
 

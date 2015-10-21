@@ -1,7 +1,7 @@
 ---
 title: "Daddy's Little Girl"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -47,4 +47,4 @@ After talking to Bianca in the ER, Sara notices the substance on her skin and sn
 
 ## Quotes
 
-**Sidle** _(looking at Grissom)_ I guess some people just shouldn't be together.  
+**Sidle:** _(looking at Grissom)_ I guess some people just shouldn't be together.  

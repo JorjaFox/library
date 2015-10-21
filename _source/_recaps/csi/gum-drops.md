@@ -1,7 +1,7 @@
 ---
 title: "Gum Drops"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -44,18 +44,18 @@ Through the whole episode, Sara is solid and a good criminalist, on her top form
 
 ## Quotes
 
-**Sidle** Grissom said you needed backup. I figured you needed coffee. But it looks like you took care of that.  
+**Sidle:** Grissom said you needed backup. I figured you needed coffee. But it looks like you took care of that.  
 
 - - -
 
-**Sidle** I was really into gold stars when I was a kid.  
-**Sanders** As opposed to now?  
-**Sidle** _(frowns and walks away)_  
+**Sidle:** I was really into gold stars when I was a kid.  
+**Sanders:** As opposed to now?  
+**Sidle:** _(frowns and walks away)_  
 
 - - -
 
-**Sidle** I hope you're right. But everything in our experience tells us they're dead, all four of them.  
-**Stokes** Doesn't mean we just give up.  
-**Sidle** No one's giving up. It's just that ... you're acting like you're going to rescue a person, not recover a body. And on this job ... that's just not usually the case.  
-**Stokes** _(quietly)_ I was rescued.  
-**Sidle** _(smiles)_ It was not your day to die. When it's your day, it's your day, you know?
+**Sidle:** I hope you're right. But everything in our experience tells us they're dead, all four of them.  
+**Stokes:** Doesn't mean we just give up.  
+**Sidle:** No one's giving up. It's just that ... you're acting like you're going to rescue a person, not recover a body. And on this job ... that's just not usually the case.  
+**Stokes:** _(quietly)_ I was rescued.  
+**Sidle:** _(smiles)_ It was not your day to die. When it's your day, it's your day, you know?

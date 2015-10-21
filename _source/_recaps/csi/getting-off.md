@@ -1,7 +1,7 @@
 ---
 title: "Getting Off"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,19 +29,19 @@ During the autopsy it's discovered that what they thought was makeup is actually
 
 ## Quotes
 
-**Sidle** All we got is a decapitated doll.  
-**Willows** That's still legal in Nevada.
+**Sidle:** All we got is a decapitated doll.  
+**Willows:** That's still legal in Nevada.
 
 
 - - -
 
-**Sidle** Samples from your suspect. There's nothing but a few track marks. No defensive wounds, no bruising. Junkies usually bruise if you breathe on them too hard. She is a pile of twigs, very frail.  
-**Grissom** _looks at Sara_  
-**Sidle** What?  
-**Grissom** I haven't seen you for a while, have I?  
-**Sidle** You see me every day.
+**Sidle:** Samples from your suspect. There's nothing but a few track marks. No defensive wounds, no bruising. Junkies usually bruise if you breathe on them too hard. She is a pile of twigs, very frail.  
+**Grissom:** _looks at Sara_  
+**Sidle:** What?  
+**Grissom:** I haven't seen you for a while, have I?  
+**Sidle:** You see me every day.
 
 
 - - -
 
-**Sidle** Mr. Maguire, I hate to tell you this, but while you were off driving the other kiddies home, your wife was doing the clown.
+**Sidle:** Mr. Maguire, I hate to tell you this, but while you were off driving the other kiddies home, your wife was doing the clown.

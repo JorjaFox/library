@@ -1,7 +1,7 @@
 ---
 title: "Unbearable"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,22 +33,22 @@ Sara, Greg, Grissom and Sofia check out a body dump. During the case she finds G
 
 ## Quotes
 
-**Sanders** I don't mean to pry, but you want to talk about what happened with you and Ecklie?  
-**Sidle** Not really.  
-**Sanders** I don't know if you know this about me, but I'm a good listener.  
-**Sidle** I blew up at Ecklie. It was very unprofessional. And very satisfying, and now I'm moving on. Thanks for asking.  
+**Sanders:** I don't mean to pry, but you want to talk about what happened with you and Ecklie?  
+**Sidle:** Not really.  
+**Sanders:** I don't know if you know this about me, but I'm a good listener.  
+**Sidle:** I blew up at Ecklie. It was very unprofessional. And very satisfying, and now I'm moving on. Thanks for asking.  
 
 - - -
 
-**Sanders** If you've added up every cent I've made in my entire life, I still wouldn't be able to afford half this car. _(They walk up to the car.)_  
-**Sidle** Yeah, but why would you want it? The insurance premiums are sky-high. Not to mention theft, scratches.  
-**Sanders** It's art. And I'd have every girl in the neighborhood after me.  
-**Curtis** Not when they saw your apartment.  
-**Sidle** You've been to Greg's apartment?  
-**Curtis** Who hasn't?  
+**Sanders:** If you've added up every cent I've made in my entire life, I still wouldn't be able to afford half this car. _(They walk up to the car.)_  
+**Sidle:** Yeah, but why would you want it? The insurance premiums are sky-high. Not to mention theft, scratches.  
+**Sanders:** It's art. And I'd have every girl in the neighborhood after me.  
+**Curtis:** Not when they saw your apartment.  
+**Sidle:** You've been to Greg's apartment?  
+**Curtis:** Who hasn't?  
 
 - - -
 
-**Curtis** Listen, you guys, I'll catch up later. _(she walks away)_  
-**Sanders** Hmm. She's fitting in pretty well, huh?  
-**Sidle** _(gives him a look and walks away without saying anything)_
+**Curtis:** Listen, you guys, I'll catch up later. _(she walks away)_  
+**Sanders:** Hmm. She's fitting in pretty well, huh?  
+**Sidle:** _(gives him a look and walks away without saying anything)_

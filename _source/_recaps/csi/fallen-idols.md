@@ -1,7 +1,7 @@
 ---
 title: "Fallen Idols"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -36,14 +36,14 @@ At the end of the episode, Grissom has his beard shaved off by Sara.
 
 ## Quotes
 
-**Sidle** You know, when I was in college, I had this boyfriend, and I thought we were monogamous. One night during the post-coital panty search, he handed me a pair of underwear that wasn't mine.  
-**Brown** Oof. How'd he explain that one?  
-**Sidle** He said they belonged to his sister.  
-**Brown** Yeah right.  
-**Sidle** I know.  
+**Sidle:** You know, when I was in college, I had this boyfriend, and I thought we were monogamous. One night during the post-coital panty search, he handed me a pair of underwear that wasn't mine.  
+**Brown:** Oof. How'd he explain that one?  
+**Sidle:** He said they belonged to his sister.  
+**Brown:** Yeah right.  
+**Sidle:** I know.  
 
 - - -
 
-**Sidle** _(holding straight razor)_ You trust me?  
-**Grissom** _(all lathered up)_ Intimately.
+**Sidle:** _(holding straight razor)_ You trust me?  
+**Grissom:** _(all lathered up)_ Intimately.
 

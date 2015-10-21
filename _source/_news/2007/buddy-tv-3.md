@@ -22,6 +22,6 @@ Previously it was reported that her character was set to go missing, but this we
 
 Reportedly Fox simply didn't show up to shoot the scenes for the finale as a gesture of protest over her salary dispute, forcing the show to shoot an "alternate ending" for the episode. This apparently cost CBS quite a lot of money, between script re-writes, filming costs, and flying Fox's co-star **Marg Helgenberger** back to Las Vegas to re-shoot the alternate scenes. Jorja Fox's representative claims that she did show up on set to shoot her scenes, however, so it's uncertain whether these reports are accurate. 
 
-Will Sara Sidle be back next season or not? Will the **Grissom**-and-Sara romance be revealed to their co-workers? I guess we'll have to wait and see. 
+Will Sara Sidle be back next season or not? Will the **Grissom:**-and-Sara romance be revealed to their co-workers? I guess we'll have to wait and see. 
 
 It's not the first time Jorja Fox has been involved in a contract dispute with CBS over the show; in fact, three years ago she and **George Eads** (**CSI'**s Nick Stokes) were actually fired after they refused to show up for work without a raise. Fox was making over $100 000 per episode of **CSI**, and that she was demanding a "major raise." to which CBS and the **CSI** producers reportedly offered her a "moderate raise," but she turned it down. However, they were hired back within a couple of days.

@@ -1,7 +1,7 @@
 ---
 title: "Crow's Feet"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,5 +29,5 @@ Grissom, Sara and Greg investigate the death of a man who died in his house, whi
 
 ## Quotes
 
-**Sanders** Ornithological database just ID'd the feathers I collected at the crime scene. (He hands the evidence bag with the feathers to Sara.) Hyacinth Macaw. So how come you and Brass didn't involve me in the interrogation?  
-**Sidle** Greg, you still have the solo to complete, and, technically, you're still a trainee, but you're doing a great job.
+**Sanders:** Ornithological database just ID'd the feathers I collected at the crime scene. (He hands the evidence bag with the feathers to Sara.) Hyacinth Macaw. So how come you and Brass didn't involve me in the interrogation?  
+**Sidle:** Greg, you still have the solo to complete, and, technically, you're still a trainee, but you're doing a great job.

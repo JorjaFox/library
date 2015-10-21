@@ -1,7 +1,7 @@
 ---
 title: "Fur and Loathing"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -17,7 +17,7 @@ prodnum: 406
 
 ## Synopsis
 
-The team is introduced to the 'Furry' side of Vegas when a man is found dead on the side of the road, dressed in a racoon suit. Elsewhere in Vegas, a gunshot victim is found in a deep-freezer, frozen solid.
+The team is introduced to the 'Furry' side of Vegas when a man is found dead on the side of the road, dressed in a raccoon suit. Elsewhere in Vegas, a gunshot victim is found in a deep-freezer, frozen solid.
 
 ## Sara Sidle Review
 
@@ -29,22 +29,21 @@ Sara and Nick investigate the freezer shooting. They find blood spatter, and eve
 
 ## Quotes
 
-**Sidle** You're selling expired ice cream?  
+**Sidle:** You're selling expired ice cream?  
 **George** It's still good!  
-**Sidle** Oh.  
+**Sidle:** Oh.  
 
 - - -
 
-**Sidle** George, I'm afraid you and your pants are going to be here for a while.
-  
+**Sidle:** George, I'm afraid you and your pants are going to be here for a while.
 
 - - -
 
-**Hodges** Who knows? I don't try to figure out what people do anymore.  
-**Sidle** That's smart.  
+**Hodges:** Who knows? I don't try to figure out what people do anymore.  
+**Sidle:** That's smart.  
 
 - - -
 
-**Sidle** Okay, I will bet you a double-double animal style that one of them employs a guy with a blue 1984 Monte Carlo.  
-**Stokes** That's a bet.  
-**Sidle** Excellent.
+**Sidle:** Okay, I will bet you a double-double animal style that one of them employs a guy with a blue 1984 Monte Carlo.  
+**Stokes:** That's a bet.  
+**Sidle:** Excellent.

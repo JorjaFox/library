@@ -1,7 +1,7 @@
 ---
 title: "Ellie"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,18 +33,18 @@ Sara doesn't get angry when she discovers that the Feds were testing her with th
 
 ## Quotes
 
-**Grissom** If it was a matter of seniority, I'd give it to Nick. If I needed someone who could stay up three nights in a row, I'd give it to Sara.  
+**Grissom:** If it was a matter of seniority, I'd give it to Nick. If I needed someone who could stay up three nights in a row, I'd give it to Sara.  
 
 - - -
 
-**Sidle** Who died and made you god?  
-**Brown** He's not exactly dead.  
-**Sidle** Grissom left _you_ the shift.  
+**Sidle:** Who died and made you god?  
+**Brown:** He's not exactly dead.  
+**Sidle:** Grissom left _you_ the shift.  
 
 - - -
 
-**Sanders** Don't take it out on me just because you got passed over.  
-**Sidle** I didn't get passed over.  
-**Sanders** Then what would you call it?  
-**Sidle** Grissom.
+**Sanders:** Don't take it out on me just because you got passed over.  
+**Sidle:** I didn't get passed over.  
+**Sanders:** Then what would you call it?  
+**Sidle:** Grissom.
 

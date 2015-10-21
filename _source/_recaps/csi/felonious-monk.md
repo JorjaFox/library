@@ -1,7 +1,7 @@
 ---
 title: "Felonious Monk"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -21,7 +21,7 @@ The CSI investigate the disturbing case of the execution-style slaying of four B
 
 ## Quotes
 
-**Grissom** Wherever you live is your temple, if you treat it like one.  
-**Sidle** State your source.  
-**Grissom** Buddha.
+**Grissom:** Wherever you live is your temple, if you treat it like one.  
+**Sidle:** State your source.  
+**Grissom:** Buddha.
 

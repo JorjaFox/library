@@ -1,7 +1,7 @@
 ---
 title: "Chaos Theory"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -25,8 +25,8 @@ The entire CSI team investigates a disappearance at a local university. A young 
 
 ## Quotes
 
-**Sanders** Well, that's one way to get her DNA. Bring me her whole life.  
-**Sidle** It's called zeal, Greg.  
-**Sanders** Or overkill.  
-**Grissom** It's called procedure.
+**Sanders:** Well, that's one way to get her DNA. Bring me her whole life.  
+**Sidle:** It's called zeal, Greg.  
+**Sanders:** Or overkill.  
+**Grissom:** It's called procedure.
 

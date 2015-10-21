@@ -1,7 +1,7 @@
 ---
 title: "Pirates of the Third Reich"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -45,5 +45,5 @@ Another low end episode from Sara, she all but vanishes at the half-way mark.
 
 ## Quotes
 
-**Stokes** Where are you at now?  
-**Sidle** On a train to Crazyville.
+**Stokes:** Where are you at now?  
+**Sidle:** On a train to Crazyville.

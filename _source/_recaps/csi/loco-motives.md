@@ -1,7 +1,7 @@
 ---
 title: "Loco Motives"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,5 +31,5 @@ Sara works with Grissom and uncovers Izzy Delancy's anti-cruelty video. Her rela
 
 ## Quotes
 
-**Sidle** You look like the kid who just found the prize in the bottom of a Cracker Jacks box.
+**Sidle:** You look like the kid who just found the prize in the bottom of a Cracker Jacks box.
 

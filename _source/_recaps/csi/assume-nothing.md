@@ -1,7 +1,7 @@
 ---
 title: "Assume Nothing"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -23,4 +23,4 @@ _Note: This episode is conlcuded in "All For Our Country"_
 
 ## Quotes
 
-**Sidle** This is our first bucket brigade together, gentlemen. Try and say that ten times fast. Bucket brigade. Bucket brigade. Bucket brigade...
+**Sidle:** This is our first bucket brigade together, gentlemen. Try and say that ten times fast. Bucket brigade. Bucket brigade. Bucket brigade...

@@ -1,7 +1,7 @@
 ---
 title: "Bully for You"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,19 +31,19 @@ Sara and Nick work the case of a liquified corpse found in a bag, which was shov
 
 * Sara meets Hank Peddigrew, whom she dates off and on for another two seasons.  
 * Part of the on-again, off-again flirtation Greg has with Sara, which she usually ignores.  
-* S)ara throws up in the trash (because of the corpse smell, the first time she's done that.
+* Sara throws up in the trash (because of the corpse smell, the first time she's done that.
 
 ## Quotes
 
-**Sanders** _(sniffs)_ You smell like death.  
-**Sidle** _(bitter)_ I've heard.  
-**Sanders** _(starts to walk away, turns back)_ You know, a real man wouldn't mind.  
-**Sidle** _(sighs)_  
+**Sanders:** _(sniffs)_ You smell like death.  
+**Sidle:** _(bitter)_ I've heard.  
+**Sanders:** _(starts to walk away, turns back)_ You know, a real man wouldn't mind.  
+**Sidle:** _(sighs)_  
 
 - - -
 
-**Brown** Sara, what were you in high school?  
-**Sidle** Science nerd.  
-**Stokes** Have you changed [your clothes]? _(he sniffs her shirt)_ You still smell [like death].  
-**Sidle** _(grimaces)_
+**Brown:** Sara, what were you in high school?  
+**Sidle:** Science nerd.  
+**Stokes:** Have you changed [your clothes]? _(he sniffs her shirt)_ You still smell [like death].  
+**Sidle:** _(grimaces)_
 

@@ -1,7 +1,7 @@
 ---
 title: "The Good, the Bad, and the Dominatrix"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -34,14 +34,14 @@ Sara arrives on the scene to help Catherine, and asks Catherine about Lady Heath
 ## Quotes
 
 **Lady Heather** I don't respond well to men who judge me based solely on my profession.  
-**Sidle** I get that a lot too. _(pauses, explains)_ Law enforcement.  
+**Sidle:** I get that a lot too. _(pauses, explains)_ Law enforcement.  
 
 - - -
 
-**Grissom** I'm the only one Heather trusts.  
-**Sidle** I get it.  
-**Grissom** Sara...  
-**Sidle** Yeah?  
-**Grissom** _(can't figure out what to say)_  
-**Sidle** _(bitter, hurt)_ It's fine. Do what you need to do.
+**Grissom:** I'm the only one Heather trusts.  
+**Sidle:** I get it.  
+**Grissom:** Sara...  
+**Sidle:** Yeah?  
+**Grissom:** _(can't figure out what to say)_  
+**Sidle:** _(bitter, hurt)_ It's fine. Do what you need to do.
 

@@ -1,7 +1,7 @@
 ---
 title: "Scuba Doobie-Doo"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -32,19 +32,19 @@ After solving the case, Sara and Nick ask Grissom out to breakfast, but he prefe
 ## Character Notes
 
 * Sara shows off her mechanical strengths again, when she and Warrick play with the power tools to determine if any of them made the blood spatter.  
-* I)n a very (for her intimate moment, Sara brushes chalk off of Grissom's cheek.
+* In a very (for her intimate moment, Sara brushes chalk off of Grissom's cheek.
 
 ## Quotes
 
-**Sidle** So our big murder's a nose bleed?  
+**Sidle:** So our big murder's a nose bleed?  
 
 - - -
 
-**Sidle** A square of nine dots on paper, and you can only draw four lines to connect them, without the pen ever leaving the paper.  
-**Grissom** Think outside the box!  
+**Sidle:** A square of nine dots on paper, and you can only draw four lines to connect them, without the pen ever leaving the paper.  
+**Grissom:** Think outside the box!  
 
 - - -
 
-**Grissom** Dermastidae masculatus.  
-**Sidle** That's Latin for 'You're hiding a dead body.'
+**Grissom:** Dermastidae masculatus.  
+**Sidle:** That's Latin for 'You're hiding a dead body.'
 

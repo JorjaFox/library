@@ -1,7 +1,7 @@
 ---
 title: "Still Life"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -37,4 +37,4 @@ Very subdued in this episode, Sara plays more of a support role.
 
 ## Quotes
 
-**Sidle** On the one hand, you really want to find the body. Give it respect. Give her closure. On the other hand ...
+**Sidle:** On the one hand, you really want to find the body. Give it respect. Give her closure. On the other hand ...

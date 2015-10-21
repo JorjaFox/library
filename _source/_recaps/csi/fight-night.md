@@ -1,7 +1,7 @@
 ---
 title: "Fight Night"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -30,24 +30,24 @@ Sara processes the boxing ring with Warrick, showing one of her only aversions: 
 
 ## Quotes
 
-**Sidle** Nice sport.  
-**Brown** Well, it's only dirty if you make it dirty. You know, boxing's about discipline.  
-**Sidle** It's two guys beating their brains out in a race for early-onset Parkinson's.  
+**Sidle:** Nice sport.  
+**Brown:** Well, it's only dirty if you make it dirty. You know, boxing's about discipline.  
+**Sidle:** It's two guys beating their brains out in a race for early-onset Parkinson's.  
 
 - - -
 
-**Brown** What've you got?  
-**Sidle** Saliva.  
-**Brown** Oh, spit bucket. _(pauses as Sidle picks up the bucket with a rather odd grin)_ What's so funny?  
-**Sidle** Smiling, uh, supresses the gag reflex.  
-**Brown** This from the same woman who processed fecal fat from a ruptured colon?  
-**Sidle** Every crim's got at least on problem area. Mine's saliva.  
-**Brown** Want me to get that [bucket] for you?  
-**Sidle** No! No.  
-**Brown** You sure?  
-**Sidle** Mind and body. Right?  
+**Brown:** What've you got?  
+**Sidle:** Saliva.  
+**Brown:** Oh, spit bucket. _(pauses as Sidle picks up the bucket with a rather odd grin)_ What's so funny?  
+**Sidle:** Smiling, uh, supresses the gag reflex.  
+**Brown:** This from the same woman who processed fecal fat from a ruptured colon?  
+**Sidle:** Every crim's got at least on problem area. Mine's saliva.  
+**Brown:** Want me to get that [bucket] for you?  
+**Sidle:** No! No.  
+**Brown:** You sure?  
+**Sidle:** Mind and body. Right?  
 
 - - -
 
-**Sidle** So why did you keep hitting, because real fighters don't stop hitting until somebody makes them, right? When you're in the ring, your life's in the ref's hands.
+**Sidle:** So why did you keep hitting, because real fighters don't stop hitting until somebody makes them, right? When you're in the ring, your life's in the ref's hands.
 

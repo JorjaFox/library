@@ -1,7 +1,7 @@
 ---
 title: "Hitting for the Cycle"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -36,6 +36,6 @@ Sara works with Greg on his cases, first the office worker, then the gamer. Sara
 
 ## Quotes
 
-**Sidle** Someone from the dayshift sent me flowers.  
-**Sanders** Does he know you're married?_
+**Sidle:** Someone from the dayshift sent me flowers.  
+**Sanders:** Does he know you're married?_
 

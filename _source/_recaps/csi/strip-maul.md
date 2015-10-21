@@ -1,7 +1,7 @@
 ---
 title: "Strip Maul"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -35,11 +35,11 @@ The merry prankster calls her Detective Seagull, though Sara corrects him. When 
 
 ## Quotes
 
-**Sidle** I never had to patrol the streets like this. I mean, not even when I was a CSI 1.  
+**Sidle:** I never had to patrol the streets like this. I mean, not even when I was a CSI 1.  
 **Sgt. Weiss** It is a little crazy. Full moon tonight.  
-**Sidle** You know, not to discount the crazy, but no lunar affect on human behavior has ever been established.  
+**Sidle:** You know, not to discount the crazy, but no lunar affect on human behavior has ever been established.  
 
 * * *
 
-**Sidle** This grass ain't hay.
+**Sidle:** This grass ain't hay.
 

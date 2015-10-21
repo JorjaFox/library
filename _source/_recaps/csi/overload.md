@@ -1,7 +1,7 @@
 ---
 title: "Overload"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -23,16 +23,16 @@ Meanwhile, Nick and Catherine take on a case with little more than angora fibers
 
 ## Quotes
 
-**Sidle** You want lunch?  
-**Brown** Later.  
+**Sidle:** You want lunch?  
+**Brown:** Later.  
 
 - - -
 
-**Grissom** What's that?  
-**Sidle** Pickle and sandwich. Want half?  
-**Grissom** Can I have your pickle?  
+**Grissom:** What's that?  
+**Sidle:** Pickle and sandwich. Want half?  
+**Grissom:** Can I have your pickle?  
 
 - - -
 
-**Sidle** _(thrilled)_ You turned my pickle into a light bulb!
+**Sidle:** _(thrilled)_ You turned my pickle into a light bulb!
 

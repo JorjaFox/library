@@ -1,7 +1,7 @@
 ---
 title: "Primum Non Nocere"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -25,35 +25,35 @@ When Terry Rivers barrels into the opposing team's goalie, a fight breaks out an
 
 ## Quotes
 
-**Sidle** You just don't like sports.  
-**Grissom** That's not true, I've been a baseball fan for my whole life.  
-**Sidle** Baseball. That figures. All the stats.  
-**Grissom** It's a beautiful sport.  
-**Sidle** Since when are you interested in beauty?  
-**Grissom** Since I met you.  
+**Sidle:** You just don't like sports.  
+**Grissom:** That's not true, I've been a baseball fan for my whole life.  
+**Sidle:** Baseball. That figures. All the stats.  
+**Grissom:** It's a beautiful sport.  
+**Sidle:** Since when are you interested in beauty?  
+**Grissom:** Since I met you.  
 
 - - -
 
-**Sidle** 120 minutes for a tooth, the whole tooth, and nothing but the tooth.
+**Sidle:** 120 minutes for a tooth, the whole tooth, and nothing but the tooth.
   
 
 - - -
 
-**Grissom** What is Victoria's secret, I wonder...  
-**Sidle** Beauty, Grissom. Remember?  
+**Grissom:** What is Victoria's secret, I wonder...  
+**Sidle:** Beauty, Grissom. Remember?  
 
 - - -
 
-**Sidle** With all the sex these people are having, maybe I should take up hockey.
+**Sidle:** With all the sex these people are having, maybe I should take up hockey.
   
 
 - - -
 
-**Sidle** You sucked at team sports huh?  
-**Sanders** I was captain of the high school chess squad.  
-**Sidle** Chess is not a sport, Greg.  
-**Sanders** Then why is there a world chess champion?  
-**Sidle** Uh, I think sports are physical, by definition.  
-**Sanders** Well sex is physical, is that a sport?  
-**Sidle** Not to me.
+**Sidle:** You sucked at team sports huh?  
+**Sanders:** I was captain of the high school chess squad.  
+**Sidle:** Chess is not a sport, Greg.  
+**Sanders:** Then why is there a world chess champion?  
+**Sidle:** Uh, I think sports are physical, by definition.  
+**Sanders:** Well sex is physical, is that a sport?  
+**Sidle:** Not to me.
 

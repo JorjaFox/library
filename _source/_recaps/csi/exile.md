@@ -1,7 +1,7 @@
 ---
 title: "Exile"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -35,9 +35,9 @@ Sara works the case and is in somewhat of a hostile mood towards the club owner,
 
 ## Quotes
 
-**Sidle** If you want this show to go on, you *have* to fix these cameras.  
+**Sidle:** If you want this show to go on, you *have* to fix these cameras.  
 
 * * *
 
-**Sidle** I don't wanna go to that CIA place but ... I'm kinda going to that CIA place.
+**Sidle:** I don't wanna go to that CIA place but ... I'm kinda going to that CIA place.
 

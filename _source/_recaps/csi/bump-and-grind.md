@@ -1,7 +1,7 @@
 ---
 title: "Bump and Grind"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -38,29 +38,29 @@ Sara, seeing Ray's inner angst over being attacked by Nate Haskell, and reminds 
 
 ## Quotes
 
-**Sidle** Two ships that pass in the night ... takes a while for the fog to clear.  
+**Sidle:** Two ships that pass in the night ... takes a while for the fog to clear.  
 
 * * *
 
-**Sidle** I think we just found our smoking bin.  
+**Sidle:** I think we just found our smoking bin.  
 
 * * *
 
-**Sidle** ... Going, going ... caught at the warning track.  
+**Sidle:** ... Going, going ... caught at the warning track.  
 **Super Dave** A baseball reference. How quaint.  
-**Sidle** Blame Grissom.  
+**Sidle:** Blame Grissom.  
 
 * * *
 
-**Langston** [looking at his scars]  
-**Sidle** I should show you mine, but I think that might be inappropriate. You hardly notice them.  
-**Langston** The scars?  
-**Sidle** Of course ... some scars heal faster than others.  
-**Langston**Yeah. I got a letter from Nate Haskell the other day. He wanted to let me know that he was thinking about me.  
-**Sidle** The kidney bean?  
-**Langston** Yeah.  
-**Sidle** Don't let him get into your head, Ray.  
-**Langston** Well, he's already in there.  
-**Sidle** Everything that happens to us, the good and the bad, is part of us. Took me a long time to realize that it doesn't have to define who we are. We get to decide that. Good night, Dr. Ray.  
-**Langston** Good night, Sara.
+**Langston:** [looking at his scars]  
+**Sidle:** I should show you mine, but I think that might be inappropriate. You hardly notice them.  
+**Langston:** The scars?  
+**Sidle:** Of course ... some scars heal faster than others.  
+**Langston:**Yeah. I got a letter from Nate Haskell the other day. He wanted to let me know that he was thinking about me.  
+**Sidle:** The kidney bean?  
+**Langston:** Yeah.  
+**Sidle:** Don't let him get into your head, Ray.  
+**Langston:** Well, he's already in there.  
+**Sidle:** Everything that happens to us, the good and the bad, is part of us. Took me a long time to realize that it doesn't have to define who we are. We get to decide that. Good night, Dr. Ray.  
+**Langston:** Good night, Sara.
 

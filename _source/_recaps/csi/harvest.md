@@ -1,7 +1,7 @@
 ---
 title: "Harvest"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,5 +29,5 @@ Sara and Grissom work the angle of the missing child, and her personal possessio
 
 ## Quotes
 
-**Sidle** Maybe. These are pretty detailed biochem and immunosuppressant citations. It's a little over a seventh grader's head, don't you think?  
-**Grissom** I don't know. I bet you were a pretty smart seventh grader.
+**Sidle:** Maybe. These are pretty detailed biochem and immunosuppressant citations. It's a little over a seventh grader's head, don't you think?  
+**Grissom:** I don't know. I bet you were a pretty smart seventh grader.

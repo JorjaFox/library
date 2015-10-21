@@ -1,7 +1,7 @@
 ---
 title: "Pool Shark"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -36,12 +36,12 @@ When Boozell pesters Catherine, Sara steps in to support Catherine and their wor
 ## Quotes
 
 **Dr. Holloway** Now they're [the sharks] in Show Business  
-**Sidle** Well that's one way to make a living.
+**Sidle:** Well that's one way to make a living.
 
 * * *:
 
-**Stokes** [He's] awfully fired up about taking a picture with fish.  
-**Sidle** Well, you know, fish are beautiful.  
+**Stokes:** [He's] awfully fired up about taking a picture with fish.  
+**Sidle:** Well, you know, fish are beautiful.  
 :*(Nick and Sara see the fish tank, and inside is the aquavet, floating dead in his scuba gear)*  
-**Stokes** Not when you're sleeping with them.  
-**Sidle** It's Dr. Halloway. Well, I guess that explains why his phone when straight to voicemail.
+**Stokes:** Not when you're sleeping with them.  
+**Sidle:** It's Dr. Halloway. Well, I guess that explains why his phone when straight to voicemail.

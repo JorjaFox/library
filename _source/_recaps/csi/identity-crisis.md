@@ -1,7 +1,7 @@
 ---
 title: "Identity Crisis"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,13 +33,13 @@ The entire team works the Paula / Paul Millander case. Again showing her mechani
 
 ## Quotes
 
-**Brass** _(standing, holding a hitchhiker's sign reading 'Vegas')_  
-**Sidle** _(teasing)_ I believe hitchhiking is illegal in Clark County.  
-**Brass** You got me!  
+**Brass:** _(standing, holding a hitchhiker's sign reading 'Vegas')_  
+**Sidle:** _(teasing)_ I believe hitchhiking is illegal in Clark County.  
+**Brass:** You got me!  
 
 - - -
 
-**Sidle** So our mystery lady was trying to enhance her athletic performance?  
-**Sanders** Or increase her sex drive. _(pause for effect)_ You know women do that. I read. None that I've ever met.  
-**Sidle** Not yet anyway. Okay, I'm not sure what this means yet, but thanks.
+**Sidle:** So our mystery lady was trying to enhance her athletic performance?  
+**Sanders:** Or increase her sex drive. _(pause for effect)_ You know women do that. I read. None that I've ever met.  
+**Sidle:** Not yet anyway. Okay, I'm not sure what this means yet, but thanks.
 

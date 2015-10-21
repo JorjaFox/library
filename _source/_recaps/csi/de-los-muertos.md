@@ -1,7 +1,7 @@
 ---
 title: "De Los Muertos"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -27,5 +27,5 @@ Both women were having portraits done by the same artist. Ana's father had hired
 
 ## Quotes
 
-**Sidle** That's one hell of a body dump.
+**Sidle:** That's one hell of a body dump.
 

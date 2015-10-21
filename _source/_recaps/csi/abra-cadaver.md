@@ -1,7 +1,7 @@
 ---
 title: "Abra-Cadaver"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -25,19 +25,18 @@ Sara assists Grissom.
 
 ## Quotes
 
-**Grissom** _talking about the big box-like container that the woman disappeared from_ This been processed yet?  
-**Brown** _jokingly_ Yeah. You want me to bag it?  
-**Sidle** Let's take it back to the lab. Maybe we can make Greg disappear.  
+**Grissom:** _(talking about the big box-like container that the woman disappeared from)_ This been processed yet?  
+**Brown:** _(jokingly)_ Yeah. You want me to bag it?  
+**Sidle:** Let's take it back to the lab. Maybe we can make Greg disappear.  
 
 - - -
 
-**Sidle** I am no psychic, but I have been known to read palms.
-  
+**Sidle:** I am no psychic, but I have been known to read palms.
 
 - - -
 
-**Grissom** _staring intently at a desk_  
-**Sidle** _puts her hand on Grissom's shoulder_  
-**Grissom** _screams_  
-**Sidle** _mirthful_ Sorry.
+**Grissom:** _(staring intently at a desk)_  
+**Sidle:** _(puts her hand on Grissom's shoulder)_  
+**Grissom:** _(screams)_  
+**Sidle:** _(mirthful)_ Sorry.
 

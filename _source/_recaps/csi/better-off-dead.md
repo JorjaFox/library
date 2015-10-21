@@ -1,7 +1,7 @@
 ---
 title: "Better Off Dead"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -39,5 +39,5 @@ Sara makes the connection of how much money Sam asked his father for, and where 
 ## Quotes
 
 **Mr. Trent** What's this about?  
-**Sidle** An overdue library book.
+**Sidle:** An overdue library book.
 

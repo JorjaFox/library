@@ -1,7 +1,7 @@
 ---
 title: "Fallen Angels"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,5 +29,5 @@ Sara and Finn go to Tina's house, which was Warrick's, to investigate as the rev
 
 ## Quotes
 
-**Sidle** The reverend's bank-accounts are being fruitful and multiplying.
+**Sidle:** The reverend's bank-accounts are being fruitful and multiplying.
 

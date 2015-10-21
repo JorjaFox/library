@@ -1,7 +1,7 @@
 ---
 title: "Fahrenheit 932"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -32,5 +32,5 @@ When Grissom is experimenting with gasoline in the lab, Sara pulls Warrick back,
 
 ## Quotes
 
-**Sidle** How did [the suspect] find you? 1-800-GRISSOM?
+**Sidle:** How did [the suspect] find you? 1-800-GRISSOM?
 

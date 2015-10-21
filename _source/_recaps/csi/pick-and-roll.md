@@ -1,7 +1,7 @@
 ---
 title: "Pick and Roll"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,5 +29,5 @@ Sara works with Finn on the blood spatter, Hodges on recreation of evidence and 
 
 ## Quotes
 
-**Sidle** Simple maths get complicated sometimes, when passions are involved.
+**Sidle:** Simple maths get complicated sometimes, when passions are involved.
 

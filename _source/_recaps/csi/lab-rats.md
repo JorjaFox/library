@@ -1,7 +1,7 @@
 ---
 title: "Lab Rats"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,10 +31,10 @@ Sara handles a pickup from the CDC, where an outbreak of herpes 1 has run rampan
 
 ## Quotes
 
-**Sidle** I guess you really never know what goes on in your office.  
+**Sidle:** I guess you really never know what goes on in your office.  
 
 - - -
 
 **Mandy** Are the miniatures really keeping Grissom up at night?  
-**Sidle** How would I know?
+**Sidle:** How would I know?
 

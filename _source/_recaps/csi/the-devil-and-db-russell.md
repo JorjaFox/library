@@ -1,7 +1,7 @@
 ---
 title: "The Devil and D.B. Russell"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -44,5 +44,5 @@ After the girls are rescued, Sara processes the gun and finds inconstancies betw
 
 ## Quotes
 
-**Sidle** We've got a situation here.
+**Sidle:** We've got a situation here.
 

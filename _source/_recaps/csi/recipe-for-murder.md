@@ -1,7 +1,7 @@
 ---
 title: "Recipe for Murder"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -30,31 +30,31 @@ Sara and Warrick investigate an apparent suicide at an apartment complex. At the
 
 ## Quotes
 
-**Brown** Are you sure that in all your lifesaving efforts you didn't move her?  
+**Brown:** Are you sure that in all your lifesaving efforts you didn't move her?  
 **Peddigrew** I'm telling you, I only checked for vitals.  
-**Sidle** It's okay, baby.  
+**Sidle:** It's okay, baby.  
 
 - - -
 
 **Peddigrew** I'm going to hit the road ... baby.  
-**Sidle** _(grimaces)_ I'm sorry.  
+**Sidle:** _(grimaces)_ I'm sorry.  
 
 - - -
 
-**Hodges** Didn't beep you to say hi.  
-**Sidle** Glad to you're settling in, Hodges. ... Stranger things have happened. If you weren't such a lab rat, you would know that.  
+**Hodges:** Didn't beep you to say hi.  
+**Sidle:** Glad to you're settling in, Hodges. ... Stranger things have happened. If you weren't such a lab rat, you would know that.  
 
 - - -
 
-**Sidle** _(to Brown)_ You know, the more I see of this kind of stuff the less I picture you a gambler.
+**Sidle:** _(to Brown)_ You know, the more I see of this kind of stuff the less I picture you a gambler.
   
 
 - - -
 
-**Sidle** Bipolar girl meets a bipolar guy. Together, they cut out their medication. She ends up committing suicide.
+**Sidle:** Bipolar girl meets a bipolar guy. Together, they cut out their medication. She ends up committing suicide.
   
 
 - - -
 
-**Sidle** Mr. And Mrs. Damen, there are five types of tears -- sorrow, regret, joy, fear and allergic reaction. The one thing that they have in common is DNA.
+**Sidle:** Mr. And Mrs. Damen, there are five types of tears -- sorrow, regret, joy, fear and allergic reaction. The one thing that they have in common is DNA.
 

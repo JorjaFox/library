@@ -1,7 +1,7 @@
 ---
 title: "CSI Down"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -27,5 +27,5 @@ Catherine and Sara are in court at the beginning of the episode. When they come 
 
 ## Quotes
 
-**Sidle** Looks like his daughter grew up. Ouch.
+**Sidle:** Looks like his daughter grew up. Ouch.
 

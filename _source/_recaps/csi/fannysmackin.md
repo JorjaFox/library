@@ -1,7 +1,7 @@
 ---
 title: "Fannysmackin'"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -32,23 +32,23 @@ Sara speaks to the second victim of the night, and also processes Greg when he b
 
 
 :_(Grissom walks in as Sara is repeatedly kicking a dummy)_  
-**Grissom** Whoa! Pick on somebody your own size.  
-**Sidle** Are you volunteering?  
-**Grissom** _(long pause)_ No.  
+**Grissom:** Whoa! Pick on somebody your own size.  
+**Sidle:** Are you volunteering?  
+**Grissom:** _(long pause)_ No.  
 
 - - -
 
 **Greg** Sara.  
-**Sidle** I didn't think you could see me.  
+**Sidle:** I didn't think you could see me.  
 **Greg** I can't. I know that 'Sidle Scent'.  
-**Sidle** I'm ... going to take that as a compliment  
+**Sidle:** I'm ... going to take that as a compliment  
 
 - - -
 
 **Greg** You should process the scene now; me later.  
-**Sidle** _(chokes up)_ I came here for you, Greg.  
+**Sidle:** _(chokes up)_ I came here for you, Greg.  
 
 - - -
 
-**Sidle** You know, it kinda sounds like you guys are blaming everyone but these kids. I mean, you don't get a bye just because you grew up here or your parents are on drugs or--those kids were perfectly capable of telling the difference between a wild night out and beating somebody to death.
+**Sidle:** You know, it kinda sounds like you guys are blaming everyone but these kids. I mean, you don't get a bye just because you grew up here or your parents are on drugs or--those kids were perfectly capable of telling the difference between a wild night out and beating somebody to death.
 

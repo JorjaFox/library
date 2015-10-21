@@ -1,7 +1,7 @@
 ---
 title: "Crime After Crime"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -27,8 +27,8 @@ Sara and Nick work the Castillo case until it merges with the others.
 
 ## Quotes
 
-**Stokes** Let's try to ID this guy.  
-**Sidle** I say we strip the Michelin from the man.
+**Stokes:** Let's try to ID this guy.  
+**Sidle:** I say we strip the Michelin from the man.
 
 * * *
 

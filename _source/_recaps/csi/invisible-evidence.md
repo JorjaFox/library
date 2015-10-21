@@ -1,7 +1,7 @@
 ---
 title: "Invisible Evidence"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,40 +33,40 @@ A high-priority, drop-everything case comes along -- Sara protests that she's in
 
 ## Quotes
 
-**Sidle** Uh, listen, I recognize the importance of this, but I'm in the middle of my own homicide investigation.  
-**Grissom** I'll talk to your detective. Explain the deal.  
-**Sidle** Well, it's not about the detective. It's about my own responsibility.  
-**Grissom** _(firmly)_ I'm handing out assignments, Sara. It's not a negotiation.  
+**Sidle:** Uh, listen, I recognize the importance of this, but I'm in the middle of my own homicide investigation.  
+**Grissom:** I'll talk to your detective. Explain the deal.  
+**Sidle:** Well, it's not about the detective. It's about my own responsibility.  
+**Grissom:** _(firmly)_ I'm handing out assignments, Sara. It's not a negotiation.  
 
 - - -
 
-**Sidle** You know what pisses me off?  
-**Stokes** Lots of things.  
-**Sidle** Victims aren't equal. High profile cases get priority.  
+**Sidle:** You know what pisses me off?  
+**Stokes:** Lots of things.  
+**Sidle:** Victims aren't equal. High profile cases get priority.  
 
 - - -
 
 **Auto Detail** Paperwork mix-up?  
-**Sidle** Or some moron checked the wrong box.  
+**Sidle:** Or some moron checked the wrong box.  
 
 - - -
 
-**Stokes** So... you still upset about your case being put on hold?  
-**Sidle** _(gives him a dirty look)_  
+**Stokes:** So... you still upset about your case being put on hold?  
+**Sidle:** _(gives him a dirty look)_  
 
 - - -
 
-**Sidle** _(to Grissom)_ Pin me down.  
-**Grissom** _(obliges)_  
+**Sidle:** _(to Grissom)_ Pin me down.  
+**Grissom:** _(obliges)_  
 
 - - -
 
-**Sidle** Grissom, um, I, um, wanted to talk to you about something.  
-**Grissom** Go ahead.  
-**Sidle** Well, you know, I applied for the promotion for the key position.  
-**Grissom** _(nods)_ Your application's on my desk.  
-**Sidle** About that -- I, um 'needed to know'... I ... I wanted to make sure, rather, that anything that happened or didn't happen between us won't be a factor.  
-**Grissom** _(doesn't say anything)_  
-**Sidle** Never mind. I-I shouldn't have said anything.  
-**Grissom** _(still staring at Sara, not saying anything)_  
-**Sidle** _(smiles, embarrassed)_ I, um ... I'm always over-talking around you.
+**Sidle:** Grissom, um, I, um, wanted to talk to you about something.  
+**Grissom:** Go ahead.  
+**Sidle:** Well, you know, I applied for the promotion for the key position.  
+**Grissom:** _(nods)_ Your application's on my desk.  
+**Sidle:** About that -- I, um 'needed to know'... I ... I wanted to make sure, rather, that anything that happened or didn't happen between us won't be a factor.  
+**Grissom:** _(doesn't say anything)_  
+**Sidle:** Never mind. I-I shouldn't have said anything.  
+**Grissom:** _(still staring at Sara, not saying anything)_  
+**Sidle:** _(smiles, embarrassed)_ I, um ... I'm always over-talking around you.

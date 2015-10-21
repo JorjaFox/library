@@ -1,7 +1,7 @@
 ---
 title: "Unleashed"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -40,4 +40,4 @@ Sara seems uncomfortable with the idea of gestalt roleplaying to work through is
 
 ## Quotes
 
-**Sidle** Maybe she escaped one animal, only to fall prey to another.
+**Sidle:** Maybe she escaped one animal, only to fall prey to another.

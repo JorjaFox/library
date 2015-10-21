@@ -1,7 +1,7 @@
 ---
 title: "The Execution of Catherine Willows"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -30,5 +30,5 @@ Sara doesn't have much in this. When a guy is found with a bloody shirt and his 
 
 ## Quotes
 
-**Sidle** Great. We're looking for a guy with 20/80 vision who drives a Chevy with a black interior.
+**Sidle:** Great. We're looking for a guy with 20/80 vision who drives a Chevy with a black interior.
 

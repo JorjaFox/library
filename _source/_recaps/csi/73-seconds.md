@@ -1,7 +1,7 @@
 ---
 title: "73 Seconds"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -34,4 +34,4 @@ Sara takes photographs of the tram killing crime scene until the call from Brim 
 
 ## Quotes
 
-**Sidle** Face of a Jonas Brother, body of my grandpa Pete.
+**Sidle:** Face of a Jonas Brother, body of my grandpa Pete.

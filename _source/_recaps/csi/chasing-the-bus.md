@@ -1,7 +1,7 @@
 ---
 title: "Chasing the Bus"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,35 +29,35 @@ Sara gathers tread scraps from the scene. Later she painstakingly separates them
 
 ## Quotes
 
-**Sidle** _(viewing the initial scene)_ I feel so helpless.  
+**Sidle:** _(viewing the initial scene)_ I feel so helpless.  
 
 - - -
 
-**Brown** You've got that 'Sara' look.  
-**Sidle** You mean that 'Grissom' look.  
+**Brown:** You've got that 'Sara' look.  
+**Sidle:** You mean that 'Grissom' look.  
 
 - - -
 
-**Sidle** Shreds of rubber everywhere. Between the crash, and all the other interstate traffic it might as well be the Indy 500. This stuff could be from any vehicle.
+**Sidle:** Shreds of rubber everywhere. Between the crash, and all the other interstate traffic it might as well be the Indy 500. This stuff could be from any vehicle.
   
 
 - - -
 
-**Sidle** A bolt. How nice. I've got twenty of them.
+**Sidle:** A bolt. How nice. I've got twenty of them.
   
 
 - - -
 
-**Sidle** Greg, you're really good at what you do.
+**Sidle:** Greg, you're really good at what you do.
   
 
 - - -
 
 **Vincent** _(without looking up)_ I heard Sanders broke out of here, fared poorly and disgraced us all.  
-**Sidle** No, he didn't.  
+**Sidle:** No, he didn't.  
 
 - - -
 
 **Vincent** You ever heard the phrase 'pissing up a rope'?  
-**Sidle** Not in a scientific sense, no.
+**Sidle:** Not in a scientific sense, no.
 

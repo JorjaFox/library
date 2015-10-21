@@ -1,7 +1,7 @@
 ---
 title: "Sounds of Silence"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,25 +29,25 @@ When Grissom mentions that the busted tail light can't be traced because the ser
 
 ## Character Notes
 
-* S)ara is just like anyone else, making generalized assumptions about someone different (in this case, the deaf school president before she finds out differently -- at which point she drops her assumptions.  
+* Sara is just like anyone else, making generalized assumptions about someone different (in this case, the deaf school president before she finds out differently -- at which point she drops her assumptions.  
 * Sara still flirting with her colleagues, or at least allowing them to flirt with her.  
-* S)ara' feelings about Grissom are known by her coworkers (or at least by Warrick.  
+* Sara' feelings about Grissom are known by her coworkers (or at least by Warrick.  
 * Sara drives yet again.  
 * Sara's mechanical talents show again as she goes over the car with Warrick.
 
 ## Quotes
 
-**Sidle** You can tell he's deaf just by his fingerprints?  
+**Sidle:** You can tell he's deaf just by his fingerprints?  
 
 - - -
 
-**Sidle** I don't like her.  
-**Brown** You just don't like other women in Grissom's life.  
-**Sidle** I'm going to ignore that.  
+**Sidle:** I don't like her.  
+**Brown:** You just don't like other women in Grissom's life.  
+**Sidle:** I'm going to ignore that.  
 
 - - -
 
-**Brown** Do you know what Grissom drinks when he goes out at night?  
-**Sidle** He goes out?  
-**Brown** Exactly. Who knows anything about that guy?
+**Brown:** Do you know what Grissom drinks when he goes out at night?  
+**Sidle:** He goes out?  
+**Brown:** Exactly. Who knows anything about that guy?
 

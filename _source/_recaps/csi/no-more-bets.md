@@ -1,7 +1,7 @@
 ---
 title: "No More Bets"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -30,24 +30,24 @@ Sara is stunned when she learns that Grissom recommended Nick for the promotion 
 
 ## Quotes
 
-**Stokes** _(waves letter in his hand)_ This is about the key CSI position. Grissom recommended me.  
-**Sidle** _(long pause, stunned)_ Congratulations.  
-**Stokes** It's not necessary. Position was cut. Budget had room for the new promotion or a new qiagen, bio robot ez-1. Greg will be thrilled.  
-**Sidle** _(less than enthusiastic)_ Yeah.  
+**Stokes:** _(waves letter in his hand)_ This is about the key CSI position. Grissom recommended me.  
+**Sidle:** _(long pause, stunned)_ Congratulations.  
+**Stokes:** It's not necessary. Position was cut. Budget had room for the new promotion or a new qiagen, bio robot ez-1. Greg will be thrilled.  
+**Sidle:** _(less than enthusiastic)_ Yeah.  
 
 - - -
 
-**Grissom** Well, his driver's license was fake, so, this could be fake, too.  
-**Sidle** A fake ID is for scamming a casino. A baller puts his real name on a Roley.  
-**Grissom** _(looks at Sidle, surprised)_  
-**Sidle** _(waves the papers in her hand in Brown's direction)_ What? He rubs off.  
+**Grissom:** Well, his driver's license was fake, so, this could be fake, too.  
+**Sidle:** A fake ID is for scamming a casino. A baller puts his real name on a Roley.  
+**Grissom:** _(looks at Sidle, surprised)_  
+**Sidle:** _(waves the papers in her hand in Brown's direction)_ What? He rubs off.  
 
 - - -
 
-**Sidle** _(confrontational)_ You said you didn't have a problem with me.  
-**Grissom** I don't.  
+**Sidle:** _(confrontational)_ You said you didn't have a problem with me.  
+**Grissom:** I don't.  
 :[...]  
-**Grissom** I thought that Nick was the best candidate for the position.  
-**Sidle** Why?  
-**Grissom** Because he didn't care whether he got the job or not.  
-**Sidle** _(in a hurt tone)_ That's a stupid reason.
+**Grissom:** I thought that Nick was the best candidate for the position.  
+**Sidle:** Why?  
+**Grissom:** Because he didn't care whether he got the job or not.  
+**Sidle:** _(in a hurt tone)_ That's a stupid reason.

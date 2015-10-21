@@ -1,7 +1,7 @@
 ---
 title: "Willows In The Wind"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -35,5 +35,5 @@ Sara makes the connection of Occam's Razor, which is that the simplest solution 
 
 ## Quotes
 
-**Sidle** I'm going with Occam's Razor. Sometimes the simplest answer is the right answer. And the one that's right in front of you.
+**Sidle:** I'm going with Occam's Razor. Sometimes the simplest answer is the right answer. And the one that's right in front of you.
 

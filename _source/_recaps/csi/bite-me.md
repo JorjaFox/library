@@ -1,7 +1,7 @@
 ---
 title: "Bite Me"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -35,12 +35,12 @@ Sara and Catherine work well together puzzling out who wrote the blackmail note.
 
 ## Quotes
 
-**Sidle** You know, you don't have to sleep in the same bed together to have sex or ... have romance.  
+**Sidle:** You know, you don't have to sleep in the same bed together to have sex or ... have romance.  
 
 - - -
 
-**Sidle** Two viable prints, both in a light coat of lube. One was Becky's and the other is an Adam Gilford. Work card is in the system. He's an executive at Western Airlines.  
+**Sidle:** Two viable prints, both in a light coat of lube. One was Becky's and the other is an Adam Gilford. Work card is in the system. He's an executive at Western Airlines.  
 
 - - -
 
-**Sidle** Lovers and co-workers. That never works.
+**Sidle:** Lovers and co-workers. That never works.

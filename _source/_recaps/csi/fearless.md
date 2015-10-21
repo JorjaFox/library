@@ -1,7 +1,7 @@
 ---
 title: "Fearless"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -41,9 +41,9 @@ At the end, when Sara returns Justin's wedding ring to Mary, they discuss love, 
 
 ## Quotes
 
-**Sidle**: I'm not gonna ask.  
-**Hodges**: Really? How disappointing.  
-**Sidle**: Not doing it.  
-**Hodges**: I wore it for you.  
-**Sidle**: ... Fine. What?
+**Sidle:**: I'm not gonna ask.  
+**Hodges:**: Really? How disappointing.  
+**Sidle:**: Not doing it.  
+**Hodges:**: I wore it for you.  
+**Sidle:**: ... Fine. What?
 

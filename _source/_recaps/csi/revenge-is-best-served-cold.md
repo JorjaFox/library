@@ -1,7 +1,7 @@
 ---
 title: "Revenge is Best Served Cold"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -21,7 +21,7 @@ The top-rated drama gets off to a speedy start in its third-season opener, in wh
 
 ## Quotes
 
-**Sidle** I got chocolate.  
-**Brown** What color is it?  
-**Sidle** Green. You know what they say about the green ones.
+**Sidle:** I got chocolate.  
+**Brown:** What color is it?  
+**Sidle:** Green. You know what they say about the green ones.
 

@@ -1,7 +1,7 @@
 ---
 title: "All They Had to Do Was Ask..."
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/missing-persons/:title/
 categories: [Recaps]
 tags: ["Missing Persons"]

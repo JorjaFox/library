@@ -1,7 +1,7 @@
 ---
 title: "Down the Drain"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -26,8 +26,8 @@ Sara risks her life (and Warrick's) to remove a door from a closet loaded with p
 ## Character Notes
 
 * Stubborn Sara surfaces again.  
-* S)ara assures Grissom that she doesn't have a drinking problem (re. "Bloodlines" and that she doesn't have a death wish.
+* Sara assures Grissom that she doesn't have a drinking problem (re. "Bloodlines" and that she doesn't have a death wish.
 
 ## Quotes
 
-**Sidle** I'm not a drunk and I don't have a death wish.
+**Sidle:** I'm not a drunk and I don't have a death wish.

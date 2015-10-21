@@ -1,7 +1,7 @@
 ---
 title: "Who Shot Sherlock?"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,27 +31,27 @@ Greg works his final proficiency with a little help from both Sara and Grissom. 
 
 ## Quotes
 
-**Sidle** _to Greg who is looking for a bullet in a puddle of blood_ Anyone for pizza?  
-**Sanders** Very funny... got it!  
-**Sidle** That's a BFB... BIG frickin' bullet.  
+**Sidle:** _to Greg who is looking for a bullet in a puddle of blood_ Anyone for pizza?  
+**Sanders:** Very funny... got it!  
+**Sidle:** That's a BFB... BIG frickin' bullet.  
 
 - - -
 
-**Sanders** Are you checking up on me?  
-**Sidle** No, no, no... no. Grissom said he was just evaluating you on processing this one room, so ... I figured maybe you could use some help with the rest of the house.  
+**Sanders:** Are you checking up on me?  
+**Sidle:** No, no, no... no. Grissom said he was just evaluating you on processing this one room, so ... I figured maybe you could use some help with the rest of the house.  
 
 - - -
 
 **Robbins** This guy really dress up like Sherlock Holmes?  
-**Sidle** At least once a week, evidently, like those civil war re-enactors. I, uh, never understood that.  
+**Sidle:** At least once a week, evidently, like those civil war re-enactors. I, uh, never understood that.  
 
 - - -
 
-**Sidle** DNA confirms that the blood on Watson's shoe is a match to your vic. We got him.  
-**Sanders** _(continues looking through the magnifying glass)_  
-**Sidle** Feel like celebrating after shift? I'm buying.  
+**Sidle:** DNA confirms that the blood on Watson's shoe is a match to your vic. We got him.  
+**Sanders:** _(continues looking through the magnifying glass)_  
+**Sidle:** Feel like celebrating after shift? I'm buying.  
 
 - - -
 
-**Sanders** Besides, I thought motive wasn't our business.  
-**Sidle** _(smiling)_ It's not.
+**Sanders:** Besides, I thought motive wasn't our business.  
+**Sidle:** _(smiling)_ It's not.

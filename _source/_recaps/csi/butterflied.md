@@ -1,7 +1,7 @@
 ---
 title: "Butterflied"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,5 +29,5 @@ Interrogating the murder suspect, Grissom confesses that he chose his career ove
 
 ## Quotes
 
-**Grissom** Sara, you take the perimeter.  
-**Sidle** What? You just did a one-hour walk-through. The perimeter cannot be a priority.
+**Grissom:** Sara, you take the perimeter.  
+**Sidle:** What? You just did a one-hour walk-through. The perimeter cannot be a priority.

@@ -1,7 +1,7 @@
 ---
 title: "Kiss-Kiss, Bye-Bye"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -41,10 +41,10 @@ Sara is highly amused by Greg's obsession with Lois and her history. She's only 
 
 ## Quotes
 
-**Sanders** The Benjamins took the bullet!  
-**Sidle** In God We Trust.  
+**Sanders:** The Benjamins took the bullet!  
+**Sidle:** In God We Trust.  
 
 - - -
 
-**Hodges** I like my grey hairs. What two I have.  
+**Hodges:** I like my grey hairs. What two I have.  
 **Sidles** Hodges, don't you know that grey hair can be very attractive?

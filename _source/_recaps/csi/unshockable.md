@@ -1,7 +1,7 @@
 ---
 title: "Unshockable"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -32,6 +32,6 @@ Sara and Ray end up working directly with the CIA, and clashing with them to pro
 
 ## Quotes
 
-**Langston** I've seen access denied before, but restricted?  
-**Sidle** Denied is get lost. Restricted is like a fence you want to climb over.
+**Langston:** I've seen access denied before, but restricted?  
+**Sidle:** Denied is get lost. Restricted is like a fence you want to climb over.
 

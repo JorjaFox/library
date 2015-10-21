@@ -1,7 +1,7 @@
 ---
 title: "Bloodsport"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,10 +33,10 @@ Greg and Sara work the sunken car case. Sara remarks on how hard it is to break 
 
 ## Quotes
 
-**Sidle** Found Nemo?  
-**Sanders** Not unless Nemo is a Beemo!
+**Sidle:** Found Nemo?  
+**Sanders:** Not unless Nemo is a Beemo!
 
 * * *
 
-**Stokes** How's it going?  
-**Sidle** I'm kind of underwater on this one.
+**Stokes:** How's it going?  
+**Sidle:** I'm kind of underwater on this one.

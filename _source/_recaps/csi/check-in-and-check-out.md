@@ -1,7 +1,7 @@
 ---
 title: "Check In and Check Out"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]

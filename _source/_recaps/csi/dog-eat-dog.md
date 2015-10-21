@@ -1,7 +1,7 @@
 ---
 title: "Dog Eat Dog"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,8 +33,8 @@ After learning Michael was shot (there was no blood on the scene or an exit woun
 
 ## Quotes
 
-**Sidle** Divorces are war. Sure glad I don't have that problem.  
+**Sidle:** Divorces are war. Sure glad I don't have that problem.  
 
 - - -
 
-**Sidle** That's like saying there was a second shooter on the grassy knoll, Nick! The Tinsley's only had one dog!
+**Sidle:** That's like saying there was a second shooter on the grassy knoll, Nick! The Tinsley's only had one dog!

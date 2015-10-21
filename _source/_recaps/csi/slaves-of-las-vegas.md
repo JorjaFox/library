@@ -1,7 +1,7 @@
 ---
 title: "Slaves of Las Vegas"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -22,10 +22,10 @@ Grissom and Catherine investigate the apparent violent death of a woman found in
 ## Quotes
 
 **Victim** I can't find my pants!  
-**Sidle** You can't wear them out of here. What did you want them for? A souvenir?  
+**Sidle:** You can't wear them out of here. What did you want them for? A souvenir?  
 
 - - -
 
 **Store Owner** You gonna arrest his ass?  
-**Sidle** Yeah.
+**Sidle:** Yeah.
 

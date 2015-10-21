@@ -1,7 +1,7 @@
 ---
 title: "Split Decisions"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -42,10 +42,10 @@ Sara and Brass talk to the dead man's son, Avery, with Sara promising to come ch
 
 ## Quotes
 
-**Sidle** Are you into twins?  
+**Sidle:** Are you into twins?  
 **Marks** Isn't everybody?  
 
 * * *
 
-**Sidle** It must be hard, wanting a child so much. The struggle to conceive. And then a miracle occurs.
+**Sidle:** It must be hard, wanting a child so much. The struggle to conceive. And then a miracle occurs.
 

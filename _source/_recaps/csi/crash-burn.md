@@ -1,7 +1,7 @@
 ---
 title: "Crash &#038; Burn"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -29,15 +29,15 @@ Sara learns that her 'boyfriend', Hank, was cheating on his girlfriend. Except _
 
 ## Quotes
 
-**Sidle** Granny was high?  
+**Sidle:** Granny was high?  
 
 - - -
 
-**Sidle** You never know when your whole life's going to change.
+**Sidle:** You never know when your whole life's going to change.
   
 
 - - -
 
 **Robbins** Sara [...] There's no physiological cause for your crash.  
-**Sidle** Well, that's a bummer. Cause at this point, we've got no forensic one either.
+**Sidle:** Well, that's a bummer. Cause at this point, we've got no forensic one either.
 

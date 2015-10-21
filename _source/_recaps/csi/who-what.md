@@ -1,7 +1,7 @@
 ---
 title: "Who &#038; What"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -34,11 +34,11 @@ Sara works a day case where a second woman is found covered up after being raped
 
 ## Quotes
 
-**Sidle** I got called into work early, but I did pick up Hank and I took him to the sitter.  
+**Sidle:** I got called into work early, but I did pick up Hank and I took him to the sitter.  
 **Malone** [...] Hank your kid?  
-**Grissom** My dog.
+**Grissom:** My dog.
 
 <hr width=50%>
 
-**Grissom** Sara? You okay?
-**Sidle** I don't know.
+**Grissom:** Sara? You okay?
+**Sidle:** I don't know.

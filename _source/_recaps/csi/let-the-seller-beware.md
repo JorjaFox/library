@@ -1,7 +1,7 @@
 ---
 title: "Let the Seller Beware"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -25,11 +25,11 @@ Grissom and Catherine investigate the murder of a wealthy couple who are discove
 
 ## Quotes
 
-**Sidle** _comes in late_ I am so sorry.  
-**Grissom** I paged you two hours ago.  
-**Sidle** Right. It's my day off? I was at Pharump. At some vineyard. _pause_ You told me to get a life. Remember? _smiles at Grissom_  
-**Grissom** Did I? _pauses, pulls out goggles_ I'm sorry. I needed you. Dispatch called in a 4-19 at Tuscadare High School. You're on your own.  
-**Sidle** _pause_ On my own.  
-**Grissom** _pause_ Solo.  
-**Sidle** _LONG pause_ _irritated_ See you around.
+**Sidle:** _comes in late_ I am so sorry.  
+**Grissom:** I paged you two hours ago.  
+**Sidle:** Right. It's my day off? I was at Pharump. At some vineyard. _pause_ You told me to get a life. Remember? _smiles at Grissom_  
+**Grissom:** Did I? _pauses, pulls out goggles_ I'm sorry. I needed you. Dispatch called in a 4-19 at Tuscadare High School. You're on your own.  
+**Sidle:** _pause_ On my own.  
+**Grissom:** _pause_ Solo.  
+**Sidle:** _LONG pause_ _irritated_ See you around.
 

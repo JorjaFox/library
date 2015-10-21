@@ -1,7 +1,7 @@
 ---
 title: "Homecoming"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -45,5 +45,5 @@ Sara works in the lab for the episode, helping with evidence.
 
 ## Quotes
 
-**Sidle** Everyone's got some weakness. Especially when it comes to family.
+**Sidle:** Everyone's got some weakness. Especially when it comes to family.
 

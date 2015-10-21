@@ -1,7 +1,7 @@
 ---
 title: "Snuff"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -25,22 +25,22 @@ Sara and Catherine investigate the snuff film. Sara checks the film for prints, 
 
 ## Character Notes
 
-* S)ara repeats facts told to her by other people (in this case, Catherine as if she had known them all along.  
+* Sara repeats facts told to her by other people (in this case, Catherine as if she had known them all along.  
 * Sara offers support to Warrick, letting him know that his findings helped the case.  
 * This is the first of several instances where Sara gets a bit vindictive when confronting a suspect.
 
 ## Quotes
 
-**Sidle** Biology determining pathology.  
-**Brown** Yeah. Some people are just born bad.  
+**Sidle:** Biology determining pathology.  
+**Brown:** Yeah. Some people are just born bad.  
 
 - - -
 
-**Sidle** I'm fine.  
-**Brown** I'm sorry. Are you okay?  
-**Sidle** Yeah. You missed me by a mile. ... You might want to apologize to the phone book.  
+**Sidle:** I'm fine.  
+**Brown:** I'm sorry. Are you okay?  
+**Sidle:** Yeah. You missed me by a mile. ... You might want to apologize to the phone book.  
 
 - - -
 
-**Sidle** I guess she killed you back.
+**Sidle:** I guess she killed you back.
 

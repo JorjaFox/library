@@ -1,7 +1,7 @@
 ---
 title: "In Vino Veritas"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -36,12 +36,12 @@ Sara and Greg work the primary case of the wine.
 
 ## Quotes
 
-**Sidle**: Black tie. Poor guy was dressed to kill.  
-**Sanders**: Or be killed.  
+**Sidle:**: Black tie. Poor guy was dressed to kill.  
+**Sanders:**: Or be killed.  
 
 * * *
 
-**Sidle**: He ate very well for his last meal.  
-**Russell**: Raw whale? Whale sushi? That's gotta be illegal.  
-**Sidle**: And disgusting, and immoral.
+**Sidle:**: He ate very well for his last meal.  
+**Russell:**: Raw whale? Whale sushi? That's gotta be illegal.  
+**Sidle:**: And disgusting, and immoral.
 

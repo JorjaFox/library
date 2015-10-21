@@ -1,7 +1,7 @@
 ---
 title: "Boom"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -31,26 +31,26 @@ Sara and Grissom blowing up bombs to determine the container components (Sara se
 
 ## Quotes
 
-**Grissom** So, Sara. What's orange and melts?  
-**Sidle** _(grins)_ I would have to investigate that.  
+**Grissom:** So, Sara. What's orange and melts?  
+**Sidle:** _(grins)_ I would have to investigate that.  
 
 - - -
 
-**Brown** What are you going to do?  
-**Sidle** We're going to go blow up some bombs.  
-**Brown** Oh I definitely got the wrong end of this investigation. _(leaves)_  
-**Grissom** Alas, poor Warrick.  
+**Brown:** What are you going to do?  
+**Sidle:** We're going to go blow up some bombs.  
+**Brown:** Oh I definitely got the wrong end of this investigation. _(leaves)_  
+**Grissom:** Alas, poor Warrick.  
 
 - - -
 
-**Grissom** What are you doing [with that jacket]?  
-**Sidle** _(holding the jacket)_ Polyethylene terephtalete.  
-**Grissom** Polyester.  
-**Sidle** _(nods)_ Orange stuff.  
+**Grissom:** What are you doing [with that jacket]?  
+**Sidle:** _(holding the jacket)_ Polyethylene terephtalete.  
+**Grissom:** Polyester.  
+**Sidle:** _(nods)_ Orange stuff.  
 
 - - -
 
-**Sidle** I have a new favorite color.  
-**Grissom** Orange?  
-**Sidle** _(grins)_ The orange polyester from the bomb is a match to the Thrift-Rite jacket.
+**Sidle:** I have a new favorite color.  
+**Grissom:** Orange?  
+**Sidle:** _(grins)_ The orange polyester from the bomb is a match to the Thrift-Rite jacket.
 

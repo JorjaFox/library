@@ -1,7 +1,7 @@
 ---
 title: "Doctor Who"
 author: Mika A. Epstein
-layout: recap
+layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: [Recaps]
 tags: ["CSI"]
@@ -33,5 +33,5 @@ Sara and Greg find the body of Heidi Custer, and Sara finds the first evidence, 
 
 ## Quotes
 
-**Sidle** I understand not wanting to share the details of your personal life with your coworkers.... But you don't share the fruits of your investigative works...?
+**Sidle:** I understand not wanting to share the details of your personal life with your coworkers.... But you don't share the fruits of your investigative works...?
 
