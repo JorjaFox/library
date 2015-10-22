@@ -19,17 +19,11 @@ gems:
   - jekyll-sitemap
 
 # Moving Folders
-source:       _source
-plugins_dir:  _jekyll/_plugins
-layouts_dir:  _jekyll/_layouts
-includes_dir: _jekyll/_includes
-
-# Jekyll Deploy for Rsync
-deployment:
-  type: rsync
-  host: ftp.jorjafox.net
-  user: jorjafox
-  directory: /home/jorjafox/public_html/library
+source:        _source
+plugins_dir:   _jekyll/_plugins
+layouts_dir:   _jekyll/_layouts
+includes_dir:  _jekyll/_includes
+templates_dir: _jekyll/_templates
 
 # Build settings
 redirects: yes
@@ -40,6 +34,7 @@ permalink: "/:title"
 
 # Pages
 include: ['_pages']
+exclude: [.bundle, bin, vendor]
 
 # Collections
 collections:
