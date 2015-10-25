@@ -5,7 +5,7 @@ author: Mika Epstein
 layout: news
 tags: 2008
 categories: [Articles, News]
-permalink: /news/2015/:title/
+permalink: /news/2008/:title/
 
 newstitle: "Ask Matt: Applauding 'ER''s Goodbyes, Questioning 'Eli Stone''s Faith and More!  "
 newsauthor: Matt Roush  

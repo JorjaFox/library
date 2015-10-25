@@ -5,11 +5,11 @@ author: Mika Epstein
 layout: news
 tags: 2008
 categories: [Articles, News]
-permalink: /news/2015/:title/
+permalink: /news/2008/:title/
 
 newstitle: "CSI Paparazzi: Jorja Fox visits Costa Rica  "
 newsauthor: sspeedle  
-newssource: "CSI: Crime Scene Investigatio News"
+newssource: "CSI: Crime Scene Investigation News"
 newsurl: http://sspeedlecsi.blogspot.com/2008/04/csi-paparazzi-jorja-fox-visits-costa.html  
 
 ---
