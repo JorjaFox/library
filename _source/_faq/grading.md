@@ -5,7 +5,7 @@ categories: FAQ
 tags: [website]
 ---
 
-Grading is a fairly subjective way of rating a TV show or movie, by way of how much is Jorja Fox's character involved, and how much screen time does she get.
+Grading is a fairly subjective way of rating a TV show or movie by way of how much is Jorja Fox's character involved, and how much screen time does she get.
 
 The objective is to give the highest 'score' to anything that someone should watch if looking for a great representation of Jorja Fox's work as an actor. This is not an attempt to grade how good a movie or TV show is. In fact, Memento is a highly acclaimed movie and only has a 'score' of 2, because Jorja Fox's role is quite minor. Rating also may not reflect how much screen time Jorja has. For example, in the CSI episode A La Cart, she's in three scenes, however a great deal of characterization is developed in those scenes.
 

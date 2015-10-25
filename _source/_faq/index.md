@@ -50,7 +50,7 @@ If she has anything else, she's keeping it private. That means **anyone** you se
 
 ### Is Jorja Fox pregnant?
 
-No Jorja is not pregnant.
+No, Jorja is not pregnant. No, she wasn't pregnant. No. No. No.
 
 ###Is Jorja Fox gay?###
 
@@ -63,6 +63,10 @@ Yes. She's just as cool as you think.
 ### Why wasn't Jorja in every episode of CSI? ###
 
 Because she didn't want to be.
+
+### What's she doing now that CSI is over? ###
+
+Mostly advocacy work, but we'll see what's next! Isn't it exciting?
 
 ## See Also
 

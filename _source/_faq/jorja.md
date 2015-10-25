@@ -94,7 +94,7 @@ Yes and no. She has smoked, and has tried to quit many times. As of February 201
 
 ## Is she a vegetarian?
 
-Jorja Fox became a vegetarian at the age of 19, sometime around her modeling days, and discovered PETA in New York City at about the same time. Jorja told the PETA spokesperson that she took part in a few protests, and enjoyed their "confrontational" attitude. She describes herself as an aspiring vegan. Her downfall is dairy products.
+Jorja Fox became a vegetarian at the age of 19, sometime around her modeling days, and discovered PETA in New York City at about the same time. Jorja told the PETA spokesperson that she took part in a few protests, and enjoyed their "confrontational" attitude. She describes herself as an aspiring vegan.
 
 ## What political party is Jorja affiliated with?
 
@@ -140,6 +140,8 @@ Yes. Jorja and fellow CSI cast member Eric Szmanda were members of the "Royal Bl
 
 Jorja has been surfing since she was little and was a self-professed 'surfer girl' in high school. She's surfed in Florida and California, and during the Christmas break in 2006 she went surfing in Puerto Rico. After leaving CSI, Jorja mentioned wanting to surf in South America.
 
+Once CSI ended, she started surfing more often.
+
 ## What kind of car does Jorja drive?
 
-A Toyota Hybrid. She also has a bicycle and two surfboards.
+A Toyota Hybrid. She also has a bicycle and multiple surfboards.
