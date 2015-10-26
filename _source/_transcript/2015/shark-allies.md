@@ -7,7 +7,7 @@ interviewurl: http://www.sharkallies.com/
 permalink: /transcript/2015/:title/
 categories: [Interviews]
 tags:
-  - 2014
+  - 2015
 ---
 
 *Jorja Fox talks about her personal connection to the ocean and her perception of trophy hunting and the misrepresentation of sharks in the media.*

@@ -7,7 +7,7 @@ interviewurl: http://extratv.com/videos/0_mjhid6vd
 permalink: /transcript/2015/:title/
 categories: [Interviews]
 tags:
-  - 2014
+  - 2015
 ---
 
 ## On the Set of 'CSI'! All the Scoop on the Series Finale  
