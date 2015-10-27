@@ -11,7 +11,7 @@ showslug: csi
 
 season: 1
 epnum: 3
-date: 2001-10-20
+date: 2000-10-20
 prodnum: 103  
 ---
 

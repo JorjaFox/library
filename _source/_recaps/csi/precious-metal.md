@@ -10,7 +10,7 @@ showname: "CSI"
 showslug: csi
 
 season: 3  
-epnum: 18
+epnum: 17
 date: 2003-04-03
 prodnum: 318  
 ---
