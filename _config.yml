@@ -14,7 +14,6 @@ github_username:  ipstenu
 
 # Plugins
 gems:
-  - jekyll-last-modified-at
   - jekyll-redirect-from
   - jekyll-sitemap
 
