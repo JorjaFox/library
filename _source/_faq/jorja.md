@@ -37,9 +37,9 @@ Jorja lives around the Los Angeles area in California.
 
 ## How do I contact her?
 
-Studio Fan Mail
-1048 Irvine Ave #624
-Newport Beach, CA 92660
+Studio Fan Mail  
+1048 Irvine Ave #624  
+Newport Beach, CA 92660  
 
 ## How do I get an autographed picture of her?
 

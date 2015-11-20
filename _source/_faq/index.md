@@ -23,17 +23,9 @@ Jorja Fox: Online (JFO) is NOT an official Jorja Fox website. JFO is run by fans
 
 ### How can I contact Jorja?
 
-For Postal Mail only:
-
-STUDIO FAN MAIL  
-P.O. BOX 3175  
-BIG BEAR CITY, CA 92314
-
-For UPS, FedEx, DHL, and all other courier services:
-
-STUDIO FAN MAIL  
-1201 FOX FARM RD.  
-BIG BEAR LAKE, CA 92315
+Studio Fan Mail  
+1048 Irvine Ave #624  
+Newport Beach, CA 92660  
 
 ### Can you get me in touch with Jorja?
 
