@@ -37,17 +37,11 @@ Jorja lives around the Los Angeles area in California.
 
 ## How do I contact her?
 
-For Postal Mail only:
+Studio Fan Mail
+1048 Irvine Ave #624
+Newport Beach, CA 92660
 
-STUDIO FAN MAIL
-P.O. BOX 3175
-BIG BEAR CITY, CA 92314
-For UPS, FedEx, DHL, and all other courier services:
-
-STUDIO FAN MAIL
-1201 FOX FARM RD.
-BIG BEAR LAKE, CA 92315
-How do I get an autographed picture of her?
+## How do I get an autographed picture of her?
 
 Send a letter to the above address. It may take a long time to get a reply though. All her fan mail is checked before it gets to her.
 
