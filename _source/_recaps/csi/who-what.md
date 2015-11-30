@@ -1,5 +1,5 @@
 ---
-title: "Who &#038; What"
+title: "Who & What"
 author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/

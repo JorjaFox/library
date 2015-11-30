@@ -1,5 +1,6 @@
 ---
-title: "Crash &#038; Burn"
+title: "Crash & Burn"
+slug: crash-burn
 author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/

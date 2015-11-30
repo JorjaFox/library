@@ -68,4 +68,4 @@ This prompts Grissom to re-investigate the bugs, and Sara keeps Grissom company 
 
 - - -
 
-**Sidle:** I checked out Warrick. His story about missing court was, uh &#8230; lame. I got this surveillance tape from the Monaco. He was in the casino. &#8221;(hands the tape to Grissom)&#8221; I'm sorry.
+**Sidle:** I checked out Warrick. His story about missing court was, uh &#8230; lame. I got this surveillance tape from the Monaco. He was in the casino. '(hands the tape to Grissom)' I'm sorry.

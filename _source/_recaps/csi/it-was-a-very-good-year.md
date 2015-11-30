@@ -1,5 +1,5 @@
 ---
-title: "It was a Very Good Year"
+title: "It Was a Very Good Year"
 author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/

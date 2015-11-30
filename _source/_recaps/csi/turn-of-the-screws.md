@@ -19,7 +19,7 @@ prodnum: 421
 
 A roller coaster runs off track leaving 6 people dead. The CSI team must uncover whether this was an accident, or foul play. Warrick and Catherine try to find the killer of a 13 year old girl.
 
-_Note: This episode was originally titled &#8220;A Turn of the Screws&#8221; and then &#8220;A Screw Turned Loose&#8221; before being titled &#8220;Turning of the Screw&#8221;. After going through so many titles, they decided to stick closer to the original and titled it &#8220;Turn of the Screws&#8221;._
+_Note: This episode was originally titled 'A Turn of the Screws' and then 'A Screw Turned Loose' before being titled 'Turning of the Screw'. After going through so many titles, they decided to stick closer to the original and titled it 'Turn of the Screws'._
 
 ## Sara Sidle Review
 

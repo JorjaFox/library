@@ -11,7 +11,7 @@ showslug: csi
 
 season: 5  
 epnum: 8
-date: 2005-11-18
+date: 2004-11-18
 prodnum: 508 
 ---
 

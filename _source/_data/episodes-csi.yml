@@ -510,15 +510,15 @@
   rating: 2
   summary: "A badly decomposed body is discovered in a beat-up chemical-waste drum in the desert. The investigation soon leads Catherine into the world of robotic demolition derbies in which custom-designed robots bash each other in combat-like competitions. Meanwhile, Grissom and Warrick probe the death of a newly married man whose body is found in an alley."
 
-- epnum: 65
+- epnum: 19
   season: 3
-  title: A Night At The Movies
+  title: A Night at the Movies
   slug: a-night-at-the-movies
   airdate: 2003-04-10
   rating: 3
   summary: "Grissom and Catherine investigate a movie-goer who was stabbed to death; the team comes to a forensic impasse while processing a teenager who died from a gunshot wound."
 
-- epnum: 19
+- epnum: 20
   season: 3
   title: Last Laugh
   slug: last-laugh
@@ -526,7 +526,7 @@
   rating: 2
   summary: "Grissom and Catherine investigate the murder of a despised comic who died onstage, apparently after drinking from a tainted bottle of water. The case grows more puzzling when a 15-year-old boy dies in a convenience store after drinking the same brand of water. Brass reopens a woman's accidental-death case after spotting the deceased's husband in a flashy new car with a trophy date on his arm."
 
-- epnum: 20
+- epnum: 21
   season: 3
   title: Forever
   slug: forever
@@ -534,7 +534,7 @@
   rating: 3
   summary: "The trampling death of a trainer by her horse aboard a private jet is investigated by Grissom, Catherine, and Nick. Sara and Warrick look into a Romeo and Juliet scenario in the desert."
 
-- epnum: 21
+- epnum: 22
   season: 3
   title: Play With Fire
   slug: play-with-fire
@@ -542,7 +542,7 @@
   rating: 4
   summary: "Grissom, Sara, and Nick investigate the murder of a woman in the press box of a high school stadium. They arrive less than an hour after the woman's death. Catherine and Warrick try to determine the cause of an explosion in the DNA lab of CSI that seriously injures a lab tech. The personal lives of our characters come into play in this episode."
 
-- epnum: 22
+- epnum: 23
   season: 3
   title: Inside the Box
   slug: inside-the-box
@@ -985,7 +985,7 @@
 - epnum: 7
   season: 6
   title: A Bullet Runs Through It (Part 1)
-  slug: a-bullet-runs-through-it (part-1)
+  slug: a-bullet-runs-through-it-part-1
   airdate: 2005-11-10
   rating: 2
   summary: "A routine traffic stop turns into a wild police chase through the streets of Las Vegas, resulting in the death of a police officer. When all is finished, the crime scene stretches for miles and the CSIs face an avalanche of ballistic evidence in order to find the real killer of the police officer who died on the scene. Grissom fears the officer may have been the victim of 'friendly fire' and not the drug criminals they were chasing."
@@ -993,7 +993,7 @@
 - epnum: 8
   season: 6
   title: A Bullet Runs Through It (Part 2)
-  slug: a-bullet-runs-through-it (part-2)
+  slug: a-bullet-runs-through-it-part-2
   airdate: 2005-11-17
   rating: 3
   summary: "The CSIs sift through the overwhelming evidence from a shootout with drug dealers in order to determine who is responsible for the death of a police officer killed during the incident, on the conclusion of a two-part episode."
@@ -1078,7 +1078,7 @@
   rating: 4
   summary: "When a student is arrested and tried for the murder of a popular high-school girl, the suspect's 12-year-old sister confesses to the crime. This results in the judge giving the prosecution 72 hours to re-examine the evidence before the jury delivers its verdict."
 
-- epnum: 136
+- epnum: 19
   season: 6
   title: Spellbound
   slug: spellbound
@@ -1086,7 +1086,7 @@
   rating: 0
   summary: "The team investigates the death of a psychic who 'saw' her own death while performing a reading for two other women. Greg reveals a family secret to Grissom but Grissom believes that science will be what solves the case."
 
-- epnum: 19
+- epnum: 20
   season: 6
   title: "Poppin' Tags"
   slug: poppin-tags
@@ -1094,7 +1094,7 @@
   rating: 3
   summary: "The CSI team is lead into the rap music world as they investigate the murders of three rival teen rappers."
 
-- epnum: 20
+- epnum: 21
   season: 6
   title: Rashomama
   slug: rashomama
@@ -1102,7 +1102,7 @@
   rating: 4
   summary: "A wealthy defense attorney is killed at her son's wedding but Nick's car, containing all the collected evidence is stolen and the case is compromised. After discovering new evidence, the team suspects that someone from the wedding party may be responsible for the murder."
 
-- epnum: 21
+- epnum: 22
   season: 6
   title: Time of Your Death
   slug: time-of-your-death
@@ -1110,7 +1110,7 @@
   rating: 3
   summary: "A high roller who spent the night with a woman he had just met is found dead on the loading dock of the casino where he was staying. The investigation reveals that the victim won $10,000 in a pool game and was an assistant to a respected movie producer."
 
-- epnum: 22
+- epnum: 23
   season: 6
   title: Bang-Bang
   slug: bang-bang
@@ -1118,7 +1118,7 @@
   rating: 3
   summary: "A man accused of murdering his wife and co-workers leads the CSIs on a wild ride through a busy casino, eventually barricading himself and a hostage in a casino hotel room. The CSIs process the evidence from the crime scene to determine whether or not the man acted alone or had an accomplice. One of the CSIs eventually steps in as a hostage negotiator, putting himself in danger."
 
-- epnum: 23
+- epnum: 24
   season: 6
   title: Way to Go
   slug: way-to-go
@@ -1471,7 +1471,7 @@
   summary: "The CSIs discover that two apparently unrelated crimes are actually parts of the same twisted revenge plot. "
 
 - epnum: 8
-  season: 8
+  season: 10
   title: "Lover's Lanes"
   slug: lovers-lanes
   airdate: 2009-11-19
@@ -1692,11 +1692,11 @@
   slug: the-list
   airdate: 2011-03-17
   rating: 0
-  summary: "The team investigates the prison murder of a cop, Vance, who was incarcerated for murdering his wife, but believed he was framed."
+  summary: "The team investigates the prison murder of a cop, Vance, who was incarcerated for murdering his wife, but believes he was framed."
 
 - epnum: 18
   season: 11
-  title: Hitting For The Cycle
+  title: Hitting for the Cycle
   slug: hitting-for-the-cycle
   airdate: 2011-03-31
   rating: 3
@@ -1936,7 +1936,7 @@
 
 - epnum: 4
   season: 13
-  title: It Was A Very Good Year
+  title: It Was a Very Good Year
   slug: it-was-a-very-good-year
   airdate: 2012-10-24
   rating: 2
@@ -2128,8 +2128,8 @@
 
 - epnum: 6
   season: 14
-  title: Passed Pawn
-  slug: passed-pawn
+  title: Passed Pawns
+  slug: passed-pawns
   airdate: 2013-10-30
   rating: 1
   summary: "The CSI team investigates the death of a homeless man who had a huge winning streak at a small casino."

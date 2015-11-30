@@ -17,7 +17,7 @@ prodnum: 299
 
 ## Synopsis## 
 
-The name of the hit cooking show, &#8220;Slice and Dice,&#8221; takes on a grim new meaning when a sliced-and-diced former contestant is incorporated into a &#8220;special challenge&#8221;.
+The name of the hit cooking show, 'Slice and Dice,' takes on a grim new meaning when a sliced-and-diced former contestant is incorporated into a 'special challenge'.
 
 ## Sara Sidle Review
 
