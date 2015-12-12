@@ -1,0 +1,46 @@
+{{ partial "header.html" . }}
+
+{{ $baseurl := .Site.BaseURL }}
+
+<article class="post type-post format-standard category-jorjafox entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+
+    <header class="entry-header">
+        <h2 class="entry-title" itemprop="headline"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h2>
+		<div class="entry-meta">{{ if .Date.IsZero }}By {{else}}{{ .Date.Format "January 01, 2006" }} by{{end}} the JFO Librarians</div>
+    </header>
+
+    <div class="entry-content" itemprop="text"><div id="padbox">
+
+		<p>{{ .Params.excerpt | safeHTML }}</p>
+
+		<ul>
+			<li><strong>Rating:</strong> {{ partial "rating.html" . }} </li>
+
+			{{ if .Params.genre }}<li>{{.Params.year}} &bull; {{ .Params.genre }}
+			{{ with .Params.station }}&bull; {{.}}{{ end }}</li>
+
+			{{ if .Params.character }}<li><strong>Character:</strong> {{.Params.character}} ({{.Params.chartype}} character){{ end }}
+				{{ if .Params.seasons }}for {{.Params.seasons}} season{{ if gt .Params.seasons "1" }}s{{end}}{{ end }}
+				{{ if .Params.episodes }}for {{.Params.episodes}} episode{{ if gt .Params.episodes "1" }}s{{end}} {{ end }}
+			{{ $character := .Params.character }}
+			{{ range .Site.Data.filmography.actor }}
+				{{ if and (eq .character $character) ( .notes ) }}<br /><small>{{ .notes | safeHTML }}</small>{{ end }}
+			{{ end }}
+			</li>{{ end }}
+
+			{{ with .Params.website }}<li><a href="{{ . }}">Official Website</a></li>{{ end }}
+			{{ with .Params.imdb }}<li><a href="{{ . }}">IMDb</a></li>{{ end }}
+
+		</ul>
+
+		{{ .Content }}
+    </div></div>
+
+    <footer class="entry-footer">
+        <!-- start tags -->
+        <p class="entry-meta"><span class="entry-categories"><i class="fa fa-folder-open" alt="Category Folder"></i> <strong>{{ range $i, $e := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/categories/{{ lower . | urlize }}" rel="category">{{ $e }}</a>{{ end }}</strong></span> <span class="entry-tags"><i class="fa fa-tags" alt="Tags"></i> <strong>{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/tags/{{ lower . | urlize }}" rel="tag">{{ $e }}</a>{{ end }}</strong></span></p>
+    		<!-- end tags -->
+	</footer>
+</article>
+
+{{ partial "footer.html" . }}

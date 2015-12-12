@@ -1,0 +1,175 @@
+<!-- roles: [er, ww, csi, mp] -->
+
+{{ $season := .Get "season" }}
+{{ $show := $.Page.Params.show }}
+
+
+
+<table class="episodelist">
+<tbody>
+<tr>
+	<th>#</th>
+	<th>Title</th>
+	<th>Airdate</th>
+	<th id="dates">Rating</th>
+</tr>
+
+
+{{ if eq $show "er" }}
+
+	{{ range where $.Page.Site.Data.episodes.er "season" "==" $season }}
+
+		<tr class="episodelist-name">
+			<td style="text-align: center">{{ .epnum }}</td>
+			<td style="text-align: left">"<a href="/library/recaps/{{ $show }}/{{ .slug }}/">{{ .title }}</a>"</td>
+			<td id="dates">{{ .airdate | dateFormat "Jan 2, 2006" }}</td>
+			<td>
+				<a href="/library/faq/grading">
+				{{ if eq .rating "0" }}
+				<i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "1" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "2" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "3" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "4" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "5" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i>
+				{{ else }}
+				<i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i>
+				{{end}}
+				</a>
+			</td>
+		</tr>
+
+		{{ if .summary }}
+		<tr class="episodelist-summary">
+			<td colspan="4">{{ .summary }}</td>
+		</tr>
+		{{ end }}
+
+	{{ end }}
+
+{{ end }}
+
+{{ if eq $show "csi" }}
+
+	{{ range where $.Page.Site.Data.episodes.csi "season" "==" $season }}
+
+		<tr class="episodelist-name">
+			<td style="text-align: center">{{ .epnum }}</td>
+			<td style="text-align: left">"<a href="/library/recaps/{{ $show }}/{{ .slug }}/">{{ .title }}</a>"</td>
+			<td id="dates">{{ .airdate | dateFormat "Jan 2, 2006" }}</td>
+			<td>
+				<a href="/library/faq/grading">
+				{{ if eq .rating "0" }}
+				<i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "1" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "2" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "3" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "4" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "5" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i>
+				{{ else }}
+				<i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i>
+				{{end}}
+				</a>
+			</td>
+		</tr>
+
+		{{ if .summary }}
+		<tr class="episodelist-summary">
+			<td colspan="4">{{ .summary }}</td>
+		</tr>
+		{{ end }}
+
+	{{ end }}
+
+{{ end }}
+
+{{ if eq $show "missing-persons" }}
+
+	{{ range where $.Page.Site.Data.episodes.mp "season" "==" $season }}
+
+		<tr class="episodelist-name">
+			<td style="text-align: center">{{ .epnum }}</td>
+			<td style="text-align: left">"<a href="/library/recaps/{{ $show }}/{{ .slug }}/">{{ .title }}</a>"</td>
+			<td id="dates">{{ .airdate | dateFormat "Jan 2, 2006" }}</td>
+			<td>
+				<a href="/library/faq/grading">
+				{{ if eq .rating "0" }}
+				<i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "1" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "2" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "3" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "4" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "5" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i>
+				{{ else }}
+				<i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i>
+				{{end}}
+				</a>
+			</td>
+		</tr>
+
+		{{ if .summary }}
+		<tr class="episodelist-summary">
+			<td colspan="4">{{ .summary }}</td>
+		</tr>
+		{{ end }}
+
+	{{ end }}
+
+{{ end }}
+
+{{ if eq $show "ww" }}
+
+	{{ range where $.Page.Site.Data.episodes.ww "season" "==" $season }}
+
+		<tr class="episodelist-name">
+			<td style="text-align: center">{{ .epnum }}</td>
+			<td style="text-align: left">"<a href="/library/recaps/{{ $show }}/{{ .slug }}/">{{ .title }}</a>"</td>
+			<td id="dates">{{ .airdate | dateFormat "Jan 2, 2006"}}</td>
+			<td>
+				<a href="/library/faq/grading">
+				{{ if eq .rating "0" }}
+				<i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "1" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "2" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "3" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "4" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
+				{{ else if eq .rating "5" }}
+				<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i>
+				{{ else }}
+				<i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i>
+				{{end}}
+				</a>
+			</td>
+		</tr>
+
+		{{ if .summary }}
+		<tr class="episodelist-summary">
+			<td colspan="4">{{ .summary }}</td>
+		</tr>
+		{{ end }}
+
+	{{ end }}
+
+{{ end }}
+
+</tbody>
+</table>

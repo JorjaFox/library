@@ -1,0 +1,24 @@
+{{ $date := $.Page.Date.Format "2006" }}
+
+<table class="jfoinfobox">
+
+	<thead><tr>
+		<th>Date</th>
+		<th>Source</th>
+	</tr></thead>
+
+	<tbody>
+	{{ range where $.Page.Site.Pages.ByDate "Section" "news" }}
+		{{ $thisdate := .Date.Format "2006" }}
+
+		{{ if and (eq $date $thisdate) (ne .Params.topic "index") }}
+
+			<tr>
+				<td>{{ .Date.Format "01 January" }}</td>
+				<td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+			</tr>
+
+		{{ end }}
+	{{ end }}
+	</tbody>
+</table>

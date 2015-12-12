@@ -1,0 +1,40 @@
+{{ partial "header.html" . }}
+
+{{ $baseurl := .Site.BaseURL }}
+
+<article class="post type-post format-standard category-jorjafox entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+
+    <header class="entry-header">
+        <h2 class="entry-title" itemprop="headline"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h2>
+		<div class="entry-meta">{{ if .Date.IsZero }}By {{else}}{{ .Date.Format "January 01, 2006" }} by{{end}} the JFO Librarians</div>
+    </header>
+
+    <div class="entry-content" itemprop="text"><div id="padbox">
+
+	{{ range .Data.Pages.ByTitle }}
+		{{ if and (eq .Type "index") (ne .Params.topic "index") }}
+			{{ .Content }}
+		{{ end }}
+	{{ end }}
+
+	<div class="jfoinfobox">
+		<div class="newsheader"><a href="/library/transcript/" title="News Articles">News Articles By Year</a></div>
+		<div class="newsbody"><ul class="infobox">
+		{{ range .Data.Pages.ByDate }}
+			{{ if eq .Params.topic "index" }}
+				<li><a href="{{ .Permalink }}">{{ .Date.Format "2006" }}</a></li>
+			{{ end }}
+		{{ end }}
+		</ul></div>
+	</div>
+
+    </div></div>
+
+    <footer class="entry-footer">
+        <!-- start tags -->
+        <p class="entry-meta"><span class="entry-categories"><i class="fa fa-folder-open" alt="Category Folder"></i> <strong><a href="{{ $baseurl }}/categories/{{ lower .Title | urlize }}" rel="category">{{ .Title }}</a></strong></span> <span class="entry-tags"><i class="fa fa-tags" alt="Tags"></i> <strong>Index</strong></span></p>
+    		<!-- end tags -->
+	</footer>
+</article>
+
+{{ partial "footer.html" . }}
