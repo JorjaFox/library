@@ -5,6 +5,7 @@ permalink: /honeypot/
 layout: default
 categories: ["Filmography"]
 tags: ["producer", "company"]
+notoc: true
 ---
 
 Honeypot Productions (also known as HoneyPot Productions) is an independent theater company in Los Angeles.

@@ -22,7 +22,7 @@
 
     <footer class="entry-footer">
         <!-- start tags -->
-        <p class="entry-meta"><span class="entry-categories"><i class="fa fa-folder-open" alt="Category Folder"></i> <strong>{{ range $i, $e := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/categories/{{ lower . | urlize }}" rel="category">{{ $e }}</a>{{ end }}</strong></span> <span class="entry-tags"><i class="fa fa-tags" alt="Tags"></i> <strong>{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/tags/{{ lower . | urlize }}" rel="tag">{{ $e }}</a>{{ end }}</strong></span></p>
+        <p class="entry-meta"><span class="entry-categories"><i class="fa fa-folder-open" alt="Category Folder"></i> <strong>{{ range $i, $e := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/categories/{{ lower . | urlize }}" rel="category">{{ title $e }}</a>{{ end }}</strong></span> <span class="entry-tags"><i class="fa fa-tags" alt="Tags"></i> <strong>{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/tags/{{ lower . | urlize }}" rel="tag">{{ title $e }}</a>{{ end }}</strong></span></p>
     		<!-- end tags -->
 	</footer>
 </article>

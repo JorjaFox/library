@@ -1,17 +1,28 @@
-<div class="star-rating"><a href="/library/faq/grading">
-{{ if eq .Params.rating 0 }}
-<i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
-{{ else if eq .Params.rating 1 }}
-<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
-{{ else if eq .Params.rating 2 }}
-<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
-{{ else if eq .Params.rating 3 }}
-<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
-{{ else if eq .Params.rating 4 }}
-<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:grey;" class="fa fa-star" name="star"></i>
-{{ else if eq .Params.rating 5 }}
-<i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i><i style="color:gold;" class="fa fa-star" name="star"></i>
-{{ else }}
-<i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i>
-{{end}}
-</a></div>
+{{ if eq .Type "actor" }}
+
+	{{ $goldstar := seq .Params.rating }}
+	{{ $goldstar := len $goldstar }}
+
+	<div class="star-rating"><a href="/library/faq/grading" title="Star Rating: {{ .Params.rating }}">{{ if ge $goldstar "0" }}{{ range $star, seq $goldstar }}<i style="color:gold;" class="fa fa-star" name="star"></i>{{ end }}{{ $greystar := sub 5 $goldstar }}{{ range $star, seq $greystar }}<i style="color:grey;" class="fa fa-star" name="star"></i>{{ end }}{{ else }}{{ range $star, seq 5 }}<i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i>{{ end }}{{ end }}</a></div>
+
+{{ else if eq .Type "recaps" }}
+
+	{{ $showslug := .Params.showslug }}
+	{{ $eptitle  := .Title }}
+	{{ range $.Site.Data.episodes }}
+
+		{{ if eq .show $showslug }}
+			{{ range .episodes }}
+				{{ if eq .title $eptitle }}
+
+					{{ $goldstar := seq .rating }}
+					{{ $goldstar := len $goldstar }}
+
+					<div class="star-rating"><a href="/library/faq/grading" title="Star Rating: {{ .Params.rating }}">{{ if ge $goldstar "0" }}{{ range $star, seq $goldstar }}<i style="color:gold;" class="fa fa-star" name="star"></i>{{ end }}{{ $greystar := sub 5 $goldstar }}{{ range $star, seq $greystar }}<i style="color:grey;" class="fa fa-star" name="star"></i>{{ end }}{{ else }}{{ range $star, seq 5 }}<i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i>{{ end }}{{ end }}</a></div>
+				{{ end }}
+			{{ end }}
+		{{ end }}
+
+	{{ end }}
+
+{{ end }}

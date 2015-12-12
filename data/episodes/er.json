@@ -1,4 +1,6 @@
-[
+{
+"show" : "er",
+"episodes": [
   {
     "epnum": "3 (465403)",
     "title": "Don't Ask, Don't Tell",
@@ -325,4 +327,4 @@
     "summary": "Not Available",
     "season": "15"
   }
-]
+]}

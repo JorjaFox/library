@@ -1,4 +1,6 @@
-[
+{
+"show" : "csi",
+"episodes": [
   {
     "epnum": "1",
     "season": "1",
@@ -2726,4 +2728,4 @@
     "rating": "5",
     "summary": "Is Lady Heather the victim in the mysterious bombings or is she the perpetrator?"
   }
-]
+] }
