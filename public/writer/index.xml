@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writers on JFO Library</title>
+    <link>http://jorjafox.net/library/writer/</link>
+    <description>Recent content in Writers on JFO Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://jorjafox.net/library/writer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>In Hell With Love</title>
+      <link>http://jorjafox.net/library/writer/in-hell-love/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/writer/in-hell-love/</guid>
+      <description>&lt;p&gt;Written by Jorja Fox, &lt;strong&gt;In Hell With Love&lt;/strong&gt; is about nurses in Vietnam.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Loving Stanley</title>
+      <link>http://jorjafox.net/library/writer/loving-stanley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/writer/loving-stanley/</guid>
+      <description>&lt;p&gt;Written by Jorja Fox, &lt;strong&gt;Loving Stanley&lt;/strong&gt; is comedy about the Women&amp;rsquo;s Pro Bowling circuit.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

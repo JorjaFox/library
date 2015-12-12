@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index on JFO Library</title>
+    <link>http://jorjafox.net/library/tags/index/</link>
+    <description>Recent content in Index on JFO Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://jorjafox.net/library/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Advocacy</title>
+      <link>http://jorjafox.net/library/advocacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Advocacy&lt;/strong&gt; is an umbrella term for organized activism related to a particular set of issues. Advocacy is expected to be non-deceptive and in good faith, though it is sometimes tainted by use of propaganda. It is almost always organized into or by an advocacy group or special interests. In other instances, an individual may act as a lobbyist, on their own account, or on behalf of a corporation or industry.&lt;/p&gt;
+
+&lt;p&gt;##Supported Groups##
+Groups that Jorja Fox supports and has done work for.&lt;/p&gt;
+
+&lt;ul&gt;
+{% for group in site.advocacy %}
+    &lt;li&gt;&lt;a href=&#34;{{ site.baseurl }}{{ group.url }}&#34;&gt;{{ group.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/ul&gt;
+
+&lt;p&gt;##See Also##
+* &lt;a href=&#34;{{ site.baseurl }}/politics&#34;&gt;Politics&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biography</title>
+      <link>http://jorjafox.net/library/biographies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/biographies/</guid>
+      <description>
+
+&lt;p&gt;Jorja Fox is an actress, producer, humanitarian, activist and environmentalist. She has been seen on such hit TV shows as CSI: Crime Scene Investigation, ER, The West Wing and Law &amp;amp; Order, as well as indie movies like Memento and Food for the Heart. She has been in numerous other television shows and movies.&lt;/p&gt;
+
+&lt;h2 id=&#34;vital-statistics:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Vital Statistics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Birth Name: Jorja-An Fox&lt;/li&gt;
+&lt;li&gt;Nicknames: Jorja, Jorj, Jorjan, Horha (the Spanish pronunciation of her name, used by her &amp;ldquo;CSI Miami&amp;rdquo; friend Emily Procter)&lt;/li&gt;
+&lt;li&gt;Date of Birth: 07 July 1968&lt;/li&gt;
+&lt;li&gt;Place of Birth: New York City, NY (raised in Melbourne Beach, FL)&lt;/li&gt;
+&lt;li&gt;Eye Color: Brown&lt;/li&gt;
+&lt;li&gt;Hair Color: Brown&lt;/li&gt;
+&lt;li&gt;Height: 5&amp;rsquo;9&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Pets: Bexar (dog - adopted 2012)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;other-biographies:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Other Biographies&lt;/h2&gt;
+
+&lt;ul&gt;
+{% for bio in site.biographies %}
+    &lt;li&gt;&lt;a href=&#34;{{ site.baseurl }}{{ bio.url }}&#34;&gt;{{ bio.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FAQs</title>
+      <link>http://jorjafox.net/library/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/faq/</guid>
+      <description>
+
+&lt;p&gt;FAQ stands for &lt;strong&gt;frequently asked questions&lt;/strong&gt;, and refers to listed questions and answers, all supposed to be frequently asked in some context, and pertaining to a particular topic.&lt;/p&gt;
+
+&lt;h2 id=&#34;most-frequently-asked-questions:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Most Frequently Asked Questions&lt;/h2&gt;
+
+&lt;h3 id=&#34;is-this-faq-up-to-date:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Is this FAQ up to date?&lt;/h3&gt;
+
+&lt;p&gt;You&amp;rsquo;re probably trying to ask if the contact information is up to date. Yes, yes it is. That&amp;rsquo;s the official, public, contact information.&lt;/p&gt;
+
+&lt;h3 id=&#34;is-this-the-official-jorja-fox-site-are-you-jorja-fox:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Is this the official Jorja Fox site? Are you Jorja Fox?&lt;/h3&gt;
+
+&lt;p&gt;No, this is not, nor has it ever claimed to be an official Jorja Fox website. Nor has anyone who works on the site ever been or claimed to be Jorja.&lt;/p&gt;
+
+&lt;p&gt;Jorja Fox: Online (JFO) is NOT an official Jorja Fox website. JFO is run by fans for the purpose of sharing information about Jorja Fox&amp;rsquo;s career. Jorja&amp;rsquo;s official site is &lt;a href=&#34;http://jorjafox.org/&#34;&gt;jorjafox.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-can-i-contact-jorja:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;How can I contact Jorja?&lt;/h3&gt;
+
+&lt;p&gt;Studio Fan Mail&lt;br /&gt;
+1048 Irvine Ave #624&lt;br /&gt;
+Newport Beach, CA 92660&lt;/p&gt;
+
+&lt;h3 id=&#34;can-you-get-me-in-touch-with-jorja:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Can you get me in touch with Jorja?&lt;/h3&gt;
+
+&lt;p&gt;No, I cannot get you in touch with Jorja. Use the above info to contact her yourself.&lt;/p&gt;
+
+&lt;h3 id=&#34;does-jorja-have-a-social-media-account:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Does Jorja have a Social Media account?&lt;/h3&gt;
+
+&lt;p&gt;Yes!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/JorjaFoxworldwide&#34;&gt;Facebook - JorjaFoxworldwide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/jorjafoxofficia&#34;&gt;Twitter - @jorjafoxofficia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If she has anything else, she&amp;rsquo;s keeping it private. That means &lt;strong&gt;anyone&lt;/strong&gt; you see claiming to be her probably isn&amp;rsquo;t.&lt;/p&gt;
+
+&lt;h3 id=&#34;is-jorja-fox-pregnant:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Is Jorja Fox pregnant?&lt;/h3&gt;
+
+&lt;p&gt;No, Jorja is not pregnant. No, she wasn&amp;rsquo;t pregnant. No. No. No.&lt;/p&gt;
+
+&lt;p&gt;###Is Jorja Fox gay?###&lt;/p&gt;
+
+&lt;p&gt;Jorja&amp;rsquo;s sexuality is her own business. Until Jorja says &amp;ldquo;I am &lt;whatever&gt;.&amp;rdquo; or &amp;ldquo;I am dating &lt;whomever&gt;.&amp;ldquo;, discussion about her dating life and sexuality is not permitted on this website.&lt;/p&gt;
+
+&lt;p&gt;###Have you met Jorja?###&lt;/p&gt;
+
+&lt;p&gt;Yes. She&amp;rsquo;s just as cool as you think.&lt;/p&gt;
+
+&lt;h3 id=&#34;why-wasn-t-jorja-in-every-episode-of-csi:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Why wasn&amp;rsquo;t Jorja in every episode of CSI?&lt;/h3&gt;
+
+&lt;p&gt;Because she didn&amp;rsquo;t want to be.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-s-she-doing-now-that-csi-is-over:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;What&amp;rsquo;s she doing now that CSI is over?&lt;/h3&gt;
+
+&lt;p&gt;Mostly advocacy work, but we&amp;rsquo;ll see what&amp;rsquo;s next! Isn&amp;rsquo;t it exciting?&lt;/p&gt;
+
+&lt;h2 id=&#34;see-also:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;See Also&lt;/h2&gt;
+
+&lt;ul&gt;
+{% for faq in site.faq %}{% if faq.title != &#39;FAQs&#39; %}
+    &lt;li&gt;&lt;a href=&#34;{{ site.baseurl }}{{ faq.url }}&#34;&gt;{{ faq.title }}&lt;/a&gt;&lt;/li&gt;
+{% endif %}{% endfor %}
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://jorjafox.net/library/news/News/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/news/News/</guid>
+      <description>&lt;p&gt;News articles are presented, in whole or in part, with as much accuracy as can be found in the original article.  Even in the case that an article is grossly inaccurate, information will be presented honestly in reference to its source. We do not correct articles for spelling or grammar and assume no responsibility over the accuracy or validity of any news documents you may read in this section of the website.&lt;/p&gt;
+
+&lt;p&gt;There are currently {{ site.news | size }} news articles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recaps</title>
+      <link>http://jorjafox.net/library/recaps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/recaps/</guid>
+      <description>&lt;p&gt;Recaps, primarily of television episodes, are available here.&lt;/p&gt;
+
+&lt;p&gt;There are currently {{ site.recaps | size }} recaps available.&lt;/p&gt;
+
+&lt;ul&gt;
+{% for post in site.recaps %}
+    {% if post.topic == &#39;index&#39; %}&lt;li&gt;&lt;a href=&#34;{{ site.baseurl }}{{ post.url }}&#34;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;{% endif %}
+{% endfor %}
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jorjafox.net/library/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/search/</guid>
+      <description>&lt;p&gt;&lt;script&gt;
+  (function() {
+    var cx = &amp;lsquo;017016624276440630536:_fdocr4yavg&amp;rsquo;;
+    var gcse = document.createElement(&amp;lsquo;script&amp;rsquo;);
+    gcse.type = &amp;lsquo;text/javascript&amp;rsquo;;
+    gcse.async = true;
+    gcse.src = (document.location.protocol == &amp;lsquo;https:&amp;rsquo; ? &amp;lsquo;https:&amp;rsquo; : &amp;lsquo;http:&amp;lsquo;) +
+        &amp;lsquo;//cse.google.com/cse.js?cx=&amp;rsquo; + cx;
+    var s = document.getElementsByTagName(&amp;lsquo;script&amp;rsquo;)[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+&lt;/script&gt;
+&lt;a href=&#34;gcse:searchresults-only&#34;&gt;gcse:searchresults-only&lt;/a&gt;&lt;a href=&#34;http://jorjafox.net/library/gcse:searchresults-only&#34;&gt;/gcse:searchresults-only&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transcripts</title>
+      <link>http://jorjafox.net/library/transcript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/transcript/</guid>
+      <description>&lt;p&gt;Interviews and live chat transcripts are presented, in whole or in part, with as much accuracy as can be found in the source media. Even in the case that an interview is grossly inaccurate, information will be presented honestly in reference to its source. There has been no attempt to correct grammar and while every best effort is put forth, assume no responsibility over the accuracy or validity of any transcripts you may read in this section of the website.&lt;/p&gt;
+
+&lt;p&gt;There are currently  {{ site.transcript | size }} transcripts of interviews and chats.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the JFO Library</title>
+      <link>http://jorjafox.net/library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/</guid>
+      <description>&lt;p&gt;The goal of the JFO Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;biographies/&#34; title=&#34;Jorja Fox&#34;&gt;Biographies&lt;/a&gt; - Various biographies&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;filmography/&#34; title=&#34;Filmography&#34;&gt;Filmography&lt;/a&gt; - Her work as an actor, producer, and writer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;advocacy/&#34; title=&#34;Advocacy&#34;&gt;Advocacy&lt;/a&gt; - The good she does for the world&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;transcript/&#34; title=&#34;Interviews&#34;&gt;Transcripts&lt;/a&gt; - Interviews and Online Chats&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;news/&#34; title=&#34;News Articles&#34;&gt;News Articles&lt;/a&gt; - News where she is mentioned&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;recaps/&#34; title=&#34;Recaps&#34;&gt;Episode Recaps&lt;/a&gt; - Recaps of TV episodes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

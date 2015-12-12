@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Producer Company on JFO Library</title>
+    <link>http://jorjafox.net/library/tags/producer-company/</link>
+    <description>Recent content in Producer Company on JFO Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://jorjafox.net/library/tags/producer-company/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Honeypot Productions</title>
+      <link>http://jorjafox.net/library/pages/honeypot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/pages/honeypot/</guid>
+      <description>
+
+&lt;p&gt;Honeypot Productions (also known as HoneyPot Productions) is an independent theater company in Los Angeles.&lt;/p&gt;
+
+&lt;p&gt;Jorja Fox and many of her friends are the founders, and through the company they write, produce and star in many of their own works. According to what she said a TV Guide interview, HoneyPot was formed in either 1998 or 1999; she met fellow Honeypot members Katherine Kendall and Suzanne Mara during the filming of Food for the Heart in 1998.&lt;/p&gt;
+
+&lt;p&gt;Most of their plays are performed in small community theaters (or, as they&amp;rsquo;ve said, &amp;ldquo;in people&amp;rsquo;s backyards&amp;rdquo;); Dear Bernard is their first play for a major theater audience.&lt;/p&gt;
+
+&lt;h2 id=&#34;productions:240f034c0f9219e6663a1aa35c4b787b&#34;&gt;Productions&lt;/h2&gt;
+
+&lt;ul&gt;
+{% for item in site.data.filmography %}
+    {% if item.company contains &#39;Honeypot&#39; %}
+        &lt;li&gt;&lt;a href=&#34;{{ site.baseurl }}/{{ item.role }}/{{ item.slug }}&#34;&gt;{{ item.title }}&lt;/a&gt;&lt;/li&gt;
+    {% endif %}
+{% endfor %}
+
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seafox Productions</title>
+      <link>http://jorjafox.net/library/pages/seafox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/pages/seafox/</guid>
+      <description>
+
+&lt;p&gt;Seafox Productions is an independent film, television and theater company based in Los Angeles, California. It is owned by Sea Turtle Inc.&lt;/p&gt;
+
+&lt;p&gt;Currently, Seafox Productions focuses on documentary and biographical projects that highlight the critical inter-connectedness between humans and the natural world.&lt;/p&gt;
+
+&lt;h2 id=&#34;staff:5b4619f6d5eb3299eac229c70fb0b0a8&#34;&gt;Staff&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jorja Fox - President&lt;/li&gt;
+&lt;li&gt;Jonathan Grant - Chief Operating Officer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;projects:5b4619f6d5eb3299eac229c70fb0b0a8&#34;&gt;Projects&lt;/h2&gt;
+
+&lt;ul&gt;
+{% for item in site.data.filmography %}
+    {% if item.company contains &#39;Seafox&#39; %}
+        &lt;li&gt;&lt;a href=&#34;{{ site.baseurl }}/{{ item.role }}/{{ item.slug }}&#34;&gt;{{ item.title }}&lt;/a&gt;&lt;/li&gt;
+    {% endif %}
+{% endfor %}
+
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;see-also:5b4619f6d5eb3299eac229c70fb0b0a8&#34;&gt;See Also&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.seafoxproductions.com/&#34;&gt;Seafox Productions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

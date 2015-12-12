@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advocacies on JFO Library</title>
+    <link>http://jorjafox.net/library/advocacy/</link>
+    <description>Recent content in Advocacies on JFO Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://jorjafox.net/library/advocacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>I Have a Dream Foundation</title>
+      <link>http://jorjafox.net/library/advocacy/i-have-a-dream/</link>
+      <pubDate>Sun, 18 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/i-have-a-dream/</guid>
+      <description>&lt;p&gt;The &amp;ldquo;I Have a Dream&amp;rdquo; Program helps children from low-income areas reach their education and career goals by providing a long-term program of mentoring, tutoring, and enrichment with an assured opportunity for higher education.&lt;/p&gt;
+
+&lt;p&gt;Jorja Fox attended their 6th annual brunch on 18 January 2004.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advocacy</title>
+      <link>http://jorjafox.net/library/advocacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Advocacy&lt;/strong&gt; is an umbrella term for organized activism related to a particular set of issues. Advocacy is expected to be non-deceptive and in good faith, though it is sometimes tainted by use of propaganda. It is almost always organized into or by an advocacy group or special interests. In other instances, an individual may act as a lobbyist, on their own account, or on behalf of a corporation or industry.&lt;/p&gt;
+
+&lt;p&gt;##Supported Groups##
+Groups that Jorja Fox supports and has done work for.&lt;/p&gt;
+
+&lt;ul&gt;
+{% for group in site.advocacy %}
+    &lt;li&gt;&lt;a href=&#34;{{ site.baseurl }}{{ group.url }}&#34;&gt;{{ group.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/ul&gt;
+
+&lt;p&gt;##See Also##
+* &lt;a href=&#34;{{ site.baseurl }}/politics&#34;&gt;Politics&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Andean Bear Conservation Project</title>
+      <link>http://jorjafox.net/library/advocacy/andean-bear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/andean-bear/</guid>
+      <description>&lt;p&gt;The Andean Bear Foundation is a 501&amp;copy;(3) registered non-profit in the USA, and funds the Andean Bear Projectâs research, conservation, rescue, rehabilitation and release of Andean bears in Ecuador.&lt;/p&gt;
+
+&lt;p&gt;Jorja Fox narrated a documentary about the bears.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Animal Acres</title>
+      <link>http://jorjafox.net/library/advocacy/animal-acres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/animal-acres/</guid>
+      <description>&lt;p&gt;Animal Acres is a farmed animal sanctuary and compassionate living center located just 45 minutes from Los Angeles. Animal Acres works to promote compassionate living through its farmed animal rescue and refuge efforts, public education and outreach, and advocacy projects to prevent cruelty to farmed animals.&lt;/p&gt;
+
+&lt;p&gt;Jorja Fox has attended many events for Animal Acres. She is also a supporter of &amp;ldquo;ACI: Animal Cruelty Investigations&amp;rdquo;, a sub-site of Animal Acres.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;lsquo;The way animals are treated to produce meat, milk, and eggs needs to be investigated, exposed, and stopped. I&amp;rsquo;m pleased to be a supporter of ANIMAL CRUELTY INVESTIGATIONS. ACI investigators go to animal &amp;lsquo;crime scenes&amp;rsquo; in our nation&amp;rsquo;s stockyards, factory farms, and slaughterhouses. Documenting what most of us don&amp;rsquo;t want to see, their undercover video footage and evidence of blatant animal cruelty is helping gain needed humane protection for cows, pigs, and chickens, too.&amp;lsquo;&lt;/p&gt;
+
+&lt;p&gt;Actress &amp;amp; Advocate
+Jorja Fox&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;##2005##
+On November 19th, Animal Acres celebrated Thanksgiving in their own way, where guests get to feed a turkey rather than eating one. Special guests included Jorja Fox and Daryl Hannah.&lt;/p&gt;
+
+&lt;p&gt;##2007##
+Jorja Fox was the Gala Chairperson of this year&amp;rsquo;s Animal Acres Gala, which was held to raise money for a farmed animal sanctuary in Los Angeles. August 25th, 2007.&lt;/p&gt;
+
+&lt;p&gt;##2008##
+Jorja Fox attended the Country Hoe Down on Saturday, May 3. She was also a recipient of the 2008 Gandhi Award.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We have all heard the expression &amp;lsquo;STAR POWER&amp;rsquo;, but actress and animal advocate Jorja Fox, has given that phrase new meaning.&lt;/p&gt;
+
+&lt;p&gt;As a leading actress on West Win, ER, and most recently, CSI, Jorja Fox used her celebrity status to educate millions of viewers about animal abuse &amp;ndash; both by working with producers and writers to air animal issues and video on episodes, and convincing the show to make her character a vegetarian. Her audience is in the millions &amp;ndash; and thanks to Jorja &amp;ndash; millions of people have been educated about the cruelties of canned hunting, dog fighting, and food animal slaughter.&lt;/p&gt;
+
+&lt;p&gt;Jorja was one of Animal Acres first celebrity supporters, lending her voice and participation for our &amp;lsquo;Thankful Turkey Celebration&amp;rsquo; in 2005. In addition to addressing the audience about her personal commitment to vegetarianism, Jorja jumped right into farm chores, helping feed the turkeys and giving bottles to rescued piglets. Jorja has always rolled up her sleeves on other &amp;lsquo;farm chore days&amp;rsquo; too, and she is always willing to do whatever is needed around the farm, from mucking barns to cleaning pigs&amp;rsquo; ears!&lt;/p&gt;
+
+&lt;p&gt;Last year, we were honored to have Jorja serve as our 2007 Gala Chair, where she played a vital role is helping us raise over $100,000 for farmed animal rescue and humane enforcement efforts.&lt;/p&gt;
+
+&lt;p&gt;It is hard to find the words to thank Jorja for being such a dedicated friend of Animal Acres, so we gave her our highest honor &amp;ndash; we named a farmed animal after her! We are also honored to give Jorja this year&amp;rsquo;s GANDHI AWARD for her outstanding commitment to providing rescue, sanctuary, and hope for farmed animals.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Animal Defenders International</title>
+      <link>http://jorjafox.net/library/advocacy/adi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/adi/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Animal Defenders International&lt;/strong&gt; (ADI) is an animal welfare organization, dedicated to international campaigning group that lobbies on issues such as animals in circuses; worldwide traffic in endangered species; vegetarian/vegan diet; factory farming; and pollution. ADI involves itself in international animal rescues as well as educational work on animal welfare, conservation and the environment.&lt;/p&gt;
+
+&lt;p&gt;##Animals in entertainment##&lt;br /&gt;
+Jorja Fox joined ADI when they went to Austin, Texas to look into the issue of circus animal cruelty in Austin. Meeting with City Hall, Jorja Fox presented the Council with scientific evidence and video proof of the mistreatment of animals in the circus. Accepting a letter, report and DVD from Jorja Fox, on behalf of the campaigning group, the City Council agreed to research and consider a ban on animal circuses in light of the evidence presented by ADIs report and undercover footage.&lt;/p&gt;
+
+&lt;p&gt;##Bolivian Lion Rescue##&lt;br /&gt;
+In May of 2010, Jorja took part in the ADI rescue of former circus lions from Bolivia. Working with ADI San Francisco, Jorja assisted with the media releases, as well as being on hand when the lions were brought to San Francisco.&lt;/p&gt;
+
+&lt;p&gt;##Operation: Lion Ark##&lt;br /&gt;
+On February 16th, 2011, Jorja was on hand with Bob Barker when the rescue of 25 lions from Bolivia was completed. Both Jorja and Bob personally funded the rescue of the former circus lions.&lt;/p&gt;
+
+&lt;h2 id=&#34;traveling-exotic-animal-protection-act:d6d0d44f5b3165ea450d22e8faf52cca&#34;&gt;Traveling Exotic Animal Protection Act##&lt;/h2&gt;
+
+&lt;p&gt;On November 2nd, 2011, Jorja and Bob Barker went to Washington DC to address Congress about the Traveling Exotic Animal Protection Act, which has been introduced to prevent circuses from using exotic (non-native) animals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artists &amp; Athletes Alliance</title>
+      <link>http://jorjafox.net/library/advocacy/artists-athletes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/artists-athletes/</guid>
+      <description>&lt;p&gt;The &amp;lsquo;Artists and Athletes Alliance&amp;rsquo; assists artists and athletes in navigating the halls of government, as well as helping them better understand the political process. By providing top-line educational information to artists and athletes through one-on-one meetings, private briefings, roundtable discussions, forums and other related events on the specific public policies and political issues of interest to them, the Alliance hopes to engage in productive dialogue with lawmakers, policymakers and opinion-leaders so the voices of the artistic and athletic community can be heard on the many important issues facing our nation.&lt;/p&gt;
+
+&lt;p&gt;Jorja serves on the Artists &amp;amp; Athletes Advisory Board and has attended many events.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CBS Cares</title>
+      <link>http://jorjafox.net/library/advocacy/cbs-cares/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/cbs-cares/</guid>
+      <description>
+
+&lt;p&gt;While on CSI: Crime Scene Investigation, Jorja Fox and many of her cast members filmed Public Service Announcements for CBS.&lt;/p&gt;
+
+&lt;h2 id=&#34;peace-2002:548a11d8667fee7c206a085a9284381e&#34;&gt;Peace (2002)&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;These days, good communication takes more than phones or computers. It means getting along with people from every race or foreign culture. CBS Cares.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;mentoring-2005:548a11d8667fee7c206a085a9284381e&#34;&gt;Mentoring (2005)&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A little time with a caring adult makes a huge difference in a child&amp;rsquo;s life &amp;ndash; and you&amp;rsquo;ll be amazed at what a huge difference it makes in your life as well. Become a mentor. CBS Cares.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Californians for Humane Farms</title>
+      <link>http://jorjafox.net/library/advocacy/ca-for-humane-farms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/ca-for-humane-farms/</guid>
+      <description>&lt;p&gt;Californians for Humane Farms is sponsored by the Humane Society of the United States, Farm Sanctuary and other animal protection groups, family farmers, veterinarians, and public health professionals, who have joined together in an effort to launch a statewide initiative for the November 2008 ballot &amp;ndash; one that will improve the lives of millions of farm animals in California.&lt;/p&gt;
+
+&lt;p&gt;Jorja Fox (among other celebrities) endorses the campaign.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Charity Folks</title>
+      <link>http://jorjafox.net/library/advocacy/charity-folks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/charity-folks/</guid>
+      <description>&lt;p&gt;Charity Folks is the leading online charity auction venue. Inspired by the belief that there&amp;rsquo;s nothing more important than the work nonprofits are doing to improve people&amp;rsquo;s lives, they strive to provide innovative ePhilanthropy solutions that help raise the money &amp;amp; awareness needed for nonprofits to accomplish their mission.&lt;/p&gt;
+
+&lt;p&gt;In the American Red Cross Disaster Relief Auction for Hurricane Katrina, Jorja Fox donated four items to raise money.&lt;/p&gt;
+
+&lt;p&gt;*Signed Head Shot from CSI star Jorja Fox with a special message&lt;br /&gt;
+*Sony DVP-FX1021 - Portable DVD/CD player with 10.2&amp;#8243; LCD, Donated by CSI star Jorja Fox&lt;br /&gt;
+*CSI Crew &amp;ldquo;Scrubs&amp;rdquo; Signed and Donated by Jorja Fox&lt;br /&gt;
+*CSI DVD&amp;rsquo;s and Signed Hat Donated by Jorja Fox&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Jorja Fox, who plays Sara Sidle on CSI, generously donated this signed head shot with a special message&amp;hellip;&amp;ldquo;For the beautiful gulf coast&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate Star</title>
+      <link>http://jorjafox.net/library/advocacy/climate-star/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/climate-star/</guid>
+      <description>&lt;p&gt;The following is a text only reprint of an ad done by Jorja Fox for Climate Star.&lt;/p&gt;
+
+&lt;p&gt;##Intro&lt;br /&gt;
+The hottest stars in the entertainment universe are concerned about something serious that&amp;rsquo;s happening to our planet &amp;ndash; global warming. The following is from the advert Jorja Fox was in.&lt;/p&gt;
+
+&lt;p&gt;##Ad&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Stranded&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;No, it&amp;rsquo;s not a new reality show.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s what thousands of species now face thanks to global warming. Habitats are changing along with the climate, and many species will disappear from their present homes while others may disappear altogether. We can slow global warming down if we take action now.&lt;/p&gt;
+
+&lt;p&gt;Global warming isn&amp;rsquo;t cool. Stopping it is.&lt;/p&gt;
+
+&lt;p&gt;Find out how &amp;lsquo;you&amp;rsquo; can make a difference. Visit ClimateStar.org&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clothes Off Our Back</title>
+      <link>http://jorjafox.net/library/advocacy/clothes-off-our-back/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/clothes-off-our-back/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The Clothes Off Our Back&amp;rdquo; is a 501 &amp;copy; 3 organization that hosts charity auctions and private events showcasing today&amp;rsquo;s hottest celebrity attire. Items are put up for bid to the public with proceeds going to select children&amp;rsquo;s charities each year. Clothes Off Our Back was founded by actors and philanthropists Jane Kaczmarek (&amp;lsquo;Malcolm In The Middle&amp;rsquo;) and Bradley Whitford (&amp;lsquo;The West Wing&amp;rsquo;) whose efforts, along with their celebrity friends and auction participants, have helped spread awareness and improve the lives of children across the globe.&lt;/p&gt;
+
+&lt;p&gt;In 2003, Jorja Fox donated to raise money for Autism.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Earth Shoes</title>
+      <link>http://jorjafox.net/library/advocacy/earth-shoes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/earth-shoes/</guid>
+      <description>&lt;p&gt;Earth shoes are extremely comfortable shoes, made in a &amp;#8216;negative heel&amp;rsquo; design that is reported to alleviate stress on the lower back and improve posture.&lt;/p&gt;
+
+&lt;p&gt;The Negative Heel technology was developed by Danish Yoga Master, Anne Kalso. This design positions the heel slightly lower than the toe to promote a more natural posture with the head straight, shoulders rolled back and spine and pelvis aligned, allowing the back to form its natural arch. Though some may find the shoes to strain their Achilles tendon, it will encourage flexibility (which is a good thing). The downside is that some calf conditioning will be lost. The best results may be found by alternating between &amp;lsquo;higher heel&amp;rsquo; shoes and the &amp;lsquo;negative heel&amp;rsquo; ones.&lt;/p&gt;
+
+&lt;p&gt;The Earth company has expanded their product line to a series of Vegan shoes for men and women. Jorja Fox, among other stars, support the shoes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equality California</title>
+      <link>http://jorjafox.net/library/advocacy/eqca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/eqca/</guid>
+      <description>
+
+&lt;h2 id=&#34;no-on-h8:ce9f9ab0c765a3793d6464e1cd675228&#34;&gt;NO on H8!&lt;/h2&gt;
+
+&lt;p&gt;NO on H8! was a benefit for Equality California sponsored by Ian Harvie.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Five Acres</title>
+      <link>http://jorjafox.net/library/advocacy/five-acres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/five-acres/</guid>
+      <description>&lt;p&gt;Five Acres has served vulnerable children and families since 1888. They provide family-centered support services on campus and through outreach programs in homes, at schools and in off-site offices.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gal to Gal Virtual Walk</title>
+      <link>http://jorjafox.net/library/advocacy/gal-to-gal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jorjafox.net/library/advocacy/gal-to-gal/</guid>
+      <description>&lt;p&gt;Gal to Gal Virtual Walk was a 31-city virtual walk across the United States to benefit breast cancer courtesy of a computer, an avatar and a $3 donation. Jorja Fox was one of the initial 1500 walkers in 2007.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

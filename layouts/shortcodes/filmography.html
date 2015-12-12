@@ -1,0 +1,71 @@
+<!-- roles: [actor, producer, self, writer, soundtrack] -->
+
+{{ $type := .Get "type" }}
+
+<table class="jfotable" width="100%"><tbody>
+<tr>
+	<th> Title </th>
+	<th> Date(s)</th>
+</tr>
+
+{{ if eq $type "actor" }}
+	{{ range $.Page.Site.Data.filmography.actor }}
+		<tr>
+			<td><strong>{{ if .slug }}<a href="/library/{{ $type }}/{{ .slug }}/">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</strong> ({{ .type }})
+				{{ if .character }}<br /><strong>{{ .character }}</strong> {{ if .jorjan }}<small>[Credited as Jorjan Fox]</small>{{ end }}{{ end }}
+				{{ if .notes }}<br /><small>{{ .notes }}</small>{{ end }}
+			</td>
+			<td valign="top">{{ .dates }}</td>
+		</tr>
+	{{ end }}
+{{ end }}
+
+{{ if eq $type "producer" }}
+	{{ range $.Page.Site.Data.filmography.producer }}
+		<tr>
+			<td><strong>{{ if .slug }}<a href="/library/{{ $type }}/{{ .slug }}/">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</strong> ({{ .type }})
+				{{ if .character }}<br /><strong>{{ .character }}</strong> {{ if .jorjan }}<small>[Credited as Jorjan Fox]</small>{{ end }}{{ end }}
+				{{ if .notes }}<br /><small>{{ .notes }}</small>{{ end }}
+			</td>
+			<td valign="top">{{ .dates }}</td>
+		</tr>
+	{{ end }}
+{{ end }}
+
+{{ if eq $type "self" }}
+	{{ range $.Page.Site.Data.filmography.self }}
+		<tr>
+			<td><strong>{{ if .slug }}<a href="/library/{{ $type }}/{{ .slug }}/">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</strong> ({{ .type }})
+				{{ if .character }}<br /><strong>{{ .character }}</strong> {{ if .jorjan }}<small>[Credited as Jorjan Fox]</small>{{ end }}{{ end }}
+				{{ if .notes }}<br /><small>{{ .notes }}</small>{{ end }}
+			</td>
+			<td valign="top">{{ .dates }}</td>
+		</tr>
+	{{ end }}
+{{ end }}
+
+{{ if eq $type "writer" }}
+	{{ range $.Page.Site.Data.filmography.writer }}
+		<tr>
+			<td><strong>{{ if .slug }}<a href="/library/{{ $type }}/{{ .slug }}/">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</strong> ({{ .type }})
+				{{ if .character }}<br /><strong>{{ .character }}</strong> {{ if .jorjan }}<small>[Credited as Jorjan Fox]</small>{{ end }}{{ end }}
+				{{ if .notes }}<br /><small>{{ .notes }}</small>{{ end }}
+			</td>
+			<td valign="top">{{ .dates }}</td>
+		</tr>
+	{{ end }}
+{{ end }}
+
+{{ if eq $type "soundtrack" }}
+	{{ range $.Page.Site.Data.filmography.soundtrack }}
+		<tr>
+			<td><strong>{{ if .slug }}<a href="/library/{{ $type }}/{{ .slug }}/">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</strong> ({{ .type }})
+				{{ if .character }}<br /><strong>{{ .character }}</strong> {{ if .jorjan }}<small>[Credited as Jorjan Fox]</small>{{ end }}{{ end }}
+				{{ if .notes }}<br /><small>{{ .notes }}</small>{{ end }}
+			</td>
+			<td valign="top">{{ .dates }}</td>
+		</tr>
+	{{ end }}
+{{ end }}
+
+</tbody></table>

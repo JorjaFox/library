@@ -1,0 +1,47 @@
+[
+  {
+    "role": "producer",
+    "title": "Extinction Soup",
+    "slug": "extinction-soup",
+    "type": "Documentary",
+    "notes": null,
+    "dates": 2014,
+    "company": "Seafox Productions"
+  },
+  {
+    "role": "producer",
+    "title": "Lion Ark",
+    "slug": "lion-ark",
+    "type": "Documentary",
+    "notes": null,
+    "dates": 2013,
+    "company": "Seafox Productions"
+  },
+  {
+    "role": "producer",
+    "title": "How I Became An Elephant",
+    "slug": "how-became-elephant",
+    "type": "Documentary",
+    "notes": null,
+    "dates": 2012,
+    "company": "Seafox Productions"
+  },
+  {
+    "role": "producer",
+    "title": "Stay Forever: The Life and Music of Dusty Springfield",
+    "slug": "stay-forever",
+    "type": "Musical",
+    "notes": null,
+    "dates": 2008,
+    "company": "Seafox Productions"
+  },
+  {
+    "role": "producer",
+    "title": "Dear Bernard",
+    "slug": "dear-bernard",
+    "type": "Musical",
+    "notes": null,
+    "dates": 2004,
+    "company": "Honeypot Productions"
+  }
+]

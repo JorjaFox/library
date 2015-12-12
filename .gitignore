@@ -12,3 +12,4 @@ pkg/
 tmp/*
 .jekyll-metadata
 /vendor
+./public
