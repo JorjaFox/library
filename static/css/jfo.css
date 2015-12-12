@@ -1,4 +1,4 @@
-/* Jekyll Tweaks */
+/* Hugo Tweaks */
 
 h1.post-title {
     display: none;
@@ -7,6 +7,10 @@ h1.post-title {
 div.newsbody ul, div.newsbody li {
     display: inline;
     margin: 5px!important;
+}
+
+.star-rating i {
+    display: inline;
 }
 
 /* Table of Contents */

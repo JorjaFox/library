@@ -2,46 +2,73 @@
 title: 'List of CSI: Crime Scene Investigation episodes'
 author: Mika Epstein
 layout: default
-categories: ["csi"]
-tags: ["television"]
+categories: ["CSI"]
+tags: ["Television"]
 show: csi
-seasons: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
 ---
 
-The following is a list of episodes from the CBS television series, "[CSI: Crime Scene Investigation]({{ site.baseurl }}/actor/csi/)" in which Jorja Fox appeared or was credited. Episodes are rated based on quality and volume of Jorja's scenes. Episodes in which she is listed in the credits but does not appear are rated with zero stars.
+The following is a list of episodes from the CBS television series, "[CSI: Crime Scene Investigation](/library/actor/csi/)" in which Jorja Fox appeared or was credited. Episodes are rated based on quality and volume of Jorja's scenes. Episodes in which she is listed in the credits but does not appear are rated with zero stars.
 
-* TOC
-{:toc}
+## Season One
 
-{% for season in page.seasons %}
+{{< episodelist season="1" >}}
 
-## Season {{season}}
+## Season Two
 
-<table class="episodelist">
-<tbody>
-<tr>
-	<th>#</th>
-	<th>Title</th>
-	<th>Airdate</th>
-	<th id="dates">Rating</th>
-</tr>
+{{< episodelist season="2" >}}
 
-{% for episode in site.data.episodes-csi %}
-{% if episode.season == season %}
-<tr class="episodelist-name">
-	<td style="text-align: center">{{ episode.epnum }}</td>
-	<td style="text-align: left">"<a href="{{ site.baseurl }}/recaps/{{ page.show }}/{{ episode.slug }}/">{{ episode.title }}</a>"</td>
-	<td id="dates">{{ episode.airdate | date: "%d %b, %Y" }}</td>
-	<td>{% if episode.rating == 'na' %}<i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i><i style="color:red;" class="fa fa-star-o fa-rotate-normal" name="empty star"></i>{% else %}{% for i in (1..episode.rating) %}<i style="color:gold;" class="fa fa-star fa-rotate-normal" name="gold star"></i>{% endfor %}{% if 5 > episode.rating %}{% assign greystar = 5 | minus: episode.rating %}{% for i in (1..greystar) %}<i style="color:grey;" class="fa fa-star fa-rotate-normal" name="grey star"></i>{% endfor %}{% endif %}{% endif %}</td>
-</tr>
-{% if episode.summary %}
-<tr class="episodelist-summary">
-	<td colspan="4">{{ episode.summary }}</td>
-</tr>
-{% endif %}
-{% endif %}
-{% endfor %}
-</tbody>
+## Season Three
 
-</table>
-{% endfor %}
+{{< episodelist season="3" >}}
+
+## Season Four
+
+{{< episodelist season="4" >}}
+
+## Season Five
+
+{{< episodelist season="5" >}}
+
+## Season Six
+
+{{< episodelist season="6" >}}
+
+## Season Seven
+
+{{< episodelist season="7" >}}
+
+## Season Eight
+
+{{< episodelist season="8" >}}
+
+## Season Nine
+
+{{< episodelist season="9" >}}
+
+## Season Ten
+
+{{< episodelist season="10" >}}
+
+## Season Eleven
+
+{{< episodelist season="11" >}}
+
+## Season Twelve
+
+{{< episodelist season="12" >}}
+
+## Season Thirteen
+
+{{< episodelist season="13" >}}
+
+## Season Fourteen
+
+{{< episodelist season="14" >}}
+
+## Season Fifteen
+
+{{< episodelist season="15" >}}
+
+## Season Sixteen
+
+{{< episodelist season="16" >}}

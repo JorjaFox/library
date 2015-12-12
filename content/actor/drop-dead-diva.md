@@ -4,7 +4,7 @@ author: Mika Epstein
 layout: actor
 date: 2009-08-16
 categories: ["Filmography"]
-tags: ["television"]
+tags: ["Television"]
 show: drop-dead-diva
 station: Lifetime
 rating: 4

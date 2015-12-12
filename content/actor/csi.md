@@ -2,7 +2,7 @@
 layout: actor
 title: "CSI: Crime Scene Investigation"
 categories: ["Filmography"]
-tags: ["television"]
+tags: ["Television"]
 show: csi
 station: CBS
 rating: 4
@@ -13,7 +13,7 @@ year: 2000-2015
 genre: "Crime Drama"
 excerpt: "<strong>CSI: Crime Scene Investigation</strong> (commonly referred to as CSI) was a popular, Emmy Award-winning CBS television series that trails the investigations of a team of Las Vegas forensic scientists as they unveil the circumstances behind mysterious and unusual deaths and crimes committed.</p><p>CSI aired for 15 seasons, from 2000-15, and concluded with a 2 hour movie in the 2015-16 season."
 imdb: http://www.imdb.com/title/tt0247082
-redirect_from: 
+aliases: 
   - /self/csi/
 ---
 
@@ -31,10 +31,4 @@ In the series finale, Sara is promoted to Lab Director following a convoluted an
 
 ## See Also
 
-<ul>
-	{% for post in site.actor %}
-		{% if post.categories == 'csi' %}
-			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-		{% endif %}
-	{% endfor %}
-</ul>
+* [CSI Episodes](/library/actor/csi-episodes/)

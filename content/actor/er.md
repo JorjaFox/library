@@ -1,8 +1,8 @@
 ---
 layout: actor
 title: "ER"
-categories: ["Filmography"]
-tags: ["television"]
+categories: ["Filmography", "ER"]
+tags: ["Television"]
 year: 2000-2015
 type: Drama
 character: "Maggie Doyle"
@@ -22,12 +22,7 @@ Doyle slogged through a fairly nasty piece of litigation, when surgeon Dr. Rober
 
 It never happened, and February 18, 1999 Maggie Doyle made her last appearance on ER. It wasn't until two years later that it was mentioned Doyle had left the hospital. In 2008, when Abby Lockhart left the ER, we finally see Doyle's nameplate, saved in the back with all the others who have left the ER. It's intimated that she hung her own nameplate when she left.
 
+
 ## See Also
 
-<ul>
-	{% for post in site.actor %}
-		{% if post.categories == 'er' %}
-			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-		{% endif %}
-	{% endfor %}
-</ul>
+* [CSI Episodes](/library/actor/er-episodes/)

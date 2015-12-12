@@ -3,7 +3,7 @@ title: "Dodges City"
 author: Mika Epstein
 layout: actor
 categories: ["Filmography"]
-tags: ["television"]
+tags: ["Television"]
 show: dodges-city
 station: UPN
 rating: 

@@ -3,7 +3,7 @@ layout: self
 title: "Ellen: The Ellen Degeneres Show"
 author: Mika Epstein
 categories: ["Filmography"]
-tags: ["talk shows"]
+tags: ["Talk Shows"]
 website: http://www.ellentv.com/
 imdb: http://www.imdb.com/title/tt0379623/
 ---

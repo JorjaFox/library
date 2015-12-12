@@ -3,7 +3,7 @@ title: "I Love the '70s"
 layout: self
 author: Mika Epstein
 categories: ["Filmography"]
-tags: ["mini-series"]
+tags: ["Mini Series"]
 website: http://www.vh1.com/shows/i_love_the_70s/series.jhtml
 imdb: http://www.imdb.com/title/tt0377192/
 

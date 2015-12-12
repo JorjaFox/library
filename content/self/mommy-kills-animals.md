@@ -2,7 +2,7 @@
 layout: self
 title: "Your Mommy Kills Animals"
 categories: ["Filmography"]
-tags: ["documentary", "animal rights"]
+tags: ["Documentary", "Animal Rights"]
 website: http://www.yourmommykillsanimals.com/
 imdb: http://www.imdb.com/title/tt0952693/
 ---

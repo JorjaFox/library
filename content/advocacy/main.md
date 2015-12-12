@@ -13,7 +13,7 @@ type: index
 
 ## See Also
 
-* [Politics]({{ site.baseurl }}/politics)
+* [Politics](/library/politics)
 
 ## Supported Groups
 

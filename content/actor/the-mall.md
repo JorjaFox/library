@@ -3,7 +3,7 @@ title: "Summer Stories: The Mall"
 author: Mika Epstein
 layout: actor
 categories: ["Filmography"]
-tags: ["television"]
+tags: ["Television"]
 show: afterschool-specials
 station: ABC
 rating: 4

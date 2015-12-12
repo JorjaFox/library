@@ -2,7 +2,7 @@
 layout: self
 title: "Skin Trade"
 categories: ["Filmography"]
-tags: [documentary, "animal rights"]
+tags: ["Documentary", "Animal Rights"]
 website: http://www.skintradethemovie.com/
 imdb: http://www.imdb.com/title/tt1576702/
 ---

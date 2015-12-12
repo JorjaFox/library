@@ -14,7 +14,7 @@ Jorja has always been interested in music, from attending events to performing. 
 
 ## A Dreamer's Holiday
 
-Written by Kim Gannon and Mabel Wayne, the song was performed by Jorja Fox and Patti Welch in [Food for the Heart]( {{ site.baseurl }}/actor/food-for-the-heart/ ).
+Written by Kim Gannon and Mabel Wayne, the song was performed by Jorja Fox and Patti Welch in [Food for the Heart]( /library/actor/food-for-the-heart/ ).
 
 ## Lullabye
 

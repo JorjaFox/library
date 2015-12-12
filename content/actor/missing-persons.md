@@ -2,8 +2,8 @@
 layout: actor
 title: "Missing Persons"
 categories: ["Filmography"]
-tags: ["television"]
-show: courthouse
+tags: ["Television"]
+show: mp
 station: ABC
 rating: 4
 seasons: 1
@@ -34,12 +34,7 @@ Johnny Sandowski learns Connie's divorced, but honors her request not to tell an
 
 By the end of the series, Connie is dating again and has a new boyfriend.
 
+
 ## See Also
 
-<ul>
-	{% for post in site.actor %}
-		{% if post.categories == 'missing persons' %}
-			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-		{% endif %}
-	{% endfor %}
-</ul>
+* [CSI Episodes](/library/actor/missing-persons-episodes/)

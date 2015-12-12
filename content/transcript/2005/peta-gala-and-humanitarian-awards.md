@@ -6,7 +6,7 @@ layout: transcript
 interviewurl:  http://www.peta.com  
 permalink: /transcript/2005/:title/
 categories: ["Interviews"]
-tags: [Transcript, 2005, humanity, "animal rights"]
+tags: [Transcript, 2005, humanity, "Animal Rights"]
 
 ---
 

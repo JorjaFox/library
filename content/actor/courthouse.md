@@ -3,7 +3,7 @@ title: "Courthouse"
 author: Mika Epstein
 layout: actor
 categories: ["Filmography"]
-tags: ["television"]
+tags: ["Television"]
 show: courthouse
 station: ABC
 rating:

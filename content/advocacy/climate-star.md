@@ -10,10 +10,10 @@ website: http://www.ClimateStar.org
 
 The following is a text only reprint of an ad done by Jorja Fox for Climate Star.
 
-##Intro  
+## Intro  
 The hottest stars in the entertainment universe are concerned about something serious that's happening to our planet -- global warming. The following is from the advert Jorja Fox was in.
 
-##Ad
+## Ad
 
 > **Stranded**.
 > 

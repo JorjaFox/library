@@ -15,17 +15,17 @@ date: 2000-05-17
 rating: 4  
 ---
 
-##Summary##  
+## Summary 
 
 The president prepares for a town-hall meeting with college students, while the military searches for a downed pilot in the Iraqi desert.
 
 The staff deals with an American pilot who was shot down in Iraq; Toby's brother is in danger on a space shuttle whose doors won't close; Bartlet and the senior staff walk into a hail of bullets as they leave a town meeting.
 
-##Character Review##  
+## Character Review
 
 Gina sees the shooter, but makes sure to protect Zoey first.
 
-##Quotes##  
+## Quotes
 
 **Ron** Straight to the car  
 **Gina** He's not going to work the rope line?  

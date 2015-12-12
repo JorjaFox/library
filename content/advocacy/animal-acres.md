@@ -4,7 +4,7 @@ author: Mika Epstein
 layout: advocacy
 categories: ["Advocacy"]
 tags: 
- - "animal rights"
+ - "Animal Rights"
  - humanity
 website: http://www.animalacres.org
 ---
@@ -18,13 +18,13 @@ Jorja Fox has attended many events for Animal Acres. She is also a supporter of 
 > Actress & Advocate
 > Jorja Fox 
 
-##2005##
+## 2005
 On November 19th, Animal Acres celebrated Thanksgiving in their own way, where guests get to feed a turkey rather than eating one. Special guests included Jorja Fox and Daryl Hannah.
 
-##2007##
+## 2007
 Jorja Fox was the Gala Chairperson of this year's Animal Acres Gala, which was held to raise money for a farmed animal sanctuary in Los Angeles. August 25th, 2007.
 
-##2008##
+## 2008
 Jorja Fox attended the Country Hoe Down on Saturday, May 3. She was also a recipient of the 2008 Gandhi Award.
 
 > We have all heard the expression 'STAR POWER', but actress and animal advocate Jorja Fox, has given that phrase new meaning.

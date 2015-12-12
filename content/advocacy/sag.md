@@ -19,6 +19,6 @@ Jorja Fox supported the strike and filmed a promo for the SAG, showing her suppo
 
 > Hi there, I'm Jorja Fox. I'm a proud card carrying SAG member and AFRA member. I would like to ask you to support your SAG negotiating team. They are working diligently, around the clock, for months now, to ensure that all of us have work for 10 and 20 and 30 years into the future. Respect them, support them, they do a great thing for all of us.
 
-## See Also ##
+## See Also
 
 * [SAG Solidarity](http://www.sag.org/files/documents/Solidarity\_Statement\_Ad.pdf)

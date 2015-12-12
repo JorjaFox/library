@@ -12,18 +12,19 @@
     <div class="entry-content" itemprop="text"><div id="padbox">
 
 	{{ range .Data.Pages.ByTitle }}
-		{{ if eq .Type "index" }} 
+		{{ if eq .Type "index" }}
 			{{ .Content }}
 		{{ end }}
 	{{ end }}
 
 	<ul>
 	{{ range .Data.Pages.ByTitle }}
-		{{ if ne .Type "index" }} 
+		{{ if ne .Type "index" }}
 			<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 		{{ end }}
 	{{ end }}
 	</ul>
+
     </div></div>
 
     <footer class="entry-footer">

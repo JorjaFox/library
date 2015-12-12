@@ -9,7 +9,7 @@ categories: ["Interviews"]
 
 tags:
   - 2006
-  - "talk shows"
+  - "Talk Shows"
 ---
 
 **Julie Chen:** ... were wondering if there was more going on between Grissom and Sara than meets the eye. Well last night we found out, and the answer is definitely yes. Now we have even more questions, and so do the CSI stars. Last night's episode was almost over when we heard Gil Grissom ruminating about the end of his own life.

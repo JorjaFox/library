@@ -24,5 +24,5 @@ Grissom investigates a suicide that presents little evidence. A tape recording o
 
 ## Character Notes
 
-* This episode set up the reason for Sara to come to Las Vegas in "[Cool Change]({{ site.baseurl }}/recaps/csi/cool-change/)".
+* This episode set up the reason for Sara to come to Las Vegas in "[Cool Change](/library/recaps/csi/cool-change/)".
 

@@ -3,7 +3,7 @@ title: "Partners"
 author: Mika Epstein
 layout: actor
 categories: ["Filmography"]
-tags: ["television"]
+tags: ["Television"]
 show: partners
 station: CBS
 rating: 

@@ -4,7 +4,6 @@ author: Mika Epstein
 layout: default
 categories: ["Biographies"]
 tags: ["Index"]
-regenerate: true
 type: index
 ---
 
