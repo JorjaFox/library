@@ -8,6 +8,8 @@ station: ABC
 showname: "Missing Persons"
 showslug: missing-persons
 date: 1994-01-06
+season: 1
+episode: 12
 ---
 
 ## Synopsis

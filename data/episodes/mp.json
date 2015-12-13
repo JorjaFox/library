@@ -67,7 +67,7 @@
   },
   {
     "epnum": "1x09",
-    "Season": "One",
+    "season": "1",
     "title": "Sometimes You Can't Help Getting Involved",
     "slug": "sometimes-you-cant-help-getting-involved",
     "airdate": "1993-11-25T20:00:00.000Z",
@@ -83,7 +83,7 @@
   },
   {
     "epnum": "1x11",
-    "Season": "One",
+    "season": "1",
     "title": "How Hard Is It Just to Get Off at the Next Exit?",
     "slug": "how-hard-is-it-just-to-get-off-at-the-next-exit",
     "airdate": "1993-12-16T20:00:00.000Z",

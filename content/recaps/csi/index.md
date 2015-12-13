@@ -1,11 +1,13 @@
 ---
-title: "CSI: Crime Scene Investigation Recaps"
+title: "Producer"
 author: Mika Epstein
-layout: recap-tv
-topic: index
-permalink: /recaps/csi/
-categories: ["Recaps"]
-tags: ["CSI: Crime Scene Investigation"]
-showslug: csi
-date: 2015-10-10
+
 ---
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="canonical" href="http://jorjafox.net/library/filmography"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="refresh" content="0;url=http://jorjafox.net/library/actor/csi-episodes/"/>
+  </head>
+</html>

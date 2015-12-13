@@ -9,6 +9,8 @@ station: ABC
 showname: "Missing Persons"
 showslug: missing-persons
 date: 1993-12-02
+season: 1
+episode: 10
 ---
   
 ## Synopsis

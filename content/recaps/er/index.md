@@ -1,11 +1,13 @@
 ---
-title: ER Recaps
+title: "Producer"
 author: Mika Epstein
-layout: recap-tv
-topic: index
-permalink: /recaps/er/
-categories: ["Recaps"]
-tags: ["ER"]
-showslug: er
-date: 2015-10-10
+
 ---
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="canonical" href="http://jorjafox.net/library/filmography"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="refresh" content="0;url=http://jorjafox.net/library/actor/er-episodes/"/>
+  </head>
+</html>

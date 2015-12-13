@@ -8,9 +8,11 @@ tags: ["Missing Persons"]
 station: ABC
 showname: "Missing Persons"
 showslug: missing-persons
-season : One  
-epnum: Fifteen  
+season : 1  
+epnum: 15  
 date: 1994-02-03  
+season: 1
+episode: 15
 ---
   
 ## Synopsis
