@@ -1,16 +1,5 @@
 {{ partial "header.html" . }}
 
-{{ $baseurl := .Site.BaseURL }}
-
-<article class="post type-post format-standard category-jorjafox entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-
-    <header class="entry-header">
-        <h2 class="entry-title" itemprop="headline"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h2>
-		<div class="entry-meta">{{ if .Date.IsZero }}By {{else}}{{ .Date.Format "January 01, 2006" }} by{{end}} the JFO Librarians</div>
-    </header>
-
-    <div class="entry-content" itemprop="text"><div id="padbox">
-
 	{{ if .Params.newsurl }}
 	<div class="jfoinfobox">
 		<div class="newsheader"><strong>{{.Params.newstitle}}</strong><br />{{ .Date.Format "January 01, 2006" }}</div>
@@ -25,7 +14,6 @@
 	</div>
 	{{ end }}
 
-
 	<div class="jfoinfobox">
 		<div class="newsheader"><a href="/library/news/" title="News Articles">News Articles By Year</a></div>
 		<div class="newsbody"><ul class="infobox">
@@ -36,14 +24,5 @@
 		{{ end }}
 		</ul></div>
 	</div>
-
-    </div></div>
-
-    <footer class="entry-footer">
-        <!-- start tags -->
-        <p class="entry-meta"><span class="entry-categories"><i class="fa fa-folder-open" alt="Category Folder"></i> <strong>{{ range $i, $e := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/categories/{{ lower . | urlize }}" rel="category">{{ title $e }}</a>{{ end }}</strong></span> <span class="entry-tags"><i class="fa fa-tags" alt="Tags"></i> <strong>{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/tags/{{ lower . | urlize }}" rel="tag">{{ title $e }}</a>{{ end }}</strong></span></p>
-    		<!-- end tags -->
-	</footer>
-</article>
 
 {{ partial "footer.html" . }}

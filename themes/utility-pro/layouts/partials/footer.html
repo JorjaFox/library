@@ -1,3 +1,60 @@
+    </div></div>
+
+{{ $baseurl := .Site.BaseURL }}
+
+<footer class="entry-footer">
+        <!-- start tags -->
+        <p class="entry-meta">
+
+		    <span class="entry-categories"><i class="fa fa-folder-open" alt="Category Folder"></i> <strong>
+		    {{ if .IsPage }}
+		    	{{ range $i, $e := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/categories/{{ lower . | urlize }}" rel="category">{{ title $e }}</a>{{ end }}
+		    {{ else }}
+
+				{{ $title := lower .Title }}
+				{{ $.Scratch.Set "has_cats" "" }}
+				{{ range $key, $taxonomy := .Site.Taxonomies.categories }}
+					{{ if eq $key $title }}
+						{{ title $title }}
+						{{$.Scratch.Set "has_cats" "yes"}}
+					{{ end }}
+				{{ end }}
+
+				{{ $has_cats := $.Scratch.Get "has_cats" }}
+				{{ if ne $has_cats "yes" }}
+					Index
+				{{ end }}
+
+		    {{ end }}
+		    </strong></span>
+
+		    <span class="entry-tags"><i class="fa fa-tags" alt="Tags"></i> <strong>
+		    {{ if .IsPage }}
+			    {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/tags/{{ lower . | urlize }}" rel="tag">{{ title $e }}</a>{{ end }}
+		    {{ else }}
+
+				{{ $title := lower .Title }}
+				{{ $.Scratch.Set "has_tags" "" }}
+				{{ range $key, $taxonomy := .Site.Taxonomies.tags }}
+					{{ if eq $key $title }}
+						{{ title $title }}
+						{{$.Scratch.Set "has_tags" "yes"}}
+					{{ end }}
+				{{ end }}
+
+				{{ $has_tags := $.Scratch.Get "has_tags" }}
+				{{ if ne $has_tags "yes" }}
+					Index
+				{{ end }}
+
+		    {{ end }}
+			</strong></span>
+
+	    </p>
+
+	</footer>
+</article>
+
 		<div class="adboxes-footerwidget"><center>
 			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 			<!-- Large Rectangle -->

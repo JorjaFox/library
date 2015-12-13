@@ -59,3 +59,12 @@
 
 	<main class="content" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
 		<div class="breadcrumb">You are here: <a href="/" title="View Home">Home</a> / <a href="{{ .Site.BaseURL }}/">Library</a> {{ if .Section }} / <a href="{{ .Site.BaseURL }}/{{.Section}}" title="{{.Section}}"> {{ title .Section }}</a> {{ end }} / {{ .Title }}</div>
+
+<article class="post type-post format-standard category-jorjafox entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+
+    <header class="entry-header">
+        <h2 class="entry-title" itemprop="headline"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h2>
+		<div class="entry-meta">{{ if .Date.IsZero }}By {{else}}{{ .Date.Format "January 01, 2006" }} by{{end}} the JFO Librarians</div>
+    </header>
+
+    <div class="entry-content" itemprop="text"><div id="padbox">

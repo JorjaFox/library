@@ -1,16 +1,5 @@
 {{ partial "header.html" . }}
 
-{{ $baseurl := .Site.BaseURL }}
-
-<article class="post type-post format-standard category-jorjafox entry" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-
-    <header class="entry-header">
-        <h2 class="entry-title" itemprop="headline"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h2>
-		<div class="entry-meta">By the JFO Librarians</div>
-    </header>
-
-    <div class="entry-content" itemprop="text"><div id="padbox">
-
 	<p>The following posts are in the category "{{ .Title }}":</p>
 
 	<ul>
@@ -20,15 +9,5 @@
 		{{ end }}
 	{{ end }}
 	</ul>
-
-    </div></div>
-
-    <footer class="entry-footer">
-        <!-- start tags -->
-        <p class="entry-meta"><span class="entry-categories"><i class="fa fa-folder-open" alt="Category Folder"></i> <strong><a href="{{ $baseurl }}/categories/{{ lower .Title | urlize }}" rel="category">{{ .Title }}</a></strong></span> <span class="entry-tags"><i class="fa fa-tags" alt="Tags"></i> <strong>Index</strong></span></p>
-    		<!-- end tags -->
-	</footer>
-</article>
-
 
 {{ partial "footer.html" . }}
