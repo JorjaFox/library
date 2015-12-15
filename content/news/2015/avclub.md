@@ -5,7 +5,6 @@ author: Mika Epstein
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]
-permalink: /news/2015/:title/
 newstitle: "William Petersen on Manhattan, Michael Mann, and sailing into the sunset on CSI"
 newsauthor: "Will Harris"
 newssource: "A.V. Club"
