@@ -1,6 +1,6 @@
 ---
-title: "A.V. Club"
-date: 2015-03-07
+title: "Variety"
+date: 2016-03-07
 author: Mika Epstein
 layout: news
 tags: ["2016"]
@@ -12,9 +12,9 @@ newsurl: http://variety.com/2016/dirt/real-estalker/jorja-fox-lists-silver-lake-
 
 ---
 
-**SELLER:** Jorja Fox
-**LOCATION:** Los Angeles, CA
-**PRICE:** $1.85 million
+**SELLER:** Jorja Fox  
+**LOCATION:** Los Angeles, CA  
+**PRICE:** $1.85 million  
 **SIZE:** (approx.) 3,600 square feet, 5 bedrooms, 3 bathrooms
 
 **YOUR MAMA’S NOTES:** A well-maintained, circa 1937 Mediterranean with loads of intact original architectural details in the hipster-chic Silver Lake area of Los Angeles — owned, according to our resources, by actress and producer Jorja Fox — has come available at $1.85 million. Miz Fox isn’t a tabloid superstar or even a gossip glossy regular, and we’d bet the farm she prefers it that way. She is, none-the-less, a veteran staple of the medical drama and police procedural genres. Prominent recurring roles on “ER” and “The West Wing” and a guest turn on “Law &Order” led to a recently ended 15-year run in a pivotal role on the internationally popular “CSI.” Along the way, multi-talented Miz Fox co-founded Honeypot Productions, an experimental theater company in Los Angeles, appeared in the historic 1997 “coming out” episode on “Ellen,” and produced two animal-oriented documentaries (“How I Became and Elephant” and “Lion Ark”). She also produced the short-lived, limited run 2007 one-woman musical in Los Angeles, “Stay Forever: The Life and Music of Dusty Springfield,” that years later was remounted in a revised, expanded version Off Broadway as “Forever Dusty.”

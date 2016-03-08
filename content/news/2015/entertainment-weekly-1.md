@@ -1,5 +1,5 @@
 ---
-title: Entertainment Weekly (4 September 2015)
+title: Entertainment Weekly
 date: 2015-09-04
 author: Mika Epstein
 layout: news

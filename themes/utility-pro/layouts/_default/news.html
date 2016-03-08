@@ -2,7 +2,7 @@
 
 	{{ if .Params.newsurl }}
 	<div class="jfoinfobox">
-		<div class="newsheader"><strong>{{.Params.newstitle}}</strong><br />{{ .Date.Format "January 01, 2006" }}</div>
+		<div class="newsheader"><strong>{{.Params.newstitle}}</strong><br />{{ .Date.Format "January 02, 2006" }}</div>
 		<div class="newsbody">
 	{{ end }}
 
@@ -17,7 +17,7 @@
 	<div class="jfoinfobox">
 		<div class="newsheader"><a href="/library/news/" title="News Articles">News Articles By Year</a></div>
 		<div class="newsbody"><ul class="infobox">
-		{{ range where .Site.Pages.ByDate "Section" "transcript" }}
+		{{ range where .Site.Pages.ByDate "Section" "news" }}
 			{{ if eq .Params.topic "index" }}
 				<li><a href="{{ .Permalink }}">{{ .Date.Format "2006" }}</a></li>
 			{{ end }}
