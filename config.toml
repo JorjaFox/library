@@ -1,8 +1,8 @@
 baseurl = "http://jorjafox.net/library"
 languageCode = "en-us"
-title = "JFO Library"
+title = "Jorja Fox Library"
 theme = "utility-pro"
 buildDrafts = "true"
 pluralizelisttitles = "false"
 [params]
-  Subtitle = "The goal of the JFO Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."
+  Subtitle = "The goal of the Jorja Fox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."
