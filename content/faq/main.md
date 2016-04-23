@@ -8,7 +8,9 @@ tags: ["index"]
 type: index
 ---
 
-FAQ stands for **frequently asked questions**, and refers to listed questions and answers, all supposed to be frequently asked in some context, and pertaining to a particular topic.
+FAQ stands for **frequently asked questions**, and refers to listed questions and answers, all supposedly frequently asked in some context, and pertaining to a particular topic.
+
+Which is to say, here is what people ask the most:
 
 ## Most Frequently Asked Questions
 
@@ -45,13 +47,13 @@ If she has anything else, she's keeping it private. That means **anyone** you se
 
 No, Jorja is not pregnant. No, she wasn't pregnant. No. No. No.
 
-### Is Jorja Fox gay?
+### Is Jorja Fox gay? Married? Divorced?
 
-Jorja's sexuality is her own business. Until Jorja says "I am <whatever>." or "I am dating <whomever>.", discussion about her dating life and sexuality is not permitted on this website.
+Jorja's marital status and sexuality is her own business. Until Jorja says "I am <whatever>." or "I am dating <whomever>.", discussion about her dating life and sexuality is not permitted on this website.
 
 ### Have you met Jorja?
 
-Yes. She's just as cool as you think.
+Yes. And yes, she's just as cool as you think.
 
 ### Why wasn't Jorja in every episode of CSI?
 
