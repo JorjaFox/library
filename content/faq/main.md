@@ -1,5 +1,5 @@
 ---
-title: FAQs
+title: "FAQs"
 author: Mika Epstein
 layout: default
 permalink: /faq/
