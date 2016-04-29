@@ -17,11 +17,6 @@ div.newsbody ul, div.newsbody li {
     width: 16px;
     height: 16px;
 }
-
-svg#tags,
-svg#categories {
-	fill: #545454;
-}
 svg#grey-star {
     fill: #808080;
 }
