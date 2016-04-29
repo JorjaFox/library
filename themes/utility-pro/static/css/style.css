@@ -9,12 +9,35 @@ div.newsbody ul, div.newsbody li {
     margin: 5px!important;
 }
 
-.star-rating i {
-    display: inline;
-}
-
 .rating {
     display: inline-flex;
+}
+
+.star-rating object {
+    width: 16px;
+    height: 16px;
+}
+
+svg#tags,
+svg#categories {
+	fill: #545454;
+}
+svg#grey-star {
+    fill: #808080;
+}
+svg#red-star {
+    fill: #F00;
+}
+svg#gold-star {
+    fill: #FFD700;
+}
+
+div.footer-widgets svg {
+    fill: #eee;
+    margin: 2px;
+}
+div.footer-widgets svg:hover {
+    fill: #FFF;
 }
 
 /* Table of Contents */

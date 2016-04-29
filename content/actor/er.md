@@ -12,6 +12,7 @@ station: NBC
 year: 1994-2009
 genre: "Medical Drama"
 excerpt: "<strong>ER</strong> was an Emmy Award-winning drama series centering on the medical personnel in the emergency room of a Chicago hospital."
+rating: 3
 ---
 
 ## Character
@@ -25,4 +26,4 @@ It never happened, and February 18, 1999 Maggie Doyle made her last appearance o
 
 ## See Also
 
-* [CSI Episodes](/library/actor/er-episodes/)
+* [ER Episodes](/library/actor/er-episodes/)

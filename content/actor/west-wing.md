@@ -8,6 +8,7 @@ type: Drama
 character: "Gina Toscano"
 chartype: guest
 episodes: 5
+rating: 3
 station: NBC
 year: 1999-2006
 genre: "Political Drama"
@@ -25,4 +26,4 @@ Gina attended University of Virginia (studying Criminology), and was in the Army
 
 ## See Also
 
-* [CSI Episodes](/library/actor/west-wing-episodes/)
+* [The West Wing Episodes](/library/actor/west-wing-episodes/)
