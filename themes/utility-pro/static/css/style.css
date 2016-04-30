@@ -184,7 +184,7 @@ td.gsc-search-button {
     display: none;
 }
 
-table#gs_id51 {
+#cse-search-form table {
     margin: 0px!important;
     padding: 16px!important;
     height: 53px;
@@ -201,4 +201,7 @@ table#gs_id51 {
 }
 .gsc-input-box {
     height: 53px!important;
+}
+input.gsc-input {
+	text-align: center;
 }
