@@ -177,3 +177,28 @@ div.divCell {
    width:50%;
    font-size: 85%;
 }
+
+/* Search */
+
+td.gsc-search-button {
+    display: none;
+}
+
+table#gs_id51 {
+    margin: 0px!important;
+    padding: 16px!important;
+    height: 53px;
+}
+
+.gsib_a,
+.gsc-search-box-tools .gsc-search-box .gsc-input {
+	padding: 0px!important;
+	margin: 0px!important
+}
+
+.gsc-selected-option-container.gsc-inline-block {
+    width: 125px!important;
+}
+.gsc-input-box {
+    height: 53px!important;
+}
