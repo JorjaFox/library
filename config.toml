@@ -6,3 +6,5 @@ buildDrafts = "true"
 pluralizelisttitles = "false"
 [params]
   Subtitle = "The goal of the Jorja Fox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."
+  StaticURL = "//jfo-static.net"
+  HomeURL = "//jorjafox.net"
