@@ -1,4 +1,4 @@
-baseurl = "http://jorjafox.net/library"
+baseurl = "https://jorjafox.net/library"
 languageCode = "en-us"
 title = "Jorja Fox Library"
 theme = "utility-pro"
