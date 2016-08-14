@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "Live CSI Chat (on Twitter)  "
 newsauthor: Carol Mendelsohn  
 newssource: Twitter  
-newsurl: http://jorjafox.net/2011/tweetcap-of-the-live-csi-chat/  
+newsurl: https://jorjafox.net/2011/tweetcap-of-the-live-csi-chat/  
 
 ---
 

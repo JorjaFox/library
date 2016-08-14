@@ -28,7 +28,7 @@ Specifically, this ad, which was available online in the fall and winter of 2004
 > Vote in November.
 
 * [eGreetings](http://www.egreetings.com)
-* [Video](http://jorjafox.net/video/beatgreets-csi-white-house/)
+* [Video](https://jorjafox.net/video/beatgreets-csi-white-house/)
 
 ## Democratic National Convention (28 August 2008)
 

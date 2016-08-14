@@ -7,7 +7,7 @@ tags: ["jorja fox", "career"]
 
 ## What movies and TV shows has she been in?
 
-Jorja Fox most recently starred in the CBS drama CSI. For a complete list, please check her [filmography](http://jorjafox.net/library/filmography/).
+Jorja Fox most recently starred in the CBS drama CSI. For a complete list, please check her [filmography](https://jorjafox.net/library/filmography/).
 
 ## What was her first role?
 

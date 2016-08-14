@@ -10,7 +10,7 @@ tags: ["2011"]
 newstitle: "The actress is committed to the environment."
 newsauthor: Unknown
 newssource: Cosas Madres    
-newsurl: http://jfo-static.net/wp-content/uploads/2011/10/58-62jorjafox.pdf
+newsurl: https://jfo-static.net/wp-content/uploads/2011/10/58-62jorjafox.pdf
 
 ---
 

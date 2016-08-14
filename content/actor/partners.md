@@ -15,6 +15,6 @@ character: Alex
 excerpt: "<strong>Partners</strong> was about a drifter who finds himself caught in the middle of an international crime caper after stealing a briefcase."
 ---
 
-_Jorja Fox's appearance in this is unverified. If you have information than can confirm, please [contact us](http://jorjafox.net/contact/), and be sure to cite your source._
+_Jorja Fox's appearance in this is unverified. If you have information than can confirm, please [contact us](https://jorjafox.net/contact/), and be sure to cite your source._
 
 Jorja Fox played "Alex" in episode 3 "My Sister, My Enemy"
