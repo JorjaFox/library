@@ -1,4 +1,4 @@
-# JFO Library
+# Jorja Fox Library
 
 This replaced the old Wiki. It's written in [Hugo](http://gohugo.io), which is a bajillion times faster than Jekyll was.
 
