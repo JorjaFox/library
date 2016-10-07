@@ -4,6 +4,8 @@ title = "Jorja Fox Library"
 theme = "utility-pro"
 buildDrafts = "true"
 pluralizelisttitles = "false"
+contentdir = "content/posts"
+datadir = "content/data"
 [params]
   Subtitle = "The goal of the Jorja Fox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."
   StaticURL = "https://static.jorjafox.net"
