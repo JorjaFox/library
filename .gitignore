@@ -13,3 +13,4 @@ tmp/*
 .jekyll-metadata
 /vendor
 /public
+.gitlab
