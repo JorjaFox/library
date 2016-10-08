@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+
+	{{ with .Params.excerpt }} <p>{{ . | safeHTML }}</p>{{ end }}
+
+	<div class="jfoinfobox">
+	<div class="newsbody"><ul class="infobox">
+		{{ if .Params.year }}<li>{{ .Params.year}}</li>{{ end }}
+		{{ if .Params.genre }}<li>{{ .Params.genre}}</li>{{ end }}
+		{{ if .Params.distributor }}<li>{{ .Params.distributor}}</li>{{ end }}
+
+		{{ $title := .Title }}
+
+		{{ range $.Site.Data.filmography }}
+			{{ if and (eq "Honeypot Productions" .company) (eq .title $title) }}
+				<li><a href="/library/honeypot/">{{ .company }}</a></li>
+			{{ end }}
+			{{ if and (eq "Seafox Productions" .company) (eq .title $title) }}
+				<li><a href="/library/seafox/">{{ .company }}</a></li>
+			{{ end }}
+		{{ end }}
+
+		{{ with .Params.rating }}<li>{{ partial "rating.html" . }}<li>{{ end }}
+
+		{{ if  .Params.website }}<li><a href="{{ .Params.website}}">Official Website</li>{{ end }}
+	</ul></div>
+	</div>
+
+	{{ .Content }}
+
+{{ partial "footer.html" . }}
