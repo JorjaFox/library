@@ -1,0 +1,40 @@
+{{ $role := .Get "type" }}
+{{ $company := .Get "company" }}
+
+{{ if .Get "company" }}
+
+	<ul>
+		{{ range $.Page.Site.Data.filmography }}
+			{{ if eq $company .company }}
+				<li><a href="/library/{{ .role }}/{{ .slug }}">{{ .title }}</a></li>
+			{{ end }}
+		{{ end }}
+	</ul>
+
+{{ else }}
+
+	<table class="jfotable" width="100%"><tbody>
+	<tr>
+		<th> Title </th>
+		<th> Date(s)</th>
+	</tr>
+
+	{{ range $.Page.Site.Data.filmography }}
+
+		{{ if eq $role .role }}
+
+			<tr>
+				<td><strong>{{ if .slug }}<a href="/library/{{ $role }}/{{ .slug }}/">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</strong> ({{ .type }})
+					{{ if .character }}<br /><strong>{{ .character }}</strong> {{ if .jorjan }}<small>[Credited as Jorjan Fox]</small>{{ end }}{{ end }}
+					{{ if .notes }}<br /><small>{{ .notes | safeHTML }}</small>{{ end }}
+				</td>
+				<td valign="top">{{ .dates }}</td>
+			</tr>
+
+		{{ end }}
+
+	{{ end }}
+
+	</tbody></table>
+
+{{ end }}
