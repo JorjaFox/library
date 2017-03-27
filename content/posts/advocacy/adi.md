@@ -21,4 +21,4 @@ In May of 2010, Jorja took part in the ADI rescue of former circus lions from Bo
 On February 16th, 2011, Jorja was on hand with Bob Barker when the rescue of 25 lions from Bolivia was completed. Both Jorja and Bob personally funded the rescue of the former circus lions.
 
 ## Traveling Exotic Animal Protection Act
-On November 2nd, 2011, Jorja and Bob Barker went to Washington DC to address Congress about the Traveling Exotic Animal Protection Act, which has been introduced to prevent circuses from using exotic (non-native) animals.
+On November 2nd, 2011, Jorja and Bob Barker went to Washington DC to address Congress about the Traveling Exotic Animal Protection Act, which has been introduced to prevent circuses from using exotic (non-native) animals. When the bill came back up in 2017, Jorja again went to DC.

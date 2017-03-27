@@ -1,5 +1,5 @@
 ---
-title: Interviews (2006)
+title: Transcripts (2006)
 author: Mika Epstein
 layout: transcript
 topic: index

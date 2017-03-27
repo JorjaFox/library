@@ -1,12 +1,12 @@
 ---
-title: Transcripts (2004)
+title: Transcripts (2017)
 author: Mika Epstein
 layout: transcript
 topic: index
-date: 2004-01-01
-permalink: /transcript/2004/
+date: 2017-01-01
+permalink: /transcript/2017/
 categories: ["Interviews"]
-tags: [""]
+tags: ["2017"]
 ---
 
 {{< transcript >}}
