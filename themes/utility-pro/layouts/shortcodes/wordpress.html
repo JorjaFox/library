@@ -1,0 +1,4 @@
+{{ $wordpressURL  := .Get "url" }}
+{{ $wordpressJSON := getJSON $wordpressURL }}
+
+{{ $wordpressJSON.content.rendered }}
