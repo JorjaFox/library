@@ -2,7 +2,7 @@
 title: "Seafox Productions"
 author: Mika Epstein
 permalink: /seafox/
-layout: default
+layout: post
 categories: ["Filmography"]
 tags: ["producer", "company"]
 notoc: true

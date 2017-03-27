@@ -1,6 +1,6 @@
 ---
 title: Politics
-author: ipstenu
+author: Mika Epstein
 layout: post
 categories: ["Politics"]
 tags: ["Index"]
