@@ -156,8 +156,10 @@ google.setOnLoadCallback(function() {
 	</ul>
 </div></nav>
 
+<!-- EVENTUIALLY replace .Now.Year with (time now).Year -- but I can't until SERVER Hugo is on 0.20 -->
+
 <footer class="site-footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
-	<div class="wrap"><p>Copyright &copy; 1996-{{ (time now).Year }} <em><a href="/">Fans of LeFox</a></em><br />Powered by <a href="http://gohugo.io/">Hugo</a> & <a href="http://www.shareasale.com/r.cfm?b=778546&u=728549&m=61628&urllink=&afftrack=">Utility Pro</a></p></div>
+	<div class="wrap"><p>Copyright &copy; 1996-{{ .Now.Year }} <em><a href="/">Fans of LeFox</a></em><br />Powered by <a href="http://gohugo.io/">Hugo</a> & <a href="http://www.shareasale.com/r.cfm?b=778546&u=728549&m=61628&urllink=&afftrack=">Utility Pro</a></p></div>
 	<div class="adboxes-footer">
 		<center>
 		<!-- Project Wonderful Ad Box Code -->
