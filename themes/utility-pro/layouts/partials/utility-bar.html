@@ -1,12 +1,16 @@
-{{ $wordpressURL  := "https://jorjafox.net/wp-json/wp/v2/pages/14363" }}
-{{ $wordpressJSON := getJSON $wordpressURL }}
+<script>
+	$.getJSON( "https://jorjafox.net/wp-json/wp/v2/pages/14363", function (json) {
+	    var content = json.content.rendered;
+		document.querySelector('.wpcontent').innerHTML = content;
+	});
+</script>
 
 <div class="utility-bar">
 	<div class="wrap">
 		<section id="text-16" class="widget widget_text">
 			<div class="widget-wrap">
 				<div class="textwidget">
-					{{ $wordpressJSON.content.rendered | safeHTML }}
+					<div class="wpcontent"></div>
 				</div>
 			</div>
 		</section>
