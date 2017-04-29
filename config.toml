@@ -1,6 +1,6 @@
 baseurl = "https://jorjafox.net/library"
 languageCode = "en-us"
-title = "Welcome to the Jorja Fox Library"
+title = "Welcome to the Fans of Le Fox Library"
 theme = "utility-pro"
 buildDrafts = "true"
 pluralizelisttitles = "false"
@@ -8,6 +8,6 @@ contentdir = "content/posts"
 datadir = "content/data"
 
 [params]
-  Subtitle = "The goal of the Jorja Fox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."
+  Subtitle = "The goal of the Fans of Le Fox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."
   StaticURL = "https://static.jorjafox.net"
   HomeURL = "https://jorjafox.net"
