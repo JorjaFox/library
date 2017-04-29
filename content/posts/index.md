@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Welcome to the Jorja Fox Library
+title: Welcome to the Fans of Le Fox Library
 categories: ["Jorja Fox"]
 tags: ["Index"]
 noToc: true
 type: mainindex
 ---
 
-The goal of the Jorja Fox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox.
+The goal of the *Fans of Le Fox Library* is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox.
 
 * <a href="biographies/" title="Jorja Fox">Biographies</a> - Various biographies
 * <a href="filmography/" title="Filmography">Filmography</a> - Her work as an actor, producer, and writer
