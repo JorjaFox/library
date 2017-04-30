@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Welcome to the Fans of Le Fox Library
 categories: ["Jorja Fox"]
 tags: ["Index"]

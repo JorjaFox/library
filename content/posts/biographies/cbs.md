@@ -1,7 +1,7 @@
 ---
 title: CBS Biography
 author: Mika Epstein
-layout: default
+layout: single
 permalink: /biographies/cbs/
 categories: ["Biographies"]
 tags: ["Internet"]

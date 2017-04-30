@@ -1,7 +1,7 @@
 ---
 title: Official Biography
 author: Mika Epstein
-layout: default
+layout: single
 permalink: /biographies/official/
 categories: ["Biographies"]
 tags: ["Official"]

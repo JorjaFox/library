@@ -1,7 +1,7 @@
 ---
 title: Velocity Trap Biography
 author: Mika Epstein
-layout: default
+layout: single
 permalink: /biographies/velocity-trap/
 categories: ["Biographies"]
 tags: ["Movies"]

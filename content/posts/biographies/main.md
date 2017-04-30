@@ -1,7 +1,7 @@
 ---
 title: Biography
 author: Mika Epstein
-layout: default
+layout: single
 categories: ["Biographies"]
 tags: ["Index"]
 type: index

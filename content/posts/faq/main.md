@@ -1,7 +1,7 @@
 ---
 title: "FAQs"
 author: Mika Epstein
-layout: default
+layout: single
 permalink: /faq/
 categories: ["FAQ"]
 tags: ["index"]

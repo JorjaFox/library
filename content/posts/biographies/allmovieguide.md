@@ -1,7 +1,7 @@
 ---
 title: All Movie Guide Biography
 author: Mika Epstein
-layout: default
+layout: single
 permalink: /biographies/allmovieguide/
 categories: ["Biographies"]
 tags: ["Internet"]

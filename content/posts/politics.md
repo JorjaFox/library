@@ -1,7 +1,7 @@
 ---
 title: Politics
 author: Mika Epstein
-layout: post
+layout: single
 categories: ["Politics"]
 tags: ["Index"]
 permalink: /politics/

@@ -1,7 +1,7 @@
 ---
 title: 'List of CSI: Crime Scene Investigation episodes'
 author: Mika Epstein
-layout: default
+layout: single
 categories: ["CSI"]
 tags: ["Television"]
 show: csi

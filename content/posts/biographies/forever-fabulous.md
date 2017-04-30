@@ -1,7 +1,7 @@
 ---
 title: Forever Fabulous Biography
 author: Mika Epstein
-layout: default
+layout: single
 permalink: /biographies/forever-fabulous/
 categories: ["Biographies"]
 tags: ["Movies"]

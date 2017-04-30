@@ -1,7 +1,7 @@
 ---
 title: 'List of ER episodes'
 author: Mika Epstein
-layout: default
+layout: single
 categories: ["ER"]
 tags: ["Television"]
 show: er

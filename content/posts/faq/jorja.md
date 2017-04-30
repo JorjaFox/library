@@ -3,6 +3,7 @@ layout: page
 title: About Jorja Fox
 categories: ["FAQ"]
 tags: ["jorja fox"]
+layout: single
 ---
 
 Questions here are about Jorja Fox's personal life and, in broad terms, her career, including how to get in touch with her.

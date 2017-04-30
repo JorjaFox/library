@@ -1,7 +1,7 @@
 ---
 title: IMDb Biography
 author: Mika Epstein
-layout: default
+layout: single
 permalink: /biographies/imdb/
 categories: ["Biographies"]
 tags: ["Internet"]

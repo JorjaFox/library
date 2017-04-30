@@ -1,7 +1,7 @@
 ---
 title: 'List of The West Wing episodes'
 author: Mika Epstein
-layout: default
+layout: single
 categories: ["west wing"]
 tags: ["Television"]
 show: ww

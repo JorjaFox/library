@@ -3,6 +3,7 @@ layout: page
 title: About Jorja Fox's Career
 categories: ["FAQ"]
 tags: ["jorja fox", "career"]
+layout: single
 ---
 
 ## What movies and TV shows has she been in?

@@ -1,7 +1,7 @@
 ---
 title: Gist TV Biography
 author: Mika Epstein
-layout: default
+layout: single
 permalink: /biographies/gist/
 categories: ["Biographies"]
 tags: ["Internet"]

@@ -1,15 +1,16 @@
 ---
 title: Recaps
 author: Mika Epstein
-layout: default
+layout: single
 permalink: /recaps/
 categories: ["Recaps"]
 tags: [Index]
+type: index
 ---
 
-Recaps, primarily of television episodes, are available here.
+Television show recaps have been made available after hours and years of watching.
 
-There are currently recaps for the following available:
+The follow shows are currently recapped here:
 
 * [Missing Persons](/library/actor/missing-persons-episodes/)
 * [ER](/library/actor/er-episodes/)
