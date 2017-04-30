@@ -17,7 +17,7 @@ excerpt: "<strong>Law & Order</strong> is about the Criminal Justice System. The
 
 ## Episode: "Securitate"
 
-* Aired 5 May 2993
+* Aired 5 May 1993
 * Season 3, Episode 20
 
 When a Romanian immigrant kills, his lawyer announces he will plead his client "not guilty due to cultural insanity" claiming the man had been conditioned to violence in his homeland.

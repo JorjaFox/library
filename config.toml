@@ -1,6 +1,6 @@
 baseurl = "https://jorjafox.net/library"
 languageCode = "en-us"
-title = "Welcome to the Fans of Le Fox Library"
+title = "Fans of Le Fox Library"
 theme = "utility-pro"
 buildDrafts = "true"
 pluralizelisttitles = "false"
