@@ -1,5 +1,5 @@
 <script>
-	$.getJSON( "https://jorjafox.net/wp-json/wp/v2/pages/14363", function (json) {
+	$.getJSON( "https://jorjafox.net/wp-json/wp/v2/pages/14363?nocache=' + (new Date()).getTime()", function (json) {
 	    var content = json.content.rendered;
 		document.querySelector('.wpcontent').innerHTML = content;
 	});
