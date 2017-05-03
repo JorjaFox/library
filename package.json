@@ -1,0 +1,25 @@
+{
+  "name": "jorjafox-library",
+  "version": "1.0.0",
+  "description": "Library code for Jorjafox.net/library, powered by gohugo.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "lunr-hugo -i \"site/content/posts/**\" -o site/static/js/lunr/search.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jorjafox@ftp.jorjafox.net:/home/jorjafox/repositories/library.git"
+  },
+  "author": "Mika A Epstein",
+  "license": "CC-BY-4.0",
+  "devDependencies": {
+    "conzole": "^0.2.0",
+    "grunt": "^1.0.1",
+    "hugo-lunr": "0.0.4",
+    "lunr-hugo": "^0.1.2",
+    "string": "^3.3.3",
+    "toml": "^2.3.2",
+    "yaml": "^0.3.0"
+  }
+}

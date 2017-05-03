@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fans of Le Fox Library</title>
+    <link>https://jorjafox.net/library/tags/</link>
+    <description>Recent content on Fans of Le Fox Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Apr 2001 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jorjafox.net/library/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Test</title>
+      <link>https://jorjafox.net/library/transcript/2001/the-test/</link>
+      <pubDate>Tue, 24 Apr 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorjafox.net/library/transcript/2001/the-test/</guid>
+      <description>&amp;ldquo;The Test&amp;rdquo; was a TV Talk show/game show on which four celebrities are brought on to answer ten questions about a given topic, and are &amp;#8216;scored&amp;rsquo; based on their answers. On April 24th, 2001, Jorja Fox was a panelist and the test was The Friendship Test.
+The Topic The Friendship Test
+The Questions  A friend needs your sperm/egg. Do you donate?
+  Yes, however Jorja feels she would be more willing (and it would be easier) if she was able to donate her sperm instead of her egg.</description>
+    </item>
+    
+  </channel>
+</rss>

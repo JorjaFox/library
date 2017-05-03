@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017 on Fans of Le Fox Library</title>
+    <link>https://jorjafox.net/library/tags/2017/</link>
+    <description>Recent content in 2017 on Fans of Le Fox Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jorjafox.net/library/tags/2017/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Reluctant Entertainers</title>
+      <link>https://jorjafox.net/library/transcript/2017/reluctant-entertainers/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorjafox.net/library/transcript/2017/reluctant-entertainers/</guid>
+      <description>Ed Asner: Some of us love to entertain
+Jorja Fox: But animals don&amp;rsquo;t get a choice.
+Eric Roberts: Can you imagine?
+Mindy Sterling: Can you imagine?
+Eric Szmanda: Can you imagine?
+Moby: Being stuck in a metal box.
+Alexandra Paul: Seeing the world through bars.
+Tonya Kay: No grass beneath your feet.
+James Cromwell: No space to run.
+Eric Szmanda: Tied up. Chained.
+James Cromwell: Barely able to move.
+Eric Roberts: Shouted at.</description>
+    </item>
+    
+    <item>
+      <title>Transcripts (2017)</title>
+      <link>https://jorjafox.net/library/transcript/2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorjafox.net/library/transcript/2017/</guid>
+      <description>  Date Source    March 27 The Reluctant Entertainers    </description>
+    </item>
+    
+  </channel>
+</rss>

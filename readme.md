@@ -2,14 +2,20 @@
 
 This replaced the old Wiki. It's written in [Hugo](http://gohugo.io), which is a bajillion times faster than Jekyll was.
 
-## To Update
+## Update Content
 
-* New posts go into the `content` folder. 
+All content lives in `site/content`
+
+* Posts are in the `posts` folder.
 * Formatted data is in the `data` folder.
     - filmography.json - acting, writing, self, etc.
     - episodes/* - All the eps for the TV shows.
 
-Make all your new posts and code changes.
+## Update Search
+
+From root run `npm run index`
+
+## Push New Version
 
 In the folder, run the Hugo build command: `hugo`
 

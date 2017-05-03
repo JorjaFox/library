@@ -1,0 +1,26 @@
++++
+title = "Death and the Maiden"
+author = "Mika A. Epstein"
+layout = "recap-tv"
+permalink = "/recaps/csi/:title/"
+categories = ["Recaps"]
+tags = ["CSI"]
+station = "CBS"
+showname = "CSI"
+showslug = "csi"
+season = "10"
+epnum = "6"
+date = "2009-11-05"
+prodnum= "212"
++++
+
+## Synopsis
+
+The CSIs discover that two seemingly unrelated crimes are actually part of a revenge plot.
+
+## Sara Sidle Review
+
+_Sara Sidle does not appear in this episode_
+
+Sara is working a quintuple homicide in Parumph and will be there all night.
+
