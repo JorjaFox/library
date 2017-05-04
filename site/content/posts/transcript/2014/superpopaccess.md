@@ -1,13 +1,14 @@
-+++
-title = "SuperPopACCESS"
-date = "2014-01-26"
-interviewurl = "https://www.youtube.com/user/SuperPopACCESS"
-author = "Mika Epstein"
-layout = "transcript"
-permalink = "/transcript/2014/:title/"
-categories = ["Interviews"]
-tags = ["2014"]
-+++
+---
+title: SuperPopACCESS
+date: 2014-01-26
+interviewurl: https://www.youtube.com/user/SuperPopACCESS
+author: Mika Epstein
+layout: transcript
+permalink: /transcript/2014/:title/
+categories: ["Interviews"]
+tags:
+  - 2014
+---
 
 *INTERVIEW - Eric Szmanda, Jorja Fox on the best part about Grammy weekend at Universal Music Group 2014 Post Grammy Party at The Ace Hotel Theater on 2014-01-26 in Los Angeles, California.*
 

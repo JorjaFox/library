@@ -1,17 +1,18 @@
-+++
-title = "IDABlog "
-date = "2011-06-07"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2011"]
-categories = ["Articles", "News"]
-permalink = "/news/2011/:title/"
+---
+title: IDABlog 
+date: 2011-06-07
+author: Mika Epstein
+layout: news
+tags: ["2011"]
+categories: ["Articles", "News"]
+permalink: /news/2011/:title/
 
-newstitle = "Are you ready for the Internation day of action for elephants in zoos?"
-newsauthor = "Catherine Doyle "
-newssource = "IDA Blog"
-newsurl = "http://www.idablog.org/elephants/are-you-ready-for-the-international-day-of-action-for-elephants-in-zoos/"
-+++
+newstitle: "Are you ready for the Internation day of action for elephants in zoos?"
+newsauthor: Catherine Doyle 
+newssource: IDA Blog  
+newsurl: http://www.idablog.org/elephants/are-you-ready-for-the-international-day-of-action-for-elephants-in-zoos/  
+
+---
  On Saturday, June 11, activists in at least 24 cities around the world will take part in the International Day of Action for Elephants in Zoos, holding outreach events and demonstrations to send the message that it's wrong to keep elephants in small zoo displays where these magnificent animals are suffering and dying prematurely. This year we're also offering a surprise co-event, but you'll have to stay tuned to this blog for more information later in the week. 
 
 IDA is delighted to announce that CSI's Jorja Fox (also seen in ER and West Wing) has joined Lily Tomlin in endorsing the International Day of Action for Elephants in Zoos. Besides being a great actress, she's also a dedicated advocate for animals and offers these inspiring words: 

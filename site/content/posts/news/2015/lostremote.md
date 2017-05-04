@@ -1,16 +1,17 @@
-+++
-title = "LostRemote"
-date = "2015-09-28"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "CSI Series Finale Drives Little Social Buzz"
-newsauthor = "Karen Fratti"
-newssource = "LostRemote"
-newsurl = "http://www.adweek.com/lostremote/csi-series-finale-drives-little-social-buzz/54032"
-+++
+---
+title: LostRemote
+date: 2015-09-28
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: CSI Series Finale Drives Little Social Buzz  
+newsauthor: Karen Fratti  
+newssource: LostRemote  
+newsurl: http://www.adweek.com/lostremote/csi-series-finale-drives-little-social-buzz/54032  
+
+---
 
 While CSI has been one of the longest-running shows of the decade, its series finale drew almost no digital buzz. Amobee Brand Intelligence analyzed the engagements around the finale and found that just a few fans were called to action last night, which either means that CSI is more a of a VOD hit than anything else or that everyone was watching ABC, which premiered Quantico and Once Upon a Time last night.
 

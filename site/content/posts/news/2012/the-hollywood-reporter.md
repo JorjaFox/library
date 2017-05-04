@@ -1,17 +1,18 @@
-+++
-title = "The Hollywood Reporter"
-date = "2012-05-11"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
+---
+title: The Hollywood Reporter
+date: 2012-05-11
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
 
-newstitle = "&#8216;CSI's' Jorja Fox Inks New Deal to Return to CBS Drama (Exclusive)"
-newsauthor = "Lesley Goldberg"
-newssource = "The Hollywood Reporter"
-newsurl = "http://www.hollywoodreporter.com/live-feed/csi-jorja-fox-new-deal-cbs-television-studios-323338"
-+++
+newstitle: "&#8216;CSI's' Jorja Fox Inks New Deal to Return to CBS Drama (Exclusive)  "
+newsauthor: Lesley Goldberg  
+newssource: The Hollywood Reporter  
+newsurl: http://www.hollywoodreporter.com/live-feed/csi-jorja-fox-new-deal-cbs-television-studios-323338  
+
+---
 
 The original cast member has signed a new pact with CBS Television Studios to return to the long-running procedural for its upcoming 13th season.
 

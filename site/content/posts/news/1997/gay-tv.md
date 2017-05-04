@@ -1,16 +1,17 @@
-+++
-title = "Gay TV"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/1997/:title/"
-tags = ["1997"]
-categories = ["Articles", "News"]
-newstitle = "Gaynet"
-date = "1997-09-26"
-newsauthor = "Staff"
-newssource = "Gay TV"
-newsurl = "http://gay.com"
-+++
+---
+title: Gay TV
+author: Mika Epstein
+layout: news
+permalink: /news/1997/:title/
+tags: ["1997"]
+categories: ["Articles", "News"]
+newstitle: Gaynet  
+date: 1997-09-26  
+newsauthor: Staff  
+newssource: Gay TV  
+newsurl: http://gay.com  
+
+---
 **FUN FACTOID**
 
 Jorja Fox is also the actress known as Jorjan Fox. They're the same person, but when she joined the cast of *ER,* Jorjan shortened her name to Jorja. Oh, those showbiz types.

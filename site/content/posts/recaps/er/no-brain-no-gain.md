@@ -1,19 +1,19 @@
-+++
-title = "No Brain, No Gain"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Seven"
-prodnum = "465407  "
-date = "1996-11-14"
-rating = "1"
-+++
+---
+title: No Brain, No Gain
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Seven  
+prodnum: 465407    
+date: 1996-11-14  
+rating: 1  
+---
 
 Note: Jorja Fox credited as Jorjan Fox
 

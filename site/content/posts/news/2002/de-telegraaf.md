@@ -1,16 +1,17 @@
-+++
-title = "De Telegraaf"
-date = "2002-06-21"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2002"]
-categories = ["Articles", "News"]
-permalink = "/news/2002/:title/"
-newstitle = "TV Weekeinde"
-newsauthor = "Staff"
-newssource = "De Telegraaf"
-newsurl = "http://www.telegraaf.nl"
-+++
+---
+title: De Telegraaf
+date: 2002-06-21
+author: Mika Epstein
+layout: news
+tags: ["2002"]
+categories:
+permalink: /news/2002/:title/
+newstitle: TV Weekeinde  
+newsauthor: Staff  
+newssource: De Telegraaf  
+newsurl: http://www.telegraaf.nl  
+
+---
 
 [CSI] has an outstanding cast with William Petersen, Jorja Fox and Eric Szmanda.
 

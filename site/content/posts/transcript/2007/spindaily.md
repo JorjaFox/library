@@ -1,13 +1,14 @@
-+++
-title = "SpinDaily"
-author = "David Masters"
-layout = "transcript"
-date = "2007-03-16"
-interviewurl = "http://www.spindaily.com/"
-permalink = "/transcript/2007/:title/"
-categories = ["Interviews"]
-tags = ["2007"]
-+++
+---
+title: SpinDaily
+author: David Masters
+layout: transcript
+date: 2007-03-16
+interviewurl: http://www.spindaily.com/  
+permalink: /transcript/2007/:title/
+categories: ["Interviews"]
+tags:
+  - 2007
+---
 
 **Katherine:** Hi, I'm Katherine from SpinDaily.
 

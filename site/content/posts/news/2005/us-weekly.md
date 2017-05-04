@@ -1,17 +1,18 @@
-+++
-title = "US Weekly"
-date = "2005-01-28"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: US Weekly
+date: 2005-01-28
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Prime-Time's Crime-Fighting Beauties"
-newsauthor = "Staff"
-newssource = "US Weekly"
-newsurl = "http://www.usweekly.com"
-+++
+newstitle: "Prime-Time's Crime-Fighting Beauties  "
+newsauthor: Staff  
+newssource: US Weekly  
+newsurl: http://www.usweekly.com  
+
+---
 *CSI*'s Jorja Fox
 
 &bull; **Bio** 36; born in New York, grew up in Melbourne Beach, Florida; currently single

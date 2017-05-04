@@ -1,17 +1,18 @@
-+++
-title = "UGO.com"
-date = "2010-01-24"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
+---
+title: UGO.com
+date: 2010-01-24
+author: Mika Epstein
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
 
-newstitle = "The 50 Hottest Women on Television"
-newsauthor = "UGO Team"
-newssource = "UGO.com"
-newsurl = "http://www.ugo.com/tv/50-hottest-women-on-tv-14"
-+++
+newstitle: "The 50 Hottest Women on Television  "
+newsauthor: UGO Team  
+newssource: UGO.com  
+newsurl: http://www.ugo.com/tv/50-hottest-women-on-tv-14  
+
+---
 
 Lists inspire debate and remind us of our favorite people and events. Oh, and there's one other cool thing about lists: they give us an excuse to drool over dozens of the sexiest women in television.
 

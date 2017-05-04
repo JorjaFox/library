@@ -1,18 +1,19 @@
-+++
-title = "Bite Me"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "3"
-date = "2005-10-06"
-prodnum= "603"
-+++
+---
+title: "Bite Me"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6  
+epnum: 3
+date: 2005-10-06
+prodnum: 603  
+---
 
 ## Synopsis## 
 

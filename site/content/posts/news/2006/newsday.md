@@ -1,17 +1,18 @@
-+++
-title = "Newsday"
-date = "2006-07-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Newsday
+date: 2006-07-17
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "CBS targets the masses"
-newsauthor = "Staff"
-newssource = "Newsday"
-newsurl = "http://www.newsday.com/entertainment/tv/ny-ettour164819479jul16,0,2337581.story?coll=ny-television-print"
-+++
+newstitle: "CBS targets the masses  "
+newsauthor: Staff  
+newssource: Newsday  
+newsurl: http://www.newsday.com/entertainment/tv/ny-ettour164819479jul16,0,2337581.story?coll=ny-television-print  
+
+---
 
 [...]
 

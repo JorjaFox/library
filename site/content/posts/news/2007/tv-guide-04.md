@@ -1,17 +1,18 @@
-+++
-title = "TV Guide Online "
-date = "2007-10-07"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: TV Guide Online 
+date: 2007-10-07
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Ausiello on Lost, Buffy, Heroes, ER and More!"
-newsauthor = "Michael Ausiello"
-newssource = "TV Guide Online (Ask Ausiello)"
-newsurl = "http://www.tvguide.com/Ask-Ausiello/071107 "
-+++
+newstitle: "Ausiello on Lost, Buffy, Heroes, ER and More!  "
+newsauthor: Michael Ausiello  
+newssource: TV Guide Online (Ask Ausiello)  
+newsurl: http://www.tvguide.com/Ask-Ausiello/071107 
+
+---
 [...]
 
 **Question: Got any tidbits about Jorja Fox's final "CSI" episode on Nov. 15? -- Tami**

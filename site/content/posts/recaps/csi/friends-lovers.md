@@ -1,18 +1,19 @@
-+++
-title = "Friends & Lovers"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "5"
-date = "2000-11-03"
-prodnum= "105"
-+++
+---
+title: "Friends & Lovers"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 5
+date: 2000-11-03
+prodnum: 105  
+---
 
 ## Synopsis
 

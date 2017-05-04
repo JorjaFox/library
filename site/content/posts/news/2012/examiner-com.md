@@ -1,17 +1,18 @@
-+++
-title = "Examiner.com"
-date = "2012-10-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
+---
+title: Examiner.com
+date: 2012-10-20
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
 
-newstitle = "&#8216;CSI' spoilers: Sara has sparks with someone from her past"
-newsauthor = "Meredith Jacobs"
-newssource = "Examiner.com"
-newsurl = "http://www.examiner.com/article/csi-spoilers-sara-has-sparks-with-someone-from-her-past"
-+++
+newstitle: "&#8216;CSI' spoilers: Sara has sparks with someone from her past  "
+newsauthor: Meredith Jacobs  
+newssource: Examiner.com  
+newsurl: http://www.examiner.com/article/csi-spoilers-sara-has-sparks-with-someone-from-her-past  
+
+---
 
 "CSI," which airs on CBS 2 in Queens, may be dealing with a possible act of terrorism in an upcoming episode. What happened? On Saturday,Â SpoilerTVÂ shared the following synopsis for episode 10, "Risky Business Class."
 

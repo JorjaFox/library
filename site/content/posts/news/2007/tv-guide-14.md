@@ -1,17 +1,18 @@
-+++
-title = "TV Guide"
-date = "2007-11-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: TV Guide
+date: 2007-11-16
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = " Jorja's 'CSI' Finale, 'Top Model''s Plus-Size Problem, Calista's 'Sister'ly Turn and more!"
-newsauthor = "Matt Roush"
-newssource = "Ask Matt"
-newsurl = "http://www.tvguide.com"
-+++
+newstitle: " Jorja's 'CSI' Finale, 'Top Model''s Plus-Size Problem, Calista's 'Sister'ly Turn and more!"
+newsauthor: Matt Roush
+newssource: Ask Matt
+newsurl: http://www.tvguide.com
+
+---
 
 **Question: Jorja Fox's last "CSI" episode just aired, and that got me to thinking about all the brouhaha back when the relationship between Grissom and Sara was revealed in the Season 6 finale. At the time, there were dire predictions that this was the end of the rope for the series. It had become a soap, turned a corner, jumped the shark, etc. Looking back at it now, do you think that the romance -- its reveal, and the way it was woven into Seasons 7 and 8 -- was a detriment to the show? An asset? My personal opinion is that the creators did a very nice job of keeping the relationship believable and not letting it overtake the procedural nature that is the show's hallmark. That said, Season 7 was perhaps one of "CSI"'s best, not because of the romance storyline but because of the writing (the "miniature killer" and Liev Schreiber arcs) and the artistic gambles the creators took: dead bodies that spoke, a "monster movie"-style episode, the incredibly cute "clip show" featuring the lab rats. -- Sandra S.**
 

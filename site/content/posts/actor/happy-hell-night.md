@@ -1,15 +1,15 @@
-+++
-layout = "actor"
-title = "Happy Hell Night"
-categories = ["Filmography"]
-tags = ["movies"]
-excerpt = "<strong>Happy Hell Night</strong> is about the devil's henchman who escapes from an asylum and stops at a fraternity house he visited 25 years before."
-character = "Kappa Sig Girl"
-chartype = "supporting"
-rating = "2"
-year = "1992"
-genre = "Slasher/Thriller"
-+++
+---
+layout: actor
+title: "Happy Hell Night"
+categories: ["Filmography"]
+tags: ["movies"]
+excerpt: "<strong>Happy Hell Night</strong> is about the devil's henchman who escapes from an asylum and stops at a fraternity house he visited 25 years before."
+character: "Kappa Sig Girl"
+chartype: supporting
+rating: 2
+year: 1992
+genre: "Slasher/Thriller"
+---
 
 25 years ago at Winfield College, psycho-priest Zachary Malius murdered seven frat boys and was put away in the local asylum. Now, however, the same fraternity stages a prank from which Malius is inadvertently set free and returns to the house to repeat his crime...
 

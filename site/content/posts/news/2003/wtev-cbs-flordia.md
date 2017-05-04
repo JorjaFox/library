@@ -1,16 +1,17 @@
-+++
-title = "WTEV CBS Flordia"
-date = "2003-07-03"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "CSI Producers Forced to Increase Security"
-newsauthor = "Staff"
-newssource = "WTEV CBS Jacksonville"
-newsurl = "http://www.wtev.com/"
-+++
+---
+title: WTEV CBS Flordia
+date: 2003-07-03
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: CSI Producers Forced to Increase Security  
+newsauthor: Staff  
+newssource: WTEV CBS Jacksonville  
+newsurl: http://www.wtev.com/  
+
+---
 
 The producers of hit TV drama CSI: Crime Scene Investigation are stepping up security on the show's California set after cast members received a barrage of death threat mail and calls. 
 

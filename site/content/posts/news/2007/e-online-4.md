@@ -1,17 +1,18 @@
-+++
-title = "E! Online "
-date = "2007-10-15"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: E! Online 
+date: 2007-10-15
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Breaking! Jorja Fox Confirms Her CSI Departure"
-newsauthor = "Staff"
-newssource = "Watch With Kristin"
-newsurl = "http://www.eonline.com"
-+++
+newstitle: "Breaking! Jorja Fox Confirms Her CSI Departure"
+newsauthor: Staff
+newssource: Watch With Kristin
+newsurl: http://www.eonline.com
+
+---
 
 Well, I suppose this puts the nail in the coffin. Sorry, Sara Sidle fans.
 

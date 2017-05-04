@@ -1,18 +1,19 @@
-+++
-title = "Way to Go"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "24"
-prodnum= "624"
-date = "2006-05-18"
-+++
+---
+title: "Way to Go"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6  
+epnum: 24
+prodnum: 624  
+date: 2006-05-18
+---
 
 ## Synopsis
 

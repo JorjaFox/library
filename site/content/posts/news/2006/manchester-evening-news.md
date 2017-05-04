@@ -1,17 +1,18 @@
-+++
-title = "Manchester Evening News"
-date = "2006-07-29"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Manchester Evening News
+date: 2006-07-29
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Jorja's thrill ride finale"
-newsauthor = "Staff"
-newssource = "Manchester Evening News"
-newsurl = "http://www.manchestereveningnews.co.uk"
-+++
+newstitle: "Jorja's thrill ride finale  "
+newsauthor: Staff  
+newssource: Manchester Evening News  
+newsurl: http://www.manchestereveningnews.co.uk  
+
+---
 
 She's played Sara Sidle in the hit American forensics drama **CSI: Crime Scene Investigation** for six years, but Jorja Fox says she still isn't bored with the role. 
 

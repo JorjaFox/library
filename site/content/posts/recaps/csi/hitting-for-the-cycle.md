@@ -1,19 +1,20 @@
-+++
-title = "Hitting for the Cycle"
-slug = "hitting-for-the-cycle"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "18"
-date = "2011-03-31"
-prodnum= "247"
-+++
+---
+title: "Hitting for the Cycle"
+slug: hitting-for-the-cycle
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11
+epnum: 18
+date: 2011-03-31
+prodnum: 247  
+---
 
 ## Synopsis
 

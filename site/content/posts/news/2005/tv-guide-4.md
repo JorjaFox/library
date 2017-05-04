@@ -1,17 +1,18 @@
-+++
-title = "TV Guide"
-date = "2005-12-12"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: TV Guide
+date: 2005-12-12
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "CSI A to Z"
-newsauthor = "Staff"
-newssource = "TV Guide"
-newsurl = "http://tvguide.com"
-+++
+newstitle: "CSI A to Z"
+newsauthor: Staff  
+newssource: TV Guide  
+newsurl: http://tvguide.com  
+
+---
 [...]
 
 **D | Double-Ups** Ever find yourself puzzled (or elated) when a particular *CSI* episode features, say, only Grissom (William Petersen) and Nick (George Eads), and is followed the next week by one about only Sara (Jorja Fox) and Catherine (Helgenberger)? Such character divisions occasionally happen because of a production double-up &#8212; when the show's scheduling demands require the series to shoot two episodes simultaneously.

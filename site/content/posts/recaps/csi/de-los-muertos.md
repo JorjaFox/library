@@ -1,18 +1,19 @@
-+++
-title = "De Los Muertos"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "14"
-date = "2014-02-05"
-prodnum= "309"
-+++
+---
+title: "De Los Muertos"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14  
+epnum: 14  
+date: 2014-02-05
+prodnum: 309  
+---
 
 ## Synopsis
 

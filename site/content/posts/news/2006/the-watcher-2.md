@@ -1,16 +1,18 @@
-+++
-title = "The Watcher"
-date = "2006-05-25"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
-newstitle = "Solving the mystery of the CSI finale shocker"
-newsauthor = "Staff"
-newssource = "The Watcher - A Chicago Tribune Web log"
-newsurl = "http://featuresblogs.chicagotribune.com/"
-+++
+---
+title: The Watcher
+date: 2006-05-25
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
+
+newstitle: "Solving the mystery of the CSI finale shocker  "
+newsauthor: Staff  
+newssource: The Watcher - A Chicago Tribune Web log  
+newsurl: http://featuresblogs.chicagotribune.com/entertainment\_tv/2006/05/solving\_the_mys.html  
+
+---
 
 That sound you heard at 9 p.m. on May 18 was collective gasping from millions of "**CSI**" fans as they watched an intimate scene from the show's season finale, in which Gil Grissom (**William Petersen**) chatted casually with co-worker Sara Sidle (**Jorja Fox**) &#8212; in a bedroom.
 

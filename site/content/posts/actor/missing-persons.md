@@ -1,18 +1,18 @@
-+++
-layout = "actor"
-title = "Missing Persons"
-categories = ["Filmography"]
-tags = ["Television"]
-show = "mp"
-station = "ABC"
-rating = "4"
-seasons = "1"
-chartype = "main"
-genre = "Drama"
-year = "1993"
-character = "Constance Karadzic"
-excerpt = "<strong>Missing Persons</strong> was a television show about missing people, and the detectives who tried to track them down while putting their own lives back together."
-+++
+---
+layout: actor
+title: "Missing Persons"
+categories: ["Filmography"]
+tags: ["Television"]
+show: mp
+station: ABC
+rating: 4
+seasons: 1
+chartype: main
+genre: Drama
+year: 1993
+character: "Constance Karadzic"
+excerpt: "<strong>Missing Persons</strong> was a television show about missing people, and the detectives who tried to track them down while putting their own lives back together."
+---
 
 The show aired from August 1993 through February 1994 on ABC at 8 p.m., apart from the feature-length pilot episode, which was broadcast as the Monday Night Movie from 9 p.m.-11 p.m. ET.
 

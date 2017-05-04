@@ -1,13 +1,15 @@
-+++
-title = "E! - Emmy Red Carpet"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2004-09-19"
-interviewurl = "http://www.eonline.com"
-permalink = "/transcript/2004/:title/"
-categories = ["Interviews"]
-tags = ["Red Carpet", "2004"]
-+++
+---
+title: E! - Emmy Red Carpet
+author: Mika Epstein
+layout: transcript
+date: 2004-09-19
+interviewurl: http://www.eonline.com  
+permalink: /transcript/2004/:title/
+categories: ["Interviews"]
+tags:
+  - "Red Carpet"
+  - 2004
+---
 
 **Star Jones:** In the mean time my girl is here.
 

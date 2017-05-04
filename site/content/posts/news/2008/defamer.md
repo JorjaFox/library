@@ -1,17 +1,18 @@
-+++
-title = "Defamer (7 March 2008)"
-date = "2008-03-07"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Defamer (7 March 2008)
+date: 2008-03-07
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Hollywood PrivacyWatch: Bruce Willis Man Enough To Pull Off Lavender"
-newsauthor = "Seth"
-newssource = "Defamer"
-newsurl = "http://defamer.com/365361/bruce-willis-man-enough-to-pull-off-lavender"
-+++
+newstitle: "Hollywood PrivacyWatch: Bruce Willis Man Enough To Pull Off Lavender"
+newsauthor: Seth
+newssource: Defamer
+newsurl: http://defamer.com/365361/bruce-willis-man-enough-to-pull-off-lavender
+
+---
 
 [...]
 

@@ -1,17 +1,18 @@
-+++
-title = "CNN"
-date = "2011-02-23"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: CNN
+date: 2011-02-23
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "Lions rescued in Bolivia have new home on plains of Colorado"
-newsauthor = "CNN Wire Staff"
-newssource = "CNN"
-newsurl = "http://www.cnn.com/"
-+++
+newstitle: "Lions rescued in Bolivia have new home on plains of Colorado  "
+newsauthor: CNN Wire Staff  
+newssource: CNN  
+newsurl: http://www.cnn.com/  
+
+---
 
 **(CNN) &#8212;** Two dozen lions rescued from harrowing conditions at circuses in Bolivia have a new home in Colorado, where they will live outside of cages and roar at the distant Rocky Mountains.
 

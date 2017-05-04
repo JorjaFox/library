@@ -1,18 +1,19 @@
-+++
-title = "You've Got Male"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "12"
-date = "2001-12-20"
-prodnum= "212"
-+++
+---
+title: "You've Got Male"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2
+epnum: 12
+date: 2001-12-20
+prodnum: 212  
+---
 
 ## Synopsis
 

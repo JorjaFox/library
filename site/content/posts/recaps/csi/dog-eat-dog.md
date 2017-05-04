@@ -1,18 +1,19 @@
-+++
-title = "Dog Eat Dog"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "9"
-date = "2005-11-24"
-prodnum = "609"
-+++
+---
+title: "Dog Eat Dog"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 9
+date: 2005-11-24  
+prodnum: 609  
+---
 
 ## Synopsis
 

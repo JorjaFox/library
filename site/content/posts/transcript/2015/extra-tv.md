@@ -1,13 +1,14 @@
-+++
-title = "ExtraTV"
-date = "2015-08-18"
-author = "Mika Epstein"
-layout = "transcript"
-interviewurl = "http://extratv.com/videos/0_mjhid6vd"
-permalink = "/transcript/2015/:title/"
-categories = ["Interviews"]
-tags = ["2015"]
-+++
+---
+title: ExtraTV
+date: 2015-08-18
+author: Mika Epstein
+layout: transcript
+interviewurl: http://extratv.com/videos/0_mjhid6vd
+permalink: /transcript/2015/:title/
+categories: ["Interviews"]
+tags:
+  - 2015
+---
 
 ## On the Set of 'CSI'! All the Scoop on the Series Finale  
 

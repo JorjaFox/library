@@ -1,16 +1,17 @@
-+++
-title = "CNN"
-date = "2004-07-15"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "&#8216;CSI' actors fired"
-newsauthor = "Staff"
-newssource = "CNN"
-newsurl = "http://cnn.com"
-+++
+---
+title: CNN
+date: 2004-07-15
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "&#8216;CSI' actors fired"
+newsauthor: Staff  
+newssource: CNN  
+newsurl: http://cnn.com  
+
+---
 
 Fox and Eads let go for breach of contract, sources say
 

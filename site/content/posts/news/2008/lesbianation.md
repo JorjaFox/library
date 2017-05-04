@@ -1,17 +1,18 @@
-+++
-title = "LesbiaNataion"
-date = "2008-01-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: LesbiaNataion
+date: 2008-01-01
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Women We Love"
-newsauthor = "Shane Cassidy"
-newssource = "LesbiaNataion"
-newsurl = "http://www.lesbianation.com/scene/index.cfm?listID=193"
-+++
+newstitle: "Women We Love"
+newsauthor: Shane Cassidy  
+newssource: LesbiaNataion
+newsurl: http://www.lesbianation.com/scene/index.cfm?listID=193
+
+---
 
 ## Most Loved Women of 2007
 

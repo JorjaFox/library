@@ -1,17 +1,18 @@
-+++
-title = "Daily Sundial "
-date = "2007-10-10"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Daily Sundial 
+date: 2007-10-10
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Makers of &#8216;CSI' film episode on campus"
-newsauthor = "Daily Sundial"
-newssource = "Daily Sundial"
-newsurl = "http://media.sundial.csun.edu"
-+++
+newstitle: "Makers of &#8216;CSI' film episode on campus"
+newsauthor: Daily Sundial
+newssource: Daily Sundial
+newsurl: http://media.sundial.csun.edu
+
+---
 
 [...]
 

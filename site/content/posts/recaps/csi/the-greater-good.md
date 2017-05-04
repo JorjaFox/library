@@ -1,18 +1,19 @@
-+++
-title = "The Greater Good"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "15"
-epnum = "13"
-date = "2015-01-04"
-prodnum= "330"
-+++
+---
+title: "The Greater Good"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 15  
+epnum: 13  
+date: 2015-01-04
+prodnum: 330  
+---
 
 ## Synopsis
 

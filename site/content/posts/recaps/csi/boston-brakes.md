@@ -1,18 +1,19 @@
-+++
-title = "Boston Brakes"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "13"
-date = "2014-01-22"
-prodnum= "308"
-+++
+---
+title: "Boston Brakes"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14  
+epnum: 13  
+date: 2014-01-22
+prodnum: 308  
+---
 
 ## Synopsis
 

@@ -1,18 +1,19 @@
-+++
-title = "Coup de Grace"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "10"
-epnum = "4"
-date = "2009-10-15"
-prodnum= "210"
-+++
+---
+title: "Coup de Grace"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 10
+epnum: 4  
+date: 2009-10-15
+prodnum: 210  
+---
 
 ## Synopsis
 

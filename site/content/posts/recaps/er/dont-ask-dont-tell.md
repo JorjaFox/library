@@ -1,19 +1,19 @@
-+++
-title = "Don't Ask, Don't Tell"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Three"
-prodnum = "465403  "
-date = "1996-10-10"
-rating = "3"
-+++
+---
+title: "Don't Ask, Don't Tell"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Three  
+prodnum: 465403    
+date: 1996-10-10  
+rating: 3  
+---
 
 _Note: Jorja Fox credited as Jorjan Fox_
 

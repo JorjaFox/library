@@ -1,18 +1,19 @@
-+++
-title = "Fahrenheit 932"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "12"
-date = "2001-02-01"
-prodnum= "111"
-+++
+---
+title: "Fahrenheit 932"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1  
+epnum: 12
+date: 2001-02-01
+prodnum: 111  
+---
 
 ## Synopsis
 

@@ -1,18 +1,19 @@
-+++
-title = "Lover's Lanes"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "10"
-epnum = "8"
-date = "2009-11-19"
-prodnum= "215"
-+++
+---
+title: "Lover's Lanes"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 10
+epnum: 8  
+date: 2009-11-19
+prodnum: 215  
+---
 
 ## Synopsis
 

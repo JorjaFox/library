@@ -1,19 +1,19 @@
-+++
-title = "Something New"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Four"
-epnum = "Two"
-prodnum = "466351  "
-date = "1997-10-02"
-rating = "1"
-+++
+---
+title: Something New
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Four  
+epnum: Two  
+prodnum: 466351    
+date: 1997-10-02
+rating: 1  
+---
 
 ## Summary  
   

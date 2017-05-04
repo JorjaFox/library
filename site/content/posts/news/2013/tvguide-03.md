@@ -1,17 +1,18 @@
-+++
-title = "TV Guide Magazine"
-date = "2013-09-28"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
+---
+title: TV Guide Magazine
+date: 2013-09-28
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
 
-newstitle = "CSI: Catherine and Sara INTERROGATED"
-newsauthor = "Craig Tomashoff"
-newssource = "TV Guide Magazine"
-newsurl = "http://www.tvguidemagazine.com/"
-+++
+newstitle: "CSI: Catherine and Sara INTERROGATED  "
+newsauthor: Craig Tomashoff  
+newssource: TV Guide Magazine  
+newsurl: http://www.tvguidemagazine.com/  
+
+---
 
  "'Marg Helgenberger and Jorja Fox answer burning questions about Sara's return and the crime show's killer new season"'
 

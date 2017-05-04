@@ -1,17 +1,18 @@
-+++
-title = "Chicago Tribune "
-date = "2007-09-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Chicago Tribune 
+date: 2007-09-13
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "News on Spike, Sara Sidle and Santos"
-newsauthor = "Staff"
-newssource = "Chicago Tribune"
-newsurl = "http://chicagotribune.com"
-+++
+newstitle: "News on Spike, Sara Sidle and Santos"
+newsauthor: Staff
+newssource: Chicago Tribune
+newsurl: http://chicagotribune.com
+
+---
 
 So what is happening with Sara Sidle on "CSI"?
 

@@ -1,11 +1,12 @@
-+++
-title = "CBS Cares"
-author = "Mika Epstein"
-layout = "advocacy"
-categories = ["Advocacy"]
-tags = [ "psa"]
-website = "http://www.cbs.com/cbs_cares/"
-+++
+---
+title: CBS Cares
+author: Mika Epstein
+layout: advocacy
+categories: ["Advocacy"]
+tags: 
+  - psa
+website: http://www.cbs.com/cbs_cares/
+---
 
 While on CSI: Crime Scene Investigation, Jorja Fox and many of her cast members filmed Public Service Announcements for CBS.
 

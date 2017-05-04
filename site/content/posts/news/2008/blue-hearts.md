@@ -1,17 +1,18 @@
-+++
-title = "Blue Hearts "
-date = "2008-08-27"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2008"]
-categories = ["Articles", "News"]
-permalink = "/news/2008/:title/"
+---
+title: Blue Hearts 
+date: 2008-08-27
+author: Mika Epstein
+layout: news
+tags: ["2008"]
+categories: ["Articles", "News"]
+permalink: /news/2008/:title/
 
-newstitle = "Day 3 at the convention"
-newsauthor = "Kristin Amend"
-newssource = "Blue Hearts"
-newsurl = "http://blueheartskc.blogspot.com/2008/08/blue-hearts-day-3-at-convention.html"
-+++
+newstitle: "Day 3 at the convention  "
+newsauthor: Kristin Amend  
+newssource: Blue Hearts  
+newsurl: http://blueheartskc.blogspot.com/2008/08/blue-hearts-day-3-at-convention.html  
+
+---
 
 [...]
 

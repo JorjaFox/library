@@ -1,17 +1,18 @@
-+++
-title = "OK Weekly"
-date = "2006-10-30"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: OK Weekly
+date: 2006-10-30
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Foxy Lady"
-newsauthor = "Staff"
-newssource = "OK Weekly"
-newsurl = " http://okmagazine.com/"
-+++
+newstitle: "Foxy Lady"
+newsauthor: Staff  
+newssource: OK Weekly  
+newsurl:  http://okmagazine.com/
+
+---
 
 "My six-pack is not like most actresses' &#8212; my six-pack is beer."
 

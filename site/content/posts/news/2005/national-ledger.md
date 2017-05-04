@@ -1,17 +1,18 @@
-+++
-title = "National Ledger"
-date = "2005-08-27"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: National Ledger
+date: 2005-08-27
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Ask Stacy: Who Makes More, 50 Cent or Nicole Kidman?"
-newsauthor = "Staff"
-newssource = "National Ledger"
-newsurl = "http://www.nationalledger.com"
-+++
+newstitle: "Ask Stacy: Who Makes More, 50 Cent or Nicole Kidman?"
+newsauthor: Staff  
+newssource: National Ledger  
+newsurl: http://www.nationalledger.com  
+
+---
 [...]
 
 DEAR STACY: I would like to know more about Jorja Fox of "CSI." I think she is a lovely lady. What is her background, and has she played on other shows? I wish they would dress her up more instead of the bland clothes they make her wear. &#8212; R.R., Cleveland

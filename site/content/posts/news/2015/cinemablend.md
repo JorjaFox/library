@@ -1,16 +1,17 @@
-+++
-title = "CinemaBlend"
-date = "2015-09-28"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "CSI: CBS' Drama Just Gave The Fans The Ending They Deserved"
-newsauthor = "Libby Hill"
-newssource = "CinemaBlend"
-newsurl = "http://www.cinemablend.com/television/CSI-CBS-Drama-Just-Gave-Fans-Ending-They-Deserved-88607.html"
-+++
+---
+title: CinemaBlend
+date: 2015-09-28
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: "CSI: CBS' Drama Just Gave The Fans The Ending They Deserved"
+newsauthor: Libby Hill  
+newssource: CinemaBlend  
+newsurl: http://www.cinemablend.com/television/CSI-CBS-Drama-Just-Gave-Fans-Ending-They-Deserved-88607.html  
+
+---
 
 [...]
 

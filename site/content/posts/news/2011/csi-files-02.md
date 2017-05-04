@@ -1,17 +1,18 @@
-+++
-title = "CSI Files"
-date = "2011-10-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: CSI Files
+date: 2011-10-20
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "Interview: Jorja Fox"
-newsauthor = "Shane S. Saunders"
-newssource = "CSI Files"
-newsurl = "http://www.csifiles.com/content/2011/10/chat-transcript-elisabeth-harnois/"
-+++
+newstitle: "Interview: Jorja Fox  "
+newsauthor: Shane S. Saunders  
+newssource: CSI Files  
+newsurl: http://www.csifiles.com/content/2011/10/chat-transcript-elisabeth-harnois/  
+
+---
 
 On Wednesday the 19th of October, **Elisabeth Harnois** (Morgan Brody) took part in a live chat session with CSI Files visitors, during which she answered questions about her character, Halloween pranks on the "CSI: Crime Scene Investigation" set and many more. Below you can find a transcript of the entire chat.
 

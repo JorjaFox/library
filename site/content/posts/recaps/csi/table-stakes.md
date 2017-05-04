@@ -1,18 +1,19 @@
-+++
-title = "Table Stakes"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "15"
-date = "2001-02-22"
-prodnum= "114"
-+++
+---
+title: "Table Stakes"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 15
+date: 2001-02-22
+prodnum: 114  
+---
 
 ## Synopsis
 

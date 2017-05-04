@@ -1,17 +1,18 @@
-+++
-title = "TVGuide.com "
-date = "2009-07-17"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2009"]
-categories = ["Articles", "News"]
-permalink = "/news/2009/:title/"
+---
+title: TVGuide.com 
+date: 2009-07-17
+author: Mika Epstein
+layout: news
+tags: ["2009"]
+categories: ["Articles", "News"]
+permalink: /news/2009/:title/
 
-newstitle = "Breaking: Jorja Fox Returns to 'CSI"
-newsauthor = "Matt Mitovich"
-newssource = "TVGuide.com"
-newsurl = "http://www.tvguide.com/News/Jorja-Returns-CSI-1008233.aspx"
-+++
+newstitle: "Breaking: Jorja Fox Returns to 'CSI'"
+newsauthor: Matt Mitovich  
+newssource: TVGuide.com  
+newsurl: http://www.tvguide.com/News/Jorja-Returns-CSI-1008233.aspx  
+
+---
 
  Jorja Fox is returning to "CSI" as Sara Sidle.
 

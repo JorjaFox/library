@@ -1,17 +1,18 @@
-+++
-title = "Calendarlive.com"
-date = "2006-03-29"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Calendarlive.com
+date: 2006-03-29
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "The menu? Food for thought"
-newsauthor = "Staff"
-newssource = "Calendarlive.com"
-newsurl = "http://Calendarlive.com"
-+++
+newstitle: "The menu? Food for thought  "
+newsauthor: Staff  
+newssource: Calendarlive.com  
+newsurl: http://Calendarlive.com  
+
+---
 
 Farm critters don't have to worry about their future at the Animal Acres shelter.
 

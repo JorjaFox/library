@@ -1,17 +1,18 @@
-+++
-title = "Ecorazzi"
-date = "2011-11-09"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: Ecorazzi
+date: 2011-11-09
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "CSI Star Jorja Fox Wants You to Investigate Vegetarianism"
-newsauthor = "Ali Berman"
-newssource = "Ecorazzi"
-newsurl = "http://www.ecorazzi.com/2011/11/09/csi-star-jorja-fox-wants-you-to-investigate-vegetarianism/"
-+++
+newstitle: "CSI Star Jorja Fox Wants You to Investigate Vegetarianism  "
+newsauthor: Ali Berman  
+newssource: Ecorazzi  
+newsurl: http://www.ecorazzi.com/2011/11/09/csi-star-jorja-fox-wants-you-to-investigate-vegetarianism/  
+
+---
 
 **Jorja Fox** spends her days investigating crimes on the TV show 'CSI.' Now, she's asking the public to do some investigating of their own. Not hair remnants or clothing fibers, but the way 10 billion farm animals are raised for food annually in the USA. She wants you to explore vegetarianism.
 

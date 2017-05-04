@@ -1,16 +1,17 @@
-+++
-title = "Shape Magazine"
-date = "2001-10-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = "The Hot 20: CSI's Foxy Lady"
-newsauthor = "Staff"
-newssource = "Shape Magazine"
-newsurl = "http://www.shapemag.com"
-+++
+---
+title: Shape Magazine
+date: 2001-10-16
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle: "The Hot 20: CSI's Foxy Lady"
+newsauthor: Staff  
+newssource: Shape Magazine  
+newsurl: http://www.shapemag.com  
+
+---
 Jorja Fox admits she has trouble seeing herself as the beautiful woman she is today. "Up until the age of 17, I was an overweight kid," she says. "So I still see my body that way sometimes. It stays with you." Lately though, Fox has been feeling more comfortable in her own skin, having landed a coveted role as crime scene investigator Sara Sidle on last season's top-rated freshman drama, *CSI*. Fox, a self-admitted tomboy, says she prefers outdoor exercise to the confines of a gym. "I've never even had a membership!" - Alexis Iacone.
 
 **WORKOUT** "I try to work out every day. Of course, it ends up being like every other day. I do stuff outside. I grew up on the beach in Florida, and everything there involved some kind of outdoor activity: surfing or waterskiing or swimming or hiking. And in California, there's always some kind of outdoor sport to do."

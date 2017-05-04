@@ -1,13 +1,16 @@
-+++
-title = "The Early Show "
-author = "David Masters"
-layout = "transcript"
-interviewurl = "http://www.cbsnews.com/earlyshow/"
-date = "2006-04-28"
-permalink = "/transcript/2006/:title/"
-categories = ["Interviews"]
-tags = ["2006", "talk shows"]
-+++
+---
+title: The Early Show 
+author: David Masters
+layout: transcript
+interviewurl: http://www.cbsnews.com/earlyshow/
+date: 2006-04-28
+permalink: /transcript/2006/:title/
+categories: ["Interviews"]
+
+tags:
+  - 2006
+  - 'talk shows'
+---
 
 **Julie Chen:** What does it tell us about your character, the vision, the re-creation you had? What was that like?
 

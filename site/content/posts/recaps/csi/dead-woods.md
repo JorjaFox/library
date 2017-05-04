@@ -1,18 +1,19 @@
-+++
-title = "Dead Woods"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "15"
-epnum = "12"
-date = "2014-12-28"
-prodnum= "329"
-+++
+---
+title: "Dead Woods"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 15  
+epnum: 12  
+date: 2014-12-28
+prodnum: 329  
+---
 
 ## Synopsis
 

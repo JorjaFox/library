@@ -1,13 +1,15 @@
-+++
-title = "I Love the '70s"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2003-08-18"
-interviewurl = "http://vh1.com/"
-permalink = "/transcript/2003/:title/"
-categories = ["Interviews"]
-tags = ["Talk Shows", "2003"]
-+++
+---
+title: "I Love the '70s"
+author: Mika Epstein
+layout: transcript
+date: 2003-08-18
+interviewurl: http://vh1.com/
+permalink: /transcript/2003/:title/
+categories: ["Interviews"]
+tags:
+  - "Talk Shows"
+  - 2003
+---
 
 "I Love the 70s" is a television mini-series shown on VH1, and was created after the success of "I Love the '80s".
 

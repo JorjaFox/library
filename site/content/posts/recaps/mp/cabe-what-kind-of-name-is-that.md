@@ -1,17 +1,17 @@
-+++
-title = "Cabe?... What kind of name is that?"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/:title/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-date = "1993-09-23"
-season = "1"
-episode = "2"
-+++
+---
+title: "Cabe?... What kind of name is that?"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/missing-persons/:title/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+date: 1993-09-23
+season: 1
+episode: 2
+---
 
 ## Synopsis
 

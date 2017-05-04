@@ -1,17 +1,17 @@
-+++
-title = "My Beautiful Son is Okay"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/:title/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-date = "1994-01-20"
-season = "1"
-episode = "14"
-+++
+---
+title: My Beautiful Son is Okay
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/missing-persons/:title/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+date: 1994-01-20
+season: 1
+episode: 14
+---
   
 ## Synopsis
 

@@ -1,13 +1,14 @@
-+++
-title = "'Women Of ... Primetime Crime"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2002-03-08"
-interviewurl = "http://www.eonline.com/"
-permalink = "/transcript/2002/:title/"
-categories = ["Interviews"]
-tags = ["2002"]
-+++
+---
+title: 'Women Of ... Primetime Crime'
+author: Mika Epstein
+layout: transcript
+date: 2002-03-08
+interviewurl: http://www.eonline.com/
+permalink: /transcript/2002/:title/
+categories: ["Interviews"]
+tags:
+  - 2002
+---
  
 ## Intro
 

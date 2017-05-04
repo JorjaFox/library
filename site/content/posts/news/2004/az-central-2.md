@@ -1,16 +1,17 @@
-+++
-title = "AZ Central"
-date = "2004-07-24"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "&#8216;Crime Scene' solution"
-newsauthor = "Staff"
-newssource = "AZ Central"
-newsurl = "http://www.azcentral.com/"
-+++
+---
+title: AZ Central
+date: 2004-07-24
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "&#8216;Crime Scene' solution"
+newsauthor: Staff  
+newssource: AZ Central  
+newsurl: http://www.azcentral.com/  
+
+---
 
 **Jorja Fox**, the *CSI: Crime Scene Investigation* star who was fired for skipping work in a salary dispute, is returning to the hit CBS drama at her old $100,000-per-episode salary.
 

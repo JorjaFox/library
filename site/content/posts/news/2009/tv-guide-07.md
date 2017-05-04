@@ -1,17 +1,18 @@
-+++
-title = "TV Guide Magazine "
-date = "2009-07-27"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2009"]
-categories = ["Articles", "News"]
-permalink = "/news/2009/:title/"
+---
+title: TV Guide Magazine 
+date: 2009-07-27
+author: Mika Epstein
+layout: news
+tags: ["2009"]
+categories: ["Articles", "News"]
+permalink: /news/2009/:title/
 
-newstitle = "*CSI*&#8216;s Riley Leaves the Lab"
-newsauthor = "Carita Rizzo"
-newssource = "TV Guide Magazine"
-newsurl = "http://www.tvguidemagazine.com/news/csis-riley-leaves-the-lab-1852.html"
-+++
+newstitle: "*CSI*&#8216;s Riley Leaves the Lab  "
+newsauthor: Carita Rizzo  
+newssource: TV Guide Magazine  
+newsurl: http://www.tvguidemagazine.com/news/csis-riley-leaves-the-lab-1852.html  
+
+---
 
  When "CSI" returns for its 10th season, the lab will once again be short staffed. Executive producer Naren Shankar confirms to TVGuideMagazine.com that Lauren Lee Smith will not return as series regular, Riley Adams. 'She's not going to be back for Season 10,' he tells us exclusively. [...]
 

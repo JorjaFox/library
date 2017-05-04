@@ -1,12 +1,12 @@
-+++
-title = "Recaps"
-author = "Mika Epstein"
-layout = "single"
-permalink = "/recaps/"
-categories = ["Recaps"]
-tags = ["Index"]
-type = "index"
-+++
+---
+title: Recaps
+author: Mika Epstein
+layout: single
+permalink: /recaps/
+categories: ["Recaps"]
+tags: [Index]
+type: index
+---
 
 Television show recaps have been made available after hours and years of watching.
 

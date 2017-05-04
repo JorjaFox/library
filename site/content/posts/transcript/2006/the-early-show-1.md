@@ -1,13 +1,15 @@
-+++
-title = "The Early Show"
-author = "David Masters"
-layout = "transcript"
-interviewurl = "http://www.cbsnews.com/earlyshow/"
-date = "2006-05-11"
-permalink = "/transcript/2006/:title/"
-categories = ["Interviews"]
-tags = ["2006"]
-+++
+---
+title: The Early Show
+author: David Masters
+layout: transcript
+interviewurl: http://www.cbsnews.com/earlyshow/
+date: 2006-05-11
+permalink: /transcript/2006/:title/
+categories: ["Interviews"]
+
+tags:
+  - 2006
+---
 
 [...]
 

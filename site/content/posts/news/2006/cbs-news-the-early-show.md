@@ -1,17 +1,18 @@
-+++
-title = "CBS News - The Early Show"
-date = "2006-05-10"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["Articles", "News"]
-tags = ["2006"]
+---
+title: "CBS News - The Early Show"
+date: 2006-05-10
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: ["Articles", "News"]
+tags: ["2006"]
 
-newstitle = "The Early show = Inside Minds Of &#8216;CSI' Characters"
-newsauthor = "Staff"
-newssource = "CBS News"
-newsurl = "http://www.cbsnews.com"
-+++
+newstitle: "The Early Show: Inside Minds Of &#8216;CSI' Characters"
+newsauthor: Staff  
+newssource: CBS News  
+newsurl: http://www.cbsnews.com  
+
+---
 
 **Several Of The Actors Reflect On What Makes Them Tick**
 
@@ -31,7 +32,7 @@ Also this season, the ticking time bomb of attraction continued between Grissom 
 
 "You're more Sara than Jorja," Chen observed. 
 
-"Yeah, yeah, no, it's confusing sometimes," Fox responded. "Certain times of the year, I'll buy a piece of wardrobe and I'll look at it in the summer and I'll be like, &#8216;Who bought that? Who did... Oh, right, Sara must have bought that!"] she laughed. "You know, it's a strange thing that you go in and out of." 
+"Yeah, yeah, no, it's confusing sometimes," Fox responded. "Certain times of the year, I'll buy a piece of wardrobe and I'll look at it in the summer and I'll be like, &#8216;Who bought that? Who did... Oh, right, Sara must have bought that!'" she laughed. "You know, it's a strange thing that you go in and out of." 
 
 Last season ended with Nick Stokes, portrayed by George Eads, buried alive &#8212; and this season appeared to follow in that dark tradition, Chen said. There was a murder scene that echoed the Holocaust, another episode in which a woman was sealed alive inside a chimney, and the team even investigated a mass suicide. 
 

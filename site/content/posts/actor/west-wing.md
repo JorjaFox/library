@@ -1,18 +1,19 @@
-+++
-layout = "actor"
-title = "The West Wing"
-categories = ["Filmography"]
-tags = ["Television"]
-type = "Drama"
-character = "Gina Toscano"
-chartype = "guest"
-episodes = "5"
-rating = "3"
-station = "NBC"
-year = "1999-2006"
-genre = "Political Drama"
-excerpt = "<strong>The West Wing</strong> was a popular and widely acclaimed American television serial drama set in the White House during the fictional Democratic administration of Josiah 'Jed' Bartlet."
-+++
+---
+layout: actor
+title: "The West Wing"
+categories: ["Filmography"]
+tags: ["Television"]
+year: 2000-2015
+type: Drama
+character: "Gina Toscano"
+chartype: guest
+episodes: 5
+rating: 3
+station: NBC
+year: 1999-2006
+genre: "Political Drama"
+excerpt: "<strong>The West Wing</strong> was a popular and widely acclaimed American television serial drama set in the White House during the fictional Democratic administration of Josiah 'Jed' Bartlet."
+---
 
 ## Character
 

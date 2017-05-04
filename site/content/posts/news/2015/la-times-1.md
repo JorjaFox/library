@@ -1,16 +1,17 @@
-+++
-title = "LA Times"
-date = "2015-09-26"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "As 'CSI' comes to a close, actress Jorja Fox is open to an uncertain future"
-newsauthor = "Jessica Ritz"
-newssource = "LA Times"
-newsurl = "http://www.latimes.com/health/la-he-jorja-fox-csi-interview-20150926-story.html"
-+++
+---
+title: LA Times
+date: 2015-09-26
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: "As 'CSI' comes to a close, actress Jorja Fox is open to an uncertain future"
+newsauthor: Jessica Ritz  
+newssource: LA Times  
+newsurl: http://www.latimes.com/health/la-he-jorja-fox-csi-interview-20150926-story.html  
+
+---
 
 "Jorja Fox of "CSI" is preparing to face welcome uncertainty. "I think you kind of have to embrace the unknown if you're an actor," she says."
 

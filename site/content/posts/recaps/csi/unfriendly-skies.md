@@ -1,18 +1,19 @@
-+++
-title = "Unfriendly Skies"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "9"
-date = "2000-12-08"
-prodnum= "109"
-+++
+---
+title: "Unfriendly Skies"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1  
+epnum: 9
+date: 2000-12-08
+prodnum: 109  
+---
 
 ## Synopsis
 

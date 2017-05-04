@@ -1,18 +1,19 @@
-+++
-title = "Bump and Grind"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "7"
-date = "2010-11-04"
-prodnum= "236"
-+++
+---
+title: "Bump and Grind"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11
+epnum: 7  
+date: 2010-11-04
+prodnum: 236  
+---
 
 ## Synopsis
 

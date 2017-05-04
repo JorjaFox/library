@@ -1,17 +1,18 @@
-+++
-title = "EW.com "
-date = "2007-10-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: EW.com 
+date: 2007-10-17
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Jorja Fox: Why I Quit &#8216;CSI"
-newsauthor = "Lynette Rice"
-newssource = "EW"
-newsurl = "http://www.ew.com/ew/article/0,,20152746,00.html "
-+++
+newstitle: "Jorja Fox: Why I Quit &#8216;CSI'  "
+newsauthor: Lynette Rice  
+newssource: EW  
+newsurl: http://www.ew.com/ew/article/0,,20152746,00.html 
+
+---
 **The actress' decision to leave TV's No. 1 show has "nothing to do with money," she tells EW in an exclusive sit-down**
 
 In the Sept. 27 premiere of *CSI*, the show's 25.2 million fans were relieved to learn that not only had Jorja Fox's alter ego, Sara Sidle, survived a brutal abduction by the infamous Miniature Killer, but Internet rumors of her departure from the seven-year-old drama were greatly exaggerated. Or so they thought. 

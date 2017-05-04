@@ -1,13 +1,16 @@
-+++
-title = "'My First Place: Celebrity Style"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2005-01-01"
-interviewurl = "http://www.hgtv.com"
-permalink = "/transcript/2005/:title/"
-categories = ["Interviews"]
-tags = ["television", "2005"]
-+++
+---
+title: 'My First Place: Celebrity Style'
+author: Mika Epstein
+layout: transcript
+date: 2005-01-01
+interviewurl: http://www.hgtv.com  
+permalink: /transcript/2005/:title/
+categories: ["Interviews"]
+
+tags:
+  - television
+  - 2005
+---
 
 HGTV, in a interesting move, released excerpts from it's new show "'My First Place: Celebrity Style"' online.
 

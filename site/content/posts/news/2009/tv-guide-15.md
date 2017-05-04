@@ -1,17 +1,18 @@
-+++
-title = "TVGuide.com"
-date = "2009-10-14"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: TVGuide.com
+date: 2009-10-14
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Matt's TV Week in Review"
-newsauthor = "Kate Stanhope"
-newssource = "Today's News: Our Take"
-newsurl = "http://www.tvguide.com/News/Fox-CSI-Returning-1010882.aspx"
-+++
+newstitle: "Matt's TV Week in Review"
+newsauthor: Kate Stanhope  
+newssource: "Today's News: Our Take"
+newsurl: http://www.tvguide.com/News/Fox-CSI-Returning-1010882.aspx  
+
+---
 
 Jorja Fox will be returning to "CSI: Crime Scene Investigation" this season indefinitely, TVGuide.com has confirmed.
 

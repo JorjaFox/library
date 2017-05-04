@@ -1,16 +1,17 @@
-+++
-title = "New York City"
-date = "2004-08-03"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "&#8216;Crime,' punishment, resolution"
-newsauthor = "Staff"
-newssource = "New York City"
-newsurl = "http://www.nynewsday.com"
-+++
+---
+title: New York City
+date: 2004-08-03
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "&#8216;Crime,' punishment, resolution"
+newsauthor: Staff  
+newssource: New York City  
+newsurl: http://www.nynewsday.com  
+
+---
 
 "It's like if you have a large rock fall on your head ... you absolutely don't want another rock to fall on you!"
 
@@ -20,7 +21,7 @@ That's "CSI" actress Jorja Fox, talking tentatively for the first time about the
 
 So why does she think she was fired? Fox, who emphasizes that she is "elated" to be back at work, replies carefully: "Well, it was over this letter that we were all asked to sign about reporting to work, and I'd really never seen such a letter in my life - my professional life - and I think they didn't like my response ... I just don't think the punishment fit the &#8216;crime.' No threats were being made, nobody was asking for the sun, moon and stars ... and then, just as suddenly, CBS offered an olive branch. I really see this as a misunderstanding."
 
-It is clear the actress doesn't want to get too specific (that first rock was a stunner) and her voice betrays considerable emotion and controlled indignation. It is humiliating to be fired, but she wants to put it behind her; there'll be no prolonged autopsy on this event. She adds with rueful amusement, "I have no foresight. You know when I got &#8216;CSI,' I thought, &#8216;What a great show; nobody'll watch this!"]
+It is clear the actress doesn't want to get too specific (that first rock was a stunner) and her voice betrays considerable emotion and controlled indignation. It is humiliating to be fired, but she wants to put it behind her; there'll be no prolonged autopsy on this event. She adds with rueful amusement, "I have no foresight. You know when I got &#8216;CSI,' I thought, &#8216;What a great show; nobody'll watch this!'"
 
 Still and all, we had to ask: Did she get a raise? "To CBS' credit, they did offer me more money. But I turned it down." Why? "For one thing, George's head was still on the block - it would have looked like I was dancing on his misfortune. And, again, that's not what it was about."
 

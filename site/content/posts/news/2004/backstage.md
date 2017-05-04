@@ -1,16 +1,17 @@
-+++
-title = "Backstage"
-date = "2004-07-22"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "Tale of Two Actors in &#8216;CSI' Case"
-newsauthor = "Staff"
-newssource = "Backstage"
-newsurl = "http://www.backstage.com/"
-+++
+---
+title: Backstage
+date: 2004-07-22
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "Tale of Two Actors in &#8216;CSI' Case"
+newsauthor: Staff  
+newssource: Backstage  
+newsurl: http://www.backstage.com/  
+
+---
 
 In his first public appearance since being fired from CBS' hit drama "CSI: Crime Scene Investigation," George Eads called his dismissal "a misunderstanding."
 

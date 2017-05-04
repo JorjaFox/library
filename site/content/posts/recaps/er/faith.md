@@ -1,19 +1,19 @@
-+++
-title = "Faith"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Sixteen"
-prodnum = "465416  "
-date = "1997-02-20"
-rating = "3"
-+++
+---
+title: Faith
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Sixteen  
+prodnum: 465416    
+date: 1997-02-20  
+rating: 3  
+---
 
 ## Summary  
   

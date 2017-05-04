@@ -1,18 +1,19 @@
-+++
-title = "High and Low"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "10"
-date = "2002-12-12"
-prodnum= "310"
-+++
+---
+title: "High and Low"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3
+epnum: 10
+date: 2002-12-12
+prodnum: 310  
+---
 
 ## Synopsis
 

@@ -1,16 +1,17 @@
-+++
-title = "Channel Guide Magazine"
-date = "2015-09-28"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "CSI Series Finale: How Did It End?"
-newsauthor = "Kellie Freeze"
-newssource = "Channel Guide Magazine"
-newsurl = "http://www.channelguidemagblog.com/index.php/2015/09/28/csi-series-finale-how-did-it-end/"
-+++
+---
+title: Channel Guide Magazine
+date: 2015-09-28
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: "CSI Series Finale: How Did It End?"
+newsauthor: Kellie Freeze  
+newssource: Channel Guide Magazine  
+newsurl: http://www.channelguidemagblog.com/index.php/2015/09/28/csi-series-finale-how-did-it-end/  
+
+---
 
 [...]
 

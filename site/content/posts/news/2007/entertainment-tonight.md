@@ -1,17 +1,18 @@
-+++
-title = "Entertainment Tonight "
-date = "2007-10-15"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Entertainment Tonight 
+date: 2007-10-15
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Jorja Fox To Leave &#8216;CSI"
-newsauthor = "Staff"
-newssource = "Florida Today"
-newsurl = "http://www.etonline.com/news/2007/10/54845/index.html "
-+++
+newstitle: "Jorja Fox To Leave &#8216;CSI'  "
+newsauthor: Staff  
+newssource: Florida Today  
+newsurl: http://www.etonline.com/news/2007/10/54845/index.html 
+
+---
 "The actress will hang up her badge in November."
 
 ET confirms that **JORJA FOX** will be leaving "CSI: Crime Scene Investigation." She will exit the long-running drama sometime in November.

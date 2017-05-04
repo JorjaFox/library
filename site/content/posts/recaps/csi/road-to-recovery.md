@@ -1,18 +1,19 @@
-+++
-title = "Road To Recovery"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "15"
-epnum = "7"
-date = "2014-11-23"
-prodnum= "324"
-+++
+---
+title: "Road To Recovery"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 15  
+epnum: 7  
+date: 2014-11-23
+prodnum: 324  
+---
 
 ## Synopsis## 
 

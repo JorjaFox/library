@@ -1,18 +1,19 @@
-+++
-title = "Check In and Check Out"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "9"
-date = "2013-11-20"
-prodnum= "304"
-+++
+---
+title: "Check In and Check Out"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14  
+epnum: 9  
+date: 2013-11-20
+prodnum: 304  
+---
 
 ## Synopsis
 

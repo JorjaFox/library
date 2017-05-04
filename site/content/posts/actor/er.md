@@ -1,18 +1,19 @@
-+++
-layout = "actor"
-title = "ER"
-categories = ["Filmography", "ER"]
-tags = ["Television"]
-type = "Drama"
-character = "Maggie Doyle"
-chartype = "recurring"
-episodes = "32"
-station = "NBC"
-year = "1994-2009"
-genre = "Medical Drama"
-excerpt = "<strong>ER</strong> was an Emmy Award-winning drama series centering on the medical personnel in the emergency room of a Chicago hospital."
-rating = "3"
-+++
+---
+layout: actor
+title: "ER"
+categories: ["Filmography", "ER"]
+tags: ["Television"]
+year: 2000-2015
+type: Drama
+character: "Maggie Doyle"
+chartype: recurring
+episodes: 32
+station: NBC
+year: 1994-2009
+genre: "Medical Drama"
+excerpt: "<strong>ER</strong> was an Emmy Award-winning drama series centering on the medical personnel in the emergency room of a Chicago hospital."
+rating: 3
+---
 
 ## Character
 

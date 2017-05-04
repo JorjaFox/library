@@ -1,13 +1,14 @@
-+++
-title = "The View"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2007-11-17"
-interviewurl = "http://abc.go.com/daytime/theview"
-permalink = "/transcript/2007/:title/"
-categories = ["Interviews"]
-tags = ["2007"]
-+++
+---
+title: The View
+author: Mika Epstein
+layout: transcript
+date: 2007-11-17
+interviewurl: http://abc.go.com/daytime/theview  
+permalink: /transcript/2007/:title/
+categories: ["Interviews"]
+tags:
+  - 2007
+---
 
 **Jorja Fox:** Thank you, so honored to be here with all of you. "(to Whoopi)" And happy birthday to you, a day late.
 
@@ -17,7 +18,7 @@ tags = ["2007"]
 
 **Whoopi:** Yeah. Well awake isn't always important. Me, halfway. But let me ask you - you, you're about to make a big change in your life, are you not?
 
-**Jorja Fox:** Yeah, change has come, a little bit. Ah, there's a show on tomorrow night, "CSI:" "(clips playing in the background from "[[Goodbye and Good Luck]])", it's a very very very big show for my character, Sara Sidle, and um, it's one of those things, you know, everybody has times in their lives, and I'm speaking about the character right now, where you wake up in the morning, and you think your day's going to be like any other, and by the time the sun has set your life has been changed forever. So, that's all I'll say about it.
+**Jorja Fox:** Yeah, change has come, a little bit. Ah, there's a show on tomorrow night, "CSI:" "(clips playing in the background from "[[Goodbye and Good Luck]]")", it's a very very very big show for my character, Sara Sidle, and um, it's one of those things, you know, everybody has times in their lives, and I'm speaking about the character right now, where you wake up in the morning, and you think your day's going to be like any other, and by the time the sun has set your life has been changed forever. So, that's all I'll say about it.
 
 **Sherri:** Excellent.
 

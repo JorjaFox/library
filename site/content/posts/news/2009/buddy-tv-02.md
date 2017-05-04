@@ -1,17 +1,18 @@
-+++
-title = "Buddy TV"
-date = "2009-10-14"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Buddy TV
+date: 2009-10-14
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Jorja Fox's &#8216;CSI' Return Extended Indefinitely"
-newsauthor = "Henrik Batallones"
-newssource = "Buddy TV"
-newsurl = "http://www.buddytv.com/articles/csi/jorja-foxs-csi-return-extended-31893.aspx"
-+++
+newstitle: "Jorja Fox's &#8216;CSI' Return Extended Indefinitely  "
+newsauthor: Henrik Batallones  
+newssource: Buddy TV  
+newsurl: http://www.buddytv.com/articles/csi/jorja-foxs-csi-return-extended-31893.aspx  
+
+---
 
 I think we all saw this coming, right? The return of Sara Sidle (uhh, Grissom) cannot be just for five episodes this season. Now, it has been confirmed that Jorja Fox's return to the current season of "CSI" will be indefinite, which means we'll see more of her than we initially thought this season.
 

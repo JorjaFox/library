@@ -1,16 +1,17 @@
-+++
-title = "USA Today Weekend"
-date = "2003-07-04"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "Ready, set, action!"
-newsauthor = "Brian Truitt"
-newssource = "USA Weekend"
-newsurl = "http://www.usaweekend.com/03_issues/030706/030706movies.html"
-+++
+---
+title: USA Today Weekend
+date: 2003-07-04
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: Ready, set, action!  
+newsauthor: Brian Truitt  
+newssource: USA Weekend  
+newsurl: http://www.usaweekend.com/03_issues/030706/030706movies.html  
+
+---
 
 **With all the comic book-inspired movies out lately, we asked super celebrities which hero they'd most like to play.**
 

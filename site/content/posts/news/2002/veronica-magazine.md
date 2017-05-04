@@ -1,16 +1,17 @@
-+++
-title = "Veronica Magazine"
-date = "2002-07-01"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2002"]
-categories = ["Articles", "News"]
-permalink = "/news/2002/:title/"
-newstitle = "Babe Between Bodybags"
-newsauthor = "Dutch text by Belinda Janssen, translated by Isis de Jong."
-newssource = "Veronica Magazine"
-newsurl = "https://service.veronica.nl/veronicamagazine/"
-+++
+---
+title: Veronica Magazine
+date: 2002-07-01
+author: Mika Epstein
+layout: news
+tags: ["2002"]
+categories: ["Articles", "News"]
+permalink: /news/2002/:title/
+newstitle: Babe Between Bodybags  
+newsauthor: Dutch text by Belinda Janssen, translated by Isis de Jong.  
+newssource: Veronica Magazine  
+newsurl: https://service.veronica.nl/veronicamagazine/  
+
+---
 
 One person's death is another person's breath. That's something Jorja Fox knows everything about. The part of a forensic investigator on the television show C.S.I. has introduced her to a large audience. We talked to the American actress about her own life and her love/hate-relationship with death.
 

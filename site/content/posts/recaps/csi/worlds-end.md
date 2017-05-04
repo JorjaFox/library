@@ -1,18 +1,20 @@
-+++
-title = "World's End"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "10"
-epnum = "19"
-prodnum = "225"
-date = "2010-04-22"
-+++
+---
+title: "World's End"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 10  
+epnum: 19  
+prodnum: 225  
+date: 2010-04-22
+
+---
 
 ## Synopsis
 

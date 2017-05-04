@@ -1,18 +1,19 @@
-+++
-title = "Gentle, Gentle"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "19"
-date = "2001-04-12"
-prodnum= "118"
-+++
+---
+title: "Gentle, Gentle"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 19
+date: 2001-04-12
+prodnum: 118  
+---
 
 ## Synopsis
 

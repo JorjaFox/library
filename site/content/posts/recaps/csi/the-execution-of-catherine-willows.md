@@ -1,18 +1,19 @@
-+++
-title = "The Execution of Catherine Willows"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "6"
-date = "2002-11-07"
-prodnum= "305"
-+++
+---
+title: "The Execution of Catherine Willows"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3  
+epnum: 6
+date: 2002-11-07
+prodnum: 305  
+---
 
 ## Synopsis
 

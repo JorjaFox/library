@@ -1,18 +1,19 @@
-+++
-title = "Cello and Goodbye"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "21"
-date = "2011-05-05"
-prodnum= "250"
-+++
+---
+title: "Cello and Goodbye"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11  
+epnum: 21  
+date: 2011-05-05
+prodnum: 250  
+---
 
 ## Synopsis
 

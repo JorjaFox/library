@@ -1,17 +1,18 @@
-+++
-title = "Cult Times"
-date = "2005-03-24"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: Cult Times
+date: 2005-03-24
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Jorja's Marvellous Medicine"
-newsauthor = "Staff"
-newssource = "Cult Times"
-newsurl = "http://www.visimag.com/"
-+++
+newstitle: "Jorja's Marvellous Medicine"
+newsauthor: Staff  
+newssource: Cult Times  
+newsurl: http://www.visimag.com/  
+
+---
 **She knows a swab from a cotton bud and a Glock from a... er... glockenspeil. Jorja Fox looks at the career of *CSI* Sara Sidle**
 
 JORJA FOX took a huge gamble when she left the critically acclaimed **West Wing** to try out for the **CSI** pilot. Although she was fascinated by the script, the talented actress was convinced the fledgling series would get cancelled after only eight episodes. Fortunately, Fox's prediction was wrong, but looking back she wasn't even sure she had nailed the role of crime investigator Sara Sidle.

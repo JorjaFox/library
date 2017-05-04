@@ -1,16 +1,17 @@
-+++
-title = "USA Today"
-date = "2004-07-15"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "CBS sacks 2 stars in &#8216;CSI' salary flap"
-newsauthor = "Staff"
-newssource = "USA Today"
-newsurl = "http://www.usatoday.com"
-+++
+---
+title: USA Today
+date: 2004-07-15
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "CBS sacks 2 stars in &#8216;CSI' salary flap"
+newsauthor: Staff  
+newssource: USA Today  
+newsurl: http://www.usatoday.com  
+
+---
 
 They've gone from looking for clues to looking for jobs: CSI stars George Eads and Jorja Fox played hardball and lost during a salary dispute.
 

@@ -1,18 +1,19 @@
-+++
-title = "Chaos Theory"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "2"
-date = "2001-10-04"
-prodnum= "202"
-+++
+---
+title: "Chaos Theory"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2
+epnum: 2
+date: 2001-10-04
+prodnum: 202  
+---
 
 ## Synopsis
 

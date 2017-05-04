@@ -1,17 +1,18 @@
-+++
-title = "TV Barn"
-date = "2009-01-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: TV Barn
+date: 2009-01-16
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "About that sentimental 'CSI' sendoff for Grissom ..."
-newsauthor = "Aaron Barnhart"
-newssource = "TV Barn"
-newsurl = "http://blogs.kansascity.com/tvbarn/2009/01/about-that-sent.html"
-+++
+newstitle: "About that sentimental 'CSI' sendoff for Grissom ...  "
+newsauthor: Aaron Barnhart  
+newssource: TV Barn  
+newsurl: http://blogs.kansascity.com/tvbarn/2009/01/about-that-sent.html  
+
+---
 
 The final moment of Gil Grissom's "CSI" career &#8212; and the surprise first moment of the rest of his life &#8212; were in the planning stages for two years.
 

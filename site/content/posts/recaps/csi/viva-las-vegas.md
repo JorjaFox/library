@@ -1,18 +1,19 @@
-+++
-title = "Viva Las Vegas"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "1 "
-date = "2004-09-23"
-prodnum= "501 "
-+++
+---
+title: "Viva Las Vegas"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 1 
+date: 2004-09-23
+prodnum: 501 
+---
 
 ## Synopsis
 
@@ -30,7 +31,7 @@ Greg is the only one to inquire about Sara's summer (she took some vacation time
 
 ## Quotes
 
-**Sidle:**: _(to a mirror)_ So I had some time to think while I was away -- enough time to figure out why I made such a stupid mistake. I do not have a drinking problem -- I have a _me_ problem. My P.E.A.P. counselor suggested that it would be a good idea for me to talk to my supervisor -- and that's you -- Grissom. _(pause)_ I never told you about my family -- I never told anyone about my family, why would I&#8211; --  
+**Sidle:**: _(to a mirror)_ So I had some time to think while I was away -- enough time to figure out why I made such a stupid mistake. I do not have a drinking problem -- I have a _me_ problem. My P.E.A.P. counselor suggested that it would be a good idea for me to talk to my supervisor -- and that's you -- Grissom. _(pause)_ I never told you about my family -- I never told anyone about my family, why would I&#8211;  --  
 
 - - -
 

@@ -1,13 +1,13 @@
-+++
-title = "CSI Season 5 DVD extras"
-date = "2005-07-01"
-author = "David Masters"
-layout = "transcript"
-interviewurl = "http://www.cbs.com"
-permalink = "/transcript/2005/:title/"
-categories = ["Interviews"]
-tags = ["Transcript", "2005", "DVD"]
-+++
+---
+title: CSI Season 5 DVD extras
+date: 2005-07-01
+author: David Masters
+layout: transcript
+interviewurl: http://www.cbs.com
+permalink: /transcript/2005/:title/
+categories: ["Interviews"]
+tags: [Transcript, 2005, DVD]
+---
 
 **Jorja Fox** All bets are off, and on at the same time. Anything can happen to anybody, there's lines that have been drawn, and uh, it does make it really fascinating.
 

@@ -1,16 +1,17 @@
-+++
-title = "Las Vegas Review Journal"
-date = "2000-10-09"
-author = "Mika Epstein"
-layout = "news"
-categories = ["Articles", "News"]
-permalink = "/news/2000/:title/"
-tags = ["2000"]
-newstitle = "'C.S.I.' returns to Las Vegas"
-newsauthor = "Staff"
-newssource = "Las Vegas Review Journal"
-newsurl = "http://www.lvrj.com/"
-+++
+---
+title: Las Vegas Review Journal
+date: 2000-10-09
+author: Mika Epstein
+layout: news
+categories: ["Articles", "News"]
+permalink: /news/2000/:title/
+tags: ["2000"]
+newstitle: "'C.S.I.' returns to Las Vegas"
+newsauthor: Staff  
+newssource: Las Vegas Review Journal  
+newsurl: http://www.lvrj.com/  
+
+---
 It's a Strip-to-strip week for "C.S.I."
 
 The new prime-time crime drama about Las Vegas forensic investigators, which debuted last Friday on CBS, visits its small-screen hometown for three days starting Thursday.

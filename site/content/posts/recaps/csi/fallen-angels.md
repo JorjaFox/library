@@ -1,18 +1,19 @@
-+++
-title = "Fallen Angels"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "7"
-date = "2012-11-14"
-prodnum= "280"
-+++
+---
+title: "Fallen Angels"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13
+epnum: 7  
+date: 2012-11-14
+prodnum: 280  
+---
 
 ## Synopsis
 

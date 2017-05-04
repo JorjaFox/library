@@ -1,18 +1,19 @@
-+++
-title = "Inside the Box"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "23"
-date = "2003-05-15"
-prodnum= "323"
-+++
+---
+title: "Inside the Box"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3
+epnum: 23
+date: 2003-05-15
+prodnum: 323  
+---
 
 ## Synopsis
 

@@ -1,18 +1,19 @@
-+++
-title = "Risky Business Class"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "10"
-date = "2012-12-12"
-prodnum= "283"
-+++
+---
+title: "Risky Business Class"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13
+epnum: 10  
+date: 2012-12-12
+prodnum: 283  
+---
 
 ## Synopsis
 

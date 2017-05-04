@@ -1,18 +1,19 @@
-+++
-title = "The Finger"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "Fourteen"
-date = "2002-01-31"
-prodnum= "214"
-+++
+---
+title: "The Finger"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2
+epnum: Fourteen  
+date: 2002-01-31
+prodnum: 214  
+---
 
 ## Synopsis
 

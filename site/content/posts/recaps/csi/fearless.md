@@ -1,18 +1,19 @@
-+++
-title = "Fearless"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "20"
-date = "2013-05-01"
-prodnum= "293"
-+++
+---
+title: "Fearless"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13  
+epnum: 20  
+date: 2013-05-01
+prodnum: 293  
+---
 
 ## Synopsis
 

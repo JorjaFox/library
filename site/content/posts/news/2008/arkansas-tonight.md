@@ -1,17 +1,18 @@
-+++
-title = "Arkansas Tonight"
-date = "2008-08-31"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Arkansas Tonight
+date: 2008-08-31
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "DNC Report"
-newsauthor = "Cris Seligman"
-newssource = "Arkansas Tonight "
-newsurl = "http://arkansastonight.com/2008/08/dnc-report.html"
-+++
+newstitle: "DNC Report"
+newsauthor: Cris Seligman  
+newssource: Arkansas Tonight 
+newsurl: http://arkansastonight.com/2008/08/dnc-report.html
+
+---
 
 [...]
 

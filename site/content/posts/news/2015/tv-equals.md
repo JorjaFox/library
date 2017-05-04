@@ -1,16 +1,17 @@
-+++
-title = "TV Equals"
-date = "2015-09-28"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "CSI 'Immortality, Parts 1 & 2' Review (Season 16 Premiere/Series Finale)"
-newsauthor = "Mark Trammell"
-newssource = "TV Equals"
-newsurl = "http://www.tvequals.com/2015/09/28/csi-immortality-part-1-2-review-season-16-premiereseries-finale/"
-+++
+---
+title: TV Equals
+date: 2015-09-28
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: "CSI 'Immortality, Parts 1 & 2' Review (Season 16 Premiere/Series Finale)"
+newsauthor: Mark Trammell  
+newssource: TV Equals  
+newsurl: http://www.tvequals.com/2015/09/28/csi-immortality-part-1-2-review-season-16-premiereseries-finale/  
+
+---
 
 [...]
 

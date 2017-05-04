@@ -1,15 +1,15 @@
-+++
-layout = "actor"
-title = "The Kill-Off"
-categories = ["Filmography"]
-tags = ["movies"]
-excerpt = "<strong>Alchemy</strong> is about a man, his girlfriend, and his neighbors. He decides to kill his gossipy wife, whom everyone hates..."
-character = "Myra Pavlov"
-chartype = "main"
-rating = "4"
-year = "1989"
-genre = "Drama"
-+++
+---
+layout: actor
+title: "The Kill-Off"
+categories: ["Filmography"]
+tags: ["movies"]
+excerpt: "<strong>Alchemy</strong> is about a man, his girlfriend, and his neighbors. He decides to kill his gossipy wife, whom everyone hates..."
+character: "Myra Pavlov"
+chartype: main
+rating: 4
+year: 1989
+genre: "Drama"
+---
 
 ## Synopsis
 

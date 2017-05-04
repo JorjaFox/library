@@ -1,25 +1,26 @@
-+++
-title = "AOL News"
-date = "2006-05-26"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: AOL News
+date: 2006-05-26
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Which Season Ended With a Bang?"
-newsauthor = "Staff"
-newssource = "AOL News"
-newsurl = "http://news.aol.com"
-+++
+newstitle: "Which Season Ended With a Bang?  "
+newsauthor: Staff  
+newssource: AOL News  
+newsurl: http://news.aol.com  
+
+---
 
 [...]
 
 **CSI**  
   
 (CBS)  
-"
-rating = "\* \* *
+  
+Rating: \* \* *
 
 The finale word: Last year, CSI broke out of its normal pattern for a two-part finale that buried Nick alive. This year's solid finale stuck closer to the show's extremely popular formula - and yet it seemed to send many fans into a frenzy.
 

@@ -1,17 +1,18 @@
-+++
-title = "Zap 2 It "
-date = "2009-07-18"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2009"]
-categories = ["Articles", "News"]
-permalink = "/news/2009/:title/"
+---
+title: Zap 2 It 
+date: 2009-07-18
+author: Mika Epstein
+layout: news
+tags: ["2009"]
+categories: ["Articles", "News"]
+permalink: /news/2009/:title/
 
-newstitle = "'CSI's' Jorja Fox returns"
-newsauthor = "Hanh Nguyen"
-newssource = "Zap 2 It News"
-newsurl = "http://blog.zap2it.com/frominsidethebox/2009/07/csis-jorja-fox-returns.html"
-+++
+newstitle: "'CSI's' Jorja Fox returns  "
+newsauthor: Hanh Nguyen  
+newssource: Zap 2 It News  
+newsurl: http://blog.zap2it.com/frominsidethebox/2009/07/csis-jorja-fox-returns.html  
+
+---
 
  Sara Sidle is back from Costa Rica and on the case at "**CSI**."
 

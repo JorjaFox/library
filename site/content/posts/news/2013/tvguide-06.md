@@ -1,23 +1,24 @@
-+++
-title = "TVGuide.com"
-date = "2013-10-23"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
+---
+title: TVGuide.com
+date: 2013-10-23
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
 
-newstitle = "CSI Bosses on 300 Episodes of Murder and the Legacy of Gil Grissom"
-newsauthor = "Adam Bryant"
-newssource = "TVGuide.com"
-newsurl = "http://www.tvguide.com/News/CSI-300th-Episode-Carol-Mendelsohn-1072418.aspx"
-+++
+newstitle: "CSI Bosses on 300 Episodes of Murder and the Legacy of Gil Grissom  "
+newsauthor: Adam Bryant  
+newssource: TVGuide.com  
+newsurl: http://www.tvguide.com/News/CSI-300th-Episode-Carol-Mendelsohn-1072418.aspx  
+
+---
 
 Wednesday's episode of CSI marks the CBS procedural's 300th episode, and no matter how you slice it, that's a lot of murder.
 
 [...]
 
-Realizing the show would reach the milestone this season, executive producer Don McGill says they wanted this entire season in general, and the 300th episode in particular, to look back at the show's history. "When Carol and I talked about the season, [we thought,] &#8216;Back to the beginning,"] McGill says. "And looking at episode 300, literally we do go back to the beginning. We reference a case that was the one that got away for our CSIs."
+Realizing the show would reach the milestone this season, executive producer Don McGill says they wanted this entire season in general, and the 300th episode in particular, to look back at the show's history. "When Carol and I talked about the season, [we thought,] &#8216;Back to the beginning,'" McGill says. "And looking at episode 300, literally we do go back to the beginning. We reference a case that was the one that got away for our CSIs."
 
 The case hits particularly close to home for Sara (Jorja Fox). "It was her first high-profile case when she came to Las Vegas," Fox tells us. "She's getting a second chance at something. She's been dealing with the family for all these years and not having the answers. There's a weight and a sadness that she carries. But by the end, I think she absolutely gets some closure. And she feels fairly anchored, as much as Sara can."
 
@@ -25,7 +26,7 @@ The case involves a reclusive casino mogul (guest star Jason Priestley) who is s
 
 "We created these little vignettes," McGill says. "It gave us a chance to have a window in the evolution of the characters. You could really see how far Sara has come, how far Greg has come, the influence of Catherine. It was a really fun opportunity to give a nod to how great the show is and how its longevity has really created this dynamic where we've seen the characters grow and evolve."
 
-The episode will feature lots of Easter eggs, including 14 different references to the number 300. But Mendelsohn says the episode also pays appropriate homage to the show's history. "Everybody's been asking, &#8216;What are your favorite episodes? What moments do you remember the best on set?"] she says. "And because we want to hark back to those iconic moments of the past, we flash back to some of the golden oldie cases. We took a poll among all the writers: What are your favorite cases? And those are the cases we flash back to during the episode."
+The episode will feature lots of Easter eggs, including 14 different references to the number 300. But Mendelsohn says the episode also pays appropriate homage to the show's history. "Everybody's been asking, &#8216;What are your favorite episodes? What moments do you remember the best on set?'" she says. "And because we want to hark back to those iconic moments of the past, we flash back to some of the golden oldie cases. We took a poll among all the writers: What are your favorite cases? And those are the cases we flash back to during the episode."
 
 In particular, the show pays homage to the show's original protagonist and leader, William Petersen's Gil Grissom. Although Grissom has only appeared a handful of times since the character was written out in Season 9, his spirit seems to always loom over the action. Mendelsohn gives Petersen credit for much of the show's success.
 

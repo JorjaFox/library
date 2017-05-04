@@ -1,16 +1,17 @@
-+++
-title = "Gist"
-date = "2001-01-24"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = "CSI's Sly Fox"
-newsauthor = "Staff"
-newssource = "Gist TV"
-newsurl = "http://www.gist.com"
-+++
+---
+title: Gist
+date: 2001-01-24
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle: CSI's Sly Fox  
+newsauthor: Staff  
+newssource: Gist TV  
+newsurl: http://www.gist.com  
+
+---
 ER fans know Jorja Fox as Dr. Maggie Doyle. West Wingers may remember her as Secret Service agent Gina Toscano, who saved the life of the president (Martin Sheen) last season. Currently, she's co-starring in CBS's surprise hit series CSI: Crime Scene Investigation. But even though she's appeared on three of the hottest shows on television, Jorja Fox is not exactly a household name. 
 
 "I do like to keep a lower profile," says Fox, 31, who plays forensic investigator Sara Sidel on CSI. "It's been really fine for me to just sort of take things slowly and stay working." 

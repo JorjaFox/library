@@ -1,18 +1,19 @@
-+++
-title = "Take My Life, Please!"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "10"
-epnum = "20"
-date = "2010-04-29"
-prodnum= "226"
-+++
+---
+title: "Take My Life, Please!"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 10
+epnum: 20  
+date: 2010-04-29
+prodnum: 226  
+---
 
 ## Synopsis
 

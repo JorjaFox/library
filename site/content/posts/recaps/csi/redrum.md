@@ -1,18 +1,19 @@
-+++
-title = "Redrum"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "13"
-date = "2007-01-25"
-prodnum= "712"
-+++
+---
+title: "Redrum"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 13
+date: 2007-01-25
+prodnum: 712  
+---
 
 ## Synopsis
 

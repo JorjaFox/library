@@ -1,17 +1,18 @@
-+++
-title = "TV Guide "
-date = "2007-08-15"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: TV Guide 
+date: 2007-08-15
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Ask Ausiello"
-newsauthor = "Michael Ausiello"
-newssource = "TV Guide "
-newsurl = "http://www.tvguide.com"
-+++
+newstitle: Ask Ausiello
+newsauthor: Michael Ausiello
+newssource: TV Guide 
+newsurl: http://www.tvguide.com
+
+---
 
 [...]
 

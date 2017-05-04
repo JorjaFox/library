@@ -1,18 +1,19 @@
-+++
-title = "Slaves of Las Vegas"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "8"
-date = "2001-11-15"
-prodnum= "208"
-+++
+---
+title: "Slaves of Las Vegas"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2
+epnum: 8
+date: 2001-11-15
+prodnum: 208  
+---
 
 ## Synopsis
 

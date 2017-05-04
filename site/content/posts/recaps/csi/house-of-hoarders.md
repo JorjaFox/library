@@ -1,18 +1,19 @@
-+++
-title = "House of Hoarders"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "5"
-date = "2010-10-07"
-prodnum= "234"
-+++
+---
+title: "House of Hoarders"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11
+epnum: 5  
+date: 2010-10-07
+prodnum: 234  
+---
 
 ## Synopsis
 

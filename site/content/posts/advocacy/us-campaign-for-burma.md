@@ -1,11 +1,11 @@
-+++
-title = "U.S. Campaign for Burma"
-author = "Mika Epstein"
-layout = "advocacy"
-categories = ["Advocacy"]
-tags = ["Politics", "Human Rights"]
-website = "http://www.burmaitcantwait.org"
-+++
+---
+title: U.S. Campaign for Burma
+author: Mika Epstein
+layout: advocacy
+categories: ["Advocacy"]
+tags: [Politics, 'Human Rights']
+website: http://www.burmaitcantwait.org
+---
 
 30 Hollywood celebrities ran a campaign from May 1 through May 30 to seek the release of Myanmar's democracy icon Aung San Suu Kyi and push for freedom in the military-ruled nation.
 

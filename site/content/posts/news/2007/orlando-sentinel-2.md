@@ -1,16 +1,18 @@
-+++
-title = "Orlando Sentinel "
-date = "2007-11-12"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
-newstitle = "A terrific 'CSI': Sara Sidle leaves in classic style"
-newsauthor = "Hal Boedecker"
-newssource = "Orlando Sentinel"
-newsurl = "http://blogs.orlandosentinel.com/entertainment\tv\tvblog/2007/11/a-terrific-csi-.html "
-+++
+---
+title: Orlando Sentinel 
+date: 2007-11-12
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
+
+newstitle: "A terrific 'CSI': Sara Sidle leaves in classic style  "
+newsauthor: Hal Boedecker  
+newssource: Orlando Sentinel  
+newsurl: http://blogs.orlandosentinel.com/entertainment\_tv\_tvblog/2007/11/a-terrific-csi-.html 
+
+---
 Jorja Fox's Sara Sidle leaves "CSI" Thursday night. No matter how you feel about that development, the episode is tremendous. All actors who depart long-running series should receive such heartfelt, memorable sendoffs.
 
 The episode, titled "Goodbye & Good Luck," skillfully makes you feel Sara's disillusionment. She witnesses an eerie case of domestic abuse and remains strangely remote.

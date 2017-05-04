@@ -1,16 +1,18 @@
-+++
-title = "Chinaview.cn "
-date = "2007-11-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
-newstitle = "Sara Sidle bids farewell to \"CSI\""
-newsauthor = "Wang Yan"
-newssource = "Chinaview.cn"
-newsurl = "http://news.xinhuanet.com/english/2007-11/16/content_7088017.htm"
-+++
+---
+title: Chinaview.cn 
+date: 2007-11-16
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
+
+newstitle: '"Sara Sidle" bids farewell to "CSI"  '
+newsauthor: Wang Yan  
+newssource: Chinaview.cn  
+newsurl: http://news.xinhuanet.com/english/2007-11/16/content_7088017.htm  
+
+---
 
 After eight seasons on one of TV's highest-rated shows, Jorja Fox left the CBS drama "CSI: Crime Scene Investigation" Thursday night.
 

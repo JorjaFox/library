@@ -1,17 +1,18 @@
-+++
-title = "Florida Today "
-date = "2007-10-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Florida Today 
+date: 2007-10-16
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Former Mel-Hi student Fox leaving CSI"
-newsauthor = "Staff"
-newssource = "Florida Today"
-newsurl = "http://www.floridatoday.com/apps/pbcs.dll/article?AID=/20071016/BREAKINGNEWS/71016003/1086 "
-+++
+newstitle: "Former Mel-Hi student Fox leaving CSI  "
+newsauthor: Staff  
+newssource: Florida Today  
+newsurl: http://www.floridatoday.com/apps/pbcs.dll/article?AID=/20071016/BREAKINGNEWS/71016003/1086 
+
+---
 Jorja Fox, who plays Sara Sidle on CSI, has decided to leave the CBS crime show, USA Today reported today.
 
 "There are all theses things I want to do. Some are personal and some are professional and I really need to do some of them before I get too old," Fox told EW.com.

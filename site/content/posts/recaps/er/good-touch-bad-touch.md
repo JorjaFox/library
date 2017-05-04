@@ -1,19 +1,19 @@
-+++
-title = "Good Touch, Bad Touch"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Four"
-epnum = "Five"
-prodnum = "466354  "
-date = "1997-10-30"
-rating = "4"
-+++
+---
+title: Good Touch, Bad Touch
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Four  
+epnum: Five  
+prodnum: 466354    
+date: 1997-10-30  
+rating: 4  
+---
 
 ## Summary  
   

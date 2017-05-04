@@ -1,13 +1,14 @@
-+++
-title = "Twitter Live Chat"
-date = "2014-03-05"
-author = "Mika Epstein"
-layout = "transcript"
-interviewurl = "http://cbs.com"
-permalink = "/transcript/2014/:title/"
-categories = ["Interviews"]
-tags = ["2014"]
-+++
+---
+title: Twitter Live Chat
+date: 2014-03-05
+author: Mika Epstein
+layout: transcript
+interviewurl: http://cbs.com
+permalink: /transcript/2014/:title/
+categories: ["Interviews"]
+tags:
+  - 2014
+---
 
 [Tweet](https://twitter.com/jorjafoxofficia/status/441408995996078081)
 

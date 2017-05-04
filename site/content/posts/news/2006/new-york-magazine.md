@@ -1,17 +1,18 @@
-+++
-title = "New York Magazine"
-date = "2006-12-18"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: New York Magazine
+date: 2006-12-18
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "The Year in TV"
-newsauthor = "Staff"
-newssource = "New York Magazine"
-newsurl = "http://nymag.com/arts/cultureawards/2006/25307/index1.html"
-+++
+newstitle: "The Year in TV  "
+newsauthor: Staff  
+newssource: New York Magazine  
+newsurl: http://nymag.com/arts/cultureawards/2006/25307/index1.html  
+
+---
 
 "'9 Gil Grissom and Sara Sidle on &#8216;CSI' "'
 

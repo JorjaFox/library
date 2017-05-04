@@ -1,16 +1,18 @@
-+++
-title = "'TV Guide - Ausiello Report"
-date = "2006-05-11"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
-newstitle = "ASK AUSIELLO"
-newsauthor = "Michael Ausiello"
-newssource = "TV Guide"
-newsurl = "http://www.tvguide.com"
-+++
+---
+title: 'TV Guide - Ausiello Report'
+date: 2006-05-11
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
+
+newstitle: "ASK AUSIELLO  "
+newsauthor: Michael Ausiello  
+newssource: TV Guide  
+newsurl: http://www.tvguide.com  
+
+---
 
 As promised, here's my interview with CSI's veggie-lovin' babe Jorja Fox. Spoilerphobes, read at your own risk!
 

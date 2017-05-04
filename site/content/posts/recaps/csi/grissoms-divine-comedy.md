@@ -1,18 +1,19 @@
-+++
-title = "Grissom's Divine Comedy"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "8"
-epnum = "12"
-date = "2008-04-03"
-prodnum= "812"
-+++
+---
+title: "Grissom's Divine Comedy"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 8
+epnum: 12  
+date: 2008-04-03
+prodnum: 812  
+---
 
 ## Synopsis
 

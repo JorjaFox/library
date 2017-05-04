@@ -1,18 +1,19 @@
-+++
-title = "All That Cremains"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "14"
-date = "2011-02-10"
-prodnum= "243"
-+++
+---
+title: "All That Cremains"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11 
+epnum: 14  
+date: 2011-02-10
+prodnum: 243    
+---
 
 ## Synopsis
 

@@ -1,19 +1,20 @@
-+++
-title = "Variety"
-date = "1999-11-12"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/1999/:title/"
-tags = ["1999"]
-categories = ["Articles", "News"]
-newstitle = "The Hungry Bachelors Club"
-newsauthor = "Staff"
-newssource = "Variety"
-newsurl = "http://www.variety.com"
-+++
+---
+title: Variety
+date: 1999-11-12
+author: Mika Epstein
+layout: news
+permalink: /news/1999/:title/
+tags: ["1999"]
+categories: ["Articles", "News"]
+newstitle: The Hungry Bachelors Club  
+newsauthor: Staff  
+newssource: Variety  
+newsurl: http://www.variety.com  
+
+---
 A Mama's Boys Prods. release of a Taggart Transcontinental and Managed Passion Films presentation of a Mama's Boys production. Produced by Dan Gifford, Amy Sommer Gifford. Executive producer, Kimberly Becker. Co-producer, Robert Lynn New.
 
-Directed by Gregory Ruzzin. Screenplay, Fred Dresch, Ron Ratliff, based on the novel by Lynn Scott Myers. Camera (FotoKem color), Robert Smith; supervising editors, Stephen Myers, Andrew Frank; music, Larry Brown; music supervisor, Spencer Proffer; production designer, Timothy Duffy; costumes, Katie Saunders; sound (Dolby), David Schaaf; supervising sound editor, Tim Kimmel; line producer, Jim Glander; assistant director, Jonathan Southard; casting, Peggy Larson. Reviewed at the Avco Cinema, L.A., Nov. 13, 1999. MPAA rating = PG-13. Running time: 93 MIN.
+Directed by Gregory Ruzzin. Screenplay, Fred Dresch, Ron Ratliff, based on the novel by Lynn Scott Myers. Camera (FotoKem color), Robert Smith; supervising editors, Stephen Myers, Andrew Frank; music, Larry Brown; music supervisor, Spencer Proffer; production designer, Timothy Duffy; costumes, Katie Saunders; sound (Dolby), David Schaaf; supervising sound editor, Tim Kimmel; line producer, Jim Glander; assistant director, Jonathan Southard; casting, Peggy Larson. Reviewed at the Avco Cinema, L.A., Nov. 13, 1999. MPAA Rating: PG-13. Running time: 93 MIN.
 
 <PRE><br />
      Hannibal Youngblood     Candice Azzara<br />

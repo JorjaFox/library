@@ -1,18 +1,19 @@
-+++
-title = "Death and the Maiden"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "10"
-epnum = "6"
-date = "2009-11-05"
-prodnum= "212"
-+++
+---
+title: "Death and the Maiden"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 10
+epnum: 6  
+date: 2009-11-05
+prodnum: 212  
+---
 
 ## Synopsis
 

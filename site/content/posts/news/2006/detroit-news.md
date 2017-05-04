@@ -1,17 +1,18 @@
-+++
-title = "Detroit News"
-date = "2006-11-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Detroit News
+date: 2006-11-16
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "A chat with Jorja Fox"
-newsauthor = "Staff"
-newssource = "Detroit News"
-newsurl = "http://www.detnews.com/"
-+++
+newstitle: "A chat with Jorja Fox  "
+newsauthor: Staff  
+newssource: Detroit News  
+newsurl: http://www.detnews.com/  
+
+---
 
 Don't worry, "CSI: Crime Scene Investigation" fans. CBS will not be changing the name of its hit drama to "When Sara met Grissom." But the network will continue to explore the love of these two forensic nerds if for no other reason than to compete with ABC's "Grey's Anatomy," which also airs at 9 p.m. Thursdays.
 

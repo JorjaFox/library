@@ -1,13 +1,15 @@
-+++
-title = "CBS Live Chat"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2013-02-20"
-interviewurl = "http://cbs.com/"
-permalink = "/transcript/2013/:title/"
-categories = ["Interviews"]
-tags = ["2013", "online chats"]
-+++
+---
+title: CBS Live Chat
+author: Mika Epstein
+layout: transcript
+date: 2013-02-20
+interviewurl: http://cbs.com/
+permalink: /transcript/2013/:title/
+categories: ["Interviews"]
+tags:
+  - 2013
+  - 'online chats'
+---
 
 [The following is saved quotes]
 

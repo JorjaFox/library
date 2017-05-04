@@ -1,16 +1,17 @@
-+++
-title = "Fox 23"
-date = "2004-07-16"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "&#8216;CSI' Stars Fired After Pay Requests"
-newsauthor = "Staff"
-newssource = "FOX 23"
-newsurl = "http://www.fox23news.com"
-+++
+---
+title: Fox 23
+date: 2004-07-16
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "&#8216;CSI' Stars Fired After Pay Requests"
+newsauthor: Staff  
+newssource: FOX 23  
+newsurl: http://www.fox23news.com  
+
+---
 
 Hit TV show "CSI: Crime Scene Investigation" is in crisis after two stars of the series were fired for breach of contract.
 

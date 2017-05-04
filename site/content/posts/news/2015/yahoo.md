@@ -1,20 +1,21 @@
-+++
-title = "Yahoo"
-date = "2015-09-24"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "'CSI' ends its 15-season run with 2-hour reunion finale"
-newsauthor = "Fraizer Moore"
-newssource = "Yahoo! News"
-newsurl = "http://news.yahoo.com/csi-ends-15-season-run-2-hour-reunion-132146292.html"
-+++
+---
+title: Yahoo
+date: 2015-09-24
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: "'CSI' ends its 15-season run with 2-hour reunion finale"
+newsauthor: Fraizer Moore  
+newssource: Yahoo! News  
+newsurl: http://news.yahoo.com/csi-ends-15-season-run-2-hour-reunion-132146292.html  
+
+---
 
 "CSI: Crime Scene Investigation" was a last-minute pickup by CBS, plugged into a Friday lineup whose widely forecast surefire hit would be a reboot of "The Fugitive," not a quirky little drama dwelling on hair fibers and blood spatter.
 
-"I thought it was never going to succeed," says Jorja Fox. At the time she had a recurring role on "The West Wing" as a Secret Service agent, "but I thought, 'How fun would it be just to take this ride for a little while!' By Christmas, I figured I would be back on 'The West Wing."]
+"I thought it was never going to succeed," says Jorja Fox. At the time she had a recurring role on "The West Wing" as a Secret Service agent, "but I thought, 'How fun would it be just to take this ride for a little while!' By Christmas, I figured I would be back on 'The West Wing.'"
 
 [...]
 

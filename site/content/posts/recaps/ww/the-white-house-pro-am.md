@@ -1,19 +1,19 @@
-+++
-title = "The White House Pro-Am"
-author = "Mika A. Epstein"
-permalink = "/recaps/west-wing/:title/"
-layout = "recap-tv"
-categories = ["Recaps"]
-tags = ["The West Wing"]
-station = "NBC"
-showname = "The West Wing"
-showslug = "west-wing" 
-season = "One"
-epnum = "Seventeen"
-prodnum = "225916 "
-date = "2000-03-22"
-rating = "2"
-+++
+---
+title: The White House Pro-Am
+author: Mika A. Epstein
+permalink: /recaps/west-wing/:title/
+layout: recap-tv
+categories: ["Recaps"]
+tags: ["The West Wing"]
+station: NBC  
+showname: "The West Wing"
+showslug: west-wing  
+season : One  
+epnum: Seventeen  
+prodnum: 225916   
+date: 2000-03-22
+rating: 2  
+---
 
 ## Summary 
 

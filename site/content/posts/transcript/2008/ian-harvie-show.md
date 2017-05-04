@@ -1,13 +1,15 @@
-+++
-title = "Ian Harvie Show "
-author = "Mika Epstein"
-layout = "transcript"
-date = "2008-01-21"
-interviewurl = "http://www.ianharvie.com/jorjafox.html"
-permalink = "/transcript/2008/:title/"
-categories = ["Interviews"]
-tags = ["2008", "talk shows"]
-+++
+---
+title: Ian Harvie Show 
+author: Mika Epstein
+layout: transcript
+date: 2008-01-21
+interviewurl: http://www.ianharvie.com/jorjafox.html
+permalink: /transcript/2008/:title/
+categories: ["Interviews"]
+tags:
+  - 2008
+  - 'talk shows'
+---
 
 **Jorja Fox:** Ten and a half years of deaths -
 

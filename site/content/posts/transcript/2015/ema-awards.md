@@ -1,13 +1,14 @@
-+++
-title = "Extra at the EMA Awards Green Carpet"
-date = "2015-10-24"
-author = "Mika Epstein"
-layout = "transcript"
-interviewurl = "https://youtu.be/4Riq6ek0-rk?t=44m49s"
-permalink = "/transcript/2015/:title/"
-categories = ["Interviews"]
-tags = ["2015"]
-+++
+---
+title: Extra at the EMA Awards Green Carpet
+date: 2015-10-24
+author: Mika Epstein
+layout: transcript
+interviewurl: https://youtu.be/4Riq6ek0-rk?t=44m49s
+permalink: /transcript/2015/:title/
+categories: ["Interviews"]
+tags:
+  - 2015
+---
 
 **Renee Bargh:** ... Ah but first up we've got Jorja Fox from <em>CSI</em>. Hi, how are you?
 

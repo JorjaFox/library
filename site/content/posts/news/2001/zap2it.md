@@ -1,16 +1,17 @@
-+++
-title = "Zap2It"
-date = "2001-03-24"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = " The Meaning of 'Memento'"
-newsauthor = "Staff"
-newssource = "Zap2it"
-newsurl = "http://zap2it.com"
-+++
+---
+title: Zap2It
+date: 2001-03-24
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle:  The Meaning of 'Memento'
+newsauthor: Staff  
+newssource: Zap2it
+newsurl: http://zap2it.com
+
+---
 
 Jorja Fox has appeared in a number of prominent television shows, including E.R., C.S.I. and West Wing. In Memento, she shows up as the victimized wife of Leonard Shelby - only seen in flashback sequences. For her, the experience of filming the film was almost like a dream because she only had to be on-set for a few days. "I filmed, I think, three days out of 29. So I had a very short, easy time," she said.
 

@@ -1,13 +1,14 @@
-+++
-title = "Lylapalooza "
-date = "2015-09-29"
-author = "Mika Epstein"
-layout = "transcript"
-interviewurl = "http://fkr.tv"
-permalink = "/transcript/2015/:title/"
-categories = ["Interviews"]
-tags = ["2015"]
-+++
+---
+title: Lylapalooza 
+date: 2015-09-29
+author: Mika Epstein
+layout: transcript
+interviewurl: http://fkr.tv
+permalink: /transcript/2015/:title/
+categories: ["Interviews"]
+tags:
+  - 2015
+---
 
 *CSI star Jorja Fox takes time out to chat with Lyla about dogs, insects, and ice cream. Special guest appearance by Belle the puppy.*
 

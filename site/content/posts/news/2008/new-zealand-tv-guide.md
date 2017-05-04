@@ -1,17 +1,18 @@
-+++
-title = "New Zealand TV Guide (February 2008)"
-date = "2008-02-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: New Zealand TV Guide (February 2008)
+date: 2008-02-01
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Marg's Big Year"
-newsauthor = "Jenny Cooney Carillo  "
-newssource = "TV Guide (New Zealand)"
-newsurl = "http://tv-guide.co.nz"
-+++
+newstitle: "Marg's Big Year"
+newsauthor: Jenny Cooney Carillo    
+newssource: TV Guide (New Zealand)
+newsurl: http://tv-guide.co.nz
+
+---
 
 [...]
 

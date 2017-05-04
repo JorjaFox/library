@@ -1,16 +1,18 @@
-+++
-title = "Humane Society"
-date = "2010-12-30"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
-newstitle = "Celebrity Resolutions for 2011"
-newsauthor = "Staff"
-newssource = "Humane Society"
-newsurl = "http://www.humanesociety.org/"
-+++
+---
+title: Humane Society
+date: 2010-12-30
+author: Mika Epstein
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
+
+newstitle: "Celebrity Resolutions for 2011  "
+newsauthor: Staff  
+newssource: Humane Society  
+newsurl: http://www.humanesociety.org/news/news/2010/12/2011\_celebrity\_resolutions.html  
+
+---
 
 **Ten celebrities share their 2011 wishes for animals**
 

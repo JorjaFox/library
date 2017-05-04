@@ -1,17 +1,18 @@
-+++
-title = "CSI Files"
-date = "2008-03-10"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: CSI Files
+date: 2008-03-10
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Allen MacDonald"
-newsauthor = "Kristine Huntley"
-newssource = "CSI Files"
-newsurl = "http://www.csifiles.com/interviews/allen_macdonald.shtml"
-+++
+newstitle: "Allen MacDonald  "
+newsauthor: Kristine Huntley  
+newssource: CSI Files  
+newsurl: http://www.csifiles.com/interviews/allen_macdonald.shtml  
+
+---
 
 Allen MacDonald has been with "CSI" since the show's third season. He's climbed the ranks from writers' assistant to staff writer and has had a hand in some of the most significant episodes of the last few seasons, including "Dead Doll" and Goodbye and Good Luck", which saw the exit of the first regular character to leave the show, Sara Sidle. Though busy at work for an episode for the show's eighth season following the hundred day WGA strike, MacDonald took the time to discuss the current season and his career at "CSI" with CSI Files.
 

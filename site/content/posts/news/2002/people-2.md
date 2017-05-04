@@ -1,16 +1,18 @@
-+++
-title = "People"
-date = "2002-10-03"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2002"]
-categories = ["Articles", "News"]
-permalink = "/news/2002/:title/"
-newstitle = "Inside TV's Top Drama"
-newsauthor = "Staff"
-newssource = "People Magazine"
-newsurl = "http://people.aol.com/people/magazine/"
-+++
+---
+title: People
+date: 2002-10-03
+author: Mika Epstein
+layout: news
+tags: ["2002"]
+categories: ["Articles", "News"]
+permalink: /news/2002/:title/
+newstitle: "Inside TV's Top Drama"
+newsauthor: Staff  
+newssource: People Magazine  
+newsurl: http://people.aol.com/people/magazine/  
+
+
+---
 
 As crime-solving wizards on TV's top-rated drama, the stars of CSI steep themselves in blood, bullet holes and (very) gross anatomy. 
 

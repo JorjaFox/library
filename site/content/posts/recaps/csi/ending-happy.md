@@ -1,18 +1,19 @@
-+++
-title = "Ending Happy"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "21"
-prodnum= "721"
-date = "2007-04-26"
-+++
+---
+title: "Ending Happy"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7  
+epnum: 21
+prodnum: 721  
+date: 2007-04-26
+---
 
 ## Synopsis
 

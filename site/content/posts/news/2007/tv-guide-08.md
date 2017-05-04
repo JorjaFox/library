@@ -1,17 +1,18 @@
-+++
-title = "TV Guide Magazine "
-date = "2007-11-11"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: TV Guide Magazine 
+date: 2007-11-11
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "So Long, Sara"
-newsauthor = "Staff / Mike Flaherty"
-newssource = "TV Guide"
-newsurl = "http://www.tvguide.com "
-+++
+newstitle: "So Long, Sara  "
+newsauthor: Staff / Mike Flaherty  
+newssource: TV Guide  
+newsurl: http://www.tvguide.com 
+
+---
 Three separate articles/mentions can be found in this issue.
 
 ## DRAMA
@@ -38,7 +39,7 @@ Three separate articles/mentions can be found in this issue.
 
 ###Play With Fire###  
 
-"Season 3" A bonanza for Fox-philes: After surviving a lab explosion, Sara returns to the job fearless, even reckless -- kicking open a suspect's door, gun drawn ... then asks Grissom out! in near-palpable pain, he declines, saying of their tortured relationship: "I don't know what to do about this." Fun fact: Grissom's touching observation of her post-blast wound, "Honey", this doesn't look good," was ad-libbed by Petersen.
+"Season 3" A bonanza for Fox-philes: After surviving a lab explosion, Sara returns to the job fearless, even reckless -- kicking open a suspect's door, gun drawn ... then asks Grissom out! in near-palpable pain, he declines, saying of their tortured relationship: "I don't know what to do about this." Fun fact: Grissom's touching observation of her post-blast wound, ""Honey", this doesn't look good," was ad-libbed by Petersen.
 
 ###Nesting Dolls###  
 

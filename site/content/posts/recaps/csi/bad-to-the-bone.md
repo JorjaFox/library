@@ -1,18 +1,19 @@
-+++
-title = "Bad to the Bone"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "18"
-date = "2004-04-01"
-prodnum= "418"
-+++
+---
+title: "Bad to the Bone"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4  
+epnum: 18
+date: 2004-04-01
+prodnum: 418  
+---
 
 ## Synopsis
 

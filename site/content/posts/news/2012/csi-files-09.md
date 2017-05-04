@@ -1,17 +1,18 @@
-+++
-title = "CSI Files"
-date = "2012-11-26"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
+---
+title: CSI Files
+date: 2012-11-26
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
 
-newstitle = "Report: Sara To Take An ‘Interesting Turn,’ Residual Fallout For Nick On ‘CSI’"
-newsauthor = "Shane Saunders"
-newssource = "CSI Files"
-newsurl = "http://www.csifiles.com/content/2012/11/report-sara-to-take-an-interesting-turn-residual-fallout-for-nick-on-csi/"
-+++
+newstitle: "Report: Sara To Take An ‘Interesting Turn,’ Residual Fallout For Nick On ‘CSI’  "
+newsauthor: Shane Saunders  
+newssource: CSI Files  
+newsurl: http://www.csifiles.com/content/2012/11/report-sara-to-take-an-interesting-turn-residual-fallout-for-nick-on-csi/  
+
+---
 
 *CSI: Crime Scene Investigation* is preparing for some heavy character development in the second stretch of Season Thirteen.
 

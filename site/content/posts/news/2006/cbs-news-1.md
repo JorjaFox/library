@@ -1,17 +1,18 @@
-+++
-title = "CBS News"
-date = "2006-05-19"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: CBS News
+date: 2006-05-19
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "What is Up With Gil And Sara?"
-newsauthor = "Staff"
-newssource = "CBS News"
-newsurl = "http://www.cbsnews.com"
-+++
+newstitle: "What is Up With Gil And Sara?  "
+newsauthor: Staff  
+newssource: CBS News  
+newsurl: http://www.cbsnews.com  
+
+---
 
 **CSI Colleagues Aren't Just Pals**
 

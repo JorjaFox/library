@@ -1,18 +1,19 @@
-+++
-title = "Girls Gone Wilder"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "15"
-epnum = "5"
-date = "2014-11-09"
-prodnum= "322"
-+++
+---
+title: "Girls Gone Wilder"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 15  
+epnum: 5  
+date: 2014-11-09
+prodnum: 322  
+---
 
 * This episode was delayed **two weeks** due to football*
 

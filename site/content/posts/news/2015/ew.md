@@ -1,16 +1,17 @@
-+++
-title = "EW"
-date = "2015-09-17"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "CSI finale: William Petersen's lips are sealed on a potential Sara-Grissom reunion"
-newsauthor = "Mary Sollosi"
-newssource = "Entertainment Weekly"
-newsurl = "http://www.ew.com/article/2015/09/17/william-petersen-csi-finale-sara-grissom"
-+++
+---
+title: EW
+date: 2015-09-17
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: "CSI finale: William Petersen's lips are sealed on a potential Sara-Grissom reunion"
+newsauthor: Mary Sollosi  
+newssource: Entertainment Weekly  
+newsurl: http://www.ew.com/article/2015/09/17/william-petersen-csi-finale-sara-grissom  
+
+---
 
 Original 'CSI' cast members reflect on the positive impact of the CBS show 15 years later
 

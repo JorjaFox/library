@@ -1,17 +1,18 @@
-+++
-title = "Antelope Valley Press (08 September 2008)"
-date = "2008-09-08"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Antelope Valley Press (08 September 2008)
+date: 2008-09-08
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = " Celebrities, animal lovers turn out for Acton sanctuary's gala"
-newsauthor = "Julie Drake"
-newssource = "Antelope Valley Press  "
-newsurl = "http://www.avpress.com/n/08/0908_s4.hts"
-+++
+newstitle: " Celebrities, animal lovers turn out for Acton sanctuary's gala"
+newsauthor: Julie Drake
+newssource: Antelope Valley Press    
+newsurl: http://www.avpress.com/n/08/0908_s4.hts
+
+---
 
 The well-heeled wore their compassion on their designer threads as hundreds of animal lovers turned out Saturday evening for a star-studded gala at the Animal Acres farm animal sanctuary.
 

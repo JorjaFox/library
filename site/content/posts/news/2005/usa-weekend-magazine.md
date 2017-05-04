@@ -1,17 +1,18 @@
-+++
-title = "USA Weekend Magazine"
-date = "2005-10-02"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: USA Weekend Magazine
+date: 2005-10-02
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Celeb's - Who's News?"
-newsauthor = "Staff"
-newssource = "USA Weekend Magazine"
-newsurl = "http://www.usaweekend.com"
-+++
+newstitle: "Celeb's - Who's News?  "
+newsauthor: Staff  
+newssource: USA Weekend Magazine  
+newsurl: http://www.usaweekend.com  
+
+---
 **What can you tell me about "CSI's" Jorja Fox?**
 
   

@@ -1,17 +1,18 @@
-+++
-title = "CBS News"
-date = "2005-11-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: CBS News
+date: 2005-11-17
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Dissecting CSIs Success Story"
-newsauthor = "Staff"
-newssource = "CBS News"
-newsurl = "http://www.cbsnews.com"
-+++
+newstitle: "Dissecting CSIs Success Story"
+newsauthor: Staff  
+newssource: CBS News  
+newsurl: http://www.cbsnews.com  
+
+---
 [...]
 
 In Thursday night's episode, the sexual tension also continues between Sara Sidle (Jorja Fox) and Gil Grissom (William Peterson). 

@@ -1,11 +1,11 @@
-+++
-title = "Charity Folks"
-author = "Mika Epstein"
-layout = "advocacy"
-categories = ["Advocacy"]
-tags = ["charity"]
-website = "http://www.charityfolks.com/"
-+++
+---
+title: Charity Folks
+author: Mika Epstein
+layout: advocacy
+categories: ["Advocacy"]
+tags: [charity]
+website: http://www.charityfolks.com/
+---
 
 Charity Folks is the leading online charity auction venue. Inspired by the belief that there's nothing more important than the work nonprofits are doing to improve people's lives, they strive to provide innovative ePhilanthropy solutions that help raise the money & awareness needed for nonprofits to accomplish their mission.
 

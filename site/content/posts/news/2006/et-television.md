@@ -1,17 +1,18 @@
-+++
-title = "ET Television"
-date = "2006-04-27"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: ET Television
+date: 2006-04-27
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Murder at a Hollywood Wedding"
-newsauthor = "Staff"
-newssource = "ET Television"
-newsurl = "http://et.tv.yahoo.com/"
-+++
+newstitle: "Murder at a Hollywood Wedding  "
+newsauthor: Staff  
+newssource: ET Television  
+newsurl: http://et.tv.yahoo.com/  
+
+---
 
 The CSI team shows up for a wedding and stays for a murder on tonight's episode of "CSI: Crime Scene Investigation," airing at 9 p.m. on CBS. The action begins when Grissom (WILLIAM PETERSEN), Nick Stokes (GEORGE EADS), Sara Sidle (JORJA FOX) and Captain Jim Brass (PAUL GUILFOYLE) attend a wedding at which the groom's mother is murdered.
 

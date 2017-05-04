@@ -1,17 +1,18 @@
-+++
-title = "St. Petersburg Times "
-date = "2007-10-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: St. Petersburg Times 
+date: 2007-10-16
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "&#8216;CSI' fan says losing Sara would be a crime"
-newsauthor = "Eric Deggans"
-newssource = "St. Petersburg Times"
-newsurl = "http://www.sptimes.com/"
-+++
+newstitle: "&#8216;CSI' fan says losing Sara would be a crime  "
+newsauthor: Eric Deggans  
+newssource: St. Petersburg Times  
+newsurl: http://www.sptimes.com/
+
+---
 **A Dunedin woman is rallying the troops online to keep Jorja Fox on "CSI: Crime Scene Investigation."**
 
 DUNEDIN - Swathed in yellow crime scene tape, a large pegboard features the fruits of Devon Pierce's work. One flier pleads "Don't burst our bubble. Keep Jorja Fox on "CSI"." Another promises it is "saving Sara one dollar at a time." A note of thanks from Fox - a 39-year-old ex-Floridian who has played forensic investigator Sara Sidle since the hit crime drama "CSI: Crime Scene Investigation" debuted in fall 2000 - compliments Pierce and her friends for their devotion.
@@ -26,7 +27,7 @@ Just how crazy? Since last month, Pierce and some of the nearly 19,000 registere
 
 The group has paid a pilot to fly over the Los Angeles studios where "CSI" is filmed, towing banners with messages such as "Follow the evidence - Keep Jorja Fox on CSI." They've also started the "Dollars for Sense" campaign, in which fans take a $1 bill, fold it in the "one dollar at a time" flier, and send it to CBS offices in Los Angeles and New York.
 
-At press time, according to the site's running tally, fans have mailed about 20,000 fliers to CBS offices (Pierce said the network will donate the cash to charity). Fans also have sent bunches of balloons and boxes of bandages (slogan: "You wound us. Keep Jorja Fox on "CSI").
+At press time, according to the site's running tally, fans have mailed about 20,000 fliers to CBS offices (Pierce said the network will donate the cash to charity). Fans also have sent bunches of balloons and boxes of bandages (slogan: "You wound us. Keep Jorja Fox on "CSI"").
 
 **Too little, too late?**
 

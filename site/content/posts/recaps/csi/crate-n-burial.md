@@ -1,18 +1,19 @@
-+++
-title = "Crate 'n Burial"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "3"
-date = "2000-10-20"
-prodnum= "103"
-+++
+---
+title: "Crate 'n Burial"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 3
+date: 2000-10-20
+prodnum: 103  
+---
 
 ## Synopsis
 

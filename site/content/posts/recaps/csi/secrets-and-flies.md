@@ -1,18 +1,19 @@
-+++
-title = "Secrets and Flies"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "6"
-date = "2005-11-03"
-prodnum = "606"
-+++
+---
+title: "Secrets and Flies"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 6
+date: 2005-11-03  
+prodnum: 606  
+---
 
 ## Synopsis
 

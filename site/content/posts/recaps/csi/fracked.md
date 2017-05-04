@@ -1,18 +1,19 @@
-+++
-title = "Fracked"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "8"
-date = "2010-11-11"
-prodnum= "237"
-+++
+---
+title: "Fracked"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11
+epnum: 8  
+date: 2010-11-11
+prodnum: 237  
+---
 
 ## Synopsis
 

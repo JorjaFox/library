@@ -1,18 +1,19 @@
-+++
-title = "Long Ball"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "10"
-epnum = "12"
-date = "2010-01-21"
-prodnum= "218"
-+++
+---
+title: "Long Ball"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 10
+epnum: 12  
+date: 2010-01-21
+prodnum: 218  
+---
 
 ## Synopsis
 

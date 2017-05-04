@@ -1,18 +1,19 @@
-+++
-title = "Strip Strangler"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "23"
-date = "2001-05-17"
-prodnum= "122"
-+++
+---
+title: "Strip Strangler"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 23
+date: 2001-05-17
+prodnum: 122  
+---
 
 ## Synopsis
 

@@ -1,16 +1,17 @@
-+++
-title = "SF Gate"
-date = "2004-07-16"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "&#8216;CSI' stars get the boot"
-newsauthor = "Staff"
-newssource = "SF Gate"
-newsurl = "http://www.sfgate.com/"
-+++
+---
+title: SF Gate
+date: 2004-07-16
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "&#8216;CSI' stars get the boot"
+newsauthor: Staff  
+newssource: SF Gate  
+newsurl: http://www.sfgate.com/  
+
+---
 
 &#8216;CSI' STARS FIRED AFTER PAY REQUESTS
 

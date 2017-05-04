@@ -1,17 +1,18 @@
-+++
-title = "U.S. Newswire"
-date = "2005-11-18"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: U.S. Newswire
+date: 2005-11-18
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Famous Friends of Farm Animals Daryl Hannah and Jorja Fox Celebrate Thanksgiving by Feeding a Turkey Rather Than Eating One!"
-newsauthor = "Staff"
-newssource = "U.S. Newswire"
-newsurl = "http://www.usnewswire.com/"
-+++
+newstitle: "Famous Friends of Farm Animals Daryl Hannah and Jorja Fox Celebrate Thanksgiving by Feeding a Turkey Rather Than Eating One!  "
+newsauthor: Staff  
+newssource: U.S. Newswire  
+newsurl: http://www.usnewswire.com/  
+
+---
 On Nov. 19, Animal Acres, LA's newly opened farm animal sanctuary, will celebrate Thanksgiving with a unique celebration called the "Feed A Turkey Ceremony" at the sanctuary in Acton, Calif.
 
 At noon, special guests actresses Daryl Hannah and Jorja Fox (from the No. 1 hit television show CSI) will be helping feed the turkeys and speaking about the need to protect ALL animals from cruelty and neglect. Daryl and Jorja, who are vegetarians, are LA's leading celebrity advocates for animals, and their support of Animal Acres is opening hearts and minds to the plight of turkeys and other farm animals.

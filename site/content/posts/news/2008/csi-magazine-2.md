@@ -1,17 +1,18 @@
-+++
-title = "The Official CSI Magazine"
-date = "2008-09-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: The Official CSI Magazine
+date: 2008-09-01
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Sara &#8216;Sidles' Back!"
-newsauthor = "Bryan Cairns"
-newssource = "The Official CSI Magazine"
-newsurl = "http://www.titanmagazines.com/app?service=external/Product&sp=l1075"
-+++
+newstitle: "Sara &#8216;Sidles' Back!"
+newsauthor: Bryan Cairns  
+newssource: The Official CSI Magazine  
+newsurl: http://www.titanmagazines.com/app?service=external/Product&sp=l1075  
+
+---
 
 None of us wanted her to go, least of all Gil Grissom ... so it's great news that Jorja Fox, aka CSI Sara Sidle, will return to reprise her role in season nine. Fox is expected to appear in the first three episodes of the year as the team lay Warrick Brown to rest.
 

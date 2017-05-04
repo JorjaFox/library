@@ -1,17 +1,18 @@
-+++
-title = "TV Guide"
-date = "2005-03-09"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: TV Guide
+date: 2005-03-09
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Ask Ausiello"
-newsauthor = "Michael Ausiello"
-newssource = "TV Guide"
-newsurl = "http://TVGuide.com"
-+++
+newstitle: "Ask Ausiello"
+newsauthor: Michael Ausiello  
+newssource: TV Guide  
+newsurl: http://TVGuide.com  
+
+---
 [...]
 
 **Question:** I keep hearing rumors about a CSI episode taking place in London. Any truth? - Shelly

@@ -1,16 +1,17 @@
-+++
-title = "Entertainment Today"
-date = "1999-11-12"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/1999/:title/"
-tags = ["1999"]
-categories = ["Articles", "News"]
-newstitle = "The Hungry Bachelors' Club"
-newsauthor = "Staff"
-newssource = "Entertainment Today"
-newsurl = "http://www.ent-today.com"
-+++
+---
+title: Entertainment Today
+date: 1999-11-12
+author: Mika Epstein
+layout: news
+permalink: /news/1999/:title/
+tags: ["1999"]
+categories: ["Articles", "News"]
+newstitle: The Hungry Bachelors' Club  
+newsauthor: Staff  
+newssource: Entertainment Today  
+newsurl: http://www.ent-today.com  
+
+---
 Offscreen bonds help the ensemble cast of The Hungry Bachelors Club bring a relaxed emotional honesty to their roles.
 
 If you glimpsed the title The Hungry Bachelors Club on, say, a movie theater marquee, this romantic comedy might bring to mind a gaggle of frat boys chasing girls and chugging beer.

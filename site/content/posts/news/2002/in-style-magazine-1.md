@@ -1,16 +1,17 @@
-+++
-title = "In Style Magazine"
-date = "2002-04-01"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2002"]
-categories = ["Articles", "News"]
-permalink = "/news/2002/:title/"
-newstitle = "Scene + Heard"
-newsauthor = "Staff"
-newssource = "In Style Magazine"
-newsurl = "http://www.instyle.com/"
-+++
+---
+title: In Style Magazine
+date: 2002-04-01
+author: Mika Epstein
+layout: news
+tags: ["2002"]
+categories: ["Articles", "News"]
+permalink: /news/2002/:title/
+newstitle: "Scene + Heard"
+newsauthor: Staff  
+newssource: In Style Magazine  
+newsurl: http://www.instyle.com/  
+
+---
 
 **She said ... Jorja Fox**
 

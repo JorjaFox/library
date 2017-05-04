@@ -1,17 +1,18 @@
-+++
-title = "Buddy TV "
-date = "2007-08-29"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Buddy TV 
+date: 2007-08-29
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "'CSI' Stars Talk About Their Characters"
-newsauthor = "Staff"
-newssource = "Buddy TV "
-newsurl = "http://www.buddytv.com/articles/csi/csi-stars-talk-about-their-cha-10021.aspx"
-+++
+newstitle: "'CSI' Stars Talk About Their Characters"
+newsauthor: Staff
+newssource: Buddy TV 
+newsurl: http://www.buddytv.com/articles/csi/csi-stars-talk-about-their-cha-10021.aspx
+
+---
 
 Like other actors on the "CSI" franchise, William Petersen (Gil Grissom) and Jorja Fox (Sara Sidle) feel fortunate to portray their respective characters and to be part of such an award-winning series.
 

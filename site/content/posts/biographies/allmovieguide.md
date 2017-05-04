@@ -1,11 +1,12 @@
-+++
-title = "All Movie Guide Biography"
-author = "Mika Epstein"
-layout = "single"
-permalink = "/biographies/allmovieguide/"
-categories = ["Biographies"]
-tags = ["Internet"]
-+++
+---
+title: All Movie Guide Biography
+author: Mika Epstein
+layout: single
+permalink: /biographies/allmovieguide/
+categories: ["Biographies"]
+tags: ["Internet"]
+
+---
 
 The lithe and attractive brunette American actress Jorja Fox entered the public eye in the late '90s and early 2000s, given her involvement as a recurrent cast member in three consecutive, top-ranked U.S. television series: ER (1994), The West Wing (1999), and CSI: Crime Scene Investigation (2000). Fox is perhaps most familiar to fans of CSI, appearing in well over 150 episodes and numerous seasons.
 

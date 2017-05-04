@@ -1,17 +1,18 @@
-+++
-title = "BuddyTV.com"
-date = "2009-08-19"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: BuddyTV.com
+date: 2009-08-19
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Jorja Fox Returns for &#8216;CSI' Season 10 Premiere"
-newsauthor = "Henrik Batallones"
-newssource = "BuddyTV.com"
-newsurl = "http://www.buddytv.com/articles/csi/csi-jorja-fox-returns-for-tent-30105.aspx"
-+++
+newstitle: "Jorja Fox Returns for &#8216;CSI' Season 10 Premiere  "
+newsauthor: Henrik Batallones  
+newssource: BuddyTV.com  
+newsurl: http://www.buddytv.com/articles/csi/csi-jorja-fox-returns-for-tent-30105.aspx  
+
+---
 
 Admit it, that question is very much a natural, not after that long string of events stretching way back to the seventh season of "CSI"-Sara and Grissom finally address their relationship, the Miniature Killer gets in the way, she leaves to address her past, he leaves to move on (to her, natch)...
 

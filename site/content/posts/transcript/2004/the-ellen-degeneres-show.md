@@ -1,13 +1,13 @@
-+++
-title = "The Ellen Degeneres Show"
-date = "2004-05-18"
-author = "David Masters"
-layout = "transcript"
-interviewurl = "http://ellen.warnerbros.com/"
-permalink = "/transcript/2004/:title/"
-categories = ["Interviews"]
-tags = ["Transcript", "2004", "Talk Shows"]
-+++
+---
+title: The Ellen Degeneres Show
+date: 2004-05-18
+author: David Masters
+layout: transcript
+interviewurl: http://ellen.warnerbros.com/
+permalink: /transcript/2004/:title/
+categories: ["Interviews"]
+tags: [Transcript, 2004, "Talk Shows"]
+---
 
 **Ellen DeGeneres** Our next guest is a star of the popular forensic drama, CSI. Watch her at work.
 

@@ -1,17 +1,18 @@
-+++
-title = "Boston Herald "
-date = "2007-02-14"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Boston Herald 
+date: 2007-02-14
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Heart to heart: Checking in with prime-time's top valentines"
-newsauthor = "Staff"
-newssource = "Boston Herald "
-newsurl = "http://theedge.bostonherald.com/tvNews/view.bg?articleid=182813"
-+++
+newstitle: "Heart to heart: Checking in with prime-time's top valentines"
+newsauthor: Staff
+newssource: Boston Herald 
+newsurl: http://theedge.bostonherald.com/tvNews/view.bg?articleid=182813
+
+---
 
 Love makes the TV story line go round. 
 

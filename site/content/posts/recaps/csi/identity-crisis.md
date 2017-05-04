@@ -1,18 +1,19 @@
-+++
-title = "Identity Crisis"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "13"
-date = "2002-01-17"
-prodnum= "213"
-+++
+---
+title: "Identity Crisis"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2
+epnum: 13
+date: 2002-01-17
+prodnum: 213  
+---
 
 ## Synopsis
 

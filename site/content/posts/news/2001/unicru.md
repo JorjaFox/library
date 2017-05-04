@@ -1,16 +1,17 @@
-+++
-title = "UNICRU"
-date = "2001-04-27"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = "Pet Project"
-newsauthor = "Paul Semel"
-newssource = "UNICRU"
-newsurl = "http://www.unicru.com/asp/Breakroom/BrkCfj010427.asp"
-+++
+---
+title: UNICRU
+date: 2001-04-27
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle: Pet Project  
+newsauthor: Paul Semel  
+newssource: UNICRU  
+newsurl: http://www.unicru.com/asp/Breakroom/BrkCfj010427.asp  
+
+---
 Before she landed the role of scientist Sara Sidle on *C.S.I.*, actress Jorja Fox's life was literally going to the dogs.
 
 **What was your first job?**  

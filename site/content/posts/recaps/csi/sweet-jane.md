@@ -1,18 +1,19 @@
-+++
-title = "Sweet Jane"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "12"
-date = "2007-01-18"
-prodnum= "713"
-+++
+---
+title: "Sweet Jane"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 12
+date: 2007-01-18
+prodnum: 713  
+---
 
 ## Synopsis
 

@@ -1,17 +1,18 @@
-+++
-title = "ET Online"
-date = "2005-02-03"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: ET Online
+date: 2005-02-03
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Mark Uncovers Secrets from the CSI Set"
-newsauthor = "Staff"
-newssource = "ET Online"
-newsurl = "http://et.tv.yahoo.com"
-+++
+newstitle: "Mark Uncovers Secrets from the CSI Set"
+newsauthor: Staff  
+newssource: ET Online  
+newsurl: http://et.tv.yahoo.com  
+
+---
 [...]
 
 Mark also catches up with JORJA FOX, who reveals, "This is my favorite set on the show. It is a graphic, gruesome place."

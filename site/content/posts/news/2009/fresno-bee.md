@@ -1,17 +1,18 @@
-+++
-title = "Fresno Bee"
-date = "2009-08-14"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Fresno Bee
+date: 2009-08-14
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Ex-&#8216;CSI' star drops in on &#8216;Drop Dead Diva' "
-newsauthor = "Rick Bently "
-newssource = "Fresno Bee"
-newsurl = "http://www.fresnobee.com/entertainment/tv-radio/story/1599029.html"
-+++
+newstitle: "Ex-&#8216;CSI' star drops in on &#8216;Drop Dead Diva' "
+newsauthor: Rick Bently 
+newssource: Fresno Bee  
+newsurl: http://www.fresnobee.com/entertainment/tv-radio/story/1599029.html
+
+---
 
 **Jorja Fox also returns to the crime drama for season opener.**
 

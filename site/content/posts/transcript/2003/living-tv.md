@@ -1,13 +1,15 @@
-+++
-title = "Living TV"
-author = "Karen P."
-layout = "transcript"
-date = "2003-09-21"
-interviewurl = "http://www.livingtv.co.uk/"
-permalink = "/transcript/2003/:title/"
-categories = ["Interviews"]
-tags = ["Talk Shows", "2003"]
-+++
+---
+title: Living TV
+author: Karen P.
+layout: transcript
+date: 2003-09-21
+interviewurl: http://www.livingtv.co.uk/
+permalink: /transcript/2003/:title/
+categories: ["Interviews"]
+tags:
+  - "Talk Shows"
+  - 2003
+---
 
 Living TV is "Women orientated entertainment" and is available on Sky, Telewest and NTL.
 

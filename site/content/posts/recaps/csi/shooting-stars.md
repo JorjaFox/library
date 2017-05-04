@@ -1,18 +1,19 @@
-+++
-title = "Shooting Stars"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "4"
-date = "2005-10-13"
-prodnum = "604"
-+++
+---
+title: "Shooting Stars"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 4
+date: 2005-10-13  
+prodnum: 604  
+---
 
 ## Synopsis
 

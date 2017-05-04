@@ -1,18 +1,19 @@
-+++
-title = "Lab Rats"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "20"
-date = "2007-04-12"
-prodnum= "720"
-+++
+---
+title: "Lab Rats"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 20
+date: 2007-04-12
+prodnum: 720  
+---
 
 ## Synopsis
 

@@ -1,17 +1,18 @@
-+++
-title = "After Ellen "
-date = "2007-08-30"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: After Ellen 
+date: 2007-08-30
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "'CSI' Stars Talk About Their Characters"
-newsauthor = "Staff"
-newssource = "After Ellen"
-newsurl = "http://www.afterellen.com/blog/seige/jessica-lucas-added-to-csi"
-+++
+newstitle: "'CSI' Stars Talk About Their Characters"
+newsauthor: Staff
+newssource: After Ellen
+newsurl: http://www.afterellen.com/blog/seige/jessica-lucas-added-to-csi
+
+---
 
 [...]
 

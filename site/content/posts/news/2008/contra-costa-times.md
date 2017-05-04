@@ -1,17 +1,18 @@
-+++
-title = "Contra Costa Times"
-date = "2008-12-04"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Contra Costa Times
+date: 2008-12-04
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "L.A. Zoo's elephant forest temporarily shelved"
-newsauthor = "Brandon Lowrey"
-newssource = "Contra Costa Times"
-newsurl = "http://www.contracostatimes.com/california/ci_11133453?nclick_check=1"
-+++
+newstitle: "L.A. Zoo's elephant forest temporarily shelved  "
+newsauthor: Brandon Lowrey  
+newssource: Contra Costa Times  
+newsurl: http://www.contracostatimes.com/california/ci_11133453?nclick_check=1  
+
+---
 
 The City Council temporarily halted construction of a new $42 million elephant exhibit at the Los Angeles Zoo on Wednesday amid concerns over funding and a debate over whether the animals should be kept in zoos at all.
 

@@ -1,18 +1,19 @@
-+++
-title = "What's Eating Gilbert Grissom?"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "6"
-date = "2004-11-04"
-prodnum= "506 "
-+++
+---
+title: "What's Eating Gilbert Grissom?"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 6
+date: 2004-11-04
+prodnum: 506 
+---
 
 ## Synopsis
 

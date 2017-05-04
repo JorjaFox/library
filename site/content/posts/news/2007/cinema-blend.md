@@ -1,17 +1,18 @@
-+++
-title = "Cinema Blend "
-date = "2007-10-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Cinema Blend 
+date: 2007-10-16
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Jorja Fox Is Definitely Leaving CSI"
-newsauthor = "Kelly West"
-newssource = "Cinema Blend"
-newsurl = "http://www.cinemablend.com/"
-+++
+newstitle: "Jorja Fox Is Definitely Leaving CSI  "
+newsauthor: Kelly West  
+newssource: Cinema Blend  
+newsurl: http://www.cinemablend.com/
+
+---
 
 Well "CSI" fans, it looks like its official. Despite the online campaigns and petitions set up by fans to keep her around, Jorja Fox is leaving "CSI". TV Guide's Ausiello interviewed Fox last month and at that time, she refused to respond to the rumors about her departure from the series. Today, Entertainment Weekly has reported that the rumors are true.
 

@@ -1,17 +1,18 @@
-+++
-title = "TV Guide "
-date = "2007-01-04"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: TV Guide 
+date: 2007-01-04
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Preview: How Grissom's Exit Will Shake Up 'CSI'!"
-newsauthor = "Staff"
-newssource = "TV Guide "
-newsurl = "http://www.tvguide.com"
-+++
+newstitle: "Preview: How Grissom's Exit Will Shake Up 'CSI'!"
+newsauthor: Staff
+newssource: TV Guide 
+newsurl: http://www.tvguide.com
+
+---
 
 [...]
 

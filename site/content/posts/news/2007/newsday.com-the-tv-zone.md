@@ -1,16 +1,18 @@
-+++
-title = "Newsday.com"
-date = "2007-11-15"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
-newstitle = "Quickie Review: Jorja Fox Says Goodbye (and Good Luck) to 'CSI"
-newsauthor = "Verne Gay"
-newssource = "The TV Zone"
-newsurl = "http://weblogs.newsday.com/entertainment/"
-+++
+---
+title: Newsday.com
+date: 2007-11-15
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
+
+newstitle: "Quickie Review: Jorja Fox Says Goodbye (and Good Luck) to 'CSI'"
+newsauthor: Verne Gay  
+newssource: The TV Zone  
+newsurl: http://weblogs.newsday.com/entertainment/tv/blog/2007/11/quicke\_review\_jorja\_fox\_says_g.html 
+
+---
 Watch tonight's "CSI" and you too will understand why Jorja Fox - Sara Sidle - quit.
 
 Murders, suicide, a drag and dump (whatever that is), woman with knife in back, pre-pubescent homicidal insanity...all within 44 minutes. You'd quit too. One wonders what kind of toll this takes on an intelligent sensitive actress like Fox - year after year of it. She told "EW" that she wanted to start a family, but starting families requires a certain frame of mind, and "optimism" has to be a basic minimum requirement â optimism about life, your life, and the life of your unborn children. How could Fox be optimistic in a role that almost certainly bled into her off-screen psyche? (And how could it not?) "I spent almost my entire life with ghosts," she tells Grissom in her goodbye-and-good-luck note. Nice line, and given this role, accurate. Time to move on and more credit to Fox for having the courage to forsake a very good paycheck for doing so.

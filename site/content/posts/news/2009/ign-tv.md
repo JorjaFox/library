@@ -1,17 +1,18 @@
-+++
-title = "IGN TV"
-date = "2009-09-25"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: IGN TV
+date: 2009-09-25
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "CSI: 'Family Affair' Review"
-newsauthor = "James Chamberlin"
-newssource = "IGN"
-newsurl = "http://tv.ign.com/articles/102/1028487p1.html"
-+++
+newstitle: "CSI: 'Family Affair' Review  "
+newsauthor: James Chamberlin  
+newssource: IGN  
+newsurl: http://tv.ign.com/articles/102/1028487p1.html  
+
+---
 
 **Sara returns to a team in transition.**
 

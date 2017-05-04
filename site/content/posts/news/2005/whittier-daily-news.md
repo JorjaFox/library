@@ -1,17 +1,18 @@
-+++
-title = "Whittier Daily News"
-date = "2005-01-09"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: Whittier Daily News
+date: 2005-01-09
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "'Shrek 2' tops People's Choice Awards"
-newsauthor = "Staff"
-newssource = "Whittier Daily News"
-newsurl = "http://www.whittierdailynews.com"
-+++
+newstitle: "'Shrek 2' tops People's Choice Awards  "
+newsauthor: Staff  
+newssource: Whittier Daily News  
+newsurl: http://www.whittierdailynews.com  
+
+---
 [...]
 
 A hundred or so hearty fans -or maybe foolhardy fans -stood under umbrellas across the street from the Pasadena Civic Auditorium where in other years several hundred of screaming fans would gather to greet the stars in their caravan of limousines.

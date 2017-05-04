@@ -1,17 +1,18 @@
-+++
-title = "The Hollywood Reporter "
-date = "2007-08-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: The Hollywood Reporter 
+date: 2007-08-20
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Lucas on scene as &#8216;CSI' newbie"
-newsauthor = "The Hollywood Reporter"
-newssource = "The Hollywood Reporter"
-newsurl = "http://www.hollywoodreporter.com/"
-+++
+newstitle: "Lucas on scene as &#8216;CSI' newbie"
+newsauthor: The Hollywood Reporter
+newssource: The Hollywood Reporter
+newsurl: http://www.hollywoodreporter.com/
+
+---
 
 "**CSI" adds new cast member**
 

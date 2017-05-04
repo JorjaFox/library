@@ -1,18 +1,19 @@
-+++
-title = "$35K O.B.O."
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "18"
-date = "2001-03-29"
-prodnum= "117"
-+++
+---
+title: "$35K O.B.O."
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 18  
+date: 2001-03-29
+prodnum: 117  
+---
 
 ## Synopsis
 

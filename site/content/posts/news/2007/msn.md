@@ -1,16 +1,18 @@
-+++
-title = "MSN "
-date = "2007-05-02"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
-newstitle = "Is Jorja Fox off CSI?"
-newsauthor = "MSN Entertainment"
-newssource = "MSN Entertainment"
-newsurl = "http://entertainment.msn.com/ "
-+++
+---
+title: MSN 
+date: 2007-05-02
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
+
+newstitle: "Is Jorja Fox off CSI?"
+newsauthor: MSN Entertainment
+newssource: MSN Entertainment
+newsurl: http://entertainment.msn.com/ 
+
+---
 
 **Another contract dispute with CBS may mean Sara Sidle is toast **
 

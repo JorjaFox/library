@@ -1,18 +1,19 @@
-+++
-title = "Double-Cross"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "5"
-date = "2006-10-19"
-prodnum= "705"
-+++
+---
+title: "Double-Cross"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 5
+date: 2006-10-19
+prodnum: 705  
+---
 
 ## Synopsis
 

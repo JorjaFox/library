@@ -1,16 +1,16 @@
-+++
-title = "National Examiner"
-date = "2003-09-30"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003", "tabloids"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "CSI Sex Plot Furor"
-newsurl = "http://national-examiner.com"
-newsauthor = "Laurie Campbell"
-newssource = "National Examiner"
-+++
+---
+title: National Examiner
+date: 2003-09-30
+author: Mika Epstein
+layout: news
+tags: [2003, tabloids]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: CSI Sex Plot Furor
+newsurl: http://national-examiner.com
+newsauthor: Laurie Campbell
+newssource: National Examiner
+---
 
 There's a battle royal going on behind the scenes at CSI: Crime Scene Investigation &#8212; should Gil Grissom leap into the sack with Sara Sidle?
 

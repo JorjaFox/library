@@ -1,16 +1,17 @@
-+++
-title = "Austin Chronicle Movies"
-date = "1999-11-12"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/1999/:title/"
-tags = ["1999"]
-categories = ["Articles", "News"]
-newstitle = "The Hungry Bachelors Club"
-newsauthor = "Russell Smith"
-newssource = "Austin Chronicle"
-newsurl = "http://www.auschron.com"
-+++
+---
+title: Austin Chronicle Movies
+date: 1999-11-12
+author: Mika Epstein
+layout: news
+permalink: /news/1999/:title/
+tags: ["1999"]
+categories: ["Articles", "News"]
+newstitle: The Hungry Bachelors Club  
+newsauthor: Russell Smith  
+newssource: Austin Chronicle  
+newsurl: http://www.auschron.com  
+
+---
 Director: Gregory Ruzzin  
   
 Starring: Suzanne Mara, Bill Nunn, David Shackelford, Paul Provenza, Peter Murnik, Katherine Kendall, Jorja Fox  

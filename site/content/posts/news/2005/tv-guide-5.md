@@ -1,17 +1,18 @@
-+++
-title = "TV Guide"
-date = "2005-10-19"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: TV Guide
+date: 2005-10-19
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Ask Ausiello"
-newsauthor = "Michael Ausiello"
-newssource = "TV Guide"
-newsurl = "http://www.tvguide.com"
-+++
+newstitle: "Ask Ausiello"
+newsauthor: Michael Ausiello  
+newssource: TV Guide  
+newsurl: http://www.tvguide.com  
+
+---
 [...]
 
 **Question:** Is it true that Grissom on CSI sleeps with someone on his team this season? If so, please tell me it's *not* Catherine. &#8212; Susanne

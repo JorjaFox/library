@@ -1,17 +1,18 @@
-+++
-title = "Gather News - Celebs"
-date = "2011-09-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: Gather News - Celebs
+date: 2011-09-20
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "Ted Danson alienating &#8216;CSI' costars?"
-newsauthor = "Coco George"
-newssource = "Gather News - Celebs"
-newsurl = "http://celebs.gather.com/viewArticle.action?articleId=281474980349493"
-+++
+newstitle: "Ted Danson alienating &#8216;CSI' costars?  "
+newsauthor: Coco George  
+newssource: Gather News - Celebs  
+newsurl: http://celebs.gather.com/viewArticle.action?articleId=281474980349493  
+
+---
 
 Ted Danson has built up a lot of goodwill among audiences after appearing on such hits as "Cheers," "Damages," and "Becker." But that goodwill might not extend to his new costars on "CSI."
 

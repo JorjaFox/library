@@ -1,16 +1,17 @@
-+++
-title = "Houston Chronicle"
-date = "2001-09-26"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = "'CSI' star Jorja Fox focuses on another dream role"
-newsauthor = "Staff"
-newssource = "Houston Chronicle"
-newsurl = "http://www.chron.com/cs/CDA/story.hts/headline/entertainment/1063653"
-+++
+---
+title: Houston Chronicle
+date: 2001-09-26
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle: "'CSI' star Jorja Fox focuses on another dream role"
+newsauthor: Staff  
+newssource: Houston Chronicle  
+newsurl: http://www.chron.com/cs/CDA/story.hts/headline/entertainment/1063653  
+
+---
 Jorja Fox speaks for many of us trying to work while also worrying about current events.
 
 "I go from moments where you don't want to come to work, to being very focused and concentrating, knowing there is something I've got to do, to other moments when I can't seem to get it together," said Fox, who plays Sara Sidle on CBS' hot sophomore drama *CSI: Crime Scene Investigation*.

@@ -1,18 +1,19 @@
-+++
-title = "The Fallen"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "19"
-date = "2014-04-02"
-prodnum= "314"
-+++
+---
+title: "The Fallen"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14  
+epnum: 19  
+date: 2014-04-02
+prodnum: 314  
+---
 
 ## Synopsis
 

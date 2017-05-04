@@ -1,18 +1,19 @@
-+++
-title = "Snakes"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "12 "
-date = "2005-01-13"
-prodnum= "512 "
-+++
+---
+title: "Snakes"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 12 
+date: 2005-01-13
+prodnum: 512 
+---
 
 ## Synopsis
 

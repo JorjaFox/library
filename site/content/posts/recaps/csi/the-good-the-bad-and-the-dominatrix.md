@@ -1,18 +1,19 @@
-+++
-title = "The Good, the Bad, and the Dominatrix"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "23"
-date = "2007-05-10"
-prodnum= "723"
-+++
+---
+title: "The Good, the Bad, and the Dominatrix"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 23
+date: 2007-05-10
+prodnum: 723  
+---
 
 ## Synopsis
 

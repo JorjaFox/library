@@ -1,17 +1,18 @@
-+++
-title = "Aversion Magazine"
-date = "2005-05-23"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: Aversion Magazine
+date: 2005-05-23
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Coachella 2005"
-newsauthor = "Staff"
-newssource = "Aversion"
-newsurl = "http://www.aversion.com/"
-+++
+newstitle: Coachella 2005  
+newsauthor: Staff  
+newssource: Aversion  
+newsurl: http://www.aversion.com/  
+
+---
 
 [...]
 

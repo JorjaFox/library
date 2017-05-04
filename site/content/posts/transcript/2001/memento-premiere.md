@@ -1,13 +1,17 @@
-+++
-title = "Memento Premiere"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2001-01-01"
-interviewurl = "http://wireimage.com/"
-permalink = "/transcript/2001/:title/"
-categories = ["Interviews"]
-tags = ["Red Carpet", "2001"]
-+++
+---
+title: Memento Premiere
+author: Mika Epstein
+layout: transcript
+date: 2001-01-01
+interviewurl: http://wireimage.com/
+permalink: /transcript/2001/:title/
+categories:
+  - Interviews
+
+tags:
+  - "Red Carpet"
+  - 2001
+---
 Jorja Fox was interviewed at the premiere of "Memento"
 
 **Interviewer:** I saw the movie and it was fabulous-

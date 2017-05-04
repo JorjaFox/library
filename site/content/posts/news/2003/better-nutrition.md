@@ -1,22 +1,23 @@
-+++
-title = "Better Nutrition"
-date = "2003-02-01"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "sweet jorja fox"
-newsauthor = "Barbara Hey"
-newssource = "Better Nutrition"
-newsurl = "http://www.betternutrition.com"
-+++
+---
+title: Better Nutrition
+date: 2003-02-01
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: sweet jorja fox  
+newsauthor: Barbara Hey
+newssource: Better Nutrition  
+newsurl: http://www.betternutrition.com  
+
+---
 
 **vegetarian girl next door catapults to stardom**
 
 As a star on the top-rated CBS police drama *CSI: Crime Scene Investigation*, Jorja (pronounced Georgia) Fox as to watch what she eats. Not or health reasons- although nutrition certainly is important to the devoted vegetarian- but becuase of the show's sometimes gory realism. "I've learned not to eat before certain scenes," she says.
 
-That's hardly surprising give the fact that Fox's character, Sara Sidle- a name that, she says, "sounds a little too much like 'suicidal"]- works as a member of the CSI autopsy team. Her job? Examining the lifeless bodies discovered in the dark hours of the night in Las Vegas and uncovering clues about the who, what, where, when and why of their demise.
+That's hardly surprising give the fact that Fox's character, Sara Sidle- a name that, she says, "sounds a little too much like 'suicidal'"- works as a member of the CSI autopsy team. Her job? Examining the lifeless bodies discovered in the dark hours of the night in Las Vegas and uncovering clues about the who, what, where, when and why of their demise.
 
 Sidle is just the latest in a string of serious, determined characters that fox has portrayed on the big and small screens. She joined the cast of *ER* in its third season as the gun-toting, vegetarian, gay resident, Dr. Maggie Doyle- "No meat. No men. I'm your woman." She appeared in *The West Wing* as special agent Gina Toscano, the dedicated secret service protector of the president's daughter. And in her most recent film, the critically acclaimed *Memento*, she played the murder victim, a role that entailed lying for hours on a bathroom floor, wet, covered by a shower curtain.
 
@@ -63,7 +64,7 @@ One thing she isn't flexible about, however, is her healthy diet. Although Fox w
 
 As for the benefits of a vegetarian diet: "I noticed that during the first five years of being a vegetarian, I felt much lighter, although I only dropped three or four pounds. I liked that lightness," she says.
 
-But Fox's healthy habits go far beyond diet. She is, she says, a faithful reader of *Better Nutrition*, and she takes her own health very seriously. She's always careful to boost her immune system, particularly during the filming season. "I take a decent amnount of supplements- a B complex, a mineral complex, digestive enzymes, astragalus and vitamin C. I don't want to get run-down," which is bound to happen with the schedule she keeps and the close quarters in which she works. "The cramped stages don't have a tremendous amount of ventilation," she says. "It's like being at school and one kid shows up with a cold, and you just know everyone is going to get it. Same thing on the set. I hear someone sneeze and I say, 'Oh, here we go."]
+But Fox's healthy habits go far beyond diet. She is, she says, a faithful reader of *Better Nutrition*, and she takes her own health very seriously. She's always careful to boost her immune system, particularly during the filming season. "I take a decent amnount of supplements- a B complex, a mineral complex, digestive enzymes, astragalus and vitamin C. I don't want to get run-down," which is bound to happen with the schedule she keeps and the close quarters in which she works. "The cramped stages don't have a tremendous amount of ventilation," she says. "It's like being at school and one kid shows up with a cold, and you just know everyone is going to get it. Same thing on the set. I hear someone sneeze and I say, 'Oh, here we go.'"
 
 She also exercises when she can. "I'm not a gym person," she says. So when she works out- every other weekday and twice on weekends- she does it either in the fresh air of the privacy of her home. "I put on a CD and dance for 45 minutes," she says.
 

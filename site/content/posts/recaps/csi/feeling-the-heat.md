@@ -1,18 +1,19 @@
-+++
-title = "Feeling the Heat"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "4"
-date = "2003-10-23"
-prodnum= "405"
-+++
+---
+title: "Feeling the Heat"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4
+epnum: 4
+date: 2003-10-23
+prodnum: 405  
+---
 
 ## Synopsis
 

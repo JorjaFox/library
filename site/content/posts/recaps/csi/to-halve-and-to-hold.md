@@ -1,18 +1,19 @@
-+++
-title = "To Halve and to Hold"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "14"
-date = "2001-02-15"
-prodnum= "113"
-+++
+---
+title: "To Halve and to Hold"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 14  
+date: 2001-02-15
+prodnum: 113  
+---
 
 ## Synopsis
 

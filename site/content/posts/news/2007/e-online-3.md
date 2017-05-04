@@ -1,17 +1,18 @@
-+++
-title = "E Online "
-date = "2007-10-08"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: E Online 
+date: 2007-10-08
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Spoiler Chat: Stop By for Some Scoop on Friday, Housewives, Grey's and More!"
-newsauthor = "Staff"
-newssource = "Watch With Kristin"
-newsurl = "http://www.eonline.com"
-+++
+newstitle: "Spoiler Chat: Stop By for Some Scoop on Friday, Housewives, Grey's and More!"
+newsauthor: Staff
+newssource: Watch With Kristin
+newsurl: http://www.eonline.com
+
+---
 
 [...]
 

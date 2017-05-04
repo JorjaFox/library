@@ -1,17 +1,18 @@
-+++
-title = "E Online"
-date = "2007-09-28"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: E Online
+date: 2007-09-28
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "'CSI's Jorja Fox Is Leaving the Show"
-newsauthor = "E! Online"
-newssource = "Watch With Kristen"
-newsurl = "http://www.eonline.com"
-+++
+newstitle: "'CSI's Jorja Fox Is Leaving the Show"
+newsauthor: "E! Online"
+newssource: Watch With Kristen
+newsurl: http://www.eonline.com
+
+---
 
 She's outta there.
 

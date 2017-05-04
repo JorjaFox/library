@@ -1,18 +1,19 @@
-+++
-title = "Justice is Served"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "21"
-date = "2001-04-26"
-prodnum= "120"
-+++
+---
+title: "Justice is Served"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 21
+date: 2001-04-26
+prodnum: 120  
+---
 
 ## Synopsis
 

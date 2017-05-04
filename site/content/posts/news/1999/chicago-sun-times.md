@@ -1,16 +1,16 @@
-+++
-title = "Chicago Sun-Times"
-date = "1999-11-12"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/1999/:title/"
-tags = ["1999"]
-categories = ["Articles", "News"]
-newstitle = "\"Hungry Bachelors\" kills appetite"
-newsauthor = "Jae-Ha Kim"
-newssource = "Chicago Sun-Times"
-newsurl = "http://www.suntimes.com"
-+++
+---
+title: Chicago Sun-Times
+date: 1999-11-12
+author: Mika Epstein
+layout: news
+permalink: /news/1999/:title/
+tags: ["1999"]
+categories: ["Articles", "News"]
+newstitle: Hungry Bachelors" kills appetite  
+newsauthor: Jae-Ha Kim  
+newssource: Chicago Sun-Times  
+newsurl: http://www.suntimes.com  
+---
 Mama's Boys LLC presents a film directed by Gregory Ruzzin. Written by Fred Dresch and Ron Ratliff. Running time: 93 minutes. Rated PG-13 (for language). Opening today at Deerbrook, Lincoln Mall, Randhurst and Yorktown. 
 
 There are so many things wrong with "The Hungry Bachelors Club" that it's easy to overlook some of the actors' fine work. It's unfortunate that they're stuck portraying one-dimensional characters who make the "Melrose Place" crew appear deep. 

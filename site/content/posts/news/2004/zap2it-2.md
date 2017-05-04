@@ -1,16 +1,17 @@
-+++
-title = "Zap2it"
-date = "2004-07-24"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "&#8216;CSI': The Gang's All Here"
-newsauthor = "Staff"
-newssource = "Zap2it.com"
-newsurl = "http://Zap2it.com"
-+++
+---
+title: Zap2it
+date: 2004-07-24
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "&#8216;CSI': The Gang's All Here"
+newsauthor: Staff  
+newssource: Zap2it.com  
+newsurl: http://Zap2it.com  
+
+---
 
 LOS ANGELES (Zap2it.com) It looks like we can finally close the book on the past week of "As &#8216;CSI' Turns."
 

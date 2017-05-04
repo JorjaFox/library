@@ -1,17 +1,18 @@
-+++
-title = "Buddy TV "
-date = "2007-10-15"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Buddy TV 
+date: 2007-10-15
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Fans Show Support for &#8216;CSI' Actress"
-newsauthor = "Staff"
-newssource = "Buddy TV "
-newsurl = "http://www.buddytv.com/"
-+++
+newstitle: "Fans Show Support for &#8216;CSI' Actress"
+newsauthor: Staff
+newssource: Buddy TV 
+newsurl: http://www.buddytv.com/
+
+---
 
 The noise surrounding Jorja Fox's reported departure on "CSI" has fueled fans to exert great efforts to keep her character, Sara Sidle, on the CBS show. Although the 39-year-old actress has neither confirmed nor denied the controversy, supporters have quickly found ways to demonstrate their support by putting up websites such as The Jorja Fox Appreciation Campaign and Dollars for Sense.
 

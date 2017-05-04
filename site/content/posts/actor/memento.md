@@ -1,15 +1,15 @@
-+++
-layout = "actor"
-title = "Memento"
-categories = ["Filmography"]
-tags = ["movies"]
-excerpt = "<strong>Memento</strong> is about a man with a short-term memory disorder caused by an assault that killed his wife. While he cannot remember his recent past, he struggles to avenge his wife's death."
-character = "Catherine Shelby"
-chartype = "supporting"
-rating = "2"
-year = "1999"
-genre = "Drama"
-+++
+---
+layout: actor
+title: "Memento"
+categories: ["Filmography"]
+tags: ["movies"]
+excerpt: "<strong>Memento</strong> is about a man with a short-term memory disorder caused by an assault that killed his wife. While he cannot remember his recent past, he struggles to avenge his wife's death."
+character: "Catherine Shelby"
+chartype: supporting
+rating: 2
+year: 1999
+genre: Drama
+---
 
 **Memento** is a movie starring Guy Pearce ('The Adventures of Priscilla, Queen of the Desert' and 'L.A. Confidential') and Carrie Anne-Moss ('The Matrix' and 'Red Planet'). Jorja Fox plays Catherine Shelby, the wife of Leonard Shelby (Pearce), who was raped and murdered in the couple's home.
 

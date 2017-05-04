@@ -1,15 +1,15 @@
-+++
-layout = "actor"
-title = "Velocity Trap"
-categories = ["Filmography"]
-tags = ["movies"]
-excerpt = "<strong>Velocity Trap</strong> is about a police officer trying to protect a federal banking ship from being robbed."
-character = "Alice Pallas"
-chartype = "supporting"
-rating = "3"
-year = "1998"
-genre = "Sci-Fi"
-+++
+---
+layout: actor
+title: "Velocity Trap"
+categories: ["Filmography"]
+tags: ["movies"]
+excerpt: "<strong>Velocity Trap</strong> is about a police officer trying to protect a federal banking ship from being robbed."
+character: "Alice Pallas"
+chartype: supporting
+rating: 3
+year: 1998
+genre: "Sci-Fi"
+---
 
 It's high noon in deep space. It's the year 2150, and electronic crime and interstellar piracy rule the galaxy. Facing unlawful murder charges, Police officer Raymond Stokes is reassigned to escort the Federal Banking Ship USF Atlantic and $40,000,000,000 through the Bermuda Triangle of space: The Velocity Run. With only Beth Sheffield, the ship's navigator, to assist him, all his strength is put to the test when everything on board is threatened by an oncoming 600 million ton asteroid, and a well-armed team of thieves that have docked alongside the USF Atlantic. In a terrifying race against time, Stokes must fight to survive before the deadly impact.
 

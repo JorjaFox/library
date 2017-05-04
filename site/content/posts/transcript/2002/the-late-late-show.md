@@ -1,13 +1,15 @@
-+++
-title = "The Late Late Show"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2002-06-26"
-interviewurl = "http://www.cbs.com/"
-permalink = "/transcript/2002/:title/"
-categories = ["Interviews"]
-tags = ["Talk Shows", "2002"]
-+++
+---
+title: The Late Late Show
+author: Mika Epstein
+layout: transcript
+date: 2002-06-26
+interviewurl: http://www.cbs.com/
+permalink: /transcript/2002/:title/
+categories: ["Interviews"]
+tags:
+  - "Talk Shows"
+  - 2002
+---
 
 "The Late Late Show with Craig Kilborn" was a TV Talk show/variety show, hosted by Craig Kilborn.
 

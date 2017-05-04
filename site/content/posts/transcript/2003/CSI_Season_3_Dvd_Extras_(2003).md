@@ -1,13 +1,13 @@
-+++
-title = "CSI Season 3 DVD extras"
-date = "2003-07-01"
-author = "David Masters"
-layout = "transcript"
-interviewurl = "http://www.cbs.com"
-permalink = "/transcript/2003/:title/"
-categories = ["Interviews"]
-tags = ["Transcript", "2003", "DVD"]
-+++
+---
+title: CSI Season 3 DVD extras
+date: 2003-07-01
+author: David Masters
+layout: transcript
+interviewurl: http://www.cbs.com
+permalink: /transcript/2003/:title/
+categories: ["Interviews"]
+tags: [Transcript, 2003, DVD]
+---
 
 ## Crash and Burn
 

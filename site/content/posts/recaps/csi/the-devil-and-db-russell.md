@@ -1,18 +1,19 @@
-+++
-title = "The Devil and D.B. Russell"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "1"
-date = "2013-09-25"
-prodnum= "296"
-+++
+---
+title: "The Devil and D.B. Russell"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14  
+epnum: 1  
+date: 2013-09-25
+prodnum: 296  
+---
 
 ## Synopsis
 

@@ -1,18 +1,19 @@
-+++
-title = "Leaving Las Vegas"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "Eleven"
-date = "2007-01-04"
-prodnum= "711"
-+++
+---
+title: "Leaving Las Vegas"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: Eleven  
+date: 2007-01-04
+prodnum: 711  
+---
 
 ## Synopsis
 

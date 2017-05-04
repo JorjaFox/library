@@ -1,18 +1,19 @@
-+++
-title = "Burn Out"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "6"
-date = "2006-11-02"
-prodnum= "706"
-+++
+---
+title: "Burn Out"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7  
+epnum: 6
+date: 2006-11-02
+prodnum: 706  
+---
 
 ## Synopsis
 

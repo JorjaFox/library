@@ -1,17 +1,18 @@
-+++
-title = "Twitter"
-date = "2011-09-14"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: Twitter
+date: 2011-09-14
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "Live CSI Chat (on Twitter)"
-newsauthor = "Carol Mendelsohn"
-newssource = "Twitter"
-newsurl = "https://jorjafox.net/2011/tweetcap-of-the-live-csi-chat/"
-+++
+newstitle: "Live CSI Chat (on Twitter)  "
+newsauthor: Carol Mendelsohn  
+newssource: Twitter  
+newsurl: https://jorjafox.net/2011/tweetcap-of-the-live-csi-chat/  
+
+---
 
 Welcome to everyone. Don and I are excited to be here and talk about the new season #CSI
 

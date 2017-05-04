@@ -1,16 +1,17 @@
-+++
-title = "The Look"
-date = "2003-01-25"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "Foxy Lady"
-newsauthor = "Rebecca Fletcher"
-newssource = "The Look"
-newsurl = " "
-+++
+---
+title: The Look
+date: 2003-01-25
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: Foxy Lady  
+newsauthor: Rebecca Fletcher  
+newssource: The Look  
+newsurl:  
+
+---
 
 Lead roles in ER and CSI have made Jorja Fox one of the most envied actresses in Hollywood.
 

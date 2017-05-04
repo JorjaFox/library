@@ -1,18 +1,19 @@
-+++
-title = "Zippered"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "12"
-epnum = "9"
-date = "2011-12-07"
-prodnum= "260"
-+++
+---
+title: "Zippered"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 12  
+epnum: 9  
+date: 2011-12-07
+prodnum: 260  
+---
 
 ## Synopsis
 

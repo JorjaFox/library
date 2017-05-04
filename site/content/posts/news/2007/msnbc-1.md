@@ -1,17 +1,18 @@
-+++
-title = "MSNBC "
-date = "2007-09-24"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: MSNBC 
+date: 2007-09-24
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Should &#8216;CSI's' Sara Sidle live or die?"
-newsauthor = "MSNBC"
-newssource = "MSNBC"
-newsurl = "http://www.msnbc.msn.com/id/20958227/"
-+++
+newstitle: "Should &#8216;CSI's' Sara Sidle live or die?"
+newsauthor: MSNBC
+newssource: MSNBC
+newsurl: http://www.msnbc.msn.com/id/20958227/
+
+---
 
 **The pros and cons on how last season's cliffhanger might end**
 

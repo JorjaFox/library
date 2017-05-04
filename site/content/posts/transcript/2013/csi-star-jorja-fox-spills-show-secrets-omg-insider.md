@@ -1,13 +1,14 @@
-+++
-title = "'CSI Star Jorja Fox Spills Show Secrets - OMG Insider"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2013-02-20"
-interviewurl = "http://omg.yahoo.com/video/csi-star-jorja-fox-spills-200000745.html"
-permalink = "/transcript/2013/:title/"
-categories = ["Interviews"]
-tags = ["2013"]
-+++
+---
+title: 'CSI Star Jorja Fox Spills Show Secrets - OMG Insider'
+author: Mika Epstein
+layout: transcript
+date: 2013-02-20
+interviewurl: http://omg.yahoo.com/video/csi-star-jorja-fox-spills-200000745.html
+permalink: /transcript/2013/:title/
+categories: ["Interviews"]
+tags:
+  - 2013
+---
 
 **Thea Andrews:** Oh dear! Jorja Fox, who plays Sara Sidle, seems to be in some hot water tonight on CSI
 

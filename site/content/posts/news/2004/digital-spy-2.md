@@ -1,16 +1,17 @@
-+++
-title = "Digital Spy"
-date = "2004-07-22"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "Two top &#8216;CSI' actors fired"
-newsauthor = "Staff"
-newssource = "Digital Spy"
-newsurl = "http://www.digitalspy.co.uk"
-+++
+---
+title: Digital Spy
+date: 2004-07-22
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "Two top &#8216;CSI' actors fired"
+newsauthor: Staff  
+newssource: Digital Spy  
+newsurl: http://www.digitalspy.co.uk  
+
+---
 
 George Eads and Jorja Fox have been sacked from *C.S.I.: Crime Scene Investigation* for breach of contract.
 

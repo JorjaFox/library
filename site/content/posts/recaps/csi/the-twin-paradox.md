@@ -1,18 +1,19 @@
-+++
-title = "The Twin Paradox"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "15"
-epnum = "6"
-date = "2014-11-16"
-prodnum= "323"
-+++
+---
+title: "The Twin Paradox"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 15  
+epnum: 6  
+date: 2014-11-16
+prodnum: 323  
+---
 
 ## Synopsis## 
 

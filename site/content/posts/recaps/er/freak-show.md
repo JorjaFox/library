@@ -1,19 +1,19 @@
-+++
-title = "Freak Show"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Four"
-epnum = "Eight"
-prodnum = "466358  "
-date = "1997-11-20"
-rating = "1"
-+++
+---
+title: Freak Show
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Four  
+epnum: Eight  
+prodnum: 466358    
+date: 1997-11-20  
+rating: 1  
+---
 
 ## Summary  
   

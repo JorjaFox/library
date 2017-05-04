@@ -1,16 +1,19 @@
-+++
-title = "Everyday Health"
-date = "2007-04-30"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
-newstitle = "Hollywood's Healthiest Snacks"
-newsauthor = "Gerri Miller"
-newssource = "Everyday Health"
-newsurl = "http://www.everydayhealth.com/photogallery/starsecrets/favoritehealthysnack.aspx#/slide-7"
-+++
+---
+title: Everyday Health
+
+date: 2007-04-30
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
+
+newstitle: "Hollywood's Healthiest Snacks  "
+newsauthor: Gerri Miller  
+newssource: Everyday Health  
+newsurl: http://www.everydayhealth.com/photogallery/starsecrets/favoritehealthysnack.aspx#/slide-7  
+
+---
 
 How celebs satisfy their cravings without packing on the pounds.
 

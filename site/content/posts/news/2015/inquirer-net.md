@@ -1,16 +1,17 @@
-+++
-title = "Inquirer.net"
-date = "2015-09-27"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "William Petersen dishes on 'CSI' finale and new show"
-newsauthor = "Ruben V. Nepales"
-newssource = "Inquirer.net"
-newsurl = "http://entertainment.inquirer.net/179642/william-petersen-dishes-on-csi-finale-and-new-show"
-+++
+---
+title: Inquirer.net
+date: 2015-09-27
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: "William Petersen dishes on 'CSI' finale and new show"
+newsauthor: Ruben V. Nepales  
+newssource: Inquirer.net  
+newsurl: http://entertainment.inquirer.net/179642/william-petersen-dishes-on-csi-finale-and-new-show  
+
+---
 
 How will the 'CSI' special two-hour series finale address the romance between William Petersen's Gil Grissom and Jorja Fox's Sara Sidle?
 

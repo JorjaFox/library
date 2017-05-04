@@ -1,17 +1,18 @@
-+++
-title = "TV Guide "
-date = "2009-05-01"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2009"]
-categories = ["Articles", "News"]
-permalink = "/news/2009/:title/"
+---
+title: TV Guide 
+date: 2009-05-01
+author: Mika Epstein
+layout: news
+tags: ["2009"]
+categories: ["Articles", "News"]
+permalink: /news/2009/:title/
 
-newstitle = "TV Guide's Best Top Moments"
-newsauthor = "Staff"
-newssource = "TV Guide"
-newsurl = "http://www.tvguide.com/special/tv-finale-preview/galleries.aspx?gallery=Best-Moments-1004366&page=18"
-+++
+newstitle: "TV Guide's Best Top Moments  "
+newsauthor: Staff  
+newssource: TV Guide  
+newsurl: http://www.tvguide.com/special/tv-finale-preview/galleries.aspx?gallery=Best-Moments-1004366&page=18  
+
+---
 
  **3. Best Goodbye**
 

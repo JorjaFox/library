@@ -1,17 +1,18 @@
-+++
-title = "TVGuide.com "
-date = "2009-08-21"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: TVGuide.com 
+date: 2009-08-21
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "'Mega Buzz on \"SVU\", \"Criminal Minds\", \"CSI\", \"Numbers\" and More'"
-newsauthor = "Matt Mitovich, Mickey O'Connor & Tim Molloy"
-newssource = "TVGuide.com"
-newsurl = "http://www.tvguide.com/News/MegaBuzz-SVU-Criminal-1008330.aspx"
-+++
+newstitle: 'Mega Buzz on "SVU", "Criminal Minds", "CSI", "Numbers" and More'
+newsauthor: "Matt Mitovich, Mickey O'Connor & Tim Molloy"
+newssource: TVGuide.com  
+newsurl: http://www.tvguide.com/News/MegaBuzz-SVU-Criminal-1008330.aspx  
+
+---
 
 
 

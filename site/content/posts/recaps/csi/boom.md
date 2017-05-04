@@ -1,18 +1,19 @@
-+++
-title = "Boom"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "13"
-date = "2001-02-08"
-prodnum= "112"
-+++
+---
+title: "Boom"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1  
+epnum: 13
+date: 2001-02-08
+prodnum: 112  
+---
 
 ## Synopsis
 

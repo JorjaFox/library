@@ -1,17 +1,18 @@
-+++
-title = "MSN Sympatico "
-date = "2007-01-23"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: MSN Sympatico 
+date: 2007-01-23
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Jorja Fox spills the beans on what she thinks of William Petersen's replacement"
-newsauthor = "Staff"
-newssource = "MSN/Sympatico"
-newsurl = "http://msn.com"
-+++
+newstitle: "Jorja Fox spills the beans on what she thinks of William Petersen's replacement"
+newsauthor: Staff
+newssource: "MSN/Sympatico"
+newsurl: http://msn.com  
+
+---
 
 **The CSIer talks about her website, her beliefs, and the possibility that CSI may lose fans because of Liev Schreiber**
 

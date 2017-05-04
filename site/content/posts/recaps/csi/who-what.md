@@ -1,18 +1,19 @@
-+++
-title = "Who & What"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "8"
-epnum = "6"
-date = "2007-11-08"
-prodnum= "806"
-+++
+---
+title: "Who & What"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 8
+epnum: 6  
+date: 2007-11-08
+prodnum: 806  
+---
 
 ## Synopsis
 

@@ -1,17 +1,18 @@
-+++
-title = "Us Weekly"
-date = "2009-03-30"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Us Weekly
+date: 2009-03-30
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "ER Finale"
-newsauthor = "Staff"
-newssource = "Us Magazine"
-newsurl = "http://usmagazine.com"
-+++
+newstitle: "ER Finale  "
+newsauthor: Staff  
+newssource: Us Magazine  
+newsurl: http://usmagazine.com  
+
+---
 
 [...]
 

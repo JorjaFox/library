@@ -1,16 +1,17 @@
-+++
-title = "Variety"
-date = "2004-07-19"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "Actor threats Eye-popping"
-newsauthor = "Staff"
-newssource = "Variety"
-newsurl = "http://www.variety.com"
-+++
+---
+title: Variety
+date: 2004-07-19
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "Actor threats Eye-popping"
+newsauthor: Staff  
+newssource: Variety  
+newsurl: http://www.variety.com  
+
+---
 
 In his first major news conference since being elevated to Viacom co-prexy/co-chief operating officer, Eye topper Leslie Moonves left little doubt that he and CBS Entertainment prexy Nancy Tellem had tired of the annual salary dance, in which thesps seeking more coin often call in sick to make a point. 
 

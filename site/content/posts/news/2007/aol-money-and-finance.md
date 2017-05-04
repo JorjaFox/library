@@ -1,17 +1,18 @@
-+++
-title = "AOL Money and Finance "
-date = "2007-10-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: AOL Money and Finance 
+date: 2007-10-16
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Jorja Fox Quitting Role on CBS Hit &#8216;CSI"
-newsauthor = "AP"
-newssource = "AOL Money and Finance"
-newsurl = "http://money.aol.com/news/articles/_a/jorja-fox-quitting-role-on-cbs-hit-csi/n20071016144209990009"
-+++
+newstitle: "Jorja Fox Quitting Role on CBS Hit &#8216;CSI'  "
+newsauthor: AP
+newssource: AOL Money and Finance  
+newsurl: http://money.aol.com/news/articles/_a/jorja-fox-quitting-role-on-cbs-hit-csi/n20071016144209990009
+
+---
 
 NEW YORK (AP) - Jorja Fox is waving goodbye to "CSI: Crime Scene Investigation."
 

@@ -1,17 +1,18 @@
-+++
-title = "The Roanoke Times "
-date = "2007-10-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: The Roanoke Times 
+date: 2007-10-13
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "TV Q&A"
-newsauthor = "The Roanoke Times"
-newssource = "The Roanoke Times"
-newsurl = "http://www.roanoke.com"
-+++
+newstitle: "TV Q&A"
+newsauthor: The Roanoke Times
+newssource: The Roanoke Times
+newsurl: http://www.roanoke.com
+
+---
 
 [...]
 

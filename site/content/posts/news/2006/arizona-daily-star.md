@@ -1,17 +1,18 @@
-+++
-title = "Arizona Daily Star"
-date = "2006-07-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Arizona Daily Star
+date: 2006-07-20
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "&#8216;CSI' going romantic against &#8216;Grey's Anatomy"
-newsauthor = "Staff"
-newssource = "Arizona Daily Star"
-newsurl = "http://www.azstarnet.com"
-+++
+newstitle: "&#8216;CSI' going romantic against &#8216;Grey's Anatomy'  "
+newsauthor: Staff  
+newssource: Arizona Daily Star  
+newsurl: http://www.azstarnet.com  
+
+---
 
 [...]
 

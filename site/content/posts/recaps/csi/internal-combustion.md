@@ -1,18 +1,19 @@
-+++
-title = "Internal Combustion"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "10"
-epnum = "13"
-date = "2010-02-04"
-prodnum= "219"
-+++
+---
+title: "Internal Combustion"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 10
+epnum: 13  
+date: 2010-02-04
+prodnum: 219  
+---
 
 ## Synopsis
 

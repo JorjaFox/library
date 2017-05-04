@@ -1,17 +1,18 @@
-+++
-title = "The Hollywood Reporter"
-date = "2011-07-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: The Hollywood Reporter
+date: 2011-07-20
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "&#8216;CSI': Jorja Fox Back as Series Regular"
-newsauthor = "Lesley Goldberg"
-newssource = "The Hollywood Reporter"
-newsurl = "http://www.hollywoodreporter.com/live-feed/csi-jorja-fox-back-as-213517"
-+++
+newstitle: "&#8216;CSI': Jorja Fox Back as Series Regular  "
+newsauthor: Lesley Goldberg  
+newssource: The Hollywood Reporter  
+newsurl: http://www.hollywoodreporter.com/live-feed/csi-jorja-fox-back-as-213517  
+
+---
 
 **The actress rejoins the crime procedural as a full-time cast member for its upcoming 12th season.**
 

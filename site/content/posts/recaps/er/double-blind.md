@@ -1,19 +1,19 @@
-+++
-title = "Double Blind"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Five"
-epnum = "Twelve"
-prodnum = "467562  "
-date = "1999-01-21"
-rating = "5"
-+++
+---
+title: Double Blind
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Five  
+epnum: Twelve  
+prodnum: 467562    
+date: 1999-01-21  
+rating: 5  
+---
 
 ## Summary  
   

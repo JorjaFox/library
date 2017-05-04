@@ -1,18 +1,19 @@
-+++
-title = "The Chick Chop Flick Shop"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "8"
-epnum = "5"
-date = "2007-11-01"
-prodnum= "805"
-+++
+---
+title: "The Chick Chop Flick Shop"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 8
+epnum: 5  
+date: 2007-11-01
+prodnum: 805  
+---
 
 ## Synopsis
 

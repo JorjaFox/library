@@ -1,18 +1,19 @@
-+++
-title = "Let's Make A Deal"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "15"
-epnum = "9"
-date = "2014-12-07"
-prodnum= "326"
-+++
+---
+title: "Let's Make A Deal"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 15  
+epnum: 9  
+date: 2014-12-07
+prodnum: 326  
+---
 
 ## Synopsis## 
 

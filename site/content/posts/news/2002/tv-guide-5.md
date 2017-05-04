@@ -1,16 +1,17 @@
-+++
-title = "TV Guide"
-date = "2002-12-14"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2002"]
-categories = ["Articles", "News"]
-permalink = "/news/2002/:title/"
-newstitle = "Hollywood Grapevine"
-newsauthor = "Staff"
-newssource = "TV Guide"
-newsurl = "http://www.tvguide.com"
-+++
+---
+title: TV Guide
+date: 2002-12-14
+author: Mika Epstein
+layout: news
+tags: ["2002"]
+categories: ["Articles", "News"]
+permalink: /news/2002/:title/
+newstitle: Hollywood Grapevine  
+newsauthor: Staff  
+newssource: TV Guide  
+newsurl: http://www.tvguide.com  
+
+---
 
 **Showbiz Buzz + Celebrity Scoop**
 

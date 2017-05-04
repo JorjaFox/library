@@ -1,17 +1,18 @@
-+++
-title = "ETonline "
-date = "2007-05-03"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: ETonline 
+date: 2007-05-03
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Romance Secrets from &#8216;CSI"
-newsauthor = "Staff"
-newssource = "ET Online"
-newsurl = "http://www.etonline.com"
-+++
+newstitle: "Romance Secrets from &#8216;CSI'"
+newsauthor: Staff
+newssource: ET Online
+newsurl: http://www.etonline.com
+
+---
 
 [...]
 

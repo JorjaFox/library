@@ -1,18 +1,19 @@
-+++
-title = "No More Bets"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "22"
-date = "2004-05-13"
-prodnum= "422"
-+++
+---
+title: "No More Bets"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4
+epnum: 22
+date: 2004-05-13
+prodnum: 422  
+---
 
 ## Synopsis
 

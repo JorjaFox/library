@@ -1,17 +1,17 @@
-+++
-title = "How Hard Is It Just to Get Off at the Next Exit?"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/:title/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-date = "1993-12-16"
-season = "1"
-episode = "11"
-+++
+---
+title: How Hard Is It Just to Get Off at the Next Exit?
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/missing-persons/:title/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+date: 1993-12-16
+season: 1
+episode: 11
+---
   
 ## Synopsis
 A woman sees her missing son as she rides the bus, but by the time she gets off, he's gone. Carlos goes to help the woman. Bobby looks for a missing express delivery man, while a councilman leans on Ray for a favor when his best-friend's daughter goes missing right before her wedding. Johnny helps his family when his father, also a police officer, is shot.

@@ -1,16 +1,17 @@
-+++
-title = "CBS News"
-date = "2003-01-09"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "'C.S.I.' Tunes"
-newsauthor = "Staff"
-newssource = "CBS News"
-newsurl = "http://www.cbsnews.com/stories/2003/01/08/earlyshow/leisure/music/main535780.shtml"
-+++
+---
+title: CBS News
+date: 2003-01-09
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: "'C.S.I.' Tunes"
+newsauthor: Staff  
+newssource: CBS News  
+newsurl: http://www.cbsnews.com/stories/2003/01/08/earlyshow/leisure/music/main535780.shtml  
+
+---
 
 (CBS) Every week, the cast and crew of "C.S.I." find themselves immersed in  
 bone-chilling tales, made even more haunting by the music that accompanies  

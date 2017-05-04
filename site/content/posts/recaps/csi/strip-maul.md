@@ -1,18 +1,19 @@
-+++
-title = "Strip Maul"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "9"
-date = "2012-11-28"
-prodnum= "282"
-+++
+---
+title: "Strip Maul"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13
+epnum: 9  
+date: 2012-11-28
+prodnum: 282  
+---
 
 ## Synopsis
 

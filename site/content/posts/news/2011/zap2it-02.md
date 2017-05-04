@@ -1,17 +1,18 @@
-+++
-title = "Zap2It - Zap 2 News and Buzz"
-date = "2011-02-04"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: Zap2It - Zap 2 News and Buzz
+date: 2011-02-04
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "&#8216;CSI': What did you think of Grissom's return?"
-newsauthor = "Rick Porter"
-newssource = "Zap2It - Zap 2 News & Buzz"
-newsurl = "http://blog.zap2it.com/frominsidethebox/2011/02/csi-what-did-you-think-of-grissoms-return.html"
-+++
+newstitle: "&#8216;CSI': What did you think of Grissom's return?  "
+newsauthor: Rick Porter  
+newssource: Zap2It - Zap 2 News & Buzz  
+newsurl: http://blog.zap2it.com/frominsidethebox/2011/02/csi-what-did-you-think-of-grissoms-return.html  
+
+---
 
 As implicitly promised in all the teases leading up to the show, Thursday's (Feb. 3) episode of "CSI" featured the return of the show's original lead character, Gil Grissom (William Petersen) &#8212; at least for a couple minutes.
 

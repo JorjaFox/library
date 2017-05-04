@@ -1,16 +1,17 @@
-+++
-title = "Viva Magazine"
-date = "2014-04-01"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2014"]
-categories = ["Articles", "News"]
-permalink = "/news/2014/:title/"
-newstitle = "Lady Luck"
-newsauthor = "Bonnie Siegler | Photography Elisabeth Caren"
-newssource = "Viva Magazine"
-newsurl = "http://www.vivamagonline.com/"
-+++
+---
+title: Viva Magazine
+date: 2014-04-01
+author: Mika Epstein
+layout: news
+tags: ["2014"]
+categories: ["Articles", "News"]
+permalink: /news/2014/:title/
+newstitle: "Lady Luck"
+newsauthor: Bonnie Siegler | Photography Elisabeth Caren  
+newssource: Viva Magazine  
+newsurl: http://www.vivamagonline.com/  
+
+---
 
 FOR THE LAST 14 YEARS, WE'VE BEEN WATCHING **JORJA FOX** ON OUR TELEVISION SETS. HERE'S A LOOK AT HOW THE ACTOR SPENDS HER TIME OFF SCREEN, AND WHY SHE CONSIDERS HERSELF ONE LUCKY LADY.
 

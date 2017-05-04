@@ -1,19 +1,19 @@
-+++
-title = "Day For Knight"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Five"
-epnum = "One"
-prodnum = "467551  "
-date = "1998-09-24"
-rating = "2"
-+++
+---
+title: Day For Knight
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Five  
+epnum: One  
+prodnum: 467551    
+date: 1998-09-24  
+rating: 2  
+---
 
 ## Summary  
   

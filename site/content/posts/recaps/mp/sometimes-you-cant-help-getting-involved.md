@@ -1,17 +1,17 @@
-+++
-title = "Sometimes You Can't Help Getting Involved"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/:title/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-date = "1993-11-25"
-season = "1"
-episode = "9"
-+++
+---
+title: "Sometimes You Can't Help Getting Involved"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/missing-persons/:title/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+date: 1993-11-25
+season: 1
+episode: 9
+---
   
 ## Synopsis
 

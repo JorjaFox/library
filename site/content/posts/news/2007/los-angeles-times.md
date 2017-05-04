@@ -1,17 +1,18 @@
-+++
-title = "Los Angeles Times "
-date = "2007-03-29"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Los Angeles Times 
+date: 2007-03-29
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "MY FAVORITE WEEKEND: JORJA FOX"
-newsauthor = "Staff"
-newssource = "Los Angeles Times "
-newsurl = "http://www.calendarlive.com/"
-+++
+newstitle: "MY FAVORITE WEEKEND: JORJA FOX"
+newsauthor: Staff
+newssource: Los Angeles Times 
+newsurl: http://www.calendarlive.com/
+
+---
 
 ## This &#8216;CSI' snoop knows how to locate L.A.'s vegetarian options
 YOU know the face. Jorja Fox has had major roles in three of TV's biggest hits -- "ER" (as Dr. Maggie Doyle), "The West Wing" (as Agent Gina Toscano) and for the last seven seasons as Investigator Sara Sidle on CBS' "CSI." Keep your eye out tonight for this single-but-involved, very vegetarian L.A. resident. She's featured in a "CSI" episode called "Empty Eyes."

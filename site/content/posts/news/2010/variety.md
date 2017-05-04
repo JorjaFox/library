@@ -1,17 +1,18 @@
-+++
-title = "Variety"
-date = "2010-04-29"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
+---
+title: Variety
+date: 2010-04-29
+author: Mika Epstein
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
 
-newstitle = "Live chat with Anthony Zuiker"
-newsauthor = "Michael Schneider"
-newssource = "Variety"
-newsurl = "http://www.variety.com/article/VR1118018864.html"
-+++
+newstitle: "Live chat with Anthony Zuiker  "
+newsauthor: Michael Schneider  
+newssource: Variety  
+newsurl: http://www.variety.com/article/VR1118018864.html  
+
+---
 
 **Chat with the exec producer of the &#8216;CSI' franchise**
 

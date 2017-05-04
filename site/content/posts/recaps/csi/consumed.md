@@ -1,18 +1,19 @@
-+++
-title = "Consumed"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "20"
-date = "2014-04-09"
-prodnum= "315"
-+++
+---
+title: "Consumed"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14  
+epnum: 20  
+date: 2014-04-09
+prodnum: 315  
+---
 
 ## Synopsis
 

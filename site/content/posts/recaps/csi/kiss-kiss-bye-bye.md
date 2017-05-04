@@ -1,18 +1,19 @@
-+++
-title = "Kiss-Kiss, Bye-Bye"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "13"
-date = "2006-01-26"
-prodnum= "613"
-+++
+---
+title: "Kiss-Kiss, Bye-Bye"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 13
+date: 2006-01-26
+prodnum: 613  
+---
 
 ## Synopsis
 

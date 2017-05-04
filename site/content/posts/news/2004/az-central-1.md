@@ -1,16 +1,17 @@
-+++
-title = "AZ Central"
-date = "2004-07-15"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "2 stars of &#8216;CSI' reportedly fired"
-newsauthor = "Staff"
-newssource = "AZ Central"
-newsurl = "http://www.azcentral.com/"
-+++
+---
+title: AZ Central
+date: 2004-07-15
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "2 stars of &#8216;CSI' reportedly fired"
+newsauthor: Staff  
+newssource: AZ Central  
+newsurl: http://www.azcentral.com/  
+
+---
 
 A Los Angeles TV station reports two of the stars of "CSI" are off the case.
 

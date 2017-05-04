@@ -1,17 +1,18 @@
-+++
-title = "Journal Gazette"
-date = "2006-08-03"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Journal Gazette
+date: 2006-08-03
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "&#8216;CSI' adds love story as competition nears"
-newsauthor = "Staff"
-newssource = "Journal Gazette"
-newsurl = "http://www.fortwayne.com/"
-+++
+newstitle: "&#8216;CSI' adds love story as competition nears  "
+newsauthor: Staff  
+newssource: Journal Gazette  
+newsurl: http://www.fortwayne.com/  
+
+---
 
 **Romance blossomed at end of CBS show's sixth season**
 

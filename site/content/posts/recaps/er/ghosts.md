@@ -1,19 +1,19 @@
-+++
-title = "Ghosts"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Five"
-prodnum = "465405  "
-date = "1996-10-31"
-rating = "4"
-+++
+---
+title: Ghosts
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Five  
+prodnum: 465405    
+date: 1996-10-31  
+rating: 4  
+---
 
 Note: Jorja Fox credited as Jorjan Fox
 

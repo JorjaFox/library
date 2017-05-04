@@ -1,17 +1,18 @@
-+++
-title = "Leader-Telegram"
-date = "2008-08-27"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Leader-Telegram
+date: 2008-08-27
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Local superdelegate reports from Democratic convention"
-newsauthor = "Jason Rae"
-newssource = "Leader-Telegram"
-newsurl = "http://www.leadertelegram.com/story-news_local.asp?id=BHJQ5EUUEQV"
-+++
+newstitle: "Local superdelegate reports from Democratic convention  "
+newsauthor: Jason Rae  
+newssource: Leader-Telegram  
+newsurl: http://www.leadertelegram.com/story-news_local.asp?id=BHJQ5EUUEQV  
+
+---
 
 [...]
 

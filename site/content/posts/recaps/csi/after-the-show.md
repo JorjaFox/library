@@ -1,18 +1,19 @@
-+++
-title = "After the Show"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "8"
-date = "2003-11-20"
-prodnum= "408"
-+++
+---
+title: "After the Show"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4
+epnum: 8
+date: 2003-11-20
+prodnum: 408  
+---
 
 ## Synopsis
 

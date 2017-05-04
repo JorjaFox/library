@@ -1,18 +1,19 @@
-+++
-title = "Frame by Frame"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "5"
-date = "2013-10-23"
-prodnum= "300"
-+++
+---
+title: "Frame by Frame"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14
+epnum: 5  
+date: 2013-10-23
+prodnum: 300  
+---
 
 ## Synopsis## 
 

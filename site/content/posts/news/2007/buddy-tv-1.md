@@ -1,17 +1,18 @@
-+++
-title = "Buddy TV "
-date = "2007-03-21"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Buddy TV 
+date: 2007-03-21
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "CSI's Gil Grissom and Sara Sidle"
-newsauthor = "Kris De Leon"
-newssource = "Buddy TV"
-newsurl = "http://www.buddytv.com/articles/csi/csis-gil-grissom-and-sara-sidl-5240.aspx"
-+++
+newstitle: "CSI's Gil Grissom and Sara Sidle"
+newsauthor: Kris De Leon  
+newssource: Buddy TV
+newsurl: http://www.buddytv.com/articles/csi/csis-gil-grissom-and-sara-sidl-5240.aspx
+
+---
 
 On CBS's hit **CSI** flagship show, the romantic relationship between CSIs Sara Sidle and her boss Gil Grissom has been a matter of much controversy with fans weighing in on both sides.
 

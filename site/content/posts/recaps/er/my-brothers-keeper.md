@@ -1,19 +1,19 @@
-+++
-title = "My Brother's Keeper"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Four"
-epnum = "Sixteen"
-prodnum = "466366  "
-date = "1998-03-05"
-rating = "1"
-+++
+---
+title: "My Brother's Keeper"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Four  
+epnum: Sixteen  
+prodnum: 466366    
+date: 1998-03-05
+rating: 1  
+---
 
 ## Summary  
   

@@ -1,13 +1,15 @@
-+++
-title = "The Insider"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2010-10-20"
-interviewurl = "http://www.theinsider.com"
-permalink = "/transcript/2010/:title/"
-categories = ["Interviews"]
-tags = ["2010", "talk shows"]
-+++
+---
+title: The Insider
+author: Mika Epstein
+layout: transcript
+date: 2010-10-20
+interviewurl: http://www.theinsider.com
+permalink: /transcript/2010/:title/
+categories: ["Interviews"]
+tags:
+  - 2010
+  - 'Talk Shows'
+---
 
 **Watch Now: Trouble on the 'CSI' Set**
 

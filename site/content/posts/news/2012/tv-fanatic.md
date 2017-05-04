@@ -1,17 +1,18 @@
-+++
-title = "TV Fanatic"
-date = "2012-12-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
+---
+title: TV Fanatic
+date: 2012-12-13
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
 
-newstitle = "CSI Review: Shaking The Family Tree"
-newsauthor = "Jim Garner"
-newssource = "TV Fanatic"
-newsurl = "http://www.tvfanatic.com/2012/12/csi-review-shaking-the-family-tree/"
-+++
+newstitle: "CSI Review: Shaking The Family Tree  "
+newsauthor: Jim Garner  
+newssource: TV Fanatic  
+newsurl: http://www.tvfanatic.com/2012/12/csi-review-shaking-the-family-tree/  
+
+---
 
  
 Santa visited "CSI" fans early this year, as we received the unexpected gift of a Sara-centered episode on "Risky Business Class." It was based on a former colleague of Sara's, Doug Wilson from the NTSB, asking for the help from the crime lab.

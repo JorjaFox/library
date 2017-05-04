@@ -1,13 +1,16 @@
-+++
-title = "BBC 5"
-author = "Mika Epstein"
-layout = "transcript"
-permalink = "/transcript/2006/:title/"
-categories = ["Interviews"]
-tags = ["2006", "Talk Shows"]
-interviewurl = "http://www.bbc.uk/"
-date = "2006-05-18"
-+++
+---
+title: BBC 5
+author: Mika Epstein
+layout: transcript
+permalink: /transcript/2006/:title/
+categories: ["Interviews"]
+
+tags:
+  - 2006
+  - "Talk Shows"
+interviewurl: http://www.bbc.uk/  
+date: 2006-05-18
+---
 Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, sport and in-depth interviews. On May 18th, he talked with Jorja Fox about ER, The West Wing, CSI and Dear Bernard.
 
 **Simon Mayo:** Jorja Fox has sidled in stage left. How are you doing?
@@ -84,7 +87,7 @@ Simon Mayo has a talk show called "*star studded" on the BBC radio 5 for news, s
 
 **Simon Mayo:** Explain this play and what you are doing here, Jorja.
 
-**Jorja Fox:** Well I'm lucky to be producing an original musical, it's called "Dear Bernard", we call it in the States. it's quickly being renamed to "[[Dear Bernard]] \*pronouncing it Bernerd\*. It's going over at Riverside Studios, end of July, of this year, so.
+**Jorja Fox:** Well I'm lucky to be producing an original musical, it's called "Dear Bernard", we call it in the States. it's quickly being renamed to "[[Dear Bernard]]" \*pronouncing it Bernerd\*. It's going over at Riverside Studios, end of July, of this year, so.
 
 **Simon Mayo:** In Hammersmith in London.
 

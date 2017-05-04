@@ -1,17 +1,18 @@
-+++
-title = "USA Today"
-date = "2013-12-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
+---
+title: USA Today
+date: 2013-12-13
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
 
-newstitle = "Cause Celeb: Jorja Fox investigates lion rescue"
-newsauthor = "Gayle Jo Carter"
-newssource = "USA Today"
-newsurl = "http://www.usatoday.com/story/life/weekend/entertainment/2013/12/13/cause-celeb-jorja-fox-investigates-lion-rescue/4003625/"
-+++
+newstitle: "Cause Celeb: Jorja Fox investigates lion rescue  "
+newsauthor: Gayle Jo Carter  
+newssource: USA Today  
+newsurl: http://www.usatoday.com/story/life/weekend/entertainment/2013/12/13/cause-celeb-jorja-fox-investigates-lion-rescue/4003625/  
+
+---
 
 "CSI" actress Jorja Fox has made rescuing lions one of her life's missions.
 

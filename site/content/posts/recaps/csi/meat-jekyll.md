@@ -1,18 +1,19 @@
-+++
-title = "Meat Jekyll"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "10"
-epnum = "23"
-date = "2010-05-13"
-prodnum= "229"
-+++
+---
+title: "Meat Jekyll"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 10
+epnum: 23  
+date: 2010-05-13
+prodnum: 229  
+---
 
 ## Synopsis
 

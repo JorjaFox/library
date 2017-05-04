@@ -1,17 +1,18 @@
-+++
-title = "Hollywood Reporter"
-date = "2009-08-03"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Hollywood Reporter
+date: 2009-08-03
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Fishburne gets makeover to help &#8216;CSI' ratings"
-newsauthor = "Staff"
-newssource = "Hollywood Reporter"
-newsurl = "http://www.thrfeed.com/2009/08/fishburne-gets-makeover-csi-.html"
-+++
+newstitle: "Fishburne gets makeover to help &#8216;CSI' ratings  "
+newsauthor: Staff  
+newssource: Hollywood Reporter  
+newsurl: http://www.thrfeed.com/2009/08/fishburne-gets-makeover-csi-.html  
+
+---
 
 [...]
 

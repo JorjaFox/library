@@ -1,18 +1,19 @@
-+++
-title = "Evaluation Day"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "22"
-date = "2001-05-10"
-prodnum= "121"
-+++
+---
+title: "Evaluation Day"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 22
+date: 2001-05-10
+prodnum: 121  
+---
 
 ## Synopsis
 

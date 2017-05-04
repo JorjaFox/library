@@ -1,11 +1,12 @@
-+++
-title = "Climate Star"
-author = "Mika Epstein"
-layout = "advocacy"
-categories = ["Advocacy"]
-tags = [ "Environmentalism"]
-website = "http://www.ClimateStar.org"
-+++
+---
+title: Climate Star
+author: Mika Epstein
+layout: advocacy
+categories: ["Advocacy"]
+tags: 
+  - Environmentalism
+website: http://www.ClimateStar.org
+---
 
 The following is a text only reprint of an ad done by Jorja Fox for Climate Star.
 

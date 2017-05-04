@@ -1,18 +1,19 @@
-+++
-title = "Pool Shark"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "2"
-date = "2010-09-30"
-prodnum= "231"
-+++
+---
+title: "Pool Shark"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11
+epnum: 2  
+date: 2010-09-30
+prodnum: 231  
+---
 
 * Note: This is Liz Vassey's final episode as Wendy Simms.*
 

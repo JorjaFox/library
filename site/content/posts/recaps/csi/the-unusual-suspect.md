@@ -1,18 +1,19 @@
-+++
-title = "The Unusual Suspect"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "18"
-date = "2006-03-30"
-prodnum= "618"
-+++
+---
+title: "The Unusual Suspect"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6  
+epnum: 18
+date: 2006-03-30
+prodnum: 618  
+---
 
 ## Synopsis
 

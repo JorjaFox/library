@@ -1,18 +1,19 @@
-+++
-title = "Scuba Doobie-Doo"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "4"
-date = "2001-10-25"
-prodnum= "205"
-+++
+---
+title: "Scuba Doobie-Doo"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2
+epnum: 4
+date: 2001-10-25
+prodnum: 205  
+---
 
 ## Synopsis
 

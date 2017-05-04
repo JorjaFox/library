@@ -1,18 +1,19 @@
-+++
-title = "The Two Mrs. Grissoms"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "13"
-date = "2011-02-03"
-prodnum= "242"
-+++
+---
+title: "The Two Mrs. Grissoms"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11  
+epnum: 13  
+date: 2011-02-03
+prodnum: 242  
+---
 
 ## Synopsis
 

@@ -1,18 +1,19 @@
-+++
-title = "Fight Night"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "7"
-date = "2002-11-14"
-prodnum= "307"
-+++
+---
+title: "Fight Night"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3
+epnum: 7
+date: 2002-11-14
+prodnum: 307  
+---
 
 ## Synopsis
 

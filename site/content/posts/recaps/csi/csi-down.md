@@ -1,18 +1,19 @@
-+++
-title = "CSI Down"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "12"
-epnum = "5"
-date = "2011-10-19"
-prodnum= "256"
-+++
+---
+title: "CSI Down"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 12
+epnum: 5  
+date: 2011-10-19
+prodnum: 256  
+---
 
 ## Synopsis
 

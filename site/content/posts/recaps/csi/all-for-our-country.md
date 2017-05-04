@@ -1,18 +1,19 @@
-+++
-title = "All For Our Country"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "2"
-date = "2003-10-02"
-prodnum = "403"
-+++
+---
+title: "All For Our Country"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4  
+epnum: 2
+date: 2003-10-02  
+prodnum: 403  
+---
 
 ## Synopsis
 

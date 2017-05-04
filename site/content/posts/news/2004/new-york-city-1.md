@@ -1,16 +1,17 @@
-+++
-title = "New York City"
-date = "2004-07-18"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "Las Vegas &#8216;CSI' makes news on Press Tour"
-newsauthor = "Staff"
-newssource = "New York City"
-newsurl = "http://www.nynewsday.com"
-+++
+---
+title: New York City
+date: 2004-07-18
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "Las Vegas &#8216;CSI' makes news on Press Tour"
+newsauthor: Staff  
+newssource: New York City  
+newsurl: http://www.nynewsday.com  
+
+---
 
 A new, New York-focused "CSI" is due on CBS this fall, but the "CSI" making headlines last week is the original, Las Vegas version.
 

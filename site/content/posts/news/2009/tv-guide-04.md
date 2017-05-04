@@ -1,17 +1,18 @@
-+++
-title = "TV Guide Magazine"
-date = "2009-09-14"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: TV Guide Magazine
+date: 2009-09-14
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "'CSI' Stars Share Their Experience"
-newsauthor = "Steve Friess"
-newssource = "TV Guide Magazine"
-newsurl = "http://www.tvguidemagazine.com/news/csi-stars-share-their-experience-2346.html"
-+++
+newstitle: "'CSI' Stars Share Their Experience  "
+newsauthor: Steve Friess  
+newssource: TV Guide Magazine  
+newsurl: http://www.tvguidemagazine.com/news/csi-stars-share-their-experience-2346.html  
+
+---
 
 [...]
 

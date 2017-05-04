@@ -1,19 +1,19 @@
-+++
-title = "Law & Order"
-author = "Mika Epstein"
-layout = "actor"
-categories = ["Filmography"]
-tags = ["Television"]
-show = "law-order"
-station = "NBC"
-rating = "1"
-episodes = "1"
-chartype = "guest"
-genre = "Drama"
-year = "1993"
-character = "Paula Engren"
-excerpt = "<strong>Law & Order</strong> is about the Criminal Justice System. The people are represented by two separate, yet equally important groups. The police who investigate crime and the District Attorneys who prosecute the offenders. These are their stories."
-+++
+---
+title: "Law & Order"
+author: Mika Epstein
+layout: actor
+categories: ["Filmography"]
+tags: ["Television"]
+show: law-order
+station: NBC
+rating: 1
+episodes: 1
+chartype: guest
+genre: Drama
+year: 1993
+character: "Paula Engren"
+excerpt: "<strong>Law & Order</strong> is about the Criminal Justice System. The people are represented by two separate, yet equally important groups. The police who investigate crime and the District Attorneys who prosecute the offenders. These are their stories."
+---
 
 ## Episode: "Securitate"
 

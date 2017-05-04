@@ -1,18 +1,19 @@
-+++
-title = "And Then There Were None"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "9"
-date = "2001-11-22"
-prodnum= "209"
-+++
+---
+title: "And Then There Were None"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2
+epnum: 9
+date: 2001-11-22
+prodnum: 209  
+---
 
 ## Synopsis
 

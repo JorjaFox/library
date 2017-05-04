@@ -1,17 +1,18 @@
-+++
-title = "TV Guide"
-date = "2006-04-12"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: TV Guide
+date: 2006-04-12
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "ASK AUSIELLO"
-newsauthor = "Staff"
-newssource = "TV Guide"
-newsurl = "http://tvguide.com"
-+++
+newstitle: "ASK AUSIELLO  "
+newsauthor: Staff  
+newssource: TV Guide  
+newsurl: http://tvguide.com  
+
+---
 
 **Question:** Saw you on that new show *Square Off* and I have to ask: What was with the "Grissom and Sara are going to have sex" comment? *Please* elaborate! &#8212; Donna
 

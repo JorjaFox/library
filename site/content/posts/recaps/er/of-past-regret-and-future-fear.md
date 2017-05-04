@@ -1,19 +1,19 @@
-+++
-title = "Of Past Regret and Future Fear"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Four"
-epnum = "Twenty"
-prodnum = "466370  "
-date = "1998-04-30"
-rating = "3"
-+++
+---
+title: Of Past Regret and Future Fear
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Four  
+epnum: Twenty  
+prodnum: 466370    
+date: 1998-04-30  
+rating: 3  
+---
 
 ## Summary  
   

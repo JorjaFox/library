@@ -1,17 +1,18 @@
-+++
-title = "Collegiate"
-date = "2006-05-21"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Collegiate
+date: 2006-05-21
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "CSI's Jorja Fox Wants to Start a Revolution"
-newsauthor = "Staff"
-newssource = "Collegiate"
-newsurl = "http://www.lacitycollege.edu/"
-+++
+newstitle: "CSI's Jorja Fox Wants to Start a Revolution  "
+newsauthor: Staff  
+newssource: Collegiate  
+newsurl: http://www.lacitycollege.edu/  
+
+---
 
 Modest to a fault, Jorja Fox is gracious about what many would call the burden of fame and relentless scrutiny by the public that comes when starring on TV's top rated show. CBS's "CSI: Crime Scene Investigation."
 
@@ -59,7 +60,7 @@ Fox takes high notes regarding the fiasco of 2004, and skirts the subject disgra
 
 "It's like I'm in Vegas and I'm at a slot machine and I'm stuck to it, like my hands are really stuck to the slot machine, and I've just been hitting it consecutively, for six years."
 
-Fox relates to all her characters, from Dr. Maggie Doyle on "ER," to Agent Gina Toscano on "The West Wing," to Sara Sidle on "CSI." In spite of similarities between the three characters, Fox isn't worried about typecasting.
+Fox relates to all her characters, from Dr. Maggie Doyle on "ER," to Agent Gina Toscano on "The West Wing," to Sara Sidle on ""CSI." In spite of similarities between the three characters, Fox isn't worried about typecasting.
 
 "They're all gun-toting, really cerebral, over-educated women," she says, "I feel like if I'm going to be typecast, then wow, thank God."
 

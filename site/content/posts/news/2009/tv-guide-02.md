@@ -1,17 +1,18 @@
-+++
-title = "TV Guide Magazine "
-date = "2009-10-05"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2009"]
-categories = ["Articles", "News"]
-permalink = "/news/2009/:title/"
+---
+title: TV Guide Magazine 
+date: 2009-10-05
+author: Mika Epstein
+layout: news
+tags: ["2009"]
+categories: ["Articles", "News"]
+permalink: /news/2009/:title/
 
-newstitle = "In Box"
-newsauthor = "Staff"
-newssource = "TV Guide Magazine"
-newsurl = "http://www.tvguidemagazine.com/"
-+++
+newstitle: "In Box  "
+newsauthor: Staff  
+newssource: TV Guide Magazine  
+newsurl: http://www.tvguidemagazine.com/  
+
+---
 
  [...]
 

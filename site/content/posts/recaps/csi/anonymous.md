@@ -1,18 +1,19 @@
-+++
-title = "Anonymous"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "8"
-date = "2000-11-24"
-prodnum= "108"
-+++
+---
+title: "Anonymous"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 8
+date: 2000-11-24
+prodnum: 108  
+---
 
 ## Synopsis
 

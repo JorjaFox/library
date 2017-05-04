@@ -1,17 +1,18 @@
-+++
-title = "Daily Texan"
-date = "2008-07-14"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Daily Texan
+date: 2008-07-14
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Animal Antics"
-newsauthor = "Stephanie Fourqurean"
-newssource = "Daily Texan"
-newsurl = "http://media.www.dailytexanonline.com/media/storage/paper410/news/2008/07/14/TopStories/Animal.Antics-3390468.shtml"
-+++
+newstitle: "Animal Antics  "
+newsauthor: Stephanie Fourqurean  
+newssource: Daily Texan  
+newsurl: http://media.www.dailytexanonline.com/media/storage/paper410/news/2008/07/14/TopStories/Animal.Antics-3390468.shtml  
+
+---
 
 Circuses advertise a joyful, colorful form of entertainment, but for circus animals, the shows hold dark promises of horrible living conditions that force animals into miserable confinements, according to animal advocacy groups. 
 

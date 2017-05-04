@@ -1,16 +1,17 @@
-+++
-title = "Sign On San Diego"
-date = "2004-09-19"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "From award arrivals to finale, it was a wild and crazy night"
-newsauthor = "Staff"
-newssource = "Sign On San Diego"
-newsurl = "http://www.signonsandiego.com"
-+++
+---
+title: Sign On San Diego
+date: 2004-09-19
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "From award arrivals to finale, it was a wild and crazy night"
+newsauthor: Staff  
+newssource: Sign On San Diego  
+newsurl: http://www.signonsandiego.com  
+
+---
 
 [...]
 

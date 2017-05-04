@@ -1,17 +1,18 @@
-+++
-title = "Green With Glamour "
-date = "2009-05-01"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2009"]
-categories = ["Articles", "News"]
-permalink = "/news/2009/:title/"
+---
+title: Green With Glamour 
+date: 2009-05-01
+author: Mika Epstein
+layout: news
+tags: ["2009"]
+categories: ["Articles", "News"]
+permalink: /news/2009/:title/
 
-newstitle = "Guest Profile - Jorja Fox"
-newsauthor = "Unknown"
-newssource = "Green With Glamour"
-newsurl = "http://www.greenwithglamour.com/index.php?main_page=editorial&e=profile&c=jorja_fox"
-+++
+newstitle: "Guest Profile - Jorja Fox  "
+newsauthor: Unknown  
+newssource: Green With Glamour  
+newsurl: http://www.greenwithglamour.com/index.php?main_page=editorial&e=profile&c=jorja_fox  
+
+---
 
  A tireless advocate for the rights and welfare of animals, people and the environment alike, Jorja Fox is a brilliant fit as the Spring '09 "face" of Green with Glamour.
 

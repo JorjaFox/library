@@ -1,16 +1,17 @@
-+++
-title = "ContraCostaTimes.com"
-date = "2004-07-19"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "CBS exec. defends firing of &#8216;CSI' stars"
-newsauthor = "Staff"
-newssource = "ContraCostaTimes"
-newsurl = "http://ContraCostaTimes.com"
-+++
+---
+title: ContraCostaTimes.com
+date: 2004-07-19
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "CBS exec. defends firing of &#8216;CSI' stars"
+newsauthor: Staff  
+newssource: ContraCostaTimes  
+newsurl: http://ContraCostaTimes.com  
+
+---
 
 Two dismissed "CSI"ers learned the hard way:
 

@@ -1,17 +1,18 @@
-+++
-title = "After Ellen"
-date = "2008-07-21"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: After Ellen
+date: 2008-07-21
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "TCA Diary, July 21: The lesbianish weekend update"
-newsauthor = "Malinda Lo"
-newssource = "After Ellen"
-newsurl = "http://www.afterellen.com/blog/malinda/tca-diary-july-21"
-+++
+newstitle: "TCA Diary, July 21: The lesbianish weekend update  "
+newsauthor: Malinda Lo  
+newssource: After Ellen  
+newsurl: http://www.afterellen.com/blog/malinda/tca-diary-july-21  
+
+---
 
 [...]
 

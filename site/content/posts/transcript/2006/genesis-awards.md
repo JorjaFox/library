@@ -1,13 +1,16 @@
-+++
-title = "Genesis Awards"
-author = "David Masters"
-interviewurl = "http://www.wireimage.com"
-date = "2006-03-18"
-layout = "transcript"
-permalink = "/transcript/2006/:title/"
-categories = ["Interviews"]
-tags = ["2006", "Red Carpet"]
-+++
+---
+title: Genesis Awards
+author: David Masters
+interviewurl: http://www.wireimage.com
+date: 2006-03-18
+layout: transcript
+permalink: /transcript/2006/:title/
+categories: ["Interviews"]
+
+tags:
+  - 2006
+  - "Red Carpet"
+---
 Jorja was interviewed at the 20th anniversary Genesis Awards. This is a partial transcript.
 
 **Jorja Fox:** Uh, yeah, this is my second time at the Genesis Awards, and I'm really excited to be invited back. They tend to spread the love around, so I think it's, it's a little special to be back a second time. Uh, I'm lucky enough tonight I'm going to be presenting a Genesis Award for 'Dramatic Television Show' that "CSI" is winning. So I get to present the award to a very good friend of mine who's, uh, co-executive producer and writer of the episode on "CSI".

@@ -1,16 +1,17 @@
-+++
-title = "Herald Sun"
-date = "2004-07-18"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "CSI star sacked"
-newsauthor = "Staff"
-newssource = "Herald Sun"
-newsurl = "http://www.heraldsun.news.com.au/"
-+++
+---
+title: Herald Sun
+date: 2004-07-18
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "CSI star sacked"
+newsauthor: Staff  
+newssource: Herald Sun  
+newsurl: http://www.heraldsun.news.com.au/  
+
+---
 
 ACTOR Jorja Fox has been sacked from the hit TV drama CSI just a day before filming was due to begin on a new series.
 

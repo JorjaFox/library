@@ -1,18 +1,19 @@
-+++
-title = "A Kiss Before Frying"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "12"
-date = "2011-01-20"
-prodnum= "241"
-+++
+---
+title: "A Kiss Before Frying"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11
+epnum: 12  
+date: 2011-01-20
+prodnum: 241  
+---
 
 ## Synopsis
 

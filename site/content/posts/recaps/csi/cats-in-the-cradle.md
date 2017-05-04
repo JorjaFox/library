@@ -1,18 +1,19 @@
-+++
-title = "Cats in the Cradle"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "20"
-date = "2002-04-25"
-prodnum= "220"
-+++
+---
+title: "Cats in the Cradle"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2
+epnum: 20
+date: 2002-04-25
+prodnum: 220  
+---
 
 ## Synopsis
 

@@ -1,16 +1,17 @@
-+++
-title = "Stuff Magazine"
-date = "2002-05-16"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2002"]
-categories = ["Articles", "News"]
-permalink = "/news/2002/:title/"
-newstitle = "CSI Candy"
-newsauthor = "Staff"
-newssource = "Stuff Magazine"
-newsurl = "http://stuffmagazine.com/"
-+++
+---
+title: Stuff Magazine
+date: 2002-05-16
+author: Mika Epstein
+layout: news
+tags: ["2002"]
+categories: ["Articles", "News"]
+permalink: /news/2002/:title/
+newstitle: CSI Candy  
+newsauthor: Staff  
+newssource: Stuff Magazine  
+newsurl: http://stuffmagazine.com/  
+
+---
 We go "undercover" with C.S.I's Jorja Fox. By which we mean we dress her in crazy getups and ask her silly questions. It's our m.o.! 
 
 Silver Lake, California, 3:19 on a sunny afternoon at the dog park, about a softball pitch away from downtown L.A.: I was scheduled to meet Jorja Fox at 3 P.M. and follow her around with a tape recorder while she walked her dogs. Just when I start to think, This sucks, I see a sprightly, tank-topped, ponytailed woman come bounding through the gates. It's her Jorja Fox! And I was just beginning to feel like a creep sitting in this place without a dog. "I'm so sorry I'm late! You must have felt like a creep sitting in this place alone without a dog", she says. "No problem", I say. After stints on ER and The West Wing, Jorja Fox is now riding high atop the crest of the hit CBS series CSI: Crime Scene Investigation. And with a role in last year's indie-film sensation Memento, the lovely Ms. Fox is proving that she's a lucky charm of sorts - or at least something I'd like to have draped around my neck. On CSI she plays a scientist who must find the answers to many bizarre and often sordid questions. I decided to turn the tables on her. It's funny seeing her there - you know, under the table. 

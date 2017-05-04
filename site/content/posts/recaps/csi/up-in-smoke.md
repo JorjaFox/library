@@ -1,18 +1,19 @@
-+++
-title = "Up in Smoke"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "Sixteen"
-date = "2006-03-02"
-prodnum= "616"
-+++
+---
+title: "Up in Smoke"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: Sixteen  
+date: 2006-03-02
+prodnum: 616  
+---
 
 ## Synopsis
 

@@ -1,17 +1,18 @@
-+++
-title = "Zap2It - TV Gal"
-date = "2009-09-28"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Zap2It - TV Gal
+date: 2009-09-28
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "My not so private thoughts about &#8216;Private Practice"
-newsauthor = "Amy Amatangelo"
-newssource = "Zap2It"
-newsurl = "http://blog.zap2it.com/tvgal/2009/09/-private-practice-had-probably.html"
-+++
+newstitle: "My not so private thoughts about &#8216;Private Practice'  "
+newsauthor: Amy Amatangelo  
+newssource: Zap2It  
+newsurl: http://blog.zap2it.com/tvgal/2009/09/-private-practice-had-probably.html  
+
+---
 
 [...]
 

@@ -1,17 +1,18 @@
-+++
-title = "MSNBC"
-date = "2005-10-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: MSNBC
+date: 2005-10-13
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "CSI Crime File - Oct. 13"
-newsauthor = "Staff"
-newssource = "MSNBC"
-newsurl = "http://msnbc.com"
-+++
+newstitle: "CSI Crime File - Oct. 13"
+newsauthor: Staff  
+newssource: MSNBC  
+newsurl: http://msnbc.com  
+
+---
 **The ABCs of 'CSI': Who's dead, who dun it and who solved it.**
 
 **CSI: Grissom, you lead, we'll follow**

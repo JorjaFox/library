@@ -1,18 +1,19 @@
-+++
-title = "Butterflied"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "12"
-date = "2004-01-15"
-prodnum= "412"
-+++
+---
+title: "Butterflied"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4
+epnum: 12
+date: 2004-01-15
+prodnum: 412  
+---
 
 ## Synopsis
 

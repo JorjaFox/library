@@ -1,19 +1,19 @@
-+++
-title = "Union Station"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Eight"
-prodnum = "465408  "
-date = "1996-11-21"
-rating = "4"
-+++
+---
+title: Union Station
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Eight  
+prodnum: 465408    
+date: 1996-11-21
+rating: 4
+---
 
 _Note: Jorja Fox credited as Jorjan Fox_
 

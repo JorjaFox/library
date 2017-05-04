@@ -1,18 +1,19 @@
-+++
-title = "Blood Drops"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "7"
-date = "2000-11-17"
-prodnum= "107"
-+++
+---
+title: "Blood Drops"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 7
+date: 2000-11-17
+prodnum: 107  
+---
 
 ## Synopsis
 

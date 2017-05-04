@@ -1,19 +1,19 @@
-+++
-title = "Calling Dr. Hathaway"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Nineteen"
-prodnum = "465419  "
-date = "1997-04-24"
-rating = "3"
-+++
+---
+title: Calling Dr. Hathaway
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Nineteen  
+prodnum: 465419    
+date: 1997-04-24  
+rating: 3  
+---
 
 ## Summary  
   

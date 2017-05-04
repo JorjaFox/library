@@ -1,16 +1,18 @@
-+++
-title = "ET Online "
-date = "2007-10-04"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
-newstitle = "Fresh Face Joins the Cast of 'CSI"
-newsauthor = "Staff"
-newssource = "ET Online"
-newsurl = "http://www.etonline.com"
-+++
+---
+title: ET Online 
+date: 2007-10-04
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
+
+newstitle: "Fresh Face Joins the Cast of 'CSI'"
+newsauthor: Staff
+newssource: ET Online
+newsurl: http://www.etonline.com
+
+---
 
 The CSI team investigates the suspicious death of a go-cart racer who took his hobby to the highway, when a severed head rolls through tonight's episode of "CSI: Crime Scene Investigation," airing at 9 p.m. on CBS.
 

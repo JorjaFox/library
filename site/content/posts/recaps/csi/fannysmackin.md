@@ -1,18 +1,19 @@
-+++
-title = "Fannysmackin"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "4"
-date = "2006-10-12"
-prodnum= "704"
-+++
+---
+title: "Fannysmackin'"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 4
+date: 2006-10-12
+prodnum: 704  
+---
 
 ## Synopsis
 

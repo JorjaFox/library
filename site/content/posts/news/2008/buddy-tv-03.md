@@ -1,17 +1,18 @@
-+++
-title = "Buddy TV"
-date = "2008-06-26"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Buddy TV
+date: 2008-06-26
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Jorja Fox's Heart Belongs to &#8216;CSI"
-newsauthor = "Kris De Leon"
-newssource = "Buddy TV"
-newsurl = "http://www.buddytv.com/articles/csi/jorja-foxs-heart-belongs-to-cs-20773.aspx"
-+++
+newstitle: "Jorja Fox's Heart Belongs to &#8216;CSI'  "
+newsauthor: Kris De Leon  
+newssource: Buddy TV  
+newsurl: http://www.buddytv.com/articles/csi/jorja-foxs-heart-belongs-to-cs-20773.aspx  
+
+---
 
 Jorja Fox left *CSI* last November, leaving fans with a promise that it wouldn&rsquo;t be the last time they would see her character Sara Sidle.&nbsp; For seven months now, the 39-year-old actress has savored the &ldquo;break from the commitment of a weekly television series.&rdquo;&nbsp; Although not yet ready to do a new television show, she&rsquo;s ready to hold up to the end of her bargain as she returns for the ninth season of *CSI*.
 

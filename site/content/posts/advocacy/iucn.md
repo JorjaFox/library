@@ -1,11 +1,12 @@
-+++
-title = "International Union for Conservation of Nature"
-author = "Mika Epstein"
-layout = "advocacy"
-categories = ["Advocacy"]
-tags = [ "Environmentalism"]
-website = "http://www.iucn.org/"
-+++
+---
+title: International Union for Conservation of Nature
+author: Mika Epstein
+layout: advocacy
+categories: ["Advocacy"]
+tags: 
+  - Environmentalism
+website: http://www.iucn.org/
+---
 
 IUCN, the International Union for Conservation of Nature, helps the world find pragmatic solutions to our most pressing environment and development challenges. It supports scientific research, manages field projects all over the world and brings governments, non-government organizations, United Nations agencies, companies and local communities together to develop and implement policy, laws and best practice.
 

@@ -1,17 +1,18 @@
-+++
-title = "BuddyTV "
-date = "2007-07-31"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: BuddyTV 
+date: 2007-07-31
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "BuddyTV SpoilerFix TVj session by Isabelle"
-newsauthor = "Isabelle"
-newssource = "Buddy TV "
-newsurl = "http://www.buddytv.com/articles/buddytv-spoilerfix/7312007-buddytv-spoilerfix-tvj-8915.aspx"
-+++
+newstitle: "BuddyTV SpoilerFix TVj session by Isabelle"
+newsauthor: Isabelle
+newssource: Buddy TV 
+newsurl: http://www.buddytv.com/articles/buddytv-spoilerfix/7312007-buddytv-spoilerfix-tvj-8915.aspx
+
+---
 
 [...]
 

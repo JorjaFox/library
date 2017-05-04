@@ -1,17 +1,18 @@
-+++
-title = "Animal Acres (08-14 July 2007)"
-date = "2007-07-08"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Animal Acres (08-14 July 2007)
+date: 2007-07-08
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "The Animal Acres 2007 Gala, August 25th, Acton, CA"
-newsauthor = "Staff"
-newssource = "Animal Acres"
-newsurl = "http://animalacres.org/events/gala_2007.html"
-+++
+newstitle: "The Animal Acres 2007 Gala, August 25th, Acton, CA"
+newsauthor: Staff
+newssource: Animal Acres
+newsurl: http://animalacres.org/events/gala_2007.html
+
+---
 
 **A Benefit to Build L.A.'s Farmed Animal Sanctuary**
 

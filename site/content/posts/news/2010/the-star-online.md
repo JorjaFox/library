@@ -1,17 +1,18 @@
-+++
-title = "The Star Online"
-date = "2010-02-19"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
+---
+title: The Star Online
+date: 2010-02-19
+author: Mika Epstein
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
 
-newstitle = "Sara's Back!"
-newsauthor = "Staff"
-newssource = "The Star Online"
-newsurl = "http://www.star-ecentral.com/news/story.asp?file=/2010/2/19/tvnradio/5694184&sec=tvnradio"
-+++
+newstitle: "Sara's Back!  "
+newsauthor: Staff  
+newssource: The Star Online  
+newsurl: http://www.star-ecentral.com/news/story.asp?file=/2010/2/19/tvnradio/5694184&sec=tvnradio  
+
+---
 
 Welcome home, Jorja Fox. Even as we longed for her return as Sara Sidle (a.k.a. Mrs Gil Grissom) on *CSI*, Fox said she had been missing her onscreen persona, her cast-mates and the show terribly. 
 
@@ -33,6 +34,6 @@ Really?
 
 It so happens that the theme of *CSI* season 10 is ...family". 
 
-...You know, it feels like I never left the show at all. Everyone treats me like family there. Even Laurence Fishburne has been asking me, 'Are you staying put with us or not?"] 
+...You know, it feels like I never left the show at all. Everyone treats me like family there. Even Laurence Fishburne has been asking me, 'Are you staying put with us or not?'" 
 
 Well, be prepared for a happier Sara who will hold her *CSI *family together this season, now that Fox has had time to get her batteÂ­ries recharged.  

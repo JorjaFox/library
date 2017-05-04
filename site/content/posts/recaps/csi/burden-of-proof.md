@@ -1,18 +1,19 @@
-+++
-title = "Burden of Proof"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "15"
-date = "2002-02-07"
-prodnum= "215"
-+++
+---
+title: "Burden of Proof"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2  
+epnum: 15
+date: 2002-02-07
+prodnum: 215  
+---
 
 ## Synopsis
 

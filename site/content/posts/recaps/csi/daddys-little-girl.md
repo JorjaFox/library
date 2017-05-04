@@ -1,18 +1,19 @@
-+++
-title = "Daddy's Little Girl"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "12"
-date = "2006-01-19"
-prodnum= "612"
-+++
+---
+title: "Daddy's Little Girl"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 12
+date: 2006-01-19
+prodnum: 612  
+---
 
 ## Synopsis
 

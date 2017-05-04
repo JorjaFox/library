@@ -1,19 +1,20 @@
-+++
-title = "Herald Sun TV Guide"
-date = "2003-08-24"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-newstitle = "CSI: Review"
-newsauthor = "Staff"
-newssource = "Hearald Sun TV Guide"
-newsurl = "http://www.heraldsun.news.com.au/"
-+++
+---
+title: Herald Sun TV Guide
+date: 2003-08-24
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+newstitle = CSI: Review  
+newsauthor: Staff  
+newssource: Hearald Sun TV Guide  
+newsurl: http://www.heraldsun.news.com.au/  
+
+---
 
 [...]
 
-"They have an expression that's so popular among the producers, writers and cast of CSI that they made it the title of a two part episode that will open the show's next season = "Assume nothing. 
+"They have an expression that's so popular among the producers, writers and cast of CSI that they made it the title of a two part episode that will open the show's next season: Assume nothing. 
 
 Mainly it concerns the scientific unravelling of the most minute clues left in the wake of murders, when the CSI team moves in with its hi-tech equipment. But if you want to know about something that appears to be far more simple, say a personal relationship between the CSI team's aloof boss, Gil Grissom and TV's sexiest scientist Sara Sidle you can apply the same rule. 
 

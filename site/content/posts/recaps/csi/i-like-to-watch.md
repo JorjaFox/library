@@ -1,18 +1,19 @@
-+++
-title = "I Like to Watch"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "17"
-date = "2006-03-09"
-prodnum= "617"
-+++
+---
+title: "I Like to Watch"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 17
+date: 2006-03-09
+prodnum: 617  
+---
 
 ## Synopsis
 

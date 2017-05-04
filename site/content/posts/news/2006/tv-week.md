@@ -1,17 +1,18 @@
-+++
-title = "TV Week"
-date = "2006-07-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: TV Week
+date: 2006-07-17
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Marg Helgenberger Got Slipped a Roofie, But It's Not a Bad Thing"
-newsauthor = "Staff"
-newssource = "TV Week"
-newsurl = "http://www.tvweek.com/"
-+++
+newstitle: "Marg Helgenberger Got Slipped a Roofie, But It's Not a Bad Thing  "
+newsauthor: Staff  
+newssource: TV Week  
+newsurl: http://www.tvweek.com/  
+
+---
 
 [...]
 

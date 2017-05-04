@@ -1,18 +1,19 @@
-+++
-title = "One To Go"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "9"
-epnum = "10"
-date = "2009-01-15"
-prodnum= "910"
-+++
+---
+title: "One To Go"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 9
+epnum: 10  
+date: 2009-01-15
+prodnum: 910  
+---
 
 ## Synopsis
 

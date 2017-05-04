@@ -1,17 +1,18 @@
-+++
-title = "Journal of The American Academy of Dramatic Arts "
-date = "2007-05-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Journal of The American Academy of Dramatic Arts 
+date: 2007-05-01
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Interview: Jorja Fox"
-newsauthor = "Kathleen Germann"
-newssource = "Journal of The American Academy of Dramatic Arts"
-newsurl = "http://www.aada.org/pdf/alumni/americada_2007_01.pdf "
-+++
+newstitle: "Interview: Jorja Fox"
+newsauthor: Kathleen Germann  
+newssource: Journal of The American Academy of Dramatic Arts
+newsurl: http://www.aada.org/pdf/alumni/americada_2007_01.pdf 
+
+---
 
 We recently invited Jorja Fox and Eric Szmanda of the hit television series *CSI: Crime Scene Investigation *to share their professional and Academy experiences with us.
 

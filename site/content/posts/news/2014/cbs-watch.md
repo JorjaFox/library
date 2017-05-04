@@ -1,16 +1,17 @@
-+++
-title = "CBS Watch! Magazine"
-date = "2014-07-01"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2014"]
-categories = ["Articles", "News"]
-permalink = "/news/2014/:title/"
-newstitle = "GILT-Y Pleasures"
-newsauthor = "Staff"
-newssource = "CBS Watch! Magazine"
-newsurl = "http://cbswatchmagazine.com"
-+++
+---
+title: CBS Watch! Magazine
+date: 2014-07-01
+author: Mika Epstein
+layout: news
+tags: ["2014"]
+categories: ["Articles", "News"]
+permalink: /news/2014/:title/
+newstitle: "GILT-Y Pleasures"
+newsauthor: Staff  
+newssource: CBS Watch! Magazine  
+newsurl: http://cbswatchmagazine.com  
+
+---
 
 **Jorja Fox** of *CSI: Crime Scene Investigation* makes waves with her stylish selections
 

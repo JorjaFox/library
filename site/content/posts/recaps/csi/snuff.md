@@ -1,18 +1,19 @@
-+++
-title = "Snuff"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "8"
-date = "2002-11-21"
-prodnum= "308"
-+++
+---
+title: "Snuff"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3
+epnum: 8
+date: 2002-11-21
+prodnum: 308  
+---
 
 ## Synopsis
 

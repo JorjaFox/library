@@ -1,18 +1,19 @@
-+++
-title = "Time of Your Death"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "21"
-date = "2006-05-04"
-prodnum= "622"
-+++
+---
+title: "Time of Your Death"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6  
+epnum: 21
+date: 2006-05-04
+prodnum: 622  
+---
 
 ## Synopsis
 

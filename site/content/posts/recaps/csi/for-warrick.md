@@ -1,18 +1,19 @@
-+++
-title = "For Warrick"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "9"
-epnum = "1"
-prodnum = "901"
-date = "2008-10-09"
-+++
+---
+title: "For Warrick"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 9  
+epnum: 1  
+prodnum: 901  
+date: 2008-10-09
+---
 
 ## Synopsis
 

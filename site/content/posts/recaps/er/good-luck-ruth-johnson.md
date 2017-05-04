@@ -1,19 +1,19 @@
-+++
-title = "Good Luck, Ruth Johnson"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Five"
-epnum = "Nine"
-prodnum = "467559  "
-date = "1998-12-10"
-rating = "1"
-+++
+---
+title: Good Luck, Ruth Johnson
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Five  
+epnum: Nine  
+prodnum: 467559    
+date: 1998-12-10  
+rating: 1  
+---
 
 _Note: This was ER's 100th episode_
 

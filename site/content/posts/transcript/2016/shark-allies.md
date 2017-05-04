@@ -1,13 +1,14 @@
-+++
-title = "Shark Allies"
-date = "2016-07-21"
-author = "Mika Epstein"
-layout = "transcript"
-interviewurl = "http://www.sharkallies.com/"
-permalink = "/transcript/2016/:title/"
-categories = ["Interviews"]
-tags = ["2016"]
-+++
+---
+title: Shark Allies
+date: 2016-07-21
+author: Mika Epstein
+layout: transcript
+interviewurl: http://www.sharkallies.com/
+permalink: /transcript/2016/:title/
+categories: ["Interviews"]
+tags:
+  - 2016
+---
 
 *Sharks are more important to our lives than we may imagine. It is time for us to appreciate their significance. We are grateful for the amazing job they do, every day, in all the oceans around the world to keep fish stock and the ocean healthy and vibrant.*
 

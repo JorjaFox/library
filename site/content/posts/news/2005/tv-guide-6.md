@@ -1,17 +1,18 @@
-+++
-title = "TV Guide"
-date = "2005-10-26"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: TV Guide
+date: 2005-10-26
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Ask Ausiello"
-newsauthor = "Michael Ausiello"
-newssource = "TV Guide"
-newsurl = "http://www.tvguide.com"
-+++
+newstitle: "Ask Ausiello"
+newsauthor: Michael Ausiello  
+newssource: TV Guide  
+newsurl: http://www.tvguide.com  
+
+---
 [...]
 
 **Question:** What happened to the Sara-Grissom motel scene that, according to TV Guide's Oct. 1 cover story, was supposed to take place on last Thursday's *CSI*?! **William Peterson** wasn't even in that episode! &#8212; Jennifer

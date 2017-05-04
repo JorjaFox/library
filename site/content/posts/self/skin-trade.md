@@ -1,11 +1,11 @@
-+++
-layout = "self"
-title = "Skin Trade"
-categories = ["Filmography"]
-tags = ["Documentary", "Animal Rights"]
-website = "http://www.skintradethemovie.com/"
-imdb = "http://www.imdb.com/title/tt1576702/"
-+++
+---
+layout: self
+title: "Skin Trade"
+categories: ["Filmography"]
+tags: ["Documentary", "Animal Rights"]
+website: http://www.skintradethemovie.com/
+imdb: http://www.imdb.com/title/tt1576702/
+---
 
 Originally titled Pets on Your Plate, Skin Trade is a documentary.
 

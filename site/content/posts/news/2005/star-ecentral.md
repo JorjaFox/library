@@ -1,17 +1,18 @@
-+++
-title = "Star eCentral"
-date = "2005-07-03"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: Star eCentral
+date: 2005-07-03
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Candid shorts"
-newsauthor = "Staff"
-newssource = "Star eCentral"
-newsurl = "http://www.star-ecentral.com"
-+++
+newstitle: "Candid shorts"
+newsauthor: Staff  
+newssource: Star eCentral  
+newsurl: http://www.star-ecentral.com  
+
+---
 THE cast of CSI: Crime Scene Investigation talks about the show, its appeal and more.
 
 [...]

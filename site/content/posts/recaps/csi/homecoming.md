@@ -1,18 +1,19 @@
-+++
-title = "Homecoming"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "12"
-epnum = "21"
-date = "2012-05-09"
-prodnum= "272"
-+++
+---
+title: "Homecoming"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 12  
+epnum: 21  
+date: 2012-05-09
+prodnum: 272  
+---
 
 ## Synopsis
 

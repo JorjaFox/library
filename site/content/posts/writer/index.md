@@ -1,7 +1,8 @@
-+++
-title = "Self"
-author = "Mika Epstein"
-+++
+---
+title: "Self"
+author: Mika Epstein
+
+---
 <!DOCTYPE html>
 <html>
   <head>

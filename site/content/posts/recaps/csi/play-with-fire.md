@@ -1,18 +1,19 @@
-+++
-title = "Play With Fire"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "22"
-date = "2003-05-08"
-prodnum= "322"
-+++
+---
+title: "Play With Fire"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3  
+epnum: 22
+date: 2003-05-08
+prodnum: 322  
+---
 
 ## Synopsis
 

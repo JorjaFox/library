@@ -1,18 +1,19 @@
-+++
-title = "Go To Hell"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "8"
-epnum = "3"
-date = "2007-10-11"
-prodnum= "803"
-+++
+---
+title: "Go To Hell"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 8
+epnum: 3  
+date: 2007-10-11
+prodnum: 803  
+---
 
 ## Synopsis
 

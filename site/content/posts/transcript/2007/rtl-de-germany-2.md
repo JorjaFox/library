@@ -1,13 +1,14 @@
-+++
-title = "'RTL.de - Germany"
-author = "David Masters"
-layout = "transcript"
-date = "2007-09-01"
-interviewurl = "http://www.rtl.de/"
-permalink = "/transcript/2007/:title/"
-categories = ["Interviews"]
-tags = ["2007"]
-+++
+---
+title: 'RTL.de - Germany'
+author: David Masters
+layout: transcript
+date: 2007-09-01
+interviewurl: http://www.rtl.de/
+permalink: /transcript/2007/:title/
+categories: ["Interviews"]
+tags:
+  - 2007
+---
 
 ## "Jorja Fox "Sara Sidle" - Why Season 7 is so great"
 
@@ -21,7 +22,7 @@ tags = ["2007"]
 
 **Jorja Fox:** ... they worked together, obviously this is a mystery we hoped to unravel this year, how long have they been seeing each other outside of the office, it seems obvious in that finale that that wasn't the first time that they found themselves in the bedroom together. There was what we hoped to play sort of the familiarity, that this was, you know so was that, did that happen in season 2, was it season 4, was this something that lingered from San Francisco where, you know, Sara and Grissom, you know, are sort of reported to have met and gotten to know each other, and there was one thing one thing "certain" in episode 1 of season 1 that the two characters had some kind of history, it wasn't the first time they were meeting, there was a, a past there for them.
 
-## "Jorja Fox "Sara Sidle" - Roger Daltry in "Living Legend"
+## "Jorja Fox "Sara Sidle" - Roger Daltry in "Living Legend""
 
 **Jorja Fox:** Wow, that was huge, I mean that was really huge. I mean, I, I'm a long long standing Who fan. You know my brother's twelve years older than I am and when he went to college he gave me all of his rock 'n roll records, and he had a pretty good collection and there was a lot of Who in it, so I'd say I was five "(laughs)" when I started listening to the Who, and, and I've, I've loved them and seen them in concert several times you know, in California, and you know, we, we somehow attracted this little theme song that we've got, you know, that, and, and, I remember, again, going "way" back reminiscing with you some memory lane when standing up in this area called Santa Clarita that we used to shoot in there's nothing there, I mean nothing, I mean there's actually a lot more there now than there was six years ago, it's an area that's been built up so much over the last six years. And, and Billy's standing there, and I'm standing there, and Gary's standing there, and we're talking about what's going to be the theme song for "CSI", you know, and then he's saying "well, there's this Who song" and we thought, you know that's never going to happen, that's a great idea Billy, but that's never gonna happen, you know, he doesn't do TV shows, and, and then lo and behold it happened, and, and it's done... enormous things for the show just in terms of that one song, you know, people "know" that song, they now, I think, when they hear it they think of us too, you know, and...
 
@@ -29,6 +30,6 @@ tags = ["2007"]
 
 **Jorja Fox:** Grissom arrives at the crime scene, and sitting on the counter at the crime scene is an exact replica of the crime scene so it's a crime scene within a crime scene and it's odd, and it's fascinating, interesting, nobody's ever seen anything like it before, and I think that everybody decides that it's an anomaly, it's not gonna happen again, and lo and behold a few episodes pass and it's reoccurred...
 
-## "Jorja Fox "Sara Sidle" - Greg Sanders "Fannysmackin"]
+## "Jorja Fox "Sara Sidle" - Greg Sanders "Fannysmackin'""
 
 **Jorja Fox:** For Eric it's a really, uh, really great storyline for him, you know, it's all about that moment, where there's a moment in time, and you have a very very short amount of time to make a decision and what are the ramifications of that decision. I think everyone, you know, in life at some point in our lives have that moment, you know, it might not have necessarily, the stakes might not have been as high as they were for Greg or as life-threatening, but you know it's just a moment where you tell somebody you had an affair or you don't, or you know, you decide to walk out of a relationship or you don't and then "everything" changes from that, your entire life changes from this moment in time where someone you love gets hit by a bus, any of those things, people have been through that and uh, it's really cool to see the results of that.

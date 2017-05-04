@@ -1,18 +1,19 @@
-+++
-title = "Chasing the Bus"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "18"
-date = "2002-03-28"
-prodnum= "218"
-+++
+---
+title: "Chasing the Bus"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2
+epnum: 18
+date: 2002-03-28
+prodnum: 218  
+---
 
 ## Synopsis
 

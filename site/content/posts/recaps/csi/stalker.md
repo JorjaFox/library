@@ -1,18 +1,19 @@
-+++
-title = "Stalker"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "19"
-date = "2002-04-04"
-prodnum= "219"
-+++
+---
+title: "Stalker"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2  
+epnum: 19
+date: 2002-04-04
+prodnum: 219  
+---
 
 ## Synopsis
 

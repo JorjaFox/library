@@ -1,17 +1,18 @@
-+++
-title = "Watch Magazine"
-date = "2006-06-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Watch Magazine
+date: 2006-06-01
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "CSI From A to Z: Favorite Episodes"
-newsauthor = "Staff"
-newssource = "Watch Magazine"
-newsurl = "http://www.cbs.com/watch_magazine/ "
-+++
+newstitle: "CSI From A to Z: Favorite Episodes"
+newsauthor: Staff  
+newssource: Watch Magazine
+newsurl: http://www.cbs.com/watch_magazine/ 
+
+---
 
 Jorja Fox aka Sara Sidle:
 

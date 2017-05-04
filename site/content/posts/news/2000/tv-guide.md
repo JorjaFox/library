@@ -1,16 +1,17 @@
-+++
-title = "TV Guide"
-date = "2000-11-24"
-author = "Mika Epstein"
-layout = "news"
-categories = ["Articles", "News"]
-permalink = "/news/2000/:title/"
-tags = ["2000"]
-newstitle = "Review"
-newsauthor = "Staff"
-newssource = "TV Guide"
-newsurl = "http://www.tvguide.com/magazine/issues/000925/fri5.asp"
-+++
+---
+title: TV Guide
+date: 2000-11-24
+author: Mika Epstein
+layout: news
+categories: ["Articles", "News"]
+permalink: /news/2000/:title/
+tags: ["2000"]
+newstitle: Review  
+newsauthor: Staff  
+newssource: TV Guide  
+newsurl: http://www.tvguide.com/magazine/issues/000925/fri5.asp  
+
+---
 9-10PM, CBS 
 
 PREMIERES October 6 

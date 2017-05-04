@@ -1,17 +1,18 @@
-+++
-title = "The TV Addict"
-date = "2009-08-03"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: The TV Addict
+date: 2009-08-03
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "TCA Live Blog Day 1: CBS"
-newsauthor = "Staff"
-newssource = "The TV Addict"
-newsurl = "http://thetvaddict.com/2009/08/03/tca-live-blog-day-1-cbs/"
-+++
+newstitle: "TCA Live Blog Day 1: CBS  "
+newsauthor: Staff  
+newssource: The TV Addict  
+newsurl: http://thetvaddict.com/2009/08/03/tca-live-blog-day-1-cbs/  
+
+---
 
 [...]
 

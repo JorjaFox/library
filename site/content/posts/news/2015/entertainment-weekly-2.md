@@ -1,16 +1,17 @@
-+++
-title = "Entertainment Weekly"
-date = "2015-09-14"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "'CSI' finale: The cast looks back on 15 seasons"
-newsauthor = "Lynette Rice"
-newssource = "Entertainment Weekly"
-newsurl = "http://www.ew.com/article/2015/09/14/csi-finale-william-petersen-original-cast-looks-back"
-+++
+---
+title: Entertainment Weekly
+date: 2015-09-14
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: "'CSI' finale: The cast looks back on 15 seasons"
+newsauthor: Lynette Rice  
+newssource: Entertainment Weekly  
+newsurl: http://www.ew.com/article/2015/09/14/csi-finale-william-petersen-original-cast-looks-back  
+
+---
 
 The original cast members reflect on the highs and lows of starring in the CBS drama
 

@@ -1,19 +1,19 @@
-+++
-title = "'In the Shadow of Two Gunmen: Part I"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/west-wing/:title/"
-categories = ["Recaps"]
-tags = ["The West Wing"]
-station = "NBC"
-showname = "The West Wing"
-showslug = "west-wing" 
-season = "Two"
-epnum = "One"
-prodnum = "226201  "
-date = "2000-10-04"
-rating = "3"
-+++
+---
+title: 'In the Shadow of Two Gunmen: Part I'
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/west-wing/:title/
+categories: ["Recaps"]
+tags: ["The West Wing"]
+station: NBC  
+showname: "The West Wing"
+showslug: west-wing  
+season : Two  
+epnum: One  
+prodnum: 226201    
+date: 2000-10-04
+rating: 3  
+---
 
 ## Summary 
 

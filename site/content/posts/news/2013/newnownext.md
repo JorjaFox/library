@@ -1,17 +1,18 @@
-+++
-title = "NewNowNext"
-date = "2013-06-11"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
+---
+title: NewNowNext
+date: 2013-06-11
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
 
-newstitle = "Charlie Weber on \"Warehouse 13\", \"Buffy\" and Riding Naked on an Elephant"
-newsauthor = "Ed Kennedy "
-newssource = "Logo - NewNowNext"
-newsurl = "http://www.newnownext.com/charlie-weber-photos-interview/06/2013/"
-+++
+newstitle: "Charlie Weber on \"Warehouse 13\", \"Buffy\" and Riding Naked on an Elephant"
+newsauthor: Ed Kennedy 
+newssource: Logo - NewNowNext
+newsurl: http://www.newnownext.com/charlie-weber-photos-interview/06/2013/
+
+---
 
 [...]
 

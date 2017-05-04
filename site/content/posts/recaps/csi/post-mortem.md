@@ -1,18 +1,19 @@
-+++
-title = "Post-Mortem"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "7 "
-date = "2006-11-09"
-prodnum= "707"
-+++
+---
+title: "Post-Mortem"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7  
+epnum: 7 
+date: 2006-11-09
+prodnum: 707  
+---
 
 ## Synopsis
 

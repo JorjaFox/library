@@ -1,18 +1,19 @@
-+++
-title = "Crime After Crime"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "12"
-epnum = "8"
-date = "2011-11-16"
-prodnum= "259"
-+++
+---
+title: "Crime After Crime"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 12  
+epnum: 8  
+date: 2011-11-16
+prodnum: 259  
+---
 
 ## Synopsis
 

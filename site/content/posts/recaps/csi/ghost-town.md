@@ -1,18 +1,19 @@
-+++
-title = "Ghost Town"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "10"
-epnum = "2"
-date = "2009-10-01"
-prodnum= "208"
-+++
+---
+title: "Ghost Town"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 10
+epnum: 2  
+date: 2009-10-01
+prodnum: 208  
+---
 
 ## Synopsis
 

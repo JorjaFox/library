@@ -1,13 +1,16 @@
-+++
-title = "The Kevin and Bean Show"
-author = "Mika Epstein"
-layout = "transcript"
-interviewurl = "http://kroq.com/"
-date = "2009-09-24"
-permalink = "/transcript/2009/:title/"
-categories = ["Interviews"]
-tags = ["2009", "radio", "talk shows"]
-+++
+---
+title: The Kevin and Bean Show
+author: Mika Epstein
+layout: transcript
+interviewurl: http://kroq.com/  
+date: 2009-09-24
+permalink: /transcript/2009/:title/
+categories: ["Interviews"]
+tags:
+  - 2009
+  - radio
+  - 'talk shows'
+---
 
 **Host:** ... It's 9:15.
 

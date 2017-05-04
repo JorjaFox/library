@@ -1,17 +1,18 @@
-+++
-title = "Buddy TV "
-date = "2007-11-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Buddy TV 
+date: 2007-11-13
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "CSI: Get Ready to Say Goodbye to Sara"
-newsauthor = "Kris De Leon"
-newssource = "Buddy TV "
-newsurl = "http://www.buddytv.com/articles/csi/csi-get-ready-to-say-goodbye-t-13679.aspx"
-+++
+newstitle: "CSI: Get Ready to Say Goodbye to Sara  "
+newsauthor: Kris De Leon  
+newssource: Buddy TV 
+newsurl: http://www.buddytv.com/articles/csi/csi-get-ready-to-say-goodbye-t-13679.aspx  
+
+---
 
 In just a few days, viewers will have to say farewell to "CSI"'s Sara Sidle. After seven years of portraying the Las Vegas forensic scientist and one of the core players of the show, Jorja Fox has ultimately decided to move on and have a break from the commitment of a weekly television series. But before she leaves, she'll be playing Sara one last time in the episode fittingly called "Goodbye and Good Luck," which airs on Thursday, November 15.
 

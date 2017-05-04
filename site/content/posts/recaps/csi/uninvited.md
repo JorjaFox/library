@@ -1,18 +1,19 @@
-+++
-title = "Uninvited"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "18"
-date = "2014-03-19"
-prodnum= "313"
-+++
+---
+title: "Uninvited"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14
+epnum: 18  
+date: 2014-03-19
+prodnum: 313  
+---
 
 ## Synopsis
 

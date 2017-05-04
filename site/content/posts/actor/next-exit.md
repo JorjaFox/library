@@ -1,12 +1,12 @@
-+++
-layout = "actor"
-title = "Next Exit"
-categories = ["Filmography"]
-tags = ["movies"]
-excerpt = "<strong>Next Exit</strong> is a film about Charles, a teenager who is running away with his best friend, Jason Robinson, to Los Angeles."
-character = "Terri"
-chartype = "main"
-+++
+---
+layout: actor
+title: "Next Exit"
+categories: ["Filmography"]
+tags: ["movies"]
+excerpt: "<strong>Next Exit</strong> is a film about Charles, a teenager who is running away with his best friend, Jason Robinson, to Los Angeles."
+character: Terri
+chartype: main
+---
 
 ## Synopsis
 

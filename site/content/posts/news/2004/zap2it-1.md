@@ -1,16 +1,17 @@
-+++
-title = "Zap2it"
-date = "2004-07-23"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "&#8216;CSI' Rehires Fox; Eads Waits to Hear"
-newsauthor = "Staff"
-newssource = "Maxim"
-newsurl = "http://tv.zap2it.com/ "
-+++
+---
+title: Zap2it
+date: 2004-07-23
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "&#8216;CSI' Rehires Fox; Eads Waits to Hear"
+newsauthor: Staff  
+newssource: Maxim  
+newsurl: http://tv.zap2it.com/ 
+
+---
  
 LOS ANGELES (Zap2it.com) "CSI" will resume production next week with, at most, one fewer regular than in past seasons.
 

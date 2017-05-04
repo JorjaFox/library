@@ -1,17 +1,18 @@
-+++
-title = "The Day "
-date = "2007-10-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: The Day 
+date: 2007-10-16
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Jorja on my Mind"
-newsauthor = "Elissa Bass"
-newssource = "The Day"
-newsurl = "http://www.theday.com/re.aspx?re=a096bb22-8455-4798-9510-c6773984ccd4 "
-+++
+newstitle: "Jorja on my Mind  "
+newsauthor: Elissa Bass  
+newssource: The Day  
+newsurl: http://www.theday.com/re.aspx?re=a096bb22-8455-4798-9510-c6773984ccd4 
+
+---
 It became official on Monday, when Jorja Fox, who plays the recovering alcoholic Sara Sidle on the still-enormously popular CBS crime show, CSI, confirmed to ew.com that she is leaving the show this fall.
 
 There had been much speculation in the TV press that Fox was quitting in this, the show's eighth season. Last season's glimpses of Sara's and Grissom's personal lives (they are a couple) led close followers to believe that Sara was doomed as a character, as no love goes unpunished on this show.

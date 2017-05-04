@@ -1,19 +1,19 @@
-+++
-title = "Dodges City"
-author = "Mika Epstein"
-layout = "actor"
-categories = ["Filmography"]
-tags = ["Television"]
-show = "dodges-city"
-station = "UPN"
-rating = ""
-episodes = "1"
-chartype = ""
-genre = "Action"
-year = "1999"
-character = "Unknown"
-excerpt = "<strong>Dodges City</strong> was about 20-something extreme private investigator."
-+++
+---
+title: "Dodges City"
+author: Mika Epstein
+layout: actor
+categories: ["Filmography"]
+tags: ["Television"]
+show: dodges-city
+station: UPN
+rating: 
+episodes: 1
+chartype: 
+genre: Action
+year: 1999
+character:
+excerpt: "<strong>Dodges City</strong> was about 20-something extreme private investigator."
+---
 
 _Jorja Fox's appearance in this is unverified. If you have information than can confirm, please [contact us](https://jorjafox.net/contact/), and be sure to cite your source._
 

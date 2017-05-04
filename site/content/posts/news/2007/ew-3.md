@@ -1,19 +1,20 @@
-+++
-title = "EW "
-date = "2007-09-28"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: EW 
+date: 2007-09-28
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Jorja Fox leaving 'CSI' by end of '07"
-newsauthor = "Staff"
-newssource = "Entertainment Weekly "
-newsurl = "http://www.ew.com"
-+++
+newstitle: "Jorja Fox leaving 'CSI' by end of '07"
+newsauthor: Staff
+newssource: Entertainment Weekly 
+newsurl: http://www.ew.com
 
-**Jorja Fox Leaving &#8216;CSI"
+---
+
+**Jorja Fox Leaving &#8216;CSI""
 
 **The actress will appear in six or seven episodes this year before leaving the top-rated show that made her a household name**
 

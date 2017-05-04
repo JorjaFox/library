@@ -1,19 +1,19 @@
-+++
-title = "Night Shift"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Eleven"
-prodnum = "465411  "
-date = "1997-01-16"
-rating = "2"
-+++
+---
+title: Night Shift
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Eleven  
+prodnum: 465411    
+date: 1997-01-16  
+rating: 2  
+---
 
 ## Summary  
   

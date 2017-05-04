@@ -1,17 +1,18 @@
-+++
-title = "NY Daily News"
-date = "2009-08-15"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: NY Daily News
+date: 2009-08-15
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "CSI star Jorja Fox gets turn in orange jumpsuit on &#8216;Drop Dead Diva"
-newsauthor = "Christina Kinon"
-newssource = "NY Daily News"
-newsurl = "http://www.nydailynews.com/entertainment/tv/2009/08/15/2009-08-15_jorja_fox_gets_turn_in_orange_jumpsuit_as_felonious_on_diva.html"
-+++
+newstitle: "CSI star Jorja Fox gets turn in orange jumpsuit on &#8216;Drop Dead Diva'  "
+newsauthor: Christina Kinon  
+newssource: NY Daily News  
+newsurl: http://www.nydailynews.com/entertainment/tv/2009/08/15/2009-08-15_jorja_fox_gets_turn_in_orange_jumpsuit_as_felonious_on_diva.html  
+
+---
 
 It was only a matter of time before Jorja Fox found herself in a pair of handcuffs.
 
@@ -29,7 +30,7 @@ Fox said she enjoys the "spirit of love" on "Diva," and though her character doe
 
 Still, Fox says it's been great to be back on the "CSI" set, where she's filming a guest spot on the first five episodes of the show's upcoming 10th season, which premieres Sept. 24 at 9 p.m.
 
-"I'm a little rusty with the lingo and the gadgets. It's been two years since I've been at &#8216;CSI,"] she said. "I was in a couple of episodes last year, but I wasn't on the job."
+"I'm a little rusty with the lingo and the gadgets. It's been two years since I've been at &#8216;CSI,'" she said. "I was in a couple of episodes last year, but I wasn't on the job."
 
 Fox's return is just one of several adjustments "CSI" is making this season, including giving George Eads' character, Nick Stokes, a promotion and adjusting the wardrobe of Laurence Fishburne's Ray Langston.
 

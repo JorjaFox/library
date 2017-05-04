@@ -1,17 +1,18 @@
-+++
-title = "The UkuLady's UkulUniverse "
-date = "2008-02-28"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2008"]
-categories = ["Articles", "News"]
-permalink = "/news/2008/:title/"
+---
+title: The UkuLady's UkulUniverse 
+date: 2008-02-28
+author: Mika Epstein
+layout: news
+tags: ["2008"]
+categories: ["Articles", "News"]
+permalink: /news/2008/:title/
 
-newstitle = "I Do Not Know Jorja Fox"
-newsauthor = "The UkuLady"
-newssource = "The UkuLady's UkulUniverse"
-newsurl = "http://ukulady.blogspot.com/2008/02/i-do-not-know-jorja-fox.html"
-+++
+newstitle: "I Do Not Know Jorja Fox  "
+newsauthor: The UkuLady  
+newssource: The UkuLady's UkulUniverse  
+newsurl: http://ukulady.blogspot.com/2008/02/i-do-not-know-jorja-fox.html  
+
+---
 
  [...]
 

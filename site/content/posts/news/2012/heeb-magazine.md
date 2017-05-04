@@ -1,17 +1,18 @@
-+++
-title = "Heeb Magazine"
-date = "2012-12-21"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
+---
+title: Heeb Magazine
+date: 2012-12-21
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
 
-newstitle = "Don't Mess with the Zohar: Backstage at new Dusty Springfield Musical"
-newsauthor = "Kristen Elizabeth"
-newssource = "Heeb Magazine"
-newsurl = "http://heebmagazine.com/dont-mess-with-the-zohar-backstage-at-new-dusty-springfield-musical/41497"
-+++
+newstitle: "Don't Mess with the Zohar: Backstage at new Dusty Springfield Musical  "
+newsauthor: Kristen Elizabeth  
+newssource: Heeb Magazine  
+newsurl: http://heebmagazine.com/dont-mess-with-the-zohar-backstage-at-new-dusty-springfield-musical/41497  
+
+---
 
 [...]
 

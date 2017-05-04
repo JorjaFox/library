@@ -1,16 +1,17 @@
-+++
-title = "Playboy"
-date = "2003-05-01"
-author = "Mika Epstein"
-layout = "news"
-categories = ["News", "Articles"]
-tags = ["2003"]
-permalink = "/news/2003/:title/"
-newstitle = "Playboy's 20 Q"
-newsauthor = "Staff"
-newssource = "Playboy Magazine"
-newsurl = "http://www.playboy.com/"
-+++
+---
+title: Playboy
+date: 2003-05-01
+author: Mika Epstein
+layout: news
+categories: [News, Articles]
+tags: ["2003"]
+permalink: /news/2003/:title/
+newstitle: "Playboy's 20 Q"
+newsauthor: Staff  
+newssource: Playboy Magazine  
+newsurl: http://www.playboy.com/  
+
+---
 
 The star of TV's top show, CSI, on marriage allergies, getting frisked and bad smells in the lab.
 

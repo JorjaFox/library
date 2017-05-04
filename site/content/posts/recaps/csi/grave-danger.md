@@ -1,18 +1,19 @@
-+++
-title = "Grave Danger"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "24 and 525 "
-date = "2005-05-19"
-prodnum= "524 and 525 "
-+++
+---
+title: "Grave Danger"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 24 and 525 
+date: 2005-05-19
+prodnum: 524 and 525 
+---
 
 ## Synopsis
 

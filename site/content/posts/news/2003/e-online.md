@@ -1,16 +1,17 @@
-+++
-title = "E Online"
-date = "2003-09-25"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "Watch with Kristin"
-newsauthor = "Staff"
-newssource = "ET Online"
-newsurl = "http://www.eonline.com/"
-+++
+---
+title: E Online
+date: 2003-09-25
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: Watch with Kristin  
+newsauthor: Staff  
+newssource: ET Online  
+newsurl: http://www.eonline.com/  
+
+---
 
 [...]
 

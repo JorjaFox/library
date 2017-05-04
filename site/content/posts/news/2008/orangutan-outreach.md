@@ -1,17 +1,18 @@
-+++
-title = "Orangutan Outreach"
-date = "2008-05-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Orangutan Outreach
+date: 2008-05-01
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Spring 2008 Newsletter"
-newsauthor = "Staff"
-newssource = "Orangutan Outreach"
-newsurl = "http://campaign-archive.com/?u=5623ceeb639273a4885aa9d45&id=1wdtoJcvBM&e="
-+++
+newstitle: "Spring 2008 Newsletter"
+newsauthor: Staff
+newssource: Orangutan Outreach
+newsurl: http://campaign-archive.com/?u=5623ceeb639273a4885aa9d45&id=1wdtoJcvBM&e=
+
+---
 
 [...]
 

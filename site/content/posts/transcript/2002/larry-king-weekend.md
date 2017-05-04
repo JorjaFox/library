@@ -1,13 +1,15 @@
-+++
-title = "Larry King Weekend"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2002-05-18"
-interviewurl = "http://www.cnn.com/TRANSCRIPTS/0205/18/lklw.00.html"
-permalink = "/transcript/2002/:title/"
-categories = ["Interviews"]
-tags = ["Talk Shows", "2002"]
-+++
+---
+title: Larry King Weekend
+author: Mika Epstein
+layout: transcript
+date: 2002-05-18
+interviewurl: http://www.cnn.com/TRANSCRIPTS/0205/18/lklw.00.html
+permalink: /transcript/2002/:title/
+categories: ["Interviews"]
+tags:
+  - "Talk Shows"
+  - 2002
+---
 
 **LARRY KING, HOST:** Tonight, unsolved mysteries, Jon Bonet Ramsey, Chandra Levy &#8212; in the news. No wonder one of TV's top drama's is "CSI Crime Scene Investigation". This phenomenal series is about following evidence and closing cases. Glory details, high tech twists, it got them all.
 

@@ -1,17 +1,18 @@
-+++
-title = "BuddyTV.com"
-date = "2009-08-23"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: BuddyTV.com
+date: 2009-08-23
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "The &#8216;CSI' Franchise Case File: Someone's Returning and Someone's Not"
-newsauthor = "Henrik Batallones"
-newssource = "BuddyTV.com"
-newsurl = "http://www.buddytv.com/articles/csi/the-csi-franchise-case-file-so-30212.aspx"
-+++
+newstitle: "The &#8216;CSI' Franchise Case File: Someone's Returning and Someone's Not  "
+newsauthor: Henrik Batallones  
+newssource: BuddyTV.com  
+newsurl: http://www.buddytv.com/articles/csi/the-csi-franchise-case-file-so-30212.aspx  
+
+---
 
 [...]
 

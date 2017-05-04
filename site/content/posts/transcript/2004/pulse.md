@@ -1,13 +1,15 @@
-+++
-title = "Pulse"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2004-02-13"
-interviewurl = "http://www.pulse.org/"
-permalink = "/transcript/2004/:title/"
-categories = ["Interviews"]
-tags = ["Talk Shows", "2004"]
-+++
+---
+title: Pulse
+author: Mika Epstein
+layout: transcript
+date: 2004-02-13
+interviewurl: http://www.pulse.org/
+permalink: /transcript/2004/:title/
+categories: ["Interviews"]
+tags:
+  - "Talk Shows"
+  - 2004
+---
 
 "Pulse" is a talk show.
 

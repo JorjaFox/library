@@ -1,18 +1,19 @@
-+++
-title = "Cold Blooded"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "6"
-date = "2010-10-28"
-prodnum= "235"
-+++
+---
+title: "Cold Blooded"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11
+epnum: 6  
+date: 2010-10-28
+prodnum: 235  
+---
 
 ## Synopsis
 

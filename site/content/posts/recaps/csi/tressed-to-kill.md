@@ -1,18 +1,19 @@
-+++
-title = "Tressed To Kill"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "12"
-epnum = "13"
-date = "2012-02-08"
-prodnum= "264"
-+++
+---
+title: "Tressed To Kill"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 12  
+epnum: 13  
+date: 2012-02-08
+prodnum: 264  
+---
 
 ## Synopsis
 

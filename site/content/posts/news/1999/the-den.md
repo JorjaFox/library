@@ -1,16 +1,17 @@
-+++
-title = "The Den"
-date = "1999-02-09"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/1999/:title/"
-tags = ["1999"]
-categories = ["Articles", "News"]
-newstitle = "Headed for One True Thing"
-newsauthor = "Staff"
-newssource = "The Den"
-newsurl = "http://www.theden.com"
-+++
+---
+title: The Den
+date: 1999-02-09
+author: Mika Epstein
+layout: news
+permalink: /news/1999/:title/
+tags: ["1999"]
+categories: ["Articles", "News"]
+newstitle: Headed for One True Thing  
+newsauthor: Staff  
+newssource: The Den  
+newsurl: http://www.theden.com  
+
+---
 Jorja who? No one really knows who the hell she is, but she's pretty hot, she's on ER, and that's good enough for UPN.
 
 Jorja Fox, who plays intern Maggie Doyle on *ER*, is apparently doing her best David Caruso impersonation by leaving a hit show to take the lead role on the new UPN sure-fire bomb *The True Story.*

@@ -1,19 +1,19 @@
-+++
-title = "Shifting Equilbrium"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Fifteen"
-epnum = "Twenty"
-prodnum = "20  "
-date = "2009-03-19"
-rating = "0"
-+++
+---
+title: Shifting Equilbrium
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Fifteen  
+epnum: Twenty  
+prodnum: 20    
+date: 2009-03-19
+rating: 0
+---
 
 Note: Jorja Fox does not appear in this episode.
 

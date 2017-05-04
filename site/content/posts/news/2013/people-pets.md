@@ -1,17 +1,18 @@
-+++
-title = "People Pets"
-date = "2013-11-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
+---
+title: People Pets
+date: 2013-11-13
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
 
-newstitle = "Jorja Fox Introduces Her New Rescue Dog"
-newsauthor = "K.C. BLUMM"
-newssource = "People Pets"
-newsurl = "http://www.peoplepets.com/people/pets/article/0,,20754984,00.html"
-+++
+newstitle: "Jorja Fox Introduces Her New Rescue Dog  "
+newsauthor: K.C. BLUMM  
+newssource: People Pets  
+newsurl: http://www.peoplepets.com/people/pets/article/0,,20754984,00.html  
+
+---
 
 Jorja Fox wasn't quite ready to adopt a new dog. The "CSI: Crime Scene Investigation" star was still mourning the loss of her old pet, who died in January, when a scruffy little mutt came into her life. 
 

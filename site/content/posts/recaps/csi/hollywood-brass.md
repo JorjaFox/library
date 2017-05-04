@@ -1,18 +1,19 @@
-+++
-title = "Hollywood Brass"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "21 "
-date = "2005-04-21"
-prodnum= "521 "
-+++
+---
+title: "Hollywood Brass"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 21 
+date: 2005-04-21
+prodnum: 521 
+---
 
 ## Synopsis
 

@@ -1,17 +1,18 @@
-+++
-title = "Honolulu Pulse"
-date = "2013-10-11"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
+---
+title: Honolulu Pulse
+date: 2013-10-11
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
 
-newstitle = "Freestyle: CSI star jumps in at HIFF"
-newsauthor = "Elizabeth Kieszkowski"
-newssource = "Honolulu Pulse"
-newsurl = "http://www.honolulupulse.com/2013/10/freestyle-jorja-fox-hiff/"
-+++
+newstitle: "Freestyle: CSI star jumps in at HIFF  "
+newsauthor: Elizabeth Kieszkowski  
+newssource: Honolulu Pulse  
+newsurl: http://www.honolulupulse.com/2013/10/freestyle-jorja-fox-hiff/  
+
+---
 
 The 33rd Hawaii International Film Festival started off with a buzz of energy on Thursday, Oct. 10.
 

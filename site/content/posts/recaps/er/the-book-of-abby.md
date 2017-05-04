@@ -1,19 +1,19 @@
-+++
-title = "The Book Of Abby"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Fifteen"
-epnum = "3"
-prodnum = "3  "
-date = "2008-10-16"
-rating = "0"
-+++
+---
+title: The Book Of Abby
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Fifteen  
+epnum: 3  
+prodnum: 3    
+date: 2008-10-16
+rating: 0  
+---
 
 _Note: Jorja Fox does not appear in this episode._
 

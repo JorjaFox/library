@@ -1,19 +1,20 @@
-+++
-title = "Chicago Sun-Times "
-date = "2007-10-05"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Chicago Sun-Times 
+date: 2007-10-05
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Scurrilous: Chicago's No. 1 couch potato"
-newsauthor = "Scurry"
-newssource = "Chicago Sun-Times"
-newsurl = "http://www.suntimes.com"
-+++
+newstitle: "Scurrilous: Chicago's No. 1 couch potato"
+newsauthor: Scurry
+newssource: Chicago Sun-Times
+newsurl: http://www.suntimes.com
 
-"Scene' and unseen**
+---
+
+""Scene' and unseen**
 
 Jorja Fox will leave the long-running hit "CSI: Crime Scene Investigation" next month, TV Guide reports. She's been there seven years, although she and co-star George Eads were temporarily fired after a salary dispute in '04.
 

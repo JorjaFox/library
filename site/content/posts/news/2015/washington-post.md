@@ -1,16 +1,17 @@
-+++
-title = "Washington Post"
-date = "2015-09-28"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "How 'CSI' out-CSIed itself for the series finale"
-newsauthor = "Stephanie Merry"
-newssource = "Washington Post"
-newsurl = "https://www.washingtonpost.com/news/style-blog/wp/2015/09/28/how-csi-out-csied-itself-for-the-series-finale/"
-+++
+---
+title: Washington Post
+date: 2015-09-28
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: "How 'CSI' out-CSIed itself for the series finale"
+newsauthor: Stephanie Merry  
+newssource: Washington Post  
+newsurl: https://www.washingtonpost.com/news/style-blog/wp/2015/09/28/how-csi-out-csied-itself-for-the-series-finale/  
+
+---
 
 [...]
 

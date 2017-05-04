@@ -1,18 +1,19 @@
-+++
-title = "Happenstance"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "8 "
-date = "2006-11-17"
-prodnum= "708"
-+++
+---
+title: "Happenstance"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 8 
+date: 2006-11-17
+prodnum: 708  
+---
 
 ## Synopsis
 

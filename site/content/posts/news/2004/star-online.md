@@ -1,16 +1,17 @@
-+++
-title = "Star Online"
-date = "2004-09-19"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "The night's buzz includes series' futures and style insights"
-newsauthor = "Staff"
-newssource = "Star Online"
-newsurl = "http://www.staronline.com/"
-+++
+---
+title: Star Online
+date: 2004-09-19
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "The night's buzz includes series' futures and style insights"
+newsauthor: Staff  
+newssource: Star Online  
+newsurl: http://www.staronline.com/  
+
+---
 
 Glamour mixes with relaxed attitudes as stars enter the Shrine  
 Auditorium

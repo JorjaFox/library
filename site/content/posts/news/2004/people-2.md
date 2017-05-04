@@ -1,16 +1,16 @@
-+++
-title = "People Magazine"
-date = "2004-09-19"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "Emmy's Worst Dressed"
-newsauthor = "Staff"
-newssource = "People Magazine"
-newsurl = "http://www.people.com"
-+++
+---
+title: People Magazine
+date: 2004-09-19
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "Emmy's Worst Dressed"
+newsauthor: Staff  
+newssource: People Magazine  
+newsurl: http://www.people.com  
+---
 
 [...]
 

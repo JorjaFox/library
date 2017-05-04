@@ -1,13 +1,14 @@
-+++
-title = "'CSI: Season Ten EPK"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2010-07-01"
-interviewurl = "http://cbs.com/"
-permalink = "/transcript/2010/:title/"
-categories = ["Interviews"]
-tags = ["2010"]
-+++
+---
+title: 'CSI: Season Ten EPK'
+author: Mika Epstein
+layout: transcript
+date: 2010-07-01
+interviewurl: http://cbs.com/
+permalink: /transcript/2010/:title/
+categories: ["Interviews"]
+tags:
+  - 2010
+---
 
 ## Returning to CSI in Season 10
 

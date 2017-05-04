@@ -1,16 +1,16 @@
-+++
-title = "Variety"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/1998/:title/"
-tags = ["1998"]
-categories = ["Articles", "News"]
-newstitle = "Review"
-date = "1998-02-02"
-newsauthor = "Staff"
-newssource = "Variety"
-newsurl = "http://variety.com"
-+++
+---
+title: Variety
+author: Mika Epstein
+layout: news
+permalink: /news/1998/:title/
+tags: ["1998"]
+categories: ["Articles", "News"]
+newstitle: Review  
+date: 1998-02-02
+newsauthor: Staff  
+newssource: Variety  
+newsurl: http://variety.com  
+---
 A Fugue State/Magnet Prods. presentation. Produced by Alison Dickey, Mark Lipson. Executive producer, James R. Hedges. Co-producer, Caitlin Abramoritz.
 
 Directed, written by Kip Koenig. Camera (color), Julian Whatley; editor, Chris Figler; music, Jeff Martin; production design, Jodi Ginnever; set decoration, Melissa K. Frankel; costume design, Agnes NaDene Baddoo, Dalhia Schuette; sound (Dolby), Larry Blake; associate producers, Scott Kennedy, Luis Barajas, Alberto Gieco; assistant director, Marie O'Keefe; casting, Joseph Middleton. Reviewed at Sundance Film Festival (competing), Jan. 19, 1998. Running time: 99 MIN.

@@ -1,17 +1,18 @@
-+++
-title = "Us Weekly"
-date = "2009-08-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Us Weekly
+date: 2009-08-17
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Jorja Fox Returning to CSI"
-newsauthor = "Staff"
-newssource = "Us Weekly"
-newsurl = "http://www.usmagazine.com/news/jorja-fox-returning-to-csi-2009177"
-+++
+newstitle: "Jorja Fox Returning to CSI  "
+newsauthor: Staff  
+newssource: Us Weekly  
+newsurl: http://www.usmagazine.com/news/jorja-fox-returning-to-csi-2009177  
+
+---
 
 **Jorja Fox** can't seem stay away from "CSI: Crime Scene Investigation".
 

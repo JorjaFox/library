@@ -1,17 +1,18 @@
-+++
-title = "Pride Source"
-date = "2008-03-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Pride Source
+date: 2008-03-20
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Billy Masters"
-newsauthor = "Billy Masters"
-newssource = "Pride Source"
-newsurl = "http://www.pridesource.com/article.shtml?article=29643"
-+++
+newstitle: "Billy Masters  "
+newsauthor: Billy Masters  
+newssource: Pride Source  
+newsurl: http://www.pridesource.com/article.shtml?article=29643  
+
+---
 
 [...]
 

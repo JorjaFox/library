@@ -1,11 +1,13 @@
-+++
-title = "Orangutan Outreach"
-author = "Mika Epstein"
-layout = "advocacy"
-categories = ["Advocacy"]
-tags = [ "Animal Rights", "PSA"]
-website = "http://redapes.org"
-+++
+---
+title: Orangutan Outreach
+author: Mika Epstein
+layout: advocacy
+categories: ["Advocacy"]
+tags: 
+  - "Animal Rights"
+  - PSA
+website: http://redapes.org
+---
 
 Orangutan Outreach is part of BOS International. The purpose of Orangutan Outreach is:  
 * To conserve orangutans in their native habitat.  

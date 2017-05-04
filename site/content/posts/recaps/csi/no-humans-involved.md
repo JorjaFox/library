@@ -1,18 +1,19 @@
-+++
-title = "No Humans Involved"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "10"
-date = "2004-12-09"
-prodnum= "510"
-+++
+---
+title: "No Humans Involved"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 10
+date: 2004-12-09
+prodnum: 510
+---
 
 ## Synopsis
 

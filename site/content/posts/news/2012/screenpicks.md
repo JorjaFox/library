@@ -1,17 +1,18 @@
-+++
-title = "ScreenPicks"
-date = "2012-10-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
+---
+title: ScreenPicks
+date: 2012-10-13
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
 
-newstitle = "Interview: CSI's Jorja Fox"
-newsauthor = "Amy and Nancy Harrington"
-newssource = "ScreenPicks"
-newsurl = "http://screenpicks.com/2012/10/interview-csis-jorja-fox/"
-+++
+newstitle: "Interview: CSI's Jorja Fox  "
+newsauthor: Amy and Nancy Harrington  
+newssource: ScreenPicks  
+newsurl: http://screenpicks.com/2012/10/interview-csis-jorja-fox/  
+
+---
 
 Written in conjunction with PopCulturePassionistas.com.
 

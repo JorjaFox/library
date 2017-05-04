@@ -1,16 +1,17 @@
-+++
-title = "TV Guide Magazine"
-date = "2014-09-22"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2014"]
-categories = ["Articles", "News"]
-permalink = "/news/2014/:title/"
-newstitle = "Returning Favorites: CSI"
-newsauthor = "Michael Logan"
-newssource = "TV Guide Magazine"
-newsurl = "http://tvguidemagazine.com"
-+++
+---
+title: TV Guide Magazine
+date: 2014-09-22
+author: Mika Epstein
+layout: news
+tags: ["2014"]
+categories: ["Articles", "News"]
+permalink: /news/2014/:title/
+newstitle: "Returning Favorites: CSI"
+newsauthor: Michael Logan  
+newssource: TV Guide Magazine  
+newsurl: http://tvguidemagazine.com  
+
+---
 
 **RETURNS Sunday, Sept 28, 10/9c, CBS**
 

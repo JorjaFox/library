@@ -1,17 +1,18 @@
-+++
-title = "Buddy TV "
-date = "2007-12-03"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Buddy TV 
+date: 2007-12-03
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Fans Continue to Show Support for Former &#8216;CSI' Actress"
-newsauthor = "Kris De Leon"
-newssource = "Buddy TV "
-newsurl = "http://www.buddytv.com"
-+++
+newstitle: "Fans Continue to Show Support for Former &#8216;CSI' Actress  "
+newsauthor: Kris De Leon  
+newssource: Buddy TV 
+newsurl: http://www.buddytv.com
+
+---
 
 Though Sara Sidle has already left "CSI", fans of the forensic drama are still determined to convey their support to her portrayer, Jorja Fox.
 

@@ -1,18 +1,19 @@
-+++
-title = "Maid Man"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "12"
-epnum = "4"
-date = "2011-10-12"
-prodnum= "255"
-+++
+---
+title: "Maid Man"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 12  
+epnum: 4  
+date: 2011-10-12
+prodnum: 255  
+---
 
 ## Synopsis
 

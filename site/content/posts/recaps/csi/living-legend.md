@@ -1,18 +1,19 @@
-+++
-title = "Living Legend"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "9"
-date = "2006-11-23"
-prodnum= "709"
-+++
+---
+title: "Living Legend"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 9
+date: 2006-11-23
+prodnum: 709  
+---
 
 ## Synopsis
 

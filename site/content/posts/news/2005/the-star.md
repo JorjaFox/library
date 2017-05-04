@@ -1,17 +1,18 @@
-+++
-title = "The Star"
-date = "2005-09-04"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: The Star
+date: 2005-09-04
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Procter prospers"
-newsauthor = "Staff"
-newssource = "The Star"
-newsurl = "http://www.star-ecentral.com/"
-+++
+newstitle: "Procter prospers"
+newsauthor: Staff  
+newssource: The Star  
+newsurl: http://www.star-ecentral.com/  
+
+---
 [...]
 
 As a result, the opportunity to star in a TV show came soon after. Although [Emily Proctor] was having a great time on *The West Wing*, the lure of being a regular cast member in *CSI: Miami* was hard to resist. She consulted with her friend, former West Wing cast mate Jorja Fox (who plays Sara Sidle in *CSI: Crime Scene Investigation*), before accepting the part. 

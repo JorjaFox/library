@@ -1,16 +1,17 @@
-+++
-title = "AIM Today"
-date = "2004-07-16"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "&#8216;CSI' Actors Fox, Eads Fired"
-newsauthor = "Staff"
-newssource = "AIM Today"
-newsurl = "http://channels.aimtoday.com"
-+++
+---
+title: AIM Today
+date: 2004-07-16
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "&#8216;CSI' Actors Fox, Eads Fired"
+newsauthor: Staff  
+newssource: AIM Today  
+newsurl: http://channels.aimtoday.com  
+
+---
 
 **Two stars of the CBS hit television series "CSI: Crime Scene Investigation" were fired for breach of contract, KCBS-TV and Variety reported Thursday.**
 

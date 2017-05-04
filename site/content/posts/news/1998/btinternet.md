@@ -1,16 +1,16 @@
-+++
-title = "BTinternet"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/1998/:title/"
-tags = ["1998"]
-categories = ["Articles", "News"]
-newstitle = "Review"
-date = "1998-01-01"
-newsauthor = "staff"
-newssource = "btInternet"
-newsurl = "http://btinternet.com"
-+++
+---
+title: BTinternet
+author: Mika Epstein
+layout: news
+permalink: /news/1998/:title/
+tags: ["1998"]
+categories: ["Articles", "News"]
+newstitle: Review  
+date: 1998-01-01
+newsauthor: staff  
+newssource: btInternet  
+newsurl: http://btinternet.com  
+---
 Written for the screen & directed by Maggie Greenwald.
 
 Starring Loretta Gross, Jackson Sims, Cathy Haase, Steve Monroe, Andrew Lee Barrett and Jorjan Fox.

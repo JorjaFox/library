@@ -1,17 +1,18 @@
-+++
-title = "FormulaTV"
-date = "2012-09-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
+---
+title: FormulaTV
+date: 2012-09-13
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
 
-newstitle = "Jorja Fox: 'Grissom's return to &#8216;CSI: Las Vegas' was very exciting"
-newsauthor = "Staff"
-newssource = "Forumla TV"
-newsurl = "http://www.formulatv.com/noticias/26889/jorja-fox-regreso-grissom-csi-las-vegas-muy-excitante/"
-+++
+newstitle: "Jorja Fox: 'Grissom's return to &#8216;CSI: Las Vegas' was very exciting'"
+newsauthor: Staff  
+newssource: Forumla TV  
+newsurl: http://www.formulatv.com/noticias/26889/jorja-fox-regreso-grissom-csi-las-vegas-muy-excitante/  
+
+---
 
 *Translated from Spanish.*
 

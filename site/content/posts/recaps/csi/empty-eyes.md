@@ -1,18 +1,19 @@
-+++
-title = "Empty Eyes"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "18"
-date = "2007-03-29"
-prodnum= "718"
-+++
+---
+title: "Empty Eyes"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 18
+date: 2007-03-29
+prodnum: 718  
+---
 
 ## Synopsis
 

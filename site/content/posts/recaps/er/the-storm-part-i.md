@@ -1,19 +1,19 @@
-+++
-title = "The Storm, Part I"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Five"
-epnum = "Fourteen"
-prodnum = "467564  "
-date = "1999-02-11"
-rating = "1"
-+++
+---
+title: The Storm, Part I
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Five  
+epnum: Fourteen  
+prodnum: 467564    
+date: 1999-02-11  
+rating: 1  
+---
 
 ## Summary  
   

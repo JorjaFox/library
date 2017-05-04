@@ -1,17 +1,18 @@
-+++
-title = "TFI"
-date = "2006-10-29"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: TFI
+date: 2006-10-29
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "JORJA FOX 'You're finally going to see me smile."
-newsauthor = "Staff"
-newssource = "TFI"
-newsurl = "http://tfi.com"
-+++
+newstitle: "JORJA FOX 'You're finally going to see me smile.'"
+newsauthor: Staff  
+newssource: TFI  
+newsurl: http://tfi.com
+
+---
 _Translated from French_
 
 **The broadcasting of the sixth season has finished in France. What's going to happen in season seven?**  

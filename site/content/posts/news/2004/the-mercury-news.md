@@ -1,16 +1,17 @@
-+++
-title = "The Mercury News"
-date = "2004-07-15"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "CSI actors fired for breach of contract"
-newsauthor = "Staff"
-newssource = "The Mercury News"
-newsurl = "http://www.mercurynews.com/"
-+++
+---
+title: The Mercury News
+date: 2004-07-15
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "CSI actors fired for breach of contract"
+newsauthor: Staff  
+newssource: The Mercury News  
+newsurl: http://www.mercurynews.com/  
+
+---
 
 Two stars of the CBS hit television series "CSI: Crime Scene Investigation" were fired for breach of contract and one failed to show up for work, KCBS-TV and Variety reported Thursday.
 

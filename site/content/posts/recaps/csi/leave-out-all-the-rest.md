@@ -1,18 +1,19 @@
-+++
-title = "Leave Out All The Rest"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "9"
-epnum = "5"
-date = "2008-11-06"
-prodnum= "905"
-+++
+---
+title: "Leave Out All The Rest"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 9  
+epnum: 5  
+date: 2008-11-06
+prodnum: 905  
+---
 
 ## Synopsis
 

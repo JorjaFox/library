@@ -1,16 +1,18 @@
-+++
-title = "Philadelphia Inquirer "
-date = "2007-10-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
-newstitle = "Dave on Demand | Actresses seek raises, but they get mayhem"
-newsauthor = "Philadelphia Daily News "
-newssource = "Philadelphia Daily News "
-newsurl = "http://www.philly.com "
-+++
+---
+title: Philadelphia Inquirer 
+date: 2007-10-13
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
+
+newstitle: "Dave on Demand | Actresses seek raises, but they get mayhem"
+newsauthor: Philadelphia Daily News 
+newssource: Philadelphia Daily News 
+newsurl: http://www.philly.com 
+
+---
 
 You may have read that Gary Sinise got a healthy salary bump this week. He'll now be pulling down $5 million a year for scowling on CSI: NY. No mention of any increase for his costar, Melina Kanakaredes.  
 If this television season has taught us anything, it's that women in prime time shouldn't ask for raises - unless they are prepared to see their characters tortured or killed.

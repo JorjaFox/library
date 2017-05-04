@@ -1,17 +1,18 @@
-+++
-title = "Houston Chronicle"
-date = "2012-04-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
+---
+title: Houston Chronicle
+date: 2012-04-20
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
 
-newstitle = "CSI's Jorja Fox Takes on the Circus Elephant Abusers"
-newsauthor = "PRWeb"
-newssource = "Houston Chronicle"
-newsurl = "http://www.chron.com/business/press-releases/article/CSI-s-Jorja-Fox-Takes-on-the-Circus-Elephant-3495060.php"
-+++
+newstitle: "CSI's Jorja Fox Takes on the Circus Elephant Abusers  "
+newsauthor: PRWeb  
+newssource: Houston Chronicle  
+newsurl: http://www.chron.com/business/press-releases/article/CSI-s-Jorja-Fox-Takes-on-the-Circus-Elephant-3495060.php  
+
+---
 
 *CSI actress Jorja Fox released a new video message about circus animal abuse today on behalf of Animal Defenders International (ADI)*
 

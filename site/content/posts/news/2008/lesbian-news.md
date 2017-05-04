@@ -1,17 +1,18 @@
-+++
-title = "Lesbian News"
-date = "2008-02-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Lesbian News
+date: 2008-02-01
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "THE WILD, THE BEAUTIFUL AND THE REBELLIOUS"
-newsauthor = "John Esther"
-newssource = "The Lesbian News"
-newsurl = "http://www.lesbiannews.com"
-+++
+newstitle: "THE WILD, THE BEAUTIFUL AND THE REBELLIOUS"
+newsauthor: John Esther  
+newssource: The Lesbian News  
+newsurl: http://www.lesbiannews.com  
+
+---
 Jorja Fox and Kirsten Holly Smith talk about the life and music of Dusty Springfield. 
 
 For millions the music and life of Dusty Springfield has grand significance. More specifically, as a woman who was producing music in the man's world of music making, a performer who professionally protested Apartheid (before it was de rigueur) and a household name who came out of the closet, Springfield's music and life meant much more to specific groups such as women, blacks and gays. She was truly an iconoclastic artist whom succeeded and failed on her own terms.

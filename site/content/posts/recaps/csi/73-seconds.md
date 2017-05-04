@@ -1,18 +1,19 @@
-+++
-title = "73 Seconds"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "12"
-epnum = "1"
-date = "2011-09-12"
-prodnum= "252"
-+++
+---
+title: "73 Seconds"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 12
+epnum: 1  
+date: 2011-09-12
+prodnum: 252  
+---
 
 ## Synopsis
 

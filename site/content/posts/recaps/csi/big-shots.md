@@ -1,18 +1,19 @@
-+++
-title = "Big Shots"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "19"
-date = "2007-04-05"
-prodnum= "719"
-+++
+---
+title: "Big Shots"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 19
+date: 2007-04-05
+prodnum: 719  
+---
 
 ## Synopsis
 

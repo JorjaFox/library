@@ -1,17 +1,18 @@
-+++
-title = "New York Post "
-date = "2007-09-28"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: New York Post 
+date: 2007-09-28
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "'CSI'S' SARA SIDLE SURVIVES"
-newsauthor = "New York Post "
-newssource = "New York Post "
-newsurl = "http://www.nypost.com "
-+++
+newstitle: "'CSI'S' SARA SIDLE SURVIVES"
+newsauthor: New York Post 
+newssource: New York Post 
+newsurl: http://www.nypost.com 
+
+---
 
 SARA lives.
 

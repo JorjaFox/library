@@ -1,17 +1,18 @@
-+++
-title = "About.com"
-date = "2011-07-22"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: About.com
+date: 2011-07-22
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "Jorja Fox Returns to CSI Permanently"
-newsauthor = "Rachel Thomas"
-newssource = "About.com"
-newsurl = "http://tvdramas.about.com/b/2011/07/22/jorja-fox-returns-to-csi-permanently.htm"
-+++
+newstitle: "Jorja Fox Returns to CSI Permanently  "
+newsauthor: Rachel Thomas  
+newssource: About.com  
+newsurl: http://tvdramas.about.com/b/2011/07/22/jorja-fox-returns-to-csi-permanently.htm  
+
+---
 
 The merry-go-round that is Jorja Fox's status on the hit CBS series *CSI: Crime Scene Investigation* has changed once again &#8212; but this time the news is good.
 

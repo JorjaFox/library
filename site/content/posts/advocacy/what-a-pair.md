@@ -1,11 +1,11 @@
-+++
-title = "What a Pair! (2006)"
-author = "Mika Epstein"
-layout = "advocacy"
-categories = ["Advocacy"]
-tags = ["Health"]
-website = "http://whatapair.org"
-+++
+---
+title: What a Pair! (2006)
+author: Mika Epstein
+layout: advocacy
+categories: ["Advocacy"]
+tags: [Health]
+website: http://whatapair.org
+---
 
 > "The whole is more than the sum of its parts." - Aristotle
 

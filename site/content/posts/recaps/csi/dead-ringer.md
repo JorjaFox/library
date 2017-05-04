@@ -1,18 +1,19 @@
-+++
-title = "Dead Ringer"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "20"
-date = "2004-04-29"
-prodnum= "420"
-+++
+---
+title: "Dead Ringer"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4
+epnum: 20
+date: 2004-04-29
+prodnum: 420  
+---
 
 ## Synopsis
 

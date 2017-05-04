@@ -1,17 +1,17 @@
-+++
-title = "Some People's Priorities ..."
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/:title/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-date = "1993-11-04"
-season = "1"
-episode = "7"
-+++
+---
+title: "Some People's Priorities ..."
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/missing-persons/:title/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+date: 1993-11-04
+season: 1
+episode: 7
+---
   
 ## Synopsis
 

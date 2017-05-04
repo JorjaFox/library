@@ -1,16 +1,17 @@
-+++
-title = "Sun TV"
-date = "2001-02-02"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = "Q&A with CSI's Jorja Fox"
-newsauthor = "Staff"
-newssource = "Sun TV"
-newsurl = "http://www.canoe.ca/"
-+++
+---
+title: Sun TV
+date: 2001-02-02
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle: "Q&A with CSI's Jorja Fox"
+newsauthor: Staff  
+newssource: Sun TV  
+newsurl: http://www.canoe.ca/  
+
+---
 Jorja Fox probably prefers not to describe her talents as "acting chops." The dedicated vegetarian told The Sun's Claire Bickley she even finds playing one of CSI's forensic investigators a little too realistic.
 
 **THE SUN:** Does the show's grisly subject matter ever make you sick?

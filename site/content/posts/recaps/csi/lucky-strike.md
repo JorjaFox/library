@@ -1,18 +1,19 @@
-+++
-title = "Lucky Strike"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "16"
-date = "2003-02-20"
-prodnum= "316"
-+++
+---
+title: "Lucky Strike"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3
+epnum: 16  
+date: 2003-02-20
+prodnum: 316  
+---
 
 ## Synopsis
 

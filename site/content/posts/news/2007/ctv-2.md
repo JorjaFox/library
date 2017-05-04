@@ -1,17 +1,18 @@
-+++
-title = "CTV "
-date = "2007-11-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: CTV 
+date: 2007-11-16
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Leaving &#8216;CSI' the &#8216;hardest decision' says Fox"
-newsauthor = "Staff"
-newssource = "CTV"
-newsurl = "http://www.ctv.ca"
-+++
+newstitle: "Leaving &#8216;CSI' the &#8216;hardest decision' says Fox  "
+newsauthor: Staff
+newssource: CTV
+newsurl: http://www.ctv.ca
+
+---
 
 Last Thursday marked the departure of Sara Sidle (Jorja Fox) from the long-running hit drama "CSI."
 

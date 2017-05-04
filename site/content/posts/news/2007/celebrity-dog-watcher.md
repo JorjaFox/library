@@ -1,17 +1,18 @@
-+++
-title = "Celebrity Dog Watcher "
-date = "2007-05-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Celebrity Dog Watcher 
+date: 2007-05-01
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Jorja Fox and Ali, the Other Boxer"
-newsauthor = "Celebrity Dog Watcher"
-newssource = "Celebrity Dog Watcher"
-newsurl = "http://celebritydogwatcher.com/"
-+++
+newstitle: "Jorja Fox and Ali, the Other Boxer"
+newsauthor: Celebrity Dog Watcher
+newssource: Celebrity Dog Watcher
+newsurl: http://celebritydogwatcher.com/
+
+---
 
 "Los Angeles Confidential" magazine featured "CSI: Crime Scene Investigation**s Jorja Fox in the May issue, âGimmie Shelter' column.
 

@@ -1,18 +1,19 @@
-+++
-title = "Split Decisions"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "12"
-epnum = "19"
-date = "2012-04-04"
-prodnum= "270"
-+++
+---
+title: "Split Decisions"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 12  
+epnum: 19  
+date: 2012-04-04
+prodnum: 270  
+---
 
 ## Synopsis
 

@@ -1,17 +1,18 @@
-+++
-title = "TV Gal"
-date = "2006-06-07"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: TV Gal
+date: 2006-06-07
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "TV Gal Has Hopes for Fall"
-newsauthor = "Staff"
-newssource = "TV Gal"
-newsurl = "http://www.zap2it.com/"
-+++
+newstitle: "TV Gal Has Hopes for Fall  "
+newsauthor: Staff  
+newssource: TV Gal  
+newsurl: http://www.zap2it.com/  
+
+---
 
 [...]
 

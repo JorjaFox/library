@@ -1,16 +1,17 @@
-+++
-title = "News.com.au"
-date = "2014-03-30"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2014"]
-categories = ["Articles", "News"]
-permalink = "/news/2014/:title/"
-newstitle = "Jorja Fox thought CSI: Crime Scene Investigation would last six weeks"
-newsauthor = "Darren Devlyn"
-newssource = "news.com.au"
-newsurl = "http://www.news.com.au/entertainment/tv/jorja-fox-thought-csi-crime-scene-investigation-would-last-six-weeks/story-e6frfmyi-1226867996661"
-+++
+---
+title: News.com.au
+date: 2014-03-30
+author: Mika Epstein
+layout: news
+tags: ["2014"]
+categories: ["Articles", "News"]
+permalink: /news/2014/:title/
+newstitle: "Jorja Fox thought CSI: Crime Scene Investigation would last six weeks"
+newsauthor: Darren Devlyn  
+newssource: news.com.au  
+newsurl: http://www.news.com.au/entertainment/tv/jorja-fox-thought-csi-crime-scene-investigation-would-last-six-weeks/story-e6frfmyi-1226867996661  
+
+---
 
 "'SHE plays forensic scientist Sara Sidle in one of most successful television dramas in history."'
 

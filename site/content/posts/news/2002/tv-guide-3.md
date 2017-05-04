@@ -1,16 +1,17 @@
-+++
-title = "TV Guide"
-date = "2002-06-22"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2002"]
-categories = ["Articles", "News"]
-permalink = "/news/2002/:title/"
-newstitle = "Crime Scene Stealer"
-newsauthor = "Deborah Starr Seibel"
-newssource = "TV Guide"
-newsurl = "http://www.tvguide.com"
-+++
+---
+title: TV Guide
+date: 2002-06-22
+author: Mika Epstein
+layout: news
+tags: ["2002"]
+categories: ["Articles", "News"]
+permalink: /news/2002/:title/
+newstitle: Crime Scene Stealer  
+newsauthor: Deborah Starr Seibel  
+newssource: TV Guide  
+newsurl: http://www.tvguide.com  
+
+---
 
 *Within six years, Jorja Fox has graced three top 10 shows - ER, The West Wing, and now CSI. She's the kind of Hollywood Success Story that seems, well, almost suspect.*
 

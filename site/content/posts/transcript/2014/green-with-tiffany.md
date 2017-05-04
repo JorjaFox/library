@@ -1,13 +1,14 @@
-+++
-title = "Green with Tiffany"
-date = "2014-10-18"
-interviewurl = "http://www.greenwithtiffany.com/"
-author = "Mika Epstein"
-layout = "transcript"
-permalink = "/transcript/2014/:title/"
-categories = ["Interviews"]
-tags = ["2014"]
-+++
+---
+title: Green with Tiffany
+date: 2014-10-18
+interviewurl: http://www.greenwithtiffany.com/
+author: Mika Epstein
+layout: transcript
+permalink: /transcript/2014/:title/
+categories: ["Interviews"]
+tags:
+  - 2014
+---
 
 **Tiffany Paige:** We're here with actress Jorja Fox from CSI. What brings you here tonight?
 

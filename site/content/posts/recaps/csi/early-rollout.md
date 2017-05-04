@@ -1,18 +1,19 @@
-+++
-title = "Early Rollout"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "15"
-date = "2004-02-19"
-prodnum= "415"
-+++
+---
+title: "Early Rollout"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4
+epnum: 15
+date: 2004-02-19
+prodnum: 415  
+---
 
 ## Synopsis
 

@@ -1,17 +1,18 @@
-+++
-title = "BuddyTV"
-date = "2009-08-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: BuddyTV
+date: 2009-08-17
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Jorja Fox Knows &#8216;CSI' Ain't Exactly for Romantic Stuff (Which Is Perhaps Why She Did &#8216;Drop Dead Diva')"
-newsauthor = "Henrik Batallones"
-newssource = "Buddy TV"
-newsurl = "http://www.buddytv.com/articles/csi/csi-sara-and-grissom-absolutel-30369.aspx"
-+++
+newstitle: "Jorja Fox Knows &#8216;CSI' Ain't Exactly for Romantic Stuff (Which Is Perhaps Why She Did &#8216;Drop Dead Diva')  "
+newsauthor: Henrik Batallones  
+newssource: Buddy TV  
+newsurl: http://www.buddytv.com/articles/csi/csi-sara-and-grissom-absolutel-30369.aspx  
+
+---
 
 Bah, we all somehow saw it coming, right? After many years of being on the right side of the law, and one instance of being the victim of those on the other side of the law, Jorja Fox gets to be on that other side of the law. I mean arrested. Yep, she's arrested, but only for television, in her guest role on "Drop Dead Diva" which aired yesterday.
 

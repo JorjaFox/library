@@ -1,17 +1,17 @@
-+++
-title = "What Do You Want, a Signed Confession ... ?"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/:title/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-date = "1994-02-17"
-season = "1"
-episode = "17"
-+++
+---
+title: "What Do You Want, a Signed Confession ... ?"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/missing-persons/:title/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+date: 1994-02-17
+season: 1
+episode: 17
+---
   
 ## Synopsis
 

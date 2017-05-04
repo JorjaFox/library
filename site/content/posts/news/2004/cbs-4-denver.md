@@ -1,16 +1,16 @@
-+++
-title = "CBS 4 Denver"
-date = "2004-07-15"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "Two &#8216;CSI' Stars Fired"
-newsauthor = "Staff"
-newssource = "CBS 4 Denver"
-newsurl = "http://news4colorado.com/"
-+++
+---
+title: CBS 4 Denver
+date: 2004-07-15
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "Two &#8216;CSI' Stars Fired"
+newsauthor: Staff  
+newssource: CBS 4 Denver  
+newsurl: http://news4colorado.com/  
+---
 Search Is Underway For Replacements
 
 Two stars of the CBS hit television series "CSI: Crime Scene Investigation" were fired for breach of contract and one failed to show up for work, KCBS-TV and Variety reported Thursday.

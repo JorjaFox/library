@@ -1,19 +1,19 @@
-+++
-title = "Fear of Flying"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Six"
-prodnum = "465406  "
-date = "1996-11-07"
-rating = "2"
-+++
+---
+title: Fear of Flying
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Six  
+prodnum: 465406    
+date: 1996-11-07  
+rating: 2  
+---
 
 _Note: Jorja Fox credited as Jorjan Fox_
 

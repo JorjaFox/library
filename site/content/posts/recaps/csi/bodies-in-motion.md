@@ -1,18 +1,19 @@
-+++
-title = "Bodies in Motion"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "1"
-date = "2005-09-22"
-prodnum = "601"
-+++
+---
+title: "Bodies in Motion"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 1
+date: 2005-09-22  
+prodnum: 601  
+---
 
 ## Synopsis
 

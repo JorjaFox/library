@@ -1,22 +1,23 @@
-+++
-title = "Entertainment Weekly"
-date = "2015-09-27"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "CSI series finale react: Into the sunset"
-newsauthor = "Darren Franich"
-newssource = "E! Online"
-newsurl = "http://www.ew.com/article/2015/09/25/csi-series-finale-immortality-recap"
-+++
+---
+title: Entertainment Weekly
+date: 2015-09-27
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: "CSI series finale react: Into the sunset"
+newsauthor: Darren Franich  
+newssource: E! Online  
+newsurl: http://www.ew.com/article/2015/09/25/csi-series-finale-immortality-recap  
+
+---
 
 [...]
 
 Still, it was interesting seeing this most coldly logical of mystery shows indulge its romantic side. At one point in the finale, a mysterious bad guy sends in a face-scrambling video message straight to Grissom: 'The grand finale is specifically designed for you.' That vibed like a meta mission statement for 'Immortality,' which worked best as an extremely melodramatic triangle between Grissom, longtime antagonist/ambiguous love interest Lady Heather, and even-longer-time ally/ex-wife Sara.
 
-No, but really, at a certain point in the second hour, 'Immortality' went full soap, with Heather and Sara interrogating each other vis-a-vis Grissom:
+No, but really, at a certain point in the second hour, 'Immortality' went full soap, with Heather and Sara interrogating each other vis-Ã -vis Grissom:
 
 :"'Heather"': 'You're scared for him.'  
 :"'Sara"': 'I am.'  
@@ -26,7 +27,7 @@ No, but really, at a certain point in the second hour, 'Immortality' went full s
 :"'Sara"': 'You should. Do you?'  
 :"'Heather"': 'Do I what?'  
 :"'Sara"': 'Love him.'  
-:"'Heather"': 'No.'
+:"'Heather"': 'â¦No.'
 
 [...]
 

@@ -1,16 +1,18 @@
-+++
-title = "NY Daily News "
-date = "2007-09-27"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
-newstitle = "&#8216;CSI' makes strong case to be &#8216;Scene"
-newsauthor = "NY Daily News "
-newssource = "NY Daily News "
-newsurl = "http://www.nydailynews.com/"
-+++
+---
+title: NY Daily News 
+date: 2007-09-27
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
+
+newstitle: "&#8216;CSI' makes strong case to be &#8216;Scene'"
+newsauthor: NY Daily News 
+newssource: NY Daily News 
+newsurl: http://www.nydailynews.com/
+
+---
 
 The eighth season of "CSI: Crime Scene Investigation" traverses a tense path that long-time fans of the show will find familiar: a race-against-time CSI team effort to find one of their own, left to die in the desert by a vengeful killer.
 

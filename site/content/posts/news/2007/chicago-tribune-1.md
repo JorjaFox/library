@@ -1,17 +1,18 @@
-+++
-title = "Chicago Tribune "
-date = "2007-04-02"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Chicago Tribune 
+date: 2007-04-02
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Grissom! Sara! Other stuff! It's the &#8216;CSI' finale"
-newsauthor = "Staff"
-newssource = "Chicago Tribune"
-newsurl = "http://featuresblogs.chicagotribune.com"
-+++
+newstitle: "Grissom! Sara! Other stuff! It's the &#8216;CSI' finale"
+newsauthor: Staff
+newssource: Chicago Tribune
+newsurl: http://featuresblogs.chicagotribune.com
+
+---
 
 Because I like stirring up "CSI" fans, I thought I'd post this summary of what's going to happen on the May 17 season finale of the CBS show. Standard spoiler alert: Avert your eyes if you don't want to know.
 

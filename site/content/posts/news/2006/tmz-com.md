@@ -1,17 +1,18 @@
-+++
-title = "TMZ.com"
-date = "2006-05-09"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: TMZ.com
+date: 2006-05-09
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "The Secret Talents at CSI"
-newsauthor = "Staff"
-newssource = "TMZ"
-newsurl = "http://tmz.aol.com/"
-+++
+newstitle: "The Secret Talents at CSI"
+newsauthor: Staff
+newssource: TMZ
+newsurl: http://tmz.aol.com/
+
+---
 
 **Trading forensic evidence in for a kickball craze**
 

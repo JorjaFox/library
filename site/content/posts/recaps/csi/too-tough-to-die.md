@@ -1,18 +1,19 @@
-+++
-title = "Too Tough To Die"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "16"
-date = "2001-03-01"
-prodnum= "115"
-+++
+---
+title: "Too Tough To Die"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 16  
+date: 2001-03-01
+prodnum: 115  
+---
 
 ## Synopsis
 

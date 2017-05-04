@@ -1,18 +1,19 @@
-+++
-title = "Rashomama"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "21"
-date = "2006-04-27"
-prodnum= "621"
-+++
+---
+title: "Rashomama"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 21
+date: 2006-04-27
+prodnum: 621  
+---
 
 ## Synopsis
 

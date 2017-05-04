@@ -1,18 +1,19 @@
-+++
-title = "Pledging Mr. Johnson"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "4"
-date = "2000-10-27"
-prodnum= "104"
-+++
+---
+title: "Pledging Mr. Johnson"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 4
+date: 2000-10-27
+prodnum: 104  
+---
 
 ## Synopsis
 

@@ -1,17 +1,18 @@
-+++
-title = "Us Weekly "
-date = "2007-09-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Us Weekly 
+date: 2007-09-17
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Secret's of TV's Fall Favorites"
-newsauthor = "Staff"
-newssource = "Us Weekly"
-newsurl = "http://www.usmagazine.com"
-+++
+newstitle: "Secret's of TV's Fall Favorites"
+newsauthor: Staff
+newssource: Us Weekly
+newsurl: http://www.usmagazine.com
+
+---
 
 [...]
 

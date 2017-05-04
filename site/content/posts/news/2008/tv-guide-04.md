@@ -1,17 +1,18 @@
-+++
-title = "TV Guide Magazine"
-date = "2008-06-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: TV Guide Magazine
+date: 2008-06-01
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Oh No They Didn't!"
-newsauthor = "Staff"
-newssource = "TV Guide Magazine"
-newsurl = "http://www.tvguide.com/Magazine/"
-+++
+newstitle: "Oh No They Didn't!"
+newsauthor: Staff
+newssource: TV Guide Magazine  
+newsurl: http://www.tvguide.com/Magazine/  
+
+---
 
 **Inside sources reveal top secrets about the season's biggest burning questions**
 

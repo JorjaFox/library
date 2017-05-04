@@ -1,18 +1,19 @@
-+++
-title = "Buzz Kill"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "15"
-epnum = "2"
-date = "2014-10-05"
-prodnum= "318"
-+++
+---
+title: "Buzz Kill"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 15  
+epnum: 2  
+date: 2014-10-05
+prodnum: 318  
+---
 
 ## Synopsis
 

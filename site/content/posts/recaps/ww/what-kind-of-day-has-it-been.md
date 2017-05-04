@@ -1,19 +1,19 @@
-+++
-title = "What Kind of Day has it Been"
-author = "Mika A. Epstein"
-permalink = "/recaps/west-wing/:title/"
-layout = "recap-tv"
-categories = ["Recaps"]
-tags = ["The West Wing"]
-station = "NBC"
-showname = "The West Wing"
-showslug = "west-wing" 
-season = "One"
-epnum = "Twenty-Two"
-prodnum = "225921  "
-date = "2000-05-17"
-rating = "4"
-+++
+---
+title: What Kind of Day has it Been
+author: Mika A. Epstein
+permalink: /recaps/west-wing/:title/
+layout: recap-tv
+categories: ["Recaps"]
+tags: ["The West Wing"]
+station: NBC  
+showname: "The West Wing"
+showslug: west-wing  
+season : One  
+epnum: Twenty-Two  
+prodnum: 225921    
+date: 2000-05-17
+rating: 4  
+---
 
 ## Summary 
 

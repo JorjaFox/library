@@ -1,18 +1,19 @@
-+++
-title = "Coming of Rage"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "10"
-date = "2003-12-18"
-prodnum= "410"
-+++
+---
+title: "Coming of Rage"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4
+epnum: 10
+date: 2003-12-18
+prodnum: 410  
+---
 
 ## Synopsis
 

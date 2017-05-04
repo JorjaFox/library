@@ -1,17 +1,18 @@
-+++
-title = "Mercury News"
-date = "2009-08-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Mercury News
+date: 2009-08-20
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Jorja Fox returns to 'CSI"
-newsauthor = "Chuck Barney"
-newssource = "A+E Interactive"
-newsurl = "http://blogs.mercurynews.com/aei/2009/07/20/jorja-fox-returns-to-csi/"
-+++
+newstitle: "Jorja Fox returns to 'CSI'  "
+newsauthor: Chuck Barney  
+newssource: A+E Interactive  
+newsurl: http://blogs.mercurynews.com/aei/2009/07/20/jorja-fox-returns-to-csi/  
+
+---
 
 This should make most 'CSI' fans happy: CBS has announced that Jorja Fox will be returning to the show for 'multiple episodes' next season, reprising her role at Sara Sidle.
 

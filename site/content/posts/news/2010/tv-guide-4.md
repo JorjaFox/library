@@ -1,17 +1,18 @@
-+++
-title = "TV Guide Magazine"
-date = "2010-02-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
+---
+title: TV Guide Magazine
+date: 2010-02-16
+author: Mika Epstein
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
 
-newstitle = "Alex Goes to 'Hawaii"
-newsauthor = "Matt Roush"
-newssource = "Ask Matt"
-newsurl = "http://www.tvguidemagazine.com/ask-matt/ask-matt-alex-goes-to-hawaii-4079.html"
-+++
+newstitle: "Alex Goes to 'Hawaii'"
+newsauthor: Matt Roush  
+newssource: Ask Matt
+newsurl: http://www.tvguidemagazine.com/ask-matt/ask-matt-alex-goes-to-hawaii-4079.html  
+
+---
 
 [...]
 

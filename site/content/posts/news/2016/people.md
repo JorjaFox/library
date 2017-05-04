@@ -1,15 +1,16 @@
-+++
-title = "People"
-date = "2016-03-15"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2016"]
-categories = ["Articles", "News"]
-newstitle = "Don't Forget: 15 Things You Didn't Know About Memento, 15 Years Later"
-newsauthor = "Drew Mackie"
-newssource = "People"
-newsurl = "http://www.people.com/article/memento-movie-trivia"
-+++
+---
+title: "People"
+date: 2016-03-15
+author: Mika Epstein
+layout: news
+tags: ["2016"]
+categories: ["Articles", "News"]
+newstitle: "Don't Forget: 15 Things You Didn't Know About Memento, 15 Years Later"
+newsauthor: "Drew Mackie"
+newssource: "People"
+newsurl: http://www.people.com/article/memento-movie-trivia
+
+---
 
 We'd make a joke about deja vu, but that's not the memory anomaly at the center of _Memento_, which first hit American theaters in limited release on March 16, 2001 – 15 years ago this week. 
 

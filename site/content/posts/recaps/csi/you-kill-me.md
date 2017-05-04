@@ -1,18 +1,19 @@
-+++
-title = "You Kill Me"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "8"
-epnum = "8"
-date = "2007-11-22"
-prodnum= "808"
-+++
+---
+title: "You Kill Me"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 8
+epnum: 8  
+date: 2007-11-22
+prodnum: 808  
+---
 
 ## Synopsis
 

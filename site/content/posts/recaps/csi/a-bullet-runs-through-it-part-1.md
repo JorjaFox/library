@@ -1,18 +1,19 @@
-+++
-title = "A Bullet Runs Through It (Part 1)"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "7 "
-date = "2005-11-10"
-prodnum = "607"
-+++
+---
+title: "A Bullet Runs Through It (Part 1)"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 7 
+date: 2005-11-10  
+prodnum: 607  
+---
 
 ## Synopsis
 

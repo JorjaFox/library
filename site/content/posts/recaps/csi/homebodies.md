@@ -1,18 +1,19 @@
-+++
-title = "Homebodies"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "3"
-date = "2003-10-09"
-prodnum= "401"
-+++
+---
+title: "Homebodies"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4  
+epnum: 3
+date: 2003-10-09
+prodnum: 401  
+---
 
 ## Synopsis
 

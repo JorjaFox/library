@@ -1,13 +1,14 @@
-+++
-title = "PETA Gala and Humanitarian Awards"
-date = "2005-09-10"
-author = "David Masters"
-layout = "transcript"
-interviewurl = "http://www.peta.com"
-permalink = "/transcript/2005/:title/"
-categories = ["Interviews"]
-tags = ["Transcript", "2005", "humanity", "Animal Rights"]
-+++
+---
+title: PETA Gala and Humanitarian Awards
+date: 2005-09-10
+author: David Masters
+layout: transcript
+interviewurl:  http://www.peta.com  
+permalink: /transcript/2005/:title/
+categories: ["Interviews"]
+tags: [Transcript, 2005, humanity, "Animal Rights"]
+
+---
 
 [...]
 

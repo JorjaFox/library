@@ -1,18 +1,19 @@
-+++
-title = "Invisible Evidence"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "4"
-date = "2003-11-13"
-prodnum= "404"
-+++
+---
+title: "Invisible Evidence"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4
+epnum: 4
+date: 2003-11-13
+prodnum: 404  
+---
 
 ## Synopsis
 

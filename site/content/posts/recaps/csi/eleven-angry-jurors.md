@@ -1,18 +1,19 @@
-+++
-title = "Eleven Angry Jurors"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "Eleven"
-date = "2004-01-08"
-prodnum= "411"
-+++
+---
+title: "Eleven Angry Jurors"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4  
+epnum: Eleven  
+date: 2004-01-08
+prodnum: 411  
+---
 
 ## Synopsis
 

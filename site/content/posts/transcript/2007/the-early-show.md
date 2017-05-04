@@ -1,13 +1,15 @@
-+++
-title = "The Early Show"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2007-05-10"
-interviewurl = "http://www.cbsnews.com "
-permalink = "/transcript/2007/:title/"
-categories = ["Interviews"]
-tags = ["2007", "talk shows"]
-+++
+---
+title: The Early Show
+author: Mika Epstein
+layout: transcript
+date: 2007-05-10
+interviewurl: http://www.cbsnews.com 
+permalink: /transcript/2007/:title/
+categories: ["Interviews"]
+tags:
+  - 2007
+  - 'talk shows'
+---
 
 Chen's 'CSI' Investigation
 

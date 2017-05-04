@@ -1,11 +1,12 @@
-+++
-title = "Official Biography"
-author = "Mika Epstein"
-layout = "single"
-permalink = "/biographies/official/"
-categories = ["Biographies"]
-tags = ["Official"]
-+++
+---
+title: Official Biography
+author: Mika Epstein
+layout: single
+permalink: /biographies/official/
+categories: ["Biographies"]
+tags: ["Official"]
+
+---
 
 With a variety of memorable roles filling up her resume, it would not be cliched for one to hum a few bars of "Jorja On My Mind." Actress JORJA FOX currently stars on the highest-ranked drama of the new television season, CSI: Crime Scene Investigation for CBS. Fox stars as a member of the autopsy team who heads-up the gritty drama series that is executive produced by Jerry Bruckheimer.
 

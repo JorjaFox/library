@@ -1,13 +1,14 @@
-+++
-title = "ET Online"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2007-10-04"
-interviewurl = "http://www.etonline.com"
-permalink = "/transcript/2007/:title/"
-categories = ["Interviews"]
-tags = ["2007"]
-+++
+---
+title: ET Online
+author: Mika Epstein
+layout: transcript
+date: 2007-10-04
+interviewurl: http://www.etonline.com  
+permalink: /transcript/2007/:title/
+categories: ["Interviews"]
+tags:
+  - 2007
+---
 
 **Jorja Fox:** How fun is this, right? And what a tease for me!
 

@@ -1,17 +1,18 @@
-+++
-title = "Shane S Saunders "
-date = "2011-03-10"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2011"]
-categories = ["Articles", "News"]
-permalink = "/news/2011/:title/"
+---
+title: Shane S Saunders 
+date: 2011-03-10
+author: Mika Epstein
+layout: news
+tags: ["2011"]
+categories: ["Articles", "News"]
+permalink: /news/2011/:title/
 
-newstitle = "Interview: Christopher Barbour"
-newsauthor = "Shane S Saunders"
-newssource = "Shane S. Saunders"
-newsurl = "http://shanessaunders.com/2011/03/10/interview-csi-writer-christopher-barbour/"
-+++
+newstitle: "Interview: Christopher Barbour"
+newsauthor: Shane S Saunders  
+newssource: Shane S. Saunders  
+newsurl: http://shanessaunders.com/2011/03/10/interview-csi-writer-christopher-barbour/  
+
+---
  
 
 *CSI *fans got a real treat this season when former series-regular **William Petersen** returned for a brief cameo. The mastermind behind that story, 2008 Genesis Award Winner **Christopher Barbour**, graciously took a break from his busy schedule this afternoon to speak to me exclusively on how they got Grissom back, Catherine's future, and a big showdown between Nate Haskell and Ray Langston. **Spoilers a plenty after the jump!**

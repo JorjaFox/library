@@ -1,18 +1,19 @@
-+++
-title = "Built to Kill (Part 2)"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "2"
-date = "2006-09-28"
-prodnum= "703"
-+++
+---
+title: "Built to Kill (Part 2)"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 2
+date: 2006-09-28
+prodnum: 703  
+---
 
 ## Synopsis
 

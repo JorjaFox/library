@@ -1,18 +1,19 @@
-+++
-title = "Bang-Bang"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "23"
-date = "2006-05-11"
-prodnum= "623"
-+++
+---
+title: "Bang-Bang"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 23
+date: 2006-05-11
+prodnum: 623  
+---
 
 ## Synopsis
 

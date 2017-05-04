@@ -1,18 +1,19 @@
-+++
-title = "Assume Nothing"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "1"
-date = "2003-09-25"
-prodnum= "402"
-+++
+---
+title: "Assume Nothing"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4
+epnum: 1
+date: 2003-09-25
+prodnum: 402  
+---
 
 ## Synopsis
 

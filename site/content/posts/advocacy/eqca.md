@@ -1,11 +1,11 @@
-+++
-title = "Equality California"
-author = "Mika Epstein"
-layout = "advocacy"
-categories = ["Advocacy"]
-tags = ["Humanity"]
-website = "http://eqca.org"
-+++
+---
+title: Equality California
+author: Mika Epstein
+layout: advocacy
+categories: ["Advocacy"]
+tags: [Humanity]
+website: http://eqca.org
+---
 
 ## NO on H8!
 

@@ -1,18 +1,19 @@
-+++
-title = "Still Life"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "10"
-date = "2005-12-08"
-prodnum = "610"
-+++
+---
+title: "Still Life"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 10
+date: 2005-12-08  
+prodnum: 610  
+---
 
 ## Synopsis
 

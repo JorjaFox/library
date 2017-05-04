@@ -1,16 +1,16 @@
-+++
-title = "Minneapolis Star Tribune"
-date = "2001-01-19"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = "The Success of CSI is No Mystery"
-newsauthor = "Staff"
-newssource = "Minneapolis Star Tribune"
-newsurl = "http://www.startribune.com/"
-+++
+---
+title: Minneapolis Star Tribune
+date: 2001-01-19
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle: The Success of CSI is No Mystery  
+newsauthor: Staff  
+newssource: Minneapolis Star Tribune  
+newsurl: http://www.startribune.com/  
+---
 
 [...]
 

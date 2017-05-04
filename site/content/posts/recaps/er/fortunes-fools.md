@@ -1,19 +1,19 @@
-+++
-title = "Fortune's Fools"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Thirteen"
-prodnum = "465413  "
-date = "1997-01-30"
-rating = "2"
-+++
+---
+title: "Fortune's Fools"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Thirteen  
+prodnum: 465413    
+date: 1997-01-30  
+rating: 2  
+---
 
 ## Summary  
   

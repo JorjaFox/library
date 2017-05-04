@@ -1,17 +1,18 @@
-+++
-title = "AfterEllen"
-date = "2009-09-23"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: AfterEllen
+date: 2009-09-23
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "'CSI' spoils our Jorja peach"
-newsauthor = "the lister"
-newssource = "AfterEllen"
-newsurl = "http://www.afterellen.com/blog/thelinster/csi-spoils-our-jorja-peach"
-+++
+newstitle: "'CSI' spoils our Jorja peach  "
+newsauthor: the lister  
+newssource: AfterEllen  
+newsurl: http://www.afterellen.com/blog/thelinster/csi-spoils-our-jorja-peach  
+
+---
 
 One of the many conflicts about Thursday night TV is this:
 

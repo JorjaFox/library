@@ -1,17 +1,17 @@
-+++
-title = "I've Got a Siren"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/:title/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-date = "1994-01-13"
-season = "1"
-episode = "13"
-+++
+---
+title: "I've Got a Siren"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/missing-persons/:title/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+date: 1994-01-13
+season: 1
+episode: 13
+---
   
 ## Synopsis
 

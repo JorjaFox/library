@@ -1,17 +1,18 @@
-+++
-title = "Channel Guide Magazine"
-date = "2009-08-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Channel Guide Magazine
+date: 2009-08-20
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "C.S.I Has Jorja On It's Mind"
-newsauthor = "Lori Acken"
-newssource = "Channel Guide Magazine"
-newsurl = "http://www.channelguidemagblog.com/index.php/2009/07/20/csi-has-jorja-on-its-mind/"
-+++
+newstitle: "C.S.I Has Jorja On It's Mind  "
+newsauthor: Lori Acken  
+newssource: Channel Guide Magazine  
+newsurl: http://www.channelguidemagblog.com/index.php/2009/07/20/csi-has-jorja-on-its-mind/  
+
+---
 
 Smile a while, Sara Sidle lovers!
 

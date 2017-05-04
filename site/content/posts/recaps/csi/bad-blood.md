@@ -1,18 +1,19 @@
-+++
-title = "Bad Blood"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "15"
-epnum = "3"
-date = "2014-10-12"
-prodnum= "319"
-+++
+---
+title: "Bad Blood"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 15  
+epnum: 3  
+date: 2014-10-12
+prodnum: 319  
+---
 
 ## Synopsis
 

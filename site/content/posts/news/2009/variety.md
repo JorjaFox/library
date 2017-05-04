@@ -1,17 +1,18 @@
-+++
-title = "Variety"
-date = "2009-08-15"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Variety
+date: 2009-08-15
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Broadcasters stack Thursday lineups"
-newsauthor = "Rick Kissell"
-newssource = "Variety"
-newsurl = "http://www.variety.com/article/VR1118007290.html?categoryid=14&cs=1"
-+++
+newstitle: "Broadcasters stack Thursday lineups  "
+newsauthor: Rick Kissell  
+newssource: Variety  
+newsurl: http://www.variety.com/article/VR1118007290.html?categoryid=14&cs=1  
+
+---
 
 [...]
 

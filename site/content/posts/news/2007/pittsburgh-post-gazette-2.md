@@ -1,16 +1,18 @@
-+++
-title = "Pittsburgh Post-Gazette "
-date = "2007-11-15"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
-newstitle = "Tuned In Journal: Sara sidles away from CSI"
-newsauthor = "Rob Owen"
-newssource = "Pittsburgh Post-Gazette"
-newsurl = "http://www.usatoday.com/life/columnist/criticscorner/2007-11-14-critics-corner_N.htm "
-+++
+---
+title: Pittsburgh Post-Gazette 
+date: 2007-11-15
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
+
+newstitle: "Tuned In Journal: Sara sidles away from &#8216;CSI'  "
+newsauthor: Rob Owen  
+newssource: Pittsburgh Post-Gazette  
+newsurl: http://www.usatoday.com/life/columnist/criticscorner/2007-11-14-critics-corner_N.htm 
+
+---
 Maybe I'm too well-adjusted to relate (and that would be a first), but **Sara Sidle (Jorja Fox) departs CBS's "CSI: Crime Scene Investigation"** (9 tonight) in the most unrealistic, only-on-TV way possible.
 
 To really get into a critique of her departure would entail giving away things that CBS has asked critics not to reveal, but from my perspective, it's not how real people say goodbye to those they love.

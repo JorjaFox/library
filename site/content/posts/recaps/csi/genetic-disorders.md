@@ -1,18 +1,19 @@
-+++
-title = "Genetic Disorders"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "12"
-epnum = "10"
-date = "2011-12-14"
-prodnum= "261"
-+++
+---
+title: "Genetic Disorders"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 12  
+epnum: 10  
+date: 2011-12-14
+prodnum: 261  
+---
 
 ## Synopsis
 

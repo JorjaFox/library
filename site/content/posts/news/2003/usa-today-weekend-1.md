@@ -1,16 +1,17 @@
-+++
-title = "USA Today Weekend"
-date = "2003-01-12"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "Who's News"
-newsauthor = "Staff"
-newssource = "USA Weekend"
-newsurl = "http://www.usaweekend.com"
-+++
+---
+title: USA Today Weekend
+date: 2003-01-12
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: Who's News  
+newsauthor: Staff  
+newssource: USA Weekend  
+newsurl: http://www.usaweekend.com  
+
+---
 
 [...]
 

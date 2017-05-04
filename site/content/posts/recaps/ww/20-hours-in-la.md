@@ -1,19 +1,19 @@
-+++
-title = "20 Hours in LA"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/west-wing/:title/"
-categories = ["Recaps"]
-tags = ["The West Wing"]
-station = "NBC"
-showname = "The West Wing"
-showslug = "west-wing" 
-season = "One"
-epnum = "Sixteen"
-prodnum = "225915"
-date = "2000-02-23"
-rating = "3"
-+++
+---
+title: 20 Hours in LA
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/west-wing/:title/
+categories: ["Recaps"]
+tags: ["The West Wing"]
+station: NBC  
+showname: "The West Wing"
+showslug: west-wing  
+season : One  
+epnum: Sixteen  
+prodnum: 225915  
+date: 2000-02-23
+rating: 3  
+---
 
 ## Summary 
 The President and his staff head to Los Angeles for a whirlwind visit and a celebrity fund raiser, and Bartlet meets his daughter Zoey's new Secret Service agent.

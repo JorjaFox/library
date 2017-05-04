@@ -1,17 +1,18 @@
-+++
-title = "The Humane Society of the United States"
-date = "2010-02-12"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
+---
+title: The Humane Society of the United States
+date: 2010-02-12
+author: Mika Epstein
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
 
-newstitle = "Jorja Fox Joins The HSUS to Help End Dogfighting in Chicago"
-newsauthor = "Staff"
-newssource = "The Humane Society of the United States"
-newsurl = "http://www.humanesociety.org/"
-+++
+newstitle: "Jorja Fox Joins The HSUS to Help End Dogfighting in Chicago  "
+newsauthor: Staff  
+newssource: The Humane Society of the United States  
+newsurl: http://www.humanesociety.org/news/news/2010/02/spotlight\_humane\_chicago_021210.html  
+
+---
 
 **Our annual Spotlight Humane gala features dogs, drinks, and fine dining**
 

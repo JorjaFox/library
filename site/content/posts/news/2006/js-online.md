@@ -1,17 +1,18 @@
-+++
-title = "JS Online"
-date = "2006-07-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: JS Online
+date: 2006-07-17
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Joanne Weintraub: Live from L.A."
-newsauthor = "Staff"
-newssource = "JS Online"
-newsurl = "http://www.jsonline.com/"
-+++
+newstitle: "Joanne Weintraub: Live from L.A.  "
+newsauthor: Staff  
+newssource: JS Online  
+newsurl: http://www.jsonline.com/  
+
+---
 
 [...]
 

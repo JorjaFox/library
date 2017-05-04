@@ -1,16 +1,17 @@
-+++
-title = "Entertainment Weekly"
-date = "2004-07-22"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "Cold Cases?"
-newsauthor = "Staff"
-newssource = "Entertainment Weekly"
-newsurl = "http://www.ew.com"
-+++
+---
+title: Entertainment Weekly
+date: 2004-07-22
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "Cold Cases?"
+newsauthor: Staff  
+newssource: Entertainment Weekly  
+newsurl: http://www.ew.com  
+
+---
 
 Can fired "CSI" actors get their jobs back? George Eads and Jorja Fox insist that they were fired over misunderstandings and weren't holding out for more money by Gary Susman 
 

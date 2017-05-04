@@ -1,19 +1,19 @@
-+++
-title = "One More For The Road"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Twenty-Two "
-prodnum= "465422  "
-date = "1997-05-15"
-rating = "2"
-+++
+---
+title: One More For The Road
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Twenty-Two 
+prodnum: 465422    
+date: 1997-05-15
+rating: 2  
+---
 
 ## Summary  
   

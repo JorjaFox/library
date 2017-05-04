@@ -1,11 +1,12 @@
-+++
-title = "Gist TV Biography"
-author = "Mika Epstein"
-layout = "single"
-permalink = "/biographies/gist/"
-categories = ["Biographies"]
-tags = ["Internet"]
-+++
+---
+title: Gist TV Biography
+author: Mika Epstein
+layout: single
+permalink: /biographies/gist/
+categories: ["Biographies"]
+tags: ["Internet"]
+
+---
 
 * Birthplace: Melbourne Beach, Florida
 * Date of Birth: 07/07/1968

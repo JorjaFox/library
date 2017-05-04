@@ -1,17 +1,18 @@
-+++
-title = "Cine Tele Revue"
-date = "2010-07-25"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
+---
+title: Cine Tele Revue
+date: 2010-07-25
+author: Mika Epstein
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
 
-newstitle = "Eric Szmanda : 'J'adore flirter avec Jorja Fox"
-newsauthor = "Staff"
-newssource = "Cine Tele Revue"
-newsurl = "http://www.cinetelerevue.be"
-+++
+newstitle: "Eric Szmanda : 'J'adore flirter avec Jorja Fox'"
+newsauthor: Staff  
+newssource: Cine Tele Revue
+newsurl: http://www.cinetelerevue.be  
+
+---
 
 *Excerpts of this article have been translated from their original French.*
 

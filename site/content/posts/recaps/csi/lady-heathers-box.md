@@ -1,18 +1,19 @@
-+++
-title = "Lady Heather's Box"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "15"
-date = "2003-02-13"
-prodnum= "315"
-+++
+---
+title: "Lady Heather's Box"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3
+epnum: 15
+date: 2003-02-13
+prodnum: 315  
+---
 
 ## Synopsis
 

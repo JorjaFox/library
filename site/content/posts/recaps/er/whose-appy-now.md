@@ -1,19 +1,19 @@
-+++
-title = "Whose Appy Now?"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Fourteen"
-prodnum = "465414  "
-date = "1997-02-06"
-rating = "5"
-+++
+---
+title: Whose Appy Now?
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Fourteen  
+prodnum: 465414    
+date: 1997-02-06  
+rating: 5  
+---
 
 ## Summary  
   

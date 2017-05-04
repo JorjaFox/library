@@ -1,17 +1,18 @@
-+++
-title = "Zap2it"
-date = "2006-12-18"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Zap2it
+date: 2006-12-18
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "TV Gal Shares a Moment"
-newsauthor = "Staff"
-newssource = "Zap2It"
-newsurl = "http://www.zap2it.com"
-+++
+newstitle: "TV Gal Shares a Moment  "
+newsauthor: Staff  
+newssource: Zap2It  
+newsurl: http://www.zap2it.com  
+
+---
 
 [...]
 

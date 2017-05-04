@@ -1,23 +1,24 @@
-+++
-title = "CSI Files"
-date = "2013-02-18"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
+---
+title: CSI Files
+date: 2013-02-18
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
 
-newstitle = "&#8216;Report: Sara's Story Comes To A Head With 'Future Implications,' Nick's New Arc & More"
-newsauthor = "Shane S. Saunders"
-newssource = "CSI Files"
-newsurl = "http://www.csifiles.com/content/2013/02/report-saras-story-comes-to-a-head-with-future-implications-nicks-new-arc-more/"
-+++
+newstitle: "&#8216;Report: Sara's Story Comes To A Head With 'Future Implications,' Nick's New Arc & More  "
+newsauthor: Shane S. Saunders  
+newssource: CSI Files  
+newsurl: http://www.csifiles.com/content/2013/02/report-saras-story-comes-to-a-head-with-future-implications-nicks-new-arc-more/  
+
+---
 
 [...]
 
-This season has put focus on **Jorja Fox**&#8216;s Sara Sidle. Despite returning to the lab in Season Ten's "[[Family Affair]] after a relatively brief exit and marrying her former crime lab supervisor Gil Grissom (**William Petersen**), the long-distance arrangement for her marriage has taken a toll. "We are moving toward some understanding of where Sara is and where the strains are within the relationship," a source close to the show tells CSI Files. "It won't mean that Grissom will appear in the near future; it really is from Sara's side at this point," one source continues. Though nothing is in the cards for Grissom to appear this season, the status of the marriage *will* be addressed. "Those issues are going to come to a head, and we will see that in "Forget Me Not." We will see how that strain has played out, and someone from Sara's past takes advantage of that strain."
+This season has put focus on **Jorja Fox**&#8216;s Sara Sidle. Despite returning to the lab in Season Ten's "[[Family Affair]]" after a relatively brief exit and marrying her former crime lab supervisor Gil Grissom (**William Petersen**), the long-distance arrangement for her marriage has taken a toll. "We are moving toward some understanding of where Sara is and where the strains are within the relationship," a source close to the show tells CSI Files. "It won't mean that Grissom will appear in the near future; it really is from Sara's side at this point," one source continues. Though nothing is in the cards for Grissom to appear this season, the status of the marriage *will* be addressed. "Those issues are going to come to a head, and we will see that in "Forget Me Not." We will see how that strain has played out, and someone from Sara's past takes advantage of that strain."
 
-So far in Season Thirteen Sara has faced off against a creepy stalker and reunited with a former flame, both of which have served as foreshadowing for upcoming events. In this week's installment titled "Forget Me Not," Sara is accused of murder and once again crosses paths with **Adam Harrington**‘s Ronald Basderic. "In "[[Code Blue Plate Special]] we really responded to the actor and to the character," another source continues. This go around, however, things become personal. "Basderic has had survelliance on Sara, and he knows how vulnerable she is," they preview of Basderic's return. "[Co-Executive Producer] **Andrew Dettmann** thought that would be an interesting way to come back and integrate the pressures on Sara; it would just come to a head with this person because he felt humiliated by her and had taken that obsession too far." During *CSI*&#8216;s run Sara has had her fair share of formidable foes &#8212; from the miniature killer to Hannah West &#8212; so what exactly makes the villains in Las Vegas target the CSI? "She gets under people's skin," a source answers. "Certain cases, as has always been true, Sara has been able to act very professionally but can at times with certain crimes or certain suspects, affect her. It's interesting that that's happened over the course of the show."
+So far in Season Thirteen Sara has faced off against a creepy stalker and reunited with a former flame, both of which have served as foreshadowing for upcoming events. In this week's installment titled "Forget Me Not," Sara is accused of murder and once again crosses paths with **Adam Harrington**‘s Ronald Basderic. "In "[[Code Blue Plate Special]]" we really responded to the actor and to the character," another source continues. This go around, however, things become personal. "Basderic has had survelliance on Sara, and he knows how vulnerable she is," they preview of Basderic's return. "[Co-Executive Producer] **Andrew Dettmann** thought that would be an interesting way to come back and integrate the pressures on Sara; it would just come to a head with this person because he felt humiliated by her and had taken that obsession too far." During *CSI*&#8216;s run Sara has had her fair share of formidable foes &#8212; from the miniature killer to Hannah West &#8212; so what exactly makes the villains in Las Vegas target the CSI? "She gets under people's skin," a source answers. "Certain cases, as has always been true, Sara has been able to act very professionally but can at times with certain crimes or certain suspects, affect her. It's interesting that that's happened over the course of the show."
 
 Making matters worse for Sara this week is the introduction of Sara's oft-mentioned mother Laura Sidle, played by **Kay Lenz**. When "The Two Mrs. Grissoms" was penned two seasons ago, the writers felt they were reaching a point where introducing the pivotal family member would make logical sense. "But in terms of bringing her back for this particular episode, it was about bringing everything to a head in one episode," a source reveals. Viewers have been privy to some details on Sara's mother, dating as far back as Season Three's "One Hit Wonder." Laura, a schizophrenic, killed Sara's father and was institutionalized, leaving Sara to be placed into foster care. "We don't get into too much detail about how that was adjudicated, but she's not in prison," going on to say "she's in a position now where she does care. We see how it's worked for Sara recently." The happy-go-lucky reunion is short-lived, at least for now. "Basderic has communicated with Sara's mother; that's the reason she knows what's happening with Sara. Sara is trying to compartmentalize that part of her life, and Basderic has told her what has happened to Sara." Appearing in only two scenes in the episode, the writers were able to "start filling in the blanks," however not completely. "We may see her again."
 

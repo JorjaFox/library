@@ -1,17 +1,18 @@
-+++
-title = "Music News &#038; Events on KCRW "
-date = "2009-09-25"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2009"]
-categories = ["Articles", "News"]
-permalink = "/news/2009/:title/"
+---
+title: Music News &#038; Events on KCRW 
+date: 2009-09-25
+author: Mika Epstein
+layout: news
+tags: ["2009"]
+categories: ["Articles", "News"]
+permalink: /news/2009/:title/
 
-newstitle = "Jorja Fox is our Guest DJ"
-newsauthor = "RR"
-newssource = "Music News & Events on KCRW"
-newsurl = "http://kcrwmusicnews.vox.com/library/post/jorja-fox-is-our-guest-dj.html"
-+++
+newstitle: "Jorja Fox is our Guest DJ  "
+newsauthor: RR  
+newssource: Music News & Events on KCRW  
+newsurl: http://kcrwmusicnews.vox.com/library/post/jorja-fox-is-our-guest-dj.html  
+
+---
 
  
 

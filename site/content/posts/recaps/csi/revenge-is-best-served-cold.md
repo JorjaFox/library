@@ -1,18 +1,19 @@
-+++
-title = "Revenge is Best Served Cold"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "1"
-date = "2002-09-26"
-prodnum= "302"
-+++
+---
+title: "Revenge is Best Served Cold"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3
+epnum: 1
+date: 2002-09-26
+prodnum: 302  
+---
 
 ## Synopsis
 

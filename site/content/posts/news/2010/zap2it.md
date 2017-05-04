@@ -1,17 +1,18 @@
-+++
-title = "Zap2it"
-date = "2010-12-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
+---
+title: Zap2it
+date: 2010-12-17
+author: Mika Epstein
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
 
-newstitle = "Marlee Matlin lobbies for &#8216;CSI: Chicago"
-newsauthor = "Kate O'Hare"
-newssource = "Zap2it"
-newsurl = "http://blog.zap2it.com/frominsidethebox/2010/12/marlee-matlin-lobbies-for-csi-chicago.html"
-+++
+newstitle: "Marlee Matlin lobbies for &#8216;CSI: Chicago'  "
+newsauthor: Kate O'Hare  
+newssource: Zap2it  
+newsurl: http://blog.zap2it.com/frominsidethebox/2010/12/marlee-matlin-lobbies-for-csi-chicago.html  
+
+---
 
 If Marlee Matlin has her way, there will be more "CSI" dramas than just the three &#8212; the original, "CSI: Crime Scene Investigation," and its spin-offs, ("CSI: Miami" and "CSI: NY") that CBS has on the air now.
 

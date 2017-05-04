@@ -1,13 +1,15 @@
-+++
-title = "Access Hollywood "
-author = "Mika Epstein"
-layout = "transcript"
-date = "2008-05-04"
-interviewurl = "http://www.accesshollywood.com"
-permalink = "/transcript/2008/:title/"
-categories = ["Interviews"]
-tags = ["2008", "talk shows"]
-+++
+---
+title: Access Hollywood 
+author: Mika Epstein
+layout: transcript
+date: 2008-05-04
+interviewurl: http://www.accesshollywood.com  
+permalink: /transcript/2008/:title/
+categories: ["Interviews"]
+tags:
+  - 2008
+  - 'talk shows'
+---
 
 **Interviewer:** What are some tips you have to going green?
 

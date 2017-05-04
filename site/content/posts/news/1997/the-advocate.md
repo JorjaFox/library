@@ -1,16 +1,16 @@
-+++
-title = "The Advocate"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/1997/:title/"
-tags = ["1997"]
-categories = ["Articles", "News"]
-newstitle = "The Buzz"
-date = "1997-03-18"
-newsauthor = "Staff"
-newssource = "The Advocate"
-newsurl = "http://www.advocate.com/"
-+++
+---
+title: The Advocate
+author: Mika Epstein
+layout: news
+permalink: /news/1997/:title/
+tags: ["1997"]
+categories: ["Articles", "News"]
+newstitle: The Buzz  
+date: 1997-03-18  
+newsauthor: Staff  
+newssource: The Advocate  
+newsurl: http://www.advocate.com/
+---
  
 ***ER* gets a lesbian**
 

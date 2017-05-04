@@ -1,19 +1,19 @@
-+++
-title = "Make A Wish"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Twenty-One"
-prodnum = "465421  "
-date = "1997-05-08"
-rating = "3"
-+++
+---
+title: Make A Wish
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Twenty-One  
+prodnum: 465421    
+date: 1997-05-08  
+rating: 3  
+---
 
 ## Summary  
   

@@ -1,17 +1,18 @@
-+++
-title = "ADI International"
-date = "2011-11-02"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: ADI International
+date: 2011-11-02
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "Congress: Bill to end use of wild animals in circuses unveiled"
-newsauthor = "Staff"
-newssource = "ADI International"
-newsurl = "http://www.ad-international.org/animals_in_entertainment/go.php?id=2263&ssi=10"
-+++
+newstitle: "Congress: Bill to end use of wild animals in circuses unveiled  "
+newsauthor: Staff  
+newssource: ADI International  
+newsurl: http://www.ad-international.org/animals_in_entertainment/go.php?id=2263&ssi=10  
+
+---
 
 **Congressman Rep. Jim Moran, Bob Barker, and Jorja Fox announce new Bill to end animal suffering.**
 

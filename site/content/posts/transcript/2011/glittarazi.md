@@ -1,13 +1,14 @@
-+++
-title = "Glittarazi"
-date = "2011-11-02"
-author = "Mika Epstein"
-layout = "transcript"
-permalink = "/transcript/2011/:title/"
-categories = ["Interviews"]
-tags = ["2011"]
-interviewurl = "http://glittarazzi.com/"
-+++
+---
+title: Glittarazi
+date: 2011-11-02
+author: Mika Epstein
+layout: transcript
+permalink: /transcript/2011/:title/
+categories: ["Interviews"]
+tags:
+  - 2011
+interviewurl: http://glittarazzi.com/
+---
 
 **Glittarazi:** How does it feel to constantly be named one of PETA's sexiest vegetarians?
 

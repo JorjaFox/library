@@ -1,17 +1,18 @@
-+++
-title = "Evening Standard"
-date = "2006-07-08"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Evening Standard
+date: 2006-07-08
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Partners in Crime?"
-newsauthor = "Staff"
-newssource = "Evening Standard"
-newsurl = "http://www.thisislondon.co.uk"
-+++
+newstitle: "Partners in Crime?  "
+newsauthor: Staff  
+newssource: Evening Standard  
+newsurl: http://www.thisislondon.co.uk  
+
+---
 
 **Romance is on the cards for Sara and Grissom after a night of passion**
 

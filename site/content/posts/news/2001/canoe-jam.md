@@ -1,16 +1,17 @@
-+++
-title = "Canoe Jam! Showbiz"
-date = "2001-01-24"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = "Jorja Fox goes three for three with CSI"
-newsauthor = "Staff"
-newssource = "Canoe Jam! Showbiz"
-newsurl = "http://www.canoe.ca/"
-+++
+---
+title: "Canoe Jam! Showbiz"
+date: 2001-01-24
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle: Jorja Fox goes three for three with CSI  
+newsauthor: Staff  
+newssource: Canoe Jam! Showbiz  
+newsurl: http://www.canoe.ca/  
+
+---
 Jorja Fox is on some kind of new career trajectory.
 
 The actress moved from **E.R.**, TV's most popular series, to **The West Wing**, TV's most critically acclaimed. She departed West Wing for **C.S.I.**, the show that has turned out to be this season's highest-rated new drama.

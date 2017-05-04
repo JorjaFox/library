@@ -1,18 +1,19 @@
-+++
-title = "Getting Off"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "Sixteen"
-date = "2004-02-26"
-prodnum= "416"
-+++
+---
+title: "Getting Off"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4
+epnum: Sixteen  
+date: 2004-02-26
+prodnum: 416  
+---
 
 ## Synopsis
 

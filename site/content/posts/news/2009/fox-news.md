@@ -1,17 +1,18 @@
-+++
-title = "Fox News"
-date = "2009-05-26"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Fox News
+date: 2009-05-26
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Taylor Swift Opens Up About Her Lack of Friends and Reveals How She Punishes Heart-Breaking Boys"
-newsauthor = "Hollie McKay"
-newssource = "Fox News"
-newsurl = "http://www.foxnews.com/story/0,2933,521872,00.html"
-+++
+newstitle: "Taylor Swift Opens Up About Her Lack of Friends and Reveals How She Punishes Heart-Breaking Boys  "
+newsauthor: Hollie McKay  
+newssource: Fox News  
+newsurl: http://www.foxnews.com/story/0,2933,521872,00.html  
+
+---
 
 [...]
 

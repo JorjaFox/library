@@ -1,13 +1,15 @@
-+++
-title = "The Early Show"
-author = "David Masters"
-layout = "transcript"
-date = "2003-01-09"
-interviewurl = "http://www.cbsnews.com/earlyshow/"
-permalink = "/transcript/2003/:title/"
-categories = ["Interviews"]
-tags = ["Talk Shows", "2003"]
-+++
+---
+title: The Early Show
+author: David Masters
+layout: transcript
+date: 2003-01-09
+interviewurl: http://www.cbsnews.com/earlyshow/
+permalink: /transcript/2003/:title/
+categories: ["Interviews"]
+tags:
+  - "Talk Shows"
+  - 2003
+---
 
 This particular article was about the music of "CSI:"; in the beginning was an interview with series creator Anthony Zuiker, discussing how music is chosen for various segments.
 

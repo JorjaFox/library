@@ -1,17 +1,18 @@
-+++
-title = "TV Equals"
-date = "2013-02-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
+---
+title: TV Equals
+date: 2013-02-20
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
 
-newstitle = "CSI Season 13 Review 'Forget Me Not' -- Read Before Jumping Ship"
-newsauthor = "Kristen Elizabeth"
-newssource = "TV Equals"
-newsurl = "http://www.tvequals.com/2013/02/21/csi-season-13-review-forget-me-not-resist-the-urge-to-jump-the-ship/"
-+++
+newstitle: "CSI Season 13 Review 'Forget Me Not' -- Read Before Jumping Ship"
+newsauthor: Kristen Elizabeth  
+newssource: TV Equals  
+newsurl: http://www.tvequals.com/2013/02/21/csi-season-13-review-forget-me-not-resist-the-urge-to-jump-the-ship/  
+
+---
 
 There has always been a great divide amongst the fans of **CSI**, between those who love Grissom and Sara together and those who, I don’t know, hate romance and kick puppies for fun. Up until last night, the fans of GSR had pretty much won most of the battles in this cold war, but with “Forget Me Not,” this week’s episode, the other side landed a major, heart-breaking victory when Sara revealed that she and Grissom have separated.
 

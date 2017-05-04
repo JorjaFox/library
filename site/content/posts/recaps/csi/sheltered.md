@@ -1,18 +1,19 @@
-+++
-title = "Sheltered"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "18"
-date = "2013-04-03"
-prodnum= "291"
-+++
+---
+title: "Sheltered"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13  
+epnum: 18  
+date: 2013-04-03
+prodnum: 291  
+---
 
 ## Synopsis
 

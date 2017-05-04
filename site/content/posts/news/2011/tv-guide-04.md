@@ -1,17 +1,18 @@
-+++
-title = "TV Guide Magazine"
-date = "2011-01-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: TV Guide Magazine
+date: 2011-01-01
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "How CSI Landed Ted Danson "
-newsauthor = "Michael Schneider"
-newssource = "TV Guide"
-newsurl = "http://tvguidemagazine.com"
-+++
+newstitle: "How CSI Landed Ted Danson "
+newsauthor: Michael Schneider
+newssource: TV Guide  
+newsurl: http://tvguidemagazine.com  
+
+---
 
 [...]
 

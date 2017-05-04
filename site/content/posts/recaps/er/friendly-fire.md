@@ -1,19 +1,19 @@
-+++
-title = "Friendly Fire"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Four"
-epnum = "Three"
-prodnum = "466352  "
-date = "1997-10-09"
-rating = "3"
-+++
+---
+title: Friendly Fire
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Four  
+epnum: Three  
+prodnum: 466352    
+date: 1997-10-09
+rating: 3  
+---
 
 ## Summary  
   

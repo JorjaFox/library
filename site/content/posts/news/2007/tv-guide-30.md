@@ -1,17 +1,18 @@
-+++
-title = "TV Guide Online "
-date = "2007-09-27"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: TV Guide Online 
+date: 2007-09-27
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Ausiello Report"
-newsauthor = "Michael Ausiello"
-newssource = "TVGuide"
-newsurl = "http://www.tvguide.com/"
-+++
+newstitle: "Ausiello Report"
+newsauthor: Michael Ausiello  
+newssource: TVGuide
+newsurl: http://www.tvguide.com/
+
+---
 
 **Warning: If You Haven't Watched Tonight's "CSI", Stop Reading!**
 

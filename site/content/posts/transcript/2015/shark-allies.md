@@ -1,13 +1,14 @@
-+++
-title = "Shark Allies"
-date = "2015-09-29"
-author = "Mika Epstein"
-layout = "transcript"
-interviewurl = "http://www.sharkallies.com/"
-permalink = "/transcript/2015/:title/"
-categories = ["Interviews"]
-tags = ["2015"]
-+++
+---
+title: Shark Allies
+date: 2015-09-29
+author: Mika Epstein
+layout: transcript
+interviewurl: http://www.sharkallies.com/
+permalink: /transcript/2015/:title/
+categories: ["Interviews"]
+tags:
+  - 2015
+---
 
 *Jorja Fox talks about her personal connection to the ocean and her perception of trophy hunting and the misrepresentation of sharks in the media.*
 

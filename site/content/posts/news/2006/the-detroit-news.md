@@ -1,17 +1,18 @@
-+++
-title = "The Detroit News"
-date = "2006-08-10"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: The Detroit News
+date: 2006-08-10
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "&#8216;CSI' faces competition with love"
-newsauthor = "Staff"
-newssource = "The Detroit News"
-newsurl = "http://www.detroitnews.com/"
-+++
+newstitle: "&#8216;CSI' faces competition with love  "
+newsauthor: Staff  
+newssource: The Detroit News  
+newsurl: http://www.detroitnews.com/  
+
+---
 
 TV's highest-rated scripted show, which is all about science, has proven a crucial law of nature.
 

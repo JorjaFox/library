@@ -1,13 +1,14 @@
-+++
-title = "'Wowow TV - Japan"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2007-06-29"
-interviewurl = "http://www.wowow.co.jp/"
-permalink = "/transcript/2007/:title/"
-categories = ["Interviews"]
-tags = ["2007"]
-+++
+---
+title: 'Wowow TV - Japan'
+author: Mika Epstein
+layout: transcript
+date: 2007-06-29
+interviewurl: http://www.wowow.co.jp/
+permalink: /transcript/2007/:title/
+categories: ["Interviews"]
+tags:
+  - 2007
+---
 
 ## Question - about Sara Sidle(?)  
 

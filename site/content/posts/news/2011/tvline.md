@@ -1,17 +1,18 @@
-+++
-title = "TVLine"
-date = "2011-07-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: TVLine
+date: 2011-07-20
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "CSI Exclusive: Jorja Fox Rejoins Series Regular Ranks For Season 12"
-newsauthor = "Michael Ausiello"
-newssource = "TVLine"
-newsurl = "http://www.tvline.com/2011/07/csi-jorja-fox-series-regular-season-12/"
-+++
+newstitle: "CSI Exclusive: Jorja Fox Rejoins Series Regular Ranks For Season 12  "
+newsauthor: Michael Ausiello  
+newssource: TVLine  
+newsurl: http://www.tvline.com/2011/07/csi-jorja-fox-series-regular-season-12/  
+
+---
 
 After four seasons as a recurring guest star, Jorja Fox is returning to *CSI* this fall as a full-fledged series regular, sources confirm to TVLine exclusively. 
 

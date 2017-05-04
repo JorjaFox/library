@@ -1,18 +1,19 @@
-+++
-title = "Sqweegel"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "4"
-date = "2010-10-07"
-prodnum= "233"
-+++
+---
+title: "Sqweegel"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11
+epnum: 4  
+date: 2010-10-07
+prodnum: 233  
+---
 
 ## Synopsis
 

@@ -1,17 +1,18 @@
-+++
-title = "St. Petersburg Times"
-date = "2007-11-15"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: St. Petersburg Times
+date: 2007-11-15
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Jorja on My Mind: CBS Bungles Sara Sidle's CSI Exit"
-newsauthor = "Eric Deggans"
-newssource = "St. Petersburg Times - The Feed"
-newsurl = "http://blogs.tampabay.com/media/2007/11/cbs-shows-sara-.html "
-+++
+newstitle: "Jorja on My Mind: CBS Bungles Sara Sidle's CSI Exit  "
+newsauthor: Eric Deggans  
+newssource: St. Petersburg Times - The Feed  
+newsurl: http://blogs.tampabay.com/media/2007/11/cbs-shows-sara-.html 
+
+---
 When I finally sat down to watch an advance copy of tonight's CSI showing the exit of fan protest magnet Jorja Fox, I couldn't help thinking of Devon Pierce.
 
 If you're a regular blog reader, you know I wrote about Pierce weeks ago, outlining her efforts from a room in her father's Dunedin hearing aid clinic to run a massive fan effort aimed at convincing CSI producers to keep Fox's Sara Sidle character on the show.

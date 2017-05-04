@@ -1,17 +1,18 @@
-+++
-title = "MSNBC (2) "
-date = "2007-11-14"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: MSNBC (2) 
+date: 2007-11-14
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Don't let the door hit you on the way out, Sara"
-newsauthor = "MSNBC"
-newssource = "MSNBC"
-newsurl = "http://www.msnbc.msn.com/id/21776926/ "
-+++
+newstitle: "Don't let the door hit you on the way out, Sara  "
+newsauthor: MSNBC  
+newssource: MSNBC  
+newsurl: http://www.msnbc.msn.com/id/21776926/ 
+
+---
 **Readers dish on why Jorja Fox's departure from 'CSI' should be celebrated**
 
 In October, Jorja Fox, who has played Sara Sidle on 'CSI' since the show premiered in 2000, told EW.com she would be leaving the hit crime drama to explore other opportunities "before (she) gets too old." We asked readers to weigh in on her departure, and while some fans were upset over the seemingly definite demise of GSR, others were practically jubilant.

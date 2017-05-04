@@ -1,17 +1,18 @@
-+++
-title = "CBS Entertainment Releases"
-date = "2009-08-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: CBS Entertainment Releases
+date: 2009-08-20
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "THIS JUST IN... From the CBS Television Network... JORJA FOX RETURNS TO CSI!"
-newsauthor = "CBS Entertainment"
-newssource = "CBS Entertainment Releases"
-newsurl = "http://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=22289"
-+++
+newstitle: "THIS JUST IN... From the CBS Television Network... JORJA FOX RETURNS TO CSI!  "
+newsauthor: CBS Entertainment  
+newssource: CBS Entertainment Releases  
+newsurl: http://www.cbspressexpress.com/div.php/cbs_entertainment/release?id=22289  
+
+---
 
 **JORJA FOX RETURNS TO CSI!**
 

@@ -1,13 +1,15 @@
-+++
-title = "Animal Planet Radio"
-author = "Mika Epstein"
-layout = "transcript"
-interviewurl = "http://animal.discovery.com/fansites/radio/past/past.html"
-date = "2001-07-28"
-permalink = "/transcript/2001/:title/"
-categories = ["Transcripts"]
-tags = ["Talk Shows", "2001"]
-+++
+---
+title: Animal Planet Radio
+author: Mika Epstein
+layout: transcript
+interviewurl: http://animal.discovery.com/fansites/radio/past/past.html
+date: 2001-07-28
+permalink: /transcript/2001/:title/
+categories: ["Transcripts"]
+tags:
+  - "Talk Shows"
+  - 2001
+---
 
 ## Introduction
 

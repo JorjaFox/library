@@ -1,15 +1,15 @@
-+++
-title = "Retrospective"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-date = "2009-04-02"
-+++
+---
+title: Retrospective
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+date: 2009-04-02
+---
 
 _Note: This episode is a clip show/retrospective and introduces no new material. All appearances include the actors as themselves._
 
@@ -21,11 +21,11 @@ Jorja returned to talk about being on the show.
 
 ## Quotes  
   
-_On watching the show =_
+_On watching the show:_
   
 **Jorja:** When you watched the show, you felt smarter.
 
-_On filming the show =_
+_On filming the show:_
   
 **Jorja:** It was absolutely terrifying for me.
 

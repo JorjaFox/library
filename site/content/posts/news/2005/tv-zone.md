@@ -1,17 +1,18 @@
-+++
-title = "TV Zone"
-date = "2005-12-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: TV Zone
+date: 2005-12-01
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Fox at Bay"
-newsauthor = "Staff"
-newssource = "TV Zone"
-newsurl = "http://www.visimag.com"
-+++
+newstitle: "Fox at Bay"
+newsauthor: Staff  
+newssource: TV Zone  
+newsurl: http://www.visimag.com  
+
+---
 As CSI's Sara Sidle, she has her hands full of blood, bugs and rotting parts &#8212; but Fox's passion for acting gives her the stomach to cope, as she explains to Jenny.
 
 **O**ver the last five years, CSI has been responsible for some of TV's goriest scenes. From bone cracking autopsies to flesh piercing special effects and horrific murders, there.s no holding back when it comes to blood and guts. Yet star Jorja Fox, who plays Sara Sidle, admits that after five years the realistic looking bodies can still ruin her stomach.

@@ -1,18 +1,19 @@
-+++
-title = "Torch Song"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "3"
-date = "2013-10-09"
-prodnum= "298"
-+++
+---
+title: "Torch Song"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14  
+epnum: 3  
+date: 2013-10-09
+prodnum: 298  
+---
 
 ## Synopsis## 
 

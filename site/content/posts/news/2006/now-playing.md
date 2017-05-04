@@ -1,17 +1,18 @@
-+++
-title = "Now Playing"
-date = "2006-07-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Now Playing
+date: 2006-07-17
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "CSI Gets Personal"
-newsauthor = "Staff"
-newssource = "Now Playing"
-newsurl = "http://www.nowplaying.com"
-+++
+newstitle: "CSI Gets Personal  "
+newsauthor: Staff  
+newssource: Now Playing  
+newsurl: http://www.nowplaying.com  
+
+---
 
 Even longtime viewers of CSI were surprised at the revelation at the end of last season that the characters of Grissom and Sara &#8212; played respectively by William Petersen and Jorja Fox &#8212; have been involved in a relationship for some time. Now, the biggest mystery on the show doesn't involve the victim of the week, but how long that relationship has been going and how they've managed to keep it quiet all this time? At the TCA press tour yesterday, Fox came clean to Now Playing on where the storyline came from and where it's going in season seven.
 

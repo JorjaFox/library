@@ -1,18 +1,19 @@
-+++
-title = "Rubbery Homicide"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "15"
-epnum = "8"
-date = "2014-11-30"
-prodnum= "325"
-+++
+---
+title: "Rubbery Homicide"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 15  
+epnum: 8  
+date: 2014-11-30
+prodnum: 325  
+---
 
 ## Synopsis## 
 

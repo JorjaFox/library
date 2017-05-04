@@ -1,17 +1,18 @@
-+++
-title = "MSN.com "
-date = "2007-11-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: MSN.com 
+date: 2007-11-01
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Last Week's Style Winners & Losers"
-newsauthor = "Stephanie Mackenzie-Smith"
-newssource = "MSN.com"
-newsurl = "http://lifestyle.sympatico.msn.ca/"
-+++
+newstitle: "Last Week's Style Winners & Losers  "
+newsauthor: Stephanie Mackenzie-Smith  
+newssource: MSN.com  
+newsurl: http://lifestyle.sympatico.msn.ca/FashionandBeauty/WinnersandLosers/articles/StyleWinnersLosersOct29.htm?feedname=PHOTO\_GALLERY\_STYLEWINNERSLOSERS_OCT29&pos=5&nolookup=true 
+
+---
 ** Our editor's picks for the best and worst dressed celebs last week.**
 
 [...]

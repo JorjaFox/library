@@ -1,17 +1,18 @@
-+++
-title = "Huffington Post"
-date = "2011-02-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: Huffington Post
+date: 2011-02-16
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "Bolivian Lions Transported To DIA"
-newsauthor = "AP"
-newssource = "Huffington Post"
-newsurl = "http://www.huffingtonpost.com/2011/02/16/bolivian-lions-arrive-at-_n_824132.html"
-+++
+newstitle: "Bolivian Lions Transported To DIA  "
+newsauthor: AP  
+newssource: Huffington Post  
+newsurl: http://www.huffingtonpost.com/2011/02/16/bolivian-lions-arrive-at-_n_824132.html  
+
+---
 
 Twenty-five lions, most of them rescued from Bolivian circuses, are heading to Colorado to start their new lives at a wildlife sanctuary.
 

@@ -1,13 +1,13 @@
-+++
-title = "The Early Show"
-date = "2002-05-15"
-author = "David Masters"
-layout = "transcript"
-interviewurl = "http://www.cbsnews.com/earlyshow/"
-permalink = "/transcript/2002/:title/"
-categories = ["Interviews"]
-tags = ["Transcript", "2002", "Talk Shows"]
-+++
+---
+title: The Early Show
+date: 2002-05-15
+author: David Masters
+layout: transcript
+interviewurl: http://www.cbsnews.com/earlyshow/  
+permalink: /transcript/2002/:title/
+categories: ["Interviews"]
+tags: [Transcript, 2002, "Talk Shows"]
+---
 
 **Bryant Gumbel**: Although it now may seem hard to believe, it was just two years ago the hit drama "CSI" barely made it on to the primetime schedule. The show has since become a hit with an unusual look at forensic investigators who solve crimes with science.
 

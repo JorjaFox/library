@@ -1,16 +1,17 @@
-+++
-title = "Coming Soon!"
-date = "2004-07-21"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "Eads & Fox Returning to CSI?"
-newsauthor = "Staff"
-newssource = "Coming Soon"
-newsurl = "http://comingsoon.net/"
-+++
+---
+title: Coming Soon!
+date: 2004-07-21
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "Eads & Fox Returning to CSI?"
+newsauthor: Staff  
+newssource: Coming Soon  
+newsurl: http://comingsoon.net/  
+
+---
 
 Both George Eads and Jorja Fox are expecting to still be part of the **CSI: Crime Scene Investigation** cast for the fifth season, stating their firings last week was one big misunderstanding. CBS reportedly let the two actors go for breach of contract. Reports said they had asked for more money to stay on the show.
 

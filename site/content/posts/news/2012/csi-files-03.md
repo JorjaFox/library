@@ -1,17 +1,18 @@
-+++
-title = "CSI Files"
-date = "2012-11-12"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
+---
+title: CSI Files
+date: 2012-11-12
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
 
-newstitle = "Interview: Tom Mularz"
-newsauthor = "Shane Saunders"
-newssource = "CSI Files"
-newsurl = "http://www.csifiles.com/content/2012/11/interview-tom-mularz-3/"
-+++
+newstitle: "Interview: Tom Mularz  "
+newsauthor: Shane Saunders  
+newssource: CSI Files  
+newsurl: http://www.csifiles.com/content/2012/11/interview-tom-mularz-3/  
+
+---
 
 [...]
 

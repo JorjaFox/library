@@ -1,18 +1,19 @@
-+++
-title = "Karma to Burn"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "1"
-date = "2012-09-26"
-prodnum = "274"
-+++
+---
+title: "Karma to Burn"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13  
+epnum: 1  
+date: 2012-09-26  
+prodnum: 274  
+---
 
 ## Synopsis
 

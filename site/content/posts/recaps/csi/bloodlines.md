@@ -1,18 +1,19 @@
-+++
-title = "Bloodlines"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "23"
-date = "2004-05-20"
-prodnum= "423"
-+++
+---
+title: "Bloodlines"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4
+epnum: 23
+date: 2004-05-20
+prodnum: 423  
+---
 
 ## Synopsis
 

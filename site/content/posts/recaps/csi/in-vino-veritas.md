@@ -1,18 +1,19 @@
-+++
-title = "In Vino Veritas"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "13"
-date = "2013-02-06"
-prodnum= "286"
-+++
+---
+title: "In Vino Veritas"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13  
+epnum: 13  
+date: 2013-02-06
+prodnum: 286  
+---
 
 ## Synopsis
 

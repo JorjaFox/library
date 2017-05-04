@@ -1,16 +1,17 @@
-+++
-title = "TV Guide"
-date = "2003-09-08"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "Ask Matt"
-newsauthor = "Matt Roush"
-newssource = "TV Guide"
-newsurl = "http://tvguide.com"
-+++
+---
+title: TV Guide
+date: 2003-09-08
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: Ask Matt  
+newsauthor: Matt Roush  
+newssource: TV Guide  
+newsurl: http://tvguide.com  
+
+---
 
 **Question:** Okay, what is up with CSI? In the beginning it was no romance,  
 strictly science. Well now, all the hype is that Gil and Sara are going to  

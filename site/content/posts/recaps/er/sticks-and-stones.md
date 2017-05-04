@@ -1,19 +1,19 @@
-+++
-title = "Sticks and Stones"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Five"
-epnum = "Seventeen"
-prodnum = "467567  "
-date = "1999-03-25"
-rating = "3"
-+++
+---
+title: Sticks and Stones
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Five  
+epnum: Seventeen  
+prodnum: 467567    
+date: 1999-03-25  
+rating: 3  
+---
 
 _Note: This is Maggie Doyle's last appearance on ER._
 

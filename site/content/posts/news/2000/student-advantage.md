@@ -1,16 +1,17 @@
-+++
-title = "Student Advantage"
-date = "2000-08-24"
-author = "Mika Epstein"
-layout = "news"
-categories = ["Articles", "News"]
-permalink = "/news/2000/:title/"
-tags = ["2000"]
-newstitle = "The West Wing NBC"
-newsauthor = "Staff"
-newssource = "Student Advantage"
-newsurl = "http://www.studentadvantage.com/ "
-+++
+---
+title: Student Advantage
+date: 2000-08-24
+author: Mika Epstein
+layout: news
+categories: ["Articles", "News"]
+permalink: /news/2000/:title/
+tags: ["2000"]
+newstitle: The West Wing NBC
+newsauthor: Staff  
+newssource: Student Advantage
+newsurl: http://www.studentadvantage.com/ 
+
+---
 
 **Scoop**: In Entertainment Weekly's February cover story, director Aaron Sorkin discussed his plans for this year's "The West Wing." The most dramatic change is in the cast, since Moira Kelly is leaving.
 

@@ -1,17 +1,18 @@
-+++
-title = "The Star Online"
-date = "2009-02-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: The Star Online
+date: 2009-02-13
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Love limited"
-newsauthor = "Mumtaj Begum"
-newssource = "The Star Online"
-newsurl = "http://www.star-ecentral.com/news/story.asp?file=/2009/2/13/tvnradio/3194339&sec=tvnradio"
-+++
+newstitle: "Love limited  "
+newsauthor: Mumtaj Begum  
+newssource: The Star Online  
+newsurl: http://www.star-ecentral.com/news/story.asp?file=/2009/2/13/tvnradio/3194339&sec=tvnradio  
+
+---
 
 [...]
 

@@ -1,16 +1,17 @@
-+++
-title = "The Star Online"
-date = "2003-04-06"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "Behind the investigation"
-newsauthor = "Staff"
-newssource = "The Star Online"
-newsurl = "http://star-ecentral.com/"
-+++
+---
+title: The Star Online
+date: 2003-04-06
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: Behind the investigation  
+newsauthor: Staff  
+newssource: The Star Online  
+newsurl: http://star-ecentral.com/  
+
+---
 
 Variety puts a call through to California and speaks to Jorja Fox about what's fast becoming everyone's favourite crime series on television, C.S.I.: Crime Scene Investigation. MUMTAJ BEGUM dusts for prints and gets the inside story. 
 

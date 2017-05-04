@@ -1,18 +1,19 @@
-+++
-title = "Man Up"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "11"
-date = "2011-01-06"
-prodnum= "240"
-+++
+---
+title: "Man Up"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11  
+epnum: 11  
+date: 2011-01-06
+prodnum: 240  
+---
 
 ## Synopsis
 

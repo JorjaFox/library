@@ -1,17 +1,18 @@
-+++
-title = "TV Guide"
-date = "2006-09-25"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: TV Guide
+date: 2006-09-25
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Las Vegas Confidential"
-newsauthor = "Staff"
-newssource = "TV Guide"
-newsurl = "http://www.tvguide.com"
-+++
+newstitle: "Las Vegas Confidential  "
+newsauthor: Staff  
+newssource: TV Guide  
+newsurl: http://www.tvguide.com  
+
+---
 
 **You wanted answers about Grissom and Sara's relationship. We got 'em!**
 
@@ -47,7 +48,7 @@ That's what we got. Now it's your turn. TV GUIDE sat down with Petersen and Fox 
 
 **Please, please, can we have a kiss before all is said and done?**  
   
-**Petersen:** "[Laughing] I'd like to think we could. We'd love to kiss but the network would have to cough up some more money for that. Tongue would cost more. Sometimes they pay you for things that are fun.
+**Petersen:** "[Laughing]" I'd like to think we could. We'd love to kiss but the network would have to cough up some more money for that. Tongue would cost more. Sometimes they pay you for things that are fun.
 
 **Mr. Petersen, what were you thinking when you chose to wear that aloha shirt in the Season 6 finale? Did the thought of being shirtless ever cross your mind?**  
   
@@ -57,14 +58,14 @@ That's what we got. Now it's your turn. TV GUIDE sat down with Petersen and Fox 
 
 **Which character will be the first to discover Grissom and Sara's hidden romance?**  
   
-**Petersen:** Sara and Grissom are not going to let people find out, which makes it even more intense. I don't know who would find out first or how they'd react. I do know there are several actors dying to be the one who finds out. "[Laughs] Paul Guilfoyle has already gone to the writers saying, "I'm the one who knows!"
+**Petersen:** Sara and Grissom are not going to let people find out, which makes it even more intense. I don't know who would find out first or how they'd react. I do know there are several actors dying to be the one who finds out. "[Laughs]" Paul Guilfoyle has already gone to the writers saying, "I'm the one who knows!"
 
 **The chemistry between the entire group seems to be changing ... the bond that Warrick and Nick had is dwindling. Why?**  
 **Fox:** I'm sorry the writer feels that way. The writer will be happy to find out there's some Warrick and Nick stuff coming up early in this season.
 
 **Miss Fox, you play Sara so well, I wonder if you are like her?**  
   
-**Fox:** I am probably more like her than any other character I've played, which is lucky considering that this has been going on for six years. Billy swears that he's acting like Grissom, and that must be exhausting for you "[Petersen laughs]. I do like her a lot. She's much smarter than I am. But I also like to focus on one thing for a while. We have OCD in common. I'm very idealistic, like Sara.
+**Fox:** I am probably more like her than any other character I've played, which is lucky considering that this has been going on for six years. Billy swears that he's acting like Grissom, and that must be exhausting for you "[Petersen laughs]". I do like her a lot. She's much smarter than I am. But I also like to focus on one thing for a while. We have OCD in common. I'm very idealistic, like Sara.
 
 [...]
 
@@ -76,7 +77,7 @@ That's what we got. Now it's your turn. TV GUIDE sat down with Petersen and Fox 
 
 **Miss Fox, do you think Sara will ever meet Lady Heather?**  
   
-**Fox:** It would be great if Lady Heather and Sara met. It would be a fun scene to do. When we go places that are sensual, sexual or a bit exotic or scandalous, Sara's never there. She's at the car-wash murder across town "[laughs]. So it is a pet peeve of mine that these episodes get written and I'm miles away. And I wonder if that's partially control on Grissom's part, since he hands out the cases.
+**Fox:** It would be great if Lady Heather and Sara met. It would be a fun scene to do. When we go places that are sensual, sexual or a bit exotic or scandalous, Sara's never there. She's at the car-wash murder across town "[laughs]". So it is a pet peeve of mine that these episodes get written and I'm miles away. And I wonder if that's partially control on Grissom's part, since he hands out the cases.
 
 **Now that you'll be going up against "Grey's Anatomy", will you be adding more story lines about the personal relationships on the show to attract some of the "Grey's Anatomy" fans?**  
   

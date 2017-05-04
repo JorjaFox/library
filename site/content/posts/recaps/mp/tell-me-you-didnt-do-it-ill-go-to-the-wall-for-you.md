@@ -1,17 +1,17 @@
-+++
-title = "Tell Me You Didn't Do It ... I'll Go to the Wall for You"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/:title/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-date = "1994-02-10"
-season = "1"
-episode = "16"
-+++
+---
+title: "Tell Me You Didn't Do It ... I'll Go to the Wall for You"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/missing-persons/:title/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+date: 1994-02-10
+season: 1
+episode: 16
+---
 
 ## Synopsis
 

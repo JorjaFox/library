@@ -1,16 +1,18 @@
-+++
-title = "KansasCity.com "
-date = "2007-05-04"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
-newstitle = "Short takes"
-newsauthor = "Staff"
-newssource = "kansascity.com"
-newsurl = "http://www.kansascity.com/211/story/93175.html"
-+++
+---
+title: KansasCity.com 
+date: 2007-05-04
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
+
+newstitle: "Short takes"
+newsauthor: Staff
+newssource: kansascity.com
+newsurl: http://www.kansascity.com/211/story/93175.html
+
+---
 
 [...]
 

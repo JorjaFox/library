@@ -1,18 +1,19 @@
-+++
-title = "Take the Money and Run"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "2"
-date = "2013-10-02"
-prodnum= "297"
-+++
+---
+title: "Take the Money and Run"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14  
+epnum: 2  
+date: 2013-10-02
+prodnum: 297  
+---
 
 ## Synopsis## 
 

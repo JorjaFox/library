@@ -1,18 +1,19 @@
-+++
-title = "Shock Waves"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "1"
-date = "2010-09-23"
-prodnum= "230"
-+++
+---
+title: "Shock Waves"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11
+epnum: 1  
+date: 2010-09-23
+prodnum: 230  
+---
 
 ## Synopsis
 

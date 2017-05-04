@@ -1,18 +1,19 @@
-+++
-title = "Sounds of Silence"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "20"
-date = "2001-04-19"
-prodnum= "119"
-+++
+---
+title: "Sounds of Silence"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 20
+date: 2001-04-19
+prodnum: 119  
+---
 
 ## Synopsis
 

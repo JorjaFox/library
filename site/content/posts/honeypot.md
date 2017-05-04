@@ -1,12 +1,12 @@
-+++
-title = "Honeypot Productions"
-author = "Mika Epstein"
-permalink = "/honeypot/"
-layout = "single"
-categories = ["Filmography"]
-tags = ["producer", "company"]
-notoc = "true"
-+++
+---
+title: "Honeypot Productions"
+author: Mika Epstein
+permalink: /honeypot/
+layout: single
+categories: ["Filmography"]
+tags: ["producer", "company"]
+notoc: true
+---
 
 Honeypot Productions (also known as HoneyPot Productions) is an independent theater company in Los Angeles.
 

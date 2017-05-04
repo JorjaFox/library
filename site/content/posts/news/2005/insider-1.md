@@ -1,17 +1,18 @@
-+++
-title = "Insider"
-date = "2005-04-28"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: Insider
+date: 2005-04-28
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "'CSI's Criminal Hospital Creeper"
-newsauthor = "Staff"
-newssource = "Insider"
-newsurl = "http://insider.tv.yahoo.com/"
-+++
+newstitle: "'CSI's Criminal Hospital Creeper"
+newsauthor: Staff  
+newssource: Insider  
+newsurl: http://insider.tv.yahoo.com/  
+
+---
 If you liked the 'House on Haunted Hill,' then tonight's "CSI" is just for you. TV's hardnosed investigative team encounter dead bodies and deranged patients at a creepy state mental hospital in the hair-raising episode, called "Committed" (9 p.m. on CBS).
 
 "It's a very dark world and creepy in a horror movie kind of way," says star JORJA FOX.

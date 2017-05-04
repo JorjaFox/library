@@ -1,16 +1,17 @@
-+++
-title = "TV Line"
-date = "2015-09-14"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "'CSI' Series Finale Trailer Touts Sidle and Grissom's Emotional Reunion"
-newsauthor = "Andy Swift"
-newssource = "TV Line"
-newsurl = "http://tvline.com/2015/09/14/csi-series-finale-trailer-video-sidle-grissom-reunion/"
-+++
+---
+title: TV Line
+date: 2015-09-14
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: "'CSI' Series Finale Trailer Touts Sidle and Grissom's Emotional Reunion"
+newsauthor: Andy Swift  
+newssource: TV Line  
+newsurl: http://tvline.com/2015/09/14/csi-series-finale-trailer-video-sidle-grissom-reunion/  
+
+---
 
 'Let's give the world something to remember,' indeed!
 

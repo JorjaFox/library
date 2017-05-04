@@ -1,16 +1,16 @@
-+++
-title = "Alliance-Atlantis"
-date = "2000-08-09"
-author = "Mika Epstein"
-layout = "news"
-categories = ["Articles", "News"]
-permalink = "/news/2000/:title/"
-tags = ["2000"]
-newssource = "Alliance Atlantis"
-newsauthor = "Staff"
-newsurl = "http://www.allianceatlantis.com/"
-newstitle = "Premiering on CBS Television Network this Fall"
-+++
+---
+title: Alliance-Atlantis
+date: 2000-08-09
+author: Mika Epstein
+layout: news
+categories: ["Articles", "News"]
+permalink: /news/2000/:title/
+tags: ["2000"]
+newssource: Alliance Atlantis
+newsauthor: Staff
+newsurl: http://www.allianceatlantis.com/
+newstitle: Premiering on CBS Television Network this Fall
+---
 
 Starring William Petersen (To Live and Die in L.A.) and Marg Helgenberger (China Beach)
 

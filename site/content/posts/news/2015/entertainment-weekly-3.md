@@ -1,16 +1,17 @@
-+++
-title = "Entertainment Weekly"
-date = "2015-09-17"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "5 things we learned at the 'CSI' farewell salute"
-newsauthor = "Mary Sollosi"
-newssource = "Entertainment Weekly"
-newsurl = "http://www.ew.com/article/2015/09/17/paleyfest-csi-panel-farewell-salute"
-+++
+---
+title: Entertainment Weekly
+date: 2015-09-17
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: "5 things we learned at the 'CSI' farewell salute"
+newsauthor: Mary Sollosi  
+newssource: Entertainment Weekly  
+newsurl: http://www.ew.com/article/2015/09/17/paleyfest-csi-panel-farewell-salute  
+
+---
 
 At the last event of this year's PaleyFest Fall TV Previews at the Paley Center for Media, the cast and producers of CSI gathered Tuesday night in Los Angeles for a panel to say farewell to the groundbreaking series, which is ending its run after 15 seasons.
 

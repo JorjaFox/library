@@ -1,18 +1,19 @@
-+++
-title = "Bully for You"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "4"
-date = "2001-10-11"
-prodnum= "204"
-+++
+---
+title: "Bully for You"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2
+epnum: 4
+date: 2001-10-11
+prodnum: 204  
+---
 
 ## Synopsis
 

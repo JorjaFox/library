@@ -1,17 +1,18 @@
-+++
-title = "Washington Post"
-date = "2009-08-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Washington Post
+date: 2009-08-20
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Whoever Has &#8216;Talent' Has Clout, Too"
-newsauthor = "Lisa de Moraes"
-newssource = "The TV Column"
-newsurl = "http://www.washingtonpost.com/wp-dyn/content/article/2009/07/20/AR2009072003089_2.html"
-+++
+newstitle: "Whoever Has &#8216;Talent' Has Clout, Too  "
+newsauthor: Lisa de Moraes  
+newssource: The TV Column  
+newsurl: http://www.washingtonpost.com/wp-dyn/content/article/2009/07/20/AR2009072003089_2.html  
+
+---
 
 
 

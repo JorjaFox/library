@@ -1,16 +1,17 @@
-+++
-title = "TV Guide"
-date = "2003-05-03"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "CSI Gets Personal"
-newsauthor = "Michael Logan"
-newssource = "TV Guide"
-newsurl = "http://tvguide.com/"
-+++
+---
+title: TV Guide
+date: 2003-05-03
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: CSI Gets Personal  
+newsauthor: Michael Logan  
+newssource: TV Guide  
+newsurl: http://tvguide.com/  
+
+---
 
 **TV's No. 1 show finally investigates the team's private lives.**
 

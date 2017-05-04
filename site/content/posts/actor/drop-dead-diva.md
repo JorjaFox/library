@@ -1,20 +1,20 @@
-+++
-title = "'Drop Dead Diva"
-author = "Mika Epstein"
-layout = "actor"
-date = "2009-08-16"
-categories = ["Filmography"]
-tags = ["Television"]
-show = "drop-dead-diva"
-station = "Lifetime"
-rating = "4"
-episodes = "1"
-chartype = "guest"
-genre = "Comedy"
-year = "2009-2014"
-character = "MaryAnn Neely/Fay Greene"
-excerpt = "<strong>Drop Dead Diva</strong> was about Jane, a plus-size lawyer whose body is inhabited by the soul of a dead fashion model."
-+++
+---
+title: 'Drop Dead Diva'
+author: Mika Epstein
+layout: actor
+date: 2009-08-16
+categories: ["Filmography"]
+tags: ["Television"]
+show: drop-dead-diva
+station: Lifetime
+rating: 4
+episodes: 1
+chartype: guest
+genre: Comedy
+year: 2009-2014
+character: "MaryAnn Neely/Fay Greene"
+excerpt: "<strong>Drop Dead Diva</strong> was about Jane, a plus-size lawyer whose body is inhabited by the soul of a dead fashion model."
+---
 
 The series revolves around vapid aspiring model, Deborah "Deb" Dobkins, who is killed in a car crash on the way to an audition for The Price Is Right. As her soul enters the gates of Heaven, she finds herself being judged by a gatekeeper named Fred. As a result of her shallowness, Fred declares her a "zero-zero," since she has performed zero good deeds and zero bad deeds during her time on Earth. While he's distracted, Deb presses the "return" key before Fred can stop her and is brought back to life in the body of a recently deceased lawyer named Jane Bingum , who died protecting her boss, Jay Parker.
 

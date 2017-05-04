@@ -1,16 +1,16 @@
-+++
-title = "If You Could Pick Your Own Parents"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/:title/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-date = "1994-01-06"
-season = "1"
-episode = "12"
-+++
+---
+title: "If You Could Pick Your Own Parents"
+layout: recap-tv
+permalink: /recaps/missing-persons/:title/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+date: 1994-01-06
+season: 1
+episode: 12
+---
 
 ## Synopsis
 

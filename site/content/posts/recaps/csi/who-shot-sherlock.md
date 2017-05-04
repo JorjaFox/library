@@ -1,18 +1,19 @@
-+++
-title = "Who Shot Sherlock?"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "11"
-date = "2005-01-05"
-prodnum= "511"
-+++
+---
+title: "Who Shot Sherlock?"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 11
+date: 2005-01-05
+prodnum: 511
+---
 
 ## Synopsis
 

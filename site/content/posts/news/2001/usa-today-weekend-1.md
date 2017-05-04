@@ -1,18 +1,19 @@
-+++
-title = "USA Today Weekend"
-date = "2001-06-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = "Who's Q&A"
-newsauthor = "Staff"
-newssource = "USA Today"
-newsurl = "http://www.usatoday.com/"
-+++
+---
+title: USA Today Weekend
+date: 2001-06-17
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle: Who's Q&A  
+newsauthor: Staff  
+newssource: USA Today  
+newsurl: http://www.usatoday.com/  
 
-Issue date = June 17, 2001
+---
+
+Issue Date: June 17, 2001
 
 **Online extra: Q&A with actress Jorja Fox of "CSI"**
 

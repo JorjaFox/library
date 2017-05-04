@@ -1,17 +1,18 @@
-+++
-title = "TV Squad"
-date = "2010-10-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
+---
+title: TV Squad
+date: 2010-10-01
+author: Mika Epstein
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
 
-newstitle = "Happy World Vegetarian Day to Our Favorite TV Herbivores"
-newsauthor = "Chris Harnick"
-newssource = "TV Squad"
-newsurl = "http://www.tvsquad.com/2010/10/01/happy-world-vegetarian-day-to-our-favorite-tv-herbivores/"
-+++
+newstitle: "Happy World Vegetarian Day to Our Favorite TV Herbivores  "
+newsauthor: Chris Harnick  
+newssource: TV Squad  
+newsurl: http://www.tvsquad.com/2010/10/01/happy-world-vegetarian-day-to-our-favorite-tv-herbivores/  
+
+---
 
 It's the most important holiday EVER today. No, not my birthday, it's World Vegetarian Day! 
 

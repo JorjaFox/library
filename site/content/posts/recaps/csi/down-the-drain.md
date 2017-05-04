@@ -1,18 +1,19 @@
-+++
-title = "Down the Drain"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "2"
-date = "2004-10-07"
-prodnum= "502 "
-+++
+---
+title: "Down the Drain"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 2
+date: 2004-10-07
+prodnum: 502 
+---
 
 ## Synopsis
 

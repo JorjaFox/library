@@ -1,18 +1,19 @@
-+++
-title = "Let the Seller Beware"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "3"
-date = "2002-10-10"
-prodnum= "303"
-+++
+---
+title: "Let the Seller Beware"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3
+epnum: 3
+date: 2002-10-10
+prodnum: 303  
+---
 
 ## Synopsis
 

@@ -1,17 +1,18 @@
-+++
-title = "ScienceBlogs"
-date = "2009-09-05"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: ScienceBlogs
+date: 2009-09-05
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Pitching an idea for a new show in the Star Trek franchise."
-newsauthor = "Janet D. Stemwedel"
-newssource = "ScienceBlogs"
-newsurl = "http://scienceblogs.com/ethicsandscience/2009/09/pitching_an_idea_for_a_new_sho.php"
-+++
+newstitle: "Pitching an idea for a new show in the Star Trek franchise.  "
+newsauthor: Janet D. Stemwedel  
+newssource: ScienceBlogs  
+newsurl: http://scienceblogs.com/ethicsandscience/2009/09/pitching_an_idea_for_a_new_sho.php  
+
+---
 
 [...]
 

@@ -1,18 +1,19 @@
-+++
-title = "Code Blue Plate Special"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "2"
-date = "2012-10-10"
-prodnum= "275"
-+++
+---
+title: "Code Blue Plate Special"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13
+epnum: 2  
+date: 2012-10-10
+prodnum: 275  
+---
 
 ## Synopsis
 

@@ -1,16 +1,19 @@
-+++
-title = "Pittsburgh Post-Gazette"
-date = "2007-11-30"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
-newstitle = "TV Q&A with Rob Owen"
-newsauthor = "Rob Owen"
-newssource = "Pittsburgh Post-Gazette"
-newsurl = "http://www.post-gazette.com/pg/07334/837855-238.stm?cmpid=entertainment.xml"
-+++
+---
+title: Pittsburgh Post-Gazette
+
+date: 2007-11-30
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
+
+newstitle: "TV Q&A with Rob Owen  "
+newsauthor: Rob Owen  
+newssource: Pittsburgh Post-Gazette  
+newsurl: http://www.post-gazette.com/pg/07334/837855-238.stm?cmpid=entertainment.xml  
+
+---
 
 [...]
 

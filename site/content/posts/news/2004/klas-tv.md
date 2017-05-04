@@ -1,16 +1,17 @@
-+++
-title = "KLAS TV"
-date = "2004-07-16"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "CSI Casting Call for Elvis Impersonators"
-newsauthor = "Staff"
-newssource = "KLAS TV"
-newsurl = "http://www.klas-tv.com"
-+++
+---
+title: KLAS TV
+date: 2004-07-16
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "CSI Casting Call for Elvis Impersonators"
+newsauthor: Staff  
+newssource: KLAS TV  
+newsurl: http://www.klas-tv.com  
+
+---
 
 [...]
 

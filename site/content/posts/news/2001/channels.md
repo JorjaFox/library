@@ -1,16 +1,17 @@
-+++
-title = "Channels"
-date = "2001-12-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = "Jorja Peaches"
-newsauthor = "Staff"
-newssource = "Channels"
-newsurl = "http://channels.com"
-+++
+---
+title: Channels
+date: 2001-12-01
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle: Jorja Peaches  
+newsauthor: Staff  
+newssource: Channels  
+newsurl: http://channels.com
+
+---
 Fox heads the network war and forces CBS ratings to exploit all grounds. No stranger to television &#8212; this brunette meets more than just the average eye.
 
 Thursday TV is the talk of two networks: one that hopes it's still on the way up, and one that's trying to halt its slide down. For nearly two decades, NBC dominated Thursday nights with its "Must See TV" lineup &#8212; until last year, when CBS' combination of *"CSI"* and *"Survivor"* put the night in play. With both brains and beauty, Fox manages to convey sexiness and sweetness; validating her acting talent she has co-founded Honeypot Productions. Speaking to Jorja Fox, television's most valuable acress since Angie Dickinson, I realized how she has come to symbolize that tough-but-sweet independent woman with her roles. Fox plays *"CSI's"* Sara Sidle, who hails from San Francisco and was brought in by Gil Grissom to investigate the shooting and subsequent death of Holly Gribbs. Since then, Sidle has remained on the team as the new kid on the block, and quickly established a strong reputation for the series.

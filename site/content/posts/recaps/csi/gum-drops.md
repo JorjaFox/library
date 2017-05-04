@@ -1,18 +1,19 @@
-+++
-title = "Gum Drops"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "5"
-date = "2005-10-20"
-prodnum = "605"
-+++
+---
+title: "Gum Drops"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 5
+date: 2005-10-20  
+prodnum: 605  
+---
 
 ## Synopsis
 

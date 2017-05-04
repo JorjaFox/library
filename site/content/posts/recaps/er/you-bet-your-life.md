@@ -1,19 +1,19 @@
-+++
-title = "You Bet Your Life"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Eighteen"
-prodnum = "465418  "
-date = "1997-04-17"
-rating = "2"
-+++
+---
+title: You Bet Your Life
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Eighteen  
+prodnum: 465418    
+date: 1997-04-17  
+rating: 2  
+---
 
 ## Summary  
   

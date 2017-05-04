@@ -1,18 +1,19 @@
-+++
-title = "Face Lift"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "17"
-date = "2001-03-08"
-prodnum= "116"
-+++
+---
+title: "Face Lift"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 17
+date: 2001-03-08
+prodnum: 116  
+---
 
 ## Synopsis
 

@@ -1,18 +1,19 @@
-+++
-title = "Monster in the Box"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "16"
-date = "2007-02-15"
-prodnum= "716"
-+++
+---
+title: "Monster in the Box"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 16  
+date: 2007-02-15
+prodnum: 716  
+---
 
 ## Synopsis
 

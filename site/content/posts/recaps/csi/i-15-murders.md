@@ -1,18 +1,19 @@
-+++
-title = "I-15 Murders"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "Eleven"
-date = "2001-01-12"
-prodnum= "102"
-+++
+---
+title: "I-15 Murders"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: Eleven  
+date: 2001-01-12
+prodnum: 102  
+---
 
 ## Synopsis
 

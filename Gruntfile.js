@@ -11,15 +11,15 @@ module.exports = function(grunt) {
         grunt.log.writeln("Build pages index");
 
         var indexPages = function() {
-	        
+
             var pagesIndex = [];
             grunt.file.recurse(CONTENT_PATH_PREFIX, function(abspath, rootdir, subdir, filename) {
                 grunt.verbose.writeln("Parse file:",abspath);
                 pagesIndex.push(processFile(abspath, filename));
-            });            
+            });
             return pagesIndex;
         };
-        
+
         grunt.log.writeln("Process file ...");
 
         var processFile = function(abspath, filename) {
@@ -53,7 +53,7 @@ module.exports = function(grunt) {
             var pageIndex;
             // First separate the Front Matter from the content and parse it
             content = content.split("---");
-           
+
             var frontMatter;
             try {
                 frontMatter = yaml.parse(content[1].trim());

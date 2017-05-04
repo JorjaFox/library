@@ -1,17 +1,18 @@
-+++
-title = "TV Guide"
-date = "2006-01-19"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: TV Guide
+date: 2006-01-19
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Q&A Jorja Fox"
-newsauthor = "Staff"
-newssource = "TV Guide"
-newsurl = "http://tvguide.com"
-+++
+newstitle: "Q&A Jorja Fox  "
+newsauthor: Staff  
+newssource: TV Guide  
+newsurl: http://tvguide.com  
+
+---
 
 **CSI's *sexiest vegetarian on snatching (fake) bodies, carrying a torch for Grissom and the show's all-star band.***
 

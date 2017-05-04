@@ -1,18 +1,19 @@
-+++
-title = "Radio Times"
-date = "2013-06-02"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
+---
+title: Radio Times
+date: 2013-06-02
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
 
-newstitle = "Series 13 - 15. Forget Me Not"
-newsauthor = "David Butcher"
-newssource = "Radio Times"
-newsurl = "http://www.radiotimes.com/episode/wxkzw/csi-crime-scene-investigation-series-13&#8212;15-forget-me-not"
-+++
-title = "Radio Times Its not unheard of in the annals of crime drama for a member of a tight-knit law-enforcement team suddenly to find the tables turned. One of our heroes is a murder suspect themselves. How will they prove their innocence? 
+newstitle: "Series 13 - 15. Forget Me Not"
+newsauthor: David Butcher
+newssource: Radio Times  
+newsurl: http://www.radiotimes.com/episode/wxkzw/csi-crime-scene-investigation-series-13&#8212;15-forget-me-not
+
+---
+title: Radio Times Its not unheard of in the annals of crime drama for a member of a tight-knit law-enforcement team suddenly to find the tables turned. One of our heroes is a murder suspect themselves. How will they prove their innocence? 
 
 Tonight these classic woes befall poor Sara Sidle when a man chats her up in a hotel dining room and is then found dead the next day, with Saras hair in his shower drain. It couldnt have come at a worse time, either  shes already unbalanced by the latest twists in her relationship with king-over-the-water Gil Grissom. All her colleagues are treating her like a liar. Nice to know who your friends are.
 

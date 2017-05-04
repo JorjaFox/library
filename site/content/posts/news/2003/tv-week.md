@@ -1,16 +1,17 @@
-+++
-title = "TV Week"
-date = "2003-03-29"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "Applied Science"
-newsauthor = "Staff"
-newssource = "TV Week"
-newsurl = "http://tvweek.com"
-+++
+---
+title: TV Week
+date: 2003-03-29
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: Applied Science  
+newsauthor: Staff  
+newssource: TV Week  
+newsurl: http://tvweek.com
+
+---
 
 [...]
 

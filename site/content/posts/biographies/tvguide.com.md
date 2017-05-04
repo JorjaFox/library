@@ -1,11 +1,12 @@
-+++
-title = "TVGuide.com Biography"
-author = "Mika Epstein"
-layout = "single"
-permalink = "/biographies/tvguide/"
-categories = ["Biographies"]
-tags = ["Internet"]
-+++
+---
+title: TVGuide.com Biography
+author: Mika Epstein
+layout: single
+permalink: /biographies/tvguide/
+categories: ["Biographies"]
+tags: ["Internet"]
+
+---
 
 * **Birth Name:** Jorja-An Fox  
 * **Birth Place:** New York, NY  

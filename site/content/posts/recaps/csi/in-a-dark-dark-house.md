@@ -1,18 +1,19 @@
-+++
-title = "In A Dark, Dark House"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "22"
-date = "2011-05-12"
-prodnum= "251"
-+++
+---
+title: "In A Dark, Dark House"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11
+epnum: 22  
+date: 2011-05-12
+prodnum: 251  
+---
 
 ## Synopsis
 

@@ -1,13 +1,14 @@
-+++
-title = "The Reluctant Entertainers"
-date = "2017-03-27"
-author = "Mika Epstein"
-layout = "transcript"
-interviewurl = "http://www.sharkallies.com/"
-permalink = "/transcript/2016/:title/"
-categories = ["Interviews"]
-tags = ["2017"]
-+++
+---
+title: The Reluctant Entertainers
+date: 2017-03-27
+author: Mika Epstein
+layout: transcript
+interviewurl: http://www.sharkallies.com/
+permalink: /transcript/2016/:title/
+categories: ["Interviews"]
+tags:
+  - 2017
+---
 
 Ed Asner: Some of us love to entertain
 

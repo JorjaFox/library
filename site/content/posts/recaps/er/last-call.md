@@ -1,19 +1,19 @@
-+++
-title = "Last Call"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Four"
-prodnum = "465404  "
-date = "1996-10-17"
-rating = "1"
-+++
+---
+title: Last Call
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Four  
+prodnum: 465404    
+date: 1996-10-17  
+rating: 1  
+---
 
 Note: Jorja Fox credited as Jorjan Fox
 

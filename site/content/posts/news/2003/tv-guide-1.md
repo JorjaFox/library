@@ -1,16 +1,17 @@
-+++
-title = "TV Guide"
-date = "2003-02-22"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "Celebrity Chef"
-newsauthor = "Staff"
-newssource = "TV Guide Canada"
-newsurl = "http://tvguide.ca"
-+++
+---
+title: TV Guide
+date: 2003-02-22
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: Celebrity Chef  
+newsauthor: Staff  
+newssource: TV Guide Canada  
+newsurl: http://tvguide.ca  
+
+---
 
 **Pizza to die for**
 

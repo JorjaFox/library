@@ -1,18 +1,19 @@
-+++
-title = "Immortality (Part 1)"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "16"
-epnum = "1"
-date = "2015-09-27"
-prodnum= "336"
-+++
+---
+title: "Immortality (Part 1)"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 16  
+epnum: 1  
+date: 2015-09-27
+prodnum: 336  
+---
 
 ## Synopsis## 
 

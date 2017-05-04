@@ -1,16 +1,19 @@
-+++
-title = "Series TV"
-date = "2007-01-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
-newstitle = "Renaissance - Discussion about Season Seven!"
-newsauthor = "Series TV"
-newssource = "Series TV"
-newsurl = "http://seriestv.co.fr"
-+++
+---
+title: Series TV
+
+date: 2007-01-01
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
+
+newstitle: "Renaissance - Discussion about Season Seven!"
+newsauthor: Series TV
+newssource: Series TV
+newsurl: http://seriestv.co.fr
+
+---
 
 Number one all around the world, CSI is apparently still at the top of its game. One could be forgiven for thinking that after seven seasons and two spin-offs, the genre would have completely lost steam, but that's not taking into account the talent of the writers and the quality of the actors. We went to talk to the team behind the show to find out what they have in store for us in Season seven and how the show has managed to remain as fresh as ever.
 

@@ -1,17 +1,18 @@
-+++
-title = "Buffalo News"
-date = "2006-11-07"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Buffalo News
+date: 2006-11-07
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Shedding some light on season's best trivia"
-newsauthor = "Staff"
-newssource = "Buffalo News"
-newsurl = "http://www.buffalonews.com"
-+++
+newstitle: "Shedding some light on season's best trivia  "
+newsauthor: Staff  
+newssource: Buffalo News  
+newsurl: http://www.buffalonews.com  
+
+---
 
 [...]
 

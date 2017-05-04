@@ -1,17 +1,18 @@
-+++
-title = "Living GWG "
-date = "2009-04-25"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2009"]
-categories = ["Articles", "News"]
-permalink = "/news/2009/:title/"
+---
+title: Living GWG 
+date: 2009-04-25
+author: Mika Epstein
+layout: news
+tags: ["2009"]
+categories: ["Articles", "News"]
+permalink: /news/2009/:title/
 
-newstitle = "A smouldering photoshoot with Jorja Fox ... where do we begin?"
-newsauthor = "Deana"
-newssource = "Living GWG"
-newsurl = "http://www.greenwithglamour.com/blog/archives/472/"
-+++
+newstitle: "A smouldering photoshoot with Jorja Fox ... where do we begin?  "
+newsauthor: Deana  
+newssource: Living GWG  
+newsurl: http://www.greenwithglamour.com/blog/archives/472/  
+
+---
 
  
 

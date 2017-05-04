@@ -1,17 +1,18 @@
-+++
-title = "MSN Malaysian"
-date = "2010-02-24"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
+---
+title: MSN Malaysian
+date: 2010-02-24
+author: Mika Epstein
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
 
-newstitle = "Jorja Fox: She's back on CSI!"
-newsauthor = "Staff"
-newssource = "MSN Malaysian"
-newsurl = "http://entertainment.malaysia.msn.com/tv/article.aspx?cp-documentid=3904920"
-+++
+newstitle: "Jorja Fox: She's back on CSI!  "
+newsauthor: Staff  
+newssource: MSN Malaysian  
+newsurl: http://entertainment.malaysia.msn.com/tv/article.aspx?cp-documentid=3904920  
+
+---
 
 After a four year break, Jorja's returning to the hit crime drama series CSI and MSN Entertainment has got the latest on her character, Sara Sidle and what's up and coming for Season 10 of CSI.
 

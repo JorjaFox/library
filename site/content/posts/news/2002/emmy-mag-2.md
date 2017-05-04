@@ -1,16 +1,17 @@
-+++
-title = "Emmy Magazine"
-date = "2002-06-01"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2002"]
-categories = ["Articles", "News"]
-permalink = "/news/2002/:title/"
-newstitle = "Hole That Fiber!"
-newsauthor = "Staff"
-newssource = "Emmy Magazine"
-newsurl = "http://emmy.com"
-+++
+---
+title: Emmy Magazine
+date: 2002-06-01
+author: Mika Epstein
+layout: news
+tags: ["2002"]
+categories: ["Articles", "News"]
+permalink: /news/2002/:title/
+newstitle: "Hole That Fiber!"
+newsauthor: Staff  
+newssource: Emmy Magazine  
+newsurl: http://emmy.com  
+
+---
 
 **CSI  the series that makes forensic science look sexy  wraps a very successful second season. Bring on the spinoff and the next victim ...**
 

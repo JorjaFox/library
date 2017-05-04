@@ -1,18 +1,19 @@
-+++
-title = "Tell-Tale Hearts"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "12"
-epnum = "2"
-date = "2011-09-28"
-prodnum= "253"
-+++
+---
+title: "Tell-Tale Hearts"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 12
+epnum: 2  
+date: 2011-09-28
+prodnum: 253  
+---
 
 ## Synopsis
 

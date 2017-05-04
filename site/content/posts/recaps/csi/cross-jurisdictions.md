@@ -1,18 +1,19 @@
-+++
-title = "Cross Jurisdictions"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "22"
-date = "2002-05-09"
-prodnum= "222"
-+++
+---
+title: "Cross Jurisdictions"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2  
+epnum: 22
+date: 2002-05-09
+prodnum: 222  
+---
 
 ## Synopsis
 

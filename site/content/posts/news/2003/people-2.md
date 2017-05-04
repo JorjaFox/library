@@ -1,16 +1,17 @@
-+++
-title = "People Magazine"
-date = "2003-05-26"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "Hey There, Jorja Girl"
-newsauthor = "Staff"
-newssource = "People Magazine"
-newsurl = "http://people.com"
-+++
+---
+title: People Magazine
+date: 2003-05-26
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: Hey There, Jorja Girl  
+newsauthor: Staff  
+newssource: People Magazine  
+newsurl: http://people.com  
+
+---
 
 CSI*'s Jorja Fox has a simple plan: Don't worry, be hippie.*
 

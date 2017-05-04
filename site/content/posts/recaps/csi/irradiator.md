@@ -1,18 +1,19 @@
-+++
-title = "Irradiator"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "10"
-epnum = "17"
-date = "2010-04-08"
-prodnum= "223"
-+++
+---
+title: "Irradiator"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 10  
+epnum: 17  
+date: 2010-04-08
+prodnum: 223  
+---
 
 ## Synopsis
 

@@ -1,17 +1,18 @@
-+++
-title = "After Ellen"
-date = "2009-08-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: After Ellen
+date: 2009-08-20
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Jorja Fox sidles back to 'CSI' for several episodes"
-newsauthor = "Dorothy Snarker"
-newssource = "After Ellen"
-newsurl = "http://www.afterellen.com/blog/dorothysnarker/jorja-fox-sidles-back-to-csi-for-several-episodes"
-+++
+newstitle: "Jorja Fox sidles back to 'CSI' for several episodes  "
+newsauthor: Dorothy Snarker  
+newssource: After Ellen  
+newsurl: http://www.afterellen.com/blog/dorothysnarker/jorja-fox-sidles-back-to-csi-for-several-episodes  
+
+---
 
 Oh, Sara Sidle. **CSI** just can't quit you. Original series actress **Jorja Fox** will return for five episodes in the new season of the hit crime drama.
 

@@ -1,13 +1,15 @@
-+++
-title = "Extra TV"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2004-11-11"
-interviewurl = "http://www.extratv.com"
-permalink = "/transcript/2004/:title/"
-categories = ["Interviews"]
-tags = ["Talk Shows", "2004"]
-+++
+---
+title: Extra TV
+author: Mika Epstein
+layout: transcript
+date: 2004-11-11
+interviewurl: http://www.extratv.com  
+permalink: /transcript/2004/:title/
+categories: ["Interviews"]
+tags:
+  - "Talk Shows"
+  - 2004
+---
 
 **Interviewer:** Let's use the microphone. Now, what do you think keeps those thirty million people coming back each week?
 

@@ -1,13 +1,16 @@
-+++
-title = "Radio Times"
-author = "Mika Epstein"
-layout = "transcript"
-interviewurl = "http://www.radiotimes.com"
-date = "2006-06-06"
-permalink = "/transcript/2006/:title/"
-categories = ["Interviews"]
-tags = ["2006", "talk shows"]
-+++
+---
+title: Radio Times
+author: Mika Epstein
+layout: transcript
+interviewurl: http://www.radiotimes.com
+date: 2006-06-06
+permalink: /transcript/2006/:title/
+categories: ["Interviews"]
+
+tags:
+  - 2006
+  - 'talk shows'
+---
 
 **One Final Question - Jorja Fox**
 

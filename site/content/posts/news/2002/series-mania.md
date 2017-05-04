@@ -1,16 +1,17 @@
-+++
-title = "Series Mania"
-date = "2002-01-01"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2002"]
-categories = ["Articles", "News"]
-permalink = "/news/2002/:title/"
-newstitle = "Jorja Fox"
-newsauthor = "Staff"
-newssource = "Séries Mania"
-newsurl = "http://seriesmania.com"
-+++
+---
+title: Series Mania
+date: 2002-01-01
+author: Mika Epstein
+layout: news
+tags: ["2002"]
+categories: ["Articles", "News"]
+permalink: /news/2002/:title/
+newstitle: Jorja Fox  
+newsauthor: Staff  
+newssource: Séries Mania  
+newsurl: http://seriesmania.com
+
+---
 
 If you've already seen an episode of *CSI*, perhaps someone pointed out the face of Jorja Fox. Remember in 1996 when Maggie Doyle made her debut in Cook County in *ER*. It is with this role that she allured the public by accuratly protraying an intern who, after a fashion, tried to make her place among the doctors and befriended Carter (Noah Wyle), before acknowledging her homosexuality. In real life, Jorja is truly passionate, her talents touching everything she does : playing the guitar, singing, writing plays and working with a group with which she co-founded (Honey Pot Productions).
 

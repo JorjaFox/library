@@ -1,11 +1,11 @@
-+++
-layout = "single"
-title = "Welcome to the Fans of Le Fox Library"
-categories = ["Jorja Fox"]
-tags = ["Index"]
-notoc = "true"
-type = "mainindex"
-+++
+---
+layout: single
+title: Welcome to the Fans of Le Fox Library
+categories: ["Jorja Fox"]
+tags: ["Index"]
+noToc: true
+type: mainindex
+---
 
 The goal of the *Fans of Le Fox Library* is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox.
 

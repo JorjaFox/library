@@ -1,13 +1,13 @@
-+++
-title = "Marg Helgenberger's Star on Hollywood Boulevard"
-date = "2012-01-23"
-author = "Mika Epstein"
-layout = "transcript"
-interviewurl = "http://www.walkoffame.com/"
-permalink = "/transcript/2012/:title/"
-categories = ["Interviews"]
-tags = ["2012"]
-+++
+---
+title: "Marg Helgenberger's Star on Hollywood Boulevard"
+date: 2012-01-23
+author: Mika Epstein
+layout: transcript
+interviewurl: http://www.walkoffame.com/
+permalink: /transcript/2012/:title/
+categories: ["Interviews"]
+tags:
+---
 
 **Jorja Fox:** Hello! Hi, I'm the one who's going to have to read everything, as Marg knows.
 

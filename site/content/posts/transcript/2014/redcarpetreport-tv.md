@@ -1,13 +1,14 @@
-+++
-title = "RedCarpetReport TV"
-date = "2014-12-05"
-interviewurl = "http://www.redcarpetreporttv.com"
-author = "Mika Epstein"
-layout = "transcript"
-permalink = "/transcript/2014/:title/"
-categories = ["Interviews"]
-tags = ["2014"]
-+++
+---
+title: RedCarpetReport TV
+date: 2014-12-05
+interviewurl: http://www.redcarpetreporttv.com
+author: Mika Epstein
+layout: transcript
+permalink: /transcript/2014/:title/
+categories: ["Interviews"]
+tags:
+  - 2014
+---
 
 Jorja Fox at the 30th Annual IDA Documentary Awards Gala #IDAawards
 

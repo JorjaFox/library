@@ -1,17 +1,18 @@
-+++
-title = "USA Today"
-date = "2012-09-14"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
+---
+title: USA Today
+date: 2012-09-14
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
 
-newstitle = "More returning TV series: &#8216;CSI,' &#8216;Bones,' &#8216;Scandal"
-newsauthor = "Carol Memmott, Bruce Schwartz, Bill Keveny, Brian Truitt"
-newssource = "USA Today"
-newsurl = "http://www.usatoday.com/life/tv/story/2012/09/14/more-of-falls-returning-tv-shows/57781778/1"
-+++
+newstitle: "More returning TV series: &#8216;CSI,' &#8216;Bones,' &#8216;Scandal'  "
+newsauthor: Carol Memmott, Bruce Schwartz, Bill Keveny, Brian Truitt  
+newssource: USA Today  
+newsurl: http://www.usatoday.com/life/tv/story/2012/09/14/more-of-falls-returning-tv-shows/57781778/1  
+
+---
 
 [...]
 

@@ -1,16 +1,18 @@
-+++
-title = "DIVA (August 2007)"
-date = "2007-08-01"
-author = "lizbuf"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
-newstitle = "Everyone's Talking About"
-newsauthor = "DIVA"
-newssource = "DIVA"
-newsurl = "http://www.divamag.co.uk/diva/"
-+++
+---
+title: DIVA (August 2007)
+date: 2007-08-01
+author: lizbuf
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
+
+newstitle: "Everyone's Talking About"
+newsauthor: DIVA
+newssource: DIVA
+newsurl: http://www.divamag.co.uk/diva/
+
+---
 
 **Jorja Fox**
 

@@ -1,18 +1,19 @@
-+++
-title = "Sex, Lies and Larvae"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "10"
-date = "2000-12-22"
-prodnum= "110"
-+++
+---
+title: "Sex, Lies and Larvae"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 10
+date: 2000-12-22
+prodnum: 110  
+---
 
 ## Synopsis
 

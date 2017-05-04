@@ -1,17 +1,18 @@
-+++
-title = "TV Guide.com"
-date = "2011-04-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: TV Guide.com
+date: 2011-04-20
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "Mega Buzz: Gunshots on Castle, Chloe's Smallville Return and Bones' Big Finish"
-newsauthor = "Adam Bryant and Natalie Abrams"
-newssource = "TV Guide.com"
-newsurl = "http://www.tvguide.com/News/MegaBuzz-Castle-Smallville-Bones-1032052.aspx"
-+++
+newstitle: "Mega Buzz: Gunshots on Castle, Chloe's Smallville Return and Bones' Big Finish  "
+newsauthor: Adam Bryant and Natalie Abrams  
+newssource: TV Guide.com  
+newsurl: http://www.tvguide.com/News/MegaBuzz-Castle-Smallville-Bones-1032052.aspx  
+
+---
 
 [...]
 

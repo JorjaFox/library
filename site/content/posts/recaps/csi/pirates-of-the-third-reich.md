@@ -1,18 +1,19 @@
-+++
-title = "Pirates of the Third Reich"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "15"
-date = "2006-02-09"
-prodnum= "615"
-+++
+---
+title: "Pirates of the Third Reich"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 15
+date: 2006-02-09
+prodnum: 615  
+---
 
 ## Synopsis
 

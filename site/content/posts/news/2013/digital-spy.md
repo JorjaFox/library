@@ -1,17 +1,18 @@
-+++
-title = "Digital Spy"
-date = "2013-02-22"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
+---
+title: Digital Spy
+date: 2013-02-22
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
 
-newstitle = "&#8216;CSI' Jorja Fox Q&A: &#8216;I'm hoping for a Sara, Grissom reunion"
-newsauthor = "Morgan Jeffery"
-newssource = "Digital Spy"
-newsurl = "http://www.digitalspy.com/tv/interviews/a459941/csi-jorja-fox-qa-im-hoping-for-a-sara-grissom-reunion.html"
-+++
+newstitle: "&#8216;CSI' Jorja Fox Q&A: &#8216;I'm hoping for a Sara, Grissom reunion'  "
+newsauthor: Morgan Jeffery  
+newssource: Digital Spy  
+newsurl: http://www.digitalspy.com/tv/interviews/a459941/csi-jorja-fox-qa-im-hoping-for-a-sara-grissom-reunion.html  
+
+---
 
 
 

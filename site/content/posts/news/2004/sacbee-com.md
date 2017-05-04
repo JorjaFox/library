@@ -1,16 +1,17 @@
-+++
-title = "Sacbee.com"
-date = "2004-07-16"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "&#8216;CSI' star, producer respond to firing of actors"
-newsauthor = "Staff"
-newssource = "Sacbee.com"
-newsurl = "http://www.sacbee.com/"
-+++
+---
+title: Sacbee.com
+date: 2004-07-16
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "&#8216;CSI' star, producer respond to firing of actors"
+newsauthor: Staff  
+newssource: Sacbee.com  
+newsurl: http://www.sacbee.com/  
+
+---
 
 William Petersen, star and executive producer of "CSI: Crime Scene Investigation," issued a statement Friday concerning reports that co-stars Jorja Fox and George Eads were fired.
 

@@ -1,18 +1,19 @@
-+++
-title = "Dead Rails"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "15"
-epnum = "10"
-date = "2014-12-14"
-prodnum= "327"
-+++
+---
+title: "Dead Rails"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 15  
+epnum: 10  
+date: 2014-12-14
+prodnum: 327  
+---
 
 ## Synopsis## 
 
@@ -37,6 +38,6 @@ Sara goes with Morgan Brody to the after hours club 'The Rails' and find blood a
 * * *
 
 **Brody** You ready for another weird?  
-**Sidle:** It's what keeps me coming back."
-+++
+**Sidle:** It's what keeps me coming back.  
+---
 

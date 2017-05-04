@@ -1,17 +1,18 @@
-+++
-title = "DVD Times"
-date = "2006-01-28"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: DVD Times
+date: 2006-01-28
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "CSI: Crime Scene Investigation - The Complete Fifth Season"
-newsauthor = "Staff"
-newssource = "DVD Times"
-newsurl = "http://www.dvdtimes.co.uk"
-+++
+newstitle: "CSI: Crime Scene Investigation - The Complete Fifth Season  "
+newsauthor: Staff  
+newssource: DVD Times  
+newsurl: http://www.dvdtimes.co.uk  
+
+---
 
 [...]
 

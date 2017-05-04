@@ -1,18 +1,19 @@
-+++
-title = "Angle of Attack"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "15"
-epnum = "11"
-date = "2014-12-21"
-prodnum= "328"
-+++
+---
+title: "Angle of Attack"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 15  
+epnum: 11  
+date: 2014-12-21
+prodnum: 328  
+---
 
 ## Synopsis## 
 

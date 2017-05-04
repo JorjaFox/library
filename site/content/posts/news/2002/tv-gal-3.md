@@ -1,16 +1,17 @@
-+++
-title = "TV Gal"
-date = "2002-10-14"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2002"]
-categories = ["Articles", "News"]
-permalink = "/news/2002/:title/"
-newstitle = "TV Gal Explains Why '7th Heaven' Puts Her on Cloud Nine"
-newsauthor = "Staff"
-newssource = "TV Gal"
-newsurl = "http://tv.zap2it.com/"
-+++
+---
+title: TV Gal
+date: 2002-10-14
+author: Mika Epstein
+layout: news
+tags: ["2002"]
+categories: ["Articles", "News"]
+permalink: /news/2002/:title/
+newstitle: "TV Gal Explains Why '7th Heaven' Puts Her on Cloud Nine"
+newsauthor: Staff  
+newssource: TV Gal  
+newsurl: http://tv.zap2it.com/  
+
+---
 
 [...]
 

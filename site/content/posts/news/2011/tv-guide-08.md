@@ -1,17 +1,18 @@
-+++
-title = "TVGuide.com - Today's News"
-date = "2011-02-04"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: TVGuide.com - Today's News
+date: 2011-02-04
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "Matt's TV Week in Review"
-newsauthor = "Matt Roush"
-newssource = "TVGuide.com"
-newsurl = "http://www.tvguide.com/News/Matts-TV-Week-1028902.aspx"
-+++
+newstitle: "Matt's TV Week in Review  "
+newsauthor: Matt Roush  
+newssource: TVGuide.com  
+newsurl: http://www.tvguide.com/News/Matts-TV-Week-1028902.aspx  
+
+---
 
 [...]
 

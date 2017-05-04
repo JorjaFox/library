@@ -1,18 +1,19 @@
-+++
-title = "Burked"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "1"
-date = "2001-09-27"
-prodnum= "201"
-+++
+---
+title: "Burked"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2
+epnum: 1
+date: 2001-09-27
+prodnum: 201  
+---
 
 ## Synopsis
 

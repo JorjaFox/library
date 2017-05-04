@@ -1,18 +1,19 @@
-+++
-title = "Paper or Plastic"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "4"
-epnum = "14"
-date = "2004-02-12"
-prodnum= "413"
-+++
+---
+title: "Paper or Plastic"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 4
+epnum: 14  
+date: 2004-02-12
+prodnum: 413  
+---
 
 ## Synopsis
 

@@ -1,16 +1,17 @@
-+++
-title = "Time Out New York"
-date = "2001-09-27"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = "Line Of Duty"
-newsauthor = "Staff"
-newssource = "Time Out New York"
-newsurl = "http://www.timeoutny.com/timein/313/313U.tv.jorja.box.html"
-+++
+---
+title: Time Out New York
+date: 2001-09-27
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle: Line Of Duty  
+newsauthor: Staff  
+newssource: Time Out New York  
+newsurl: http://www.timeoutny.com/timein/313/313U.tv.jorja.box.html  
+
+---
 **CSI's Jorja Fox is out for truth, justice and a steady job**
 
 This week, Jorja Fox returns for a second season of the CBS drama CSI: Crime Scene Investigation as determined detective Sara Sidle. This is big news- her previous characters have had a habit of disappearing from top-rated shows. 
@@ -19,7 +20,7 @@ Five years ago, on ER, Fox played Maggie Doyle, the lesbian pediatrician who pis
 
 While that one never happened, Fox, 33, did find herself on CSI; last year, the freshman crime drama, which follows a group of crime scene detectives in Las Vegas, was second only to ER in the ratings. And Fox is staying put, even though she didn't expect to be here at all. Asked if she thought the somewhat corny show would become a monster hit, she answers: "Um... honestly?" 
 
-Born in New York City but raised in Melborne, Florida (her Canadian parents dreamed of living near the beach), Fox was discovered in a model search at age 16 at the local mall. Not conventionally beautiful?she was "a fat kid with new wave punk-rock hair"-she soon moved to New York and gravitated toward acting. After roles in straight-to-video movies and flops like The Jerky Boys, she scored an audition for ER. Since then, she's played strong-willed characters who usually have attitude (although she did have a cameo in Memento as Guy Pierce's loving wife). On CSI, her antisocial detective Sidle spends more time with dead bodies than real ones. "Friends and family always say, &#8216;You never smile,' and I'm like, &#8216;It's really hard to smile. I'm standing over someone who's met a horrific end!"] 
+Born in New York City but raised in Melborne, Florida (her Canadian parents dreamed of living near the beach), Fox was discovered in a model search at age 16 at the local mall. Not conventionally beautiful?she was "a fat kid with new wave punk-rock hair"-she soon moved to New York and gravitated toward acting. After roles in straight-to-video movies and flops like The Jerky Boys, she scored an audition for ER. Since then, she's played strong-willed characters who usually have attitude (although she did have a cameo in Memento as Guy Pierce's loving wife). On CSI, her antisocial detective Sidle spends more time with dead bodies than real ones. "Friends and family always say, &#8216;You never smile,' and I'm like, &#8216;It's really hard to smile. I'm standing over someone who's met a horrific end!'" 
 
 To lighten up her life, last year, Fox founded Honeypot Productions, an acting troupe that puts on the comedic plays she writes. She says she finds the CSI scripts a little goofy in comparison (in one episode, a man is killed by his frat buddy because the latter's girlfriend autographed the former's "johnson"). "There's always something funny and macabre, but we're also dealing with this highly sensitive, dark material. So to meld that together is a great challenge." 
 

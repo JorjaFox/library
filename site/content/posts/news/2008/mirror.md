@@ -1,17 +1,18 @@
-+++
-title = "Mirror"
-date = "2008-02-19"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Mirror
+date: 2008-02-19
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "CSI: Crime Scene Investigation"
-newsauthor = "Staff"
-newssource = "The Mirror"
-newsurl = "http://www.mirror.co.uk/showbiz/tv/todaystv/2008/02/19/csi-crime-scene-investigation-89520-20324532/"
-+++
+newstitle: "CSI: Crime Scene Investigation  "
+newsauthor: Staff  
+newssource: The Mirror  
+newsurl: http://www.mirror.co.uk/showbiz/tv/todaystv/2008/02/19/csi-crime-scene-investigation-89520-20324532/  
+
+---
 
 If ever a TV couple shared some great chemistry it's Sara Sidle and Gil Grissom.
 

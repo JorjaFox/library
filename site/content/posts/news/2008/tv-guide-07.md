@@ -1,17 +1,18 @@
-+++
-title = "TVGuide.com - Ask Matt "
-date = "2008-10-24"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2008"]
-categories = ["Articles", "News"]
-permalink = "/news/2008/:title/"
+---
+title: TVGuide.com - Ask Matt 
+date: 2008-10-24
+author: Mika Epstein
+layout: news
+tags: ["2008"]
+categories: ["Articles", "News"]
+permalink: /news/2008/:title/
 
-newstitle = "Ask Matt: Applauding 'ER''s Goodbyes, Questioning 'Eli Stone''s Faith and More!"
-newsauthor = "Matt Roush"
-newssource = "TV Guide.com - Ask Matt"
-newsurl = "http://www.tvguide.com/Roush/Ask-Matt-ER-34627.aspx"
-+++
+newstitle: "Ask Matt: Applauding 'ER''s Goodbyes, Questioning 'Eli Stone''s Faith and More!  "
+newsauthor: Matt Roush  
+newssource: TV Guide.com - Ask Matt  
+newsurl: http://www.tvguide.com/Roush/Ask-Matt-ER-34627.aspx  
+
+---
 
 [...]
 

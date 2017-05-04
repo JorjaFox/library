@@ -1,15 +1,16 @@
-+++
-title = "Variety"
-date = "2016-03-07"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2016"]
-categories = ["Articles", "News"]
-newstitle = "Jorja Fox Lists 1930s Mediterranean in Los Angeles’s Silver Lake Community"
-newsauthor = "Mark David"
-newssource = "Variety"
-newsurl = "http://variety.com/2016/dirt/real-estalker/jorja-fox-lists-silver-lake-house-1201724559/"
-+++
+---
+title: "Variety"
+date: 2016-03-07
+author: Mika Epstein
+layout: news
+tags: ["2016"]
+categories: ["Articles", "News"]
+newstitle: "Jorja Fox Lists 1930s Mediterranean in Los Angeles’s Silver Lake Community"
+newsauthor: "Mark David"
+newssource: "Variety"
+newsurl: http://variety.com/2016/dirt/real-estalker/jorja-fox-lists-silver-lake-house-1201724559/
+
+---
 
 **SELLER:** Jorja Fox  
 **LOCATION:** Los Angeles, CA  

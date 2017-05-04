@@ -1,18 +1,19 @@
-+++
-title = "The Happy Place"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "9"
-epnum = "2"
-date = "2008-10-16"
-prodnum= "902"
-+++
+---
+title: "The Happy Place"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 9
+epnum: 2  
+date: 2008-10-16
+prodnum: 902  
+---
 
 ## Synopsis
 

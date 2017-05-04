@@ -1,17 +1,18 @@
-+++
-title = "TVEquals"
-date = "2012-12-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
+---
+title: TVEquals
+date: 2012-12-13
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
 
-newstitle = "CSI Season 13 Review 'Risky Business Class' -- Owner of a Lonely Heart"
-newsauthor = "Kristen Elizabeth"
-newssource = "TVEquals"
-newsurl = "http://www.tvequals.com/2012/12/12/csi-season-13-review-risky-business-class-owner-of-a-lonely-heart/"
-+++
+newstitle: "CSI Season 13 Review 'Risky Business Class' -- Owner of a Lonely Heart  "
+newsauthor: Kristen Elizabeth  
+newssource: TVEquals  
+newsurl: http://www.tvequals.com/2012/12/12/csi-season-13-review-risky-business-class-owner-of-a-lonely-heart/  
+
+---
 
 Now that all of my fellow GSR fans have breathed a collective sigh of relief, although it might be a bit premature, I can honestly say that 'Risky Business Class,' this week"s episode of CSI, will only ever be memorable as the episode that clearly exposed the rift in Grissom and Sara"s marriage.
 

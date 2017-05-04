@@ -1,11 +1,12 @@
-+++
-title = "CBS Biography"
-author = "Mika Epstein"
-layout = "single"
-permalink = "/biographies/cbs/"
-categories = ["Biographies"]
-tags = ["Internet"]
-+++
+---
+title: CBS Biography
+author: Mika Epstein
+layout: single
+permalink: /biographies/cbs/
+categories: ["Biographies"]
+tags: ["Internet"]
+
+---
 
 Fox's television credits include "ER," "West Wing," "Law and Order," "Ellen" and, most recently, "Drop Dead Diva." In addition to television, her film work includes "Memento," "How to Make the Cruelest Month," "The Kill-Off," "Forever Fabulous" and Down with the Joneses."
 

@@ -1,17 +1,18 @@
-+++
-title = "Miami Herald"
-date = "2008-03-30"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Miami Herald
+date: 2008-03-30
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "They've Got Q"
-newsauthor = "Glenn Garvin"
-newssource = "Miami Herald"
-newsurl = "http://www.miamiherald.com/tropical_life/story/474335.html"
-+++
+newstitle: "They've Got Q  "
+newsauthor: Glenn Garvin  
+newssource: Miami Herald  
+newsurl: http://www.miamiherald.com/tropical_life/story/474335.html  
+
+---
 
 The catholic tastes of TV audiences shouldn't have come as a blinding epiphany to anyone, says Robert Thompson, who runs the Center for the Study of Popular Television at Syracuse University.
 

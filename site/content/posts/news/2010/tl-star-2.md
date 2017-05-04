@@ -1,16 +1,19 @@
-+++
-title = "TeLe Star"
-date = "2010-08-23"
-author = "Angela"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
-newstitle = "Jorja Fox 'I hesitated to re-sign'"
-newsauthor = "Staff"
-newssource = "TeLe Star"
-newsurl = "http://www.leblogtvnews.com/article-les-experts-jorja-fox-dit-avoir-hesite-a-resigner-55802607.html"
-+++
+---
+title: TeLe Star
+date: 2010-08-23
+author: Angela
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
+
+newstitle: "Jorja Fox 'I hesitated to re-sign'"
+newsauthor: Staff
+newssource: TeLe Star  
+newsurl: http://www.leblogtvnews.com/article-les-experts-jorja-fox-dit-avoir-hesite-a-resigner-55802607.html 
+
+
+---
 
 *This article has been translated from it's original French.*
 

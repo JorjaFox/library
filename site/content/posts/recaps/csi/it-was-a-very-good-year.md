@@ -1,18 +1,19 @@
-+++
-title = "It Was a Very Good Year"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "4"
-date = "2012-10-24"
-prodnum= "277"
-+++
+---
+title: "It Was a Very Good Year"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13  
+epnum: 4  
+date: 2012-10-24
+prodnum: 277  
+---
 
 ## Synopsis
 

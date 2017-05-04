@@ -1,18 +1,19 @@
-+++
-title = "Werewolves"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "11"
-date = "2006-01-15"
-prodnum= "611"
-+++
+---
+title: "Werewolves"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 11  
+date: 2006-01-15
+prodnum: 611  
+---
 
 ## Synopsis
 

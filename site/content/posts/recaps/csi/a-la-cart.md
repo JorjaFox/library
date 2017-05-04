@@ -1,18 +1,19 @@
-+++
-title = "A La Cart"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "8"
-epnum = "2"
-date = "2007-10-04"
-prodnum= "802"
-+++
+---
+title: "A La Cart"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 8
+epnum: 2  
+date: 2007-10-04
+prodnum: 802  
+---
 
 ## Synopsis
 

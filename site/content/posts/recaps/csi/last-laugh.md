@@ -1,18 +1,19 @@
-+++
-title = "Last Laugh"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "20"
-date = "2003-04-24"
-prodnum= "320"
-+++
+---
+title: "Last Laugh"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3
+epnum: 20
+date: 2003-04-24
+prodnum: 320  
+---
 
 ## Synopsis
 

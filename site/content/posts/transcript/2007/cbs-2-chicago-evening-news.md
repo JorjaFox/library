@@ -1,13 +1,15 @@
-+++
-title = "CBS 2 Chicago Evening News (23 May 2007)"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2007-05-23"
-interviewurl = "http://cbs2chicago.com/"
-permalink = "/transcript/2007/:title/"
-categories = ["Interviews"]
-tags = ["2007", "news"]
-+++
+---
+title: CBS 2 Chicago Evening News (23 May 2007)
+author: Mika Epstein
+layout: transcript
+date: 2007-05-23
+interviewurl: http://cbs2chicago.com/
+permalink: /transcript/2007/:title/
+categories: ["Interviews"]
+tags:
+  - 2007
+  - news
+---
 
 [...]
 

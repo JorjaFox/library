@@ -1,16 +1,17 @@
-+++
-title = "Entertainment Weekly"
-date = "2000-02-25"
-author = "Mika Epstein"
-layout = "news"
-categories = ["Articles", "News"]
-permalink = "/news/2000/:title/"
-tags = ["2000"]
-newstitle = "Hopping Mad"
-newsauthor = "Staff"
-newssource = "Entertainment Weekly"
-newsurl = "http://www.ew.com"
-+++
+---
+title: Entertainment Weekly
+date: 2000-02-25
+author: Mika Epstein
+layout: news
+categories: ["Articles", "News"]
+permalink: /news/2000/:title/
+tags: ["2000"]
+newstitle: Hopping Mad  
+newsauthor: Staff  
+newssource: Entertainment Weekly  
+newsurl: http://www.ew.com  
+
+---
 [...]
 
 Another Sorkin mistake was casting Moira Kelly as a political consultant who began the series as Josh's ex-girlfriend but whose scowly, abrasive role has evaporated into a series of background grimaces. "Moira is a terrific actress," says Sorkin diplomatically. "[But] we just weren't the right thing for her. She expressed that she felt the same way, and as a result, story lines haven't been invested in that character, because we knew that at the end of the year, we'd be shaking hands and parting company." Bye-bye, Moira, who did not respond to requests to comment on her departure.

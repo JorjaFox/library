@@ -1,18 +1,19 @@
-+++
-title = "Unleashed"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "19"
-date = "2011-04-07"
-prodnum= "248"
-+++
+---
+title: "Unleashed"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11  
+epnum: 19  
+date: 2011-04-07
+prodnum: 248  
+---
 
 ## Synopsis
 

@@ -1,17 +1,18 @@
-+++
-title = "AfterEllen"
-date = "2009-01-14"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: AfterEllen
+date: 2009-01-14
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Fake Gay News: Lesbian closed captioner sues employer after termination for adding subtext"
-newsauthor = "bad machine"
-newssource = "AfterEllen"
-newsurl = "http://www.afterellen.com/blog/badmachine/fake-gay-news-lesbian-closed-captioner-sued"
-+++
+newstitle: "Fake Gay News: Lesbian closed captioner sues employer after termination for adding subtext  "
+newsauthor: bad machine  
+newssource: AfterEllen  
+newsurl: http://www.afterellen.com/blog/badmachine/fake-gay-news-lesbian-closed-captioner-sued  
+
+---
 
 "Note: This is one of a series of satirical blog posts about entertainment. "Satire" means it's not true."
 

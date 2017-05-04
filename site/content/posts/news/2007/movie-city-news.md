@@ -1,17 +1,18 @@
-+++
-title = "Movie City News "
-date = "2007-05-22"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Movie City News 
+date: 2007-05-22
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "What's happening now"
-newsauthor = "Movie City News"
-newssource = "Movie City News"
-newsurl = "http://www.moviecitynews.com"
-+++
+newstitle: What's happening now
+newsauthor: Movie City News
+newssource: Movie City News
+newsurl: http://www.moviecitynews.com
+
+---
 
 THE 2007 JACKSON HOLE FILM FESTIVAL
 

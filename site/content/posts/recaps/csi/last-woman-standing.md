@@ -1,18 +1,19 @@
-+++
-title = "Last Woman Standing"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "16"
-date = "2013-02-27"
-prodnum= "289"
-+++
+---
+title: "Last Woman Standing"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13  
+epnum: 16  
+date: 2013-02-27
+prodnum: 289  
+---
 
 ## Synopsis
 

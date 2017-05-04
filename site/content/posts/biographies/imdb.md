@@ -1,11 +1,12 @@
-+++
-title = "IMDb Biography"
-author = "Mika Epstein"
-layout = "single"
-permalink = "/biographies/imdb/"
-categories = ["Biographies"]
-tags = ["Internet"]
-+++
+---
+title: IMDb Biography
+author: Mika Epstein
+layout: single
+permalink: /biographies/imdb/
+categories: ["Biographies"]
+tags: ["Internet"]
+
+---
 
 Jorja Fox has become a familiar face by playing major roles in three of the most successful television dramas in history: ER (1994), The West Wing (1999) and CSI: Crime Scene Investigation (2000).
 

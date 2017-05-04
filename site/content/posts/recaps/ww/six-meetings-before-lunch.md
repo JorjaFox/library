@@ -1,19 +1,19 @@
-+++
-title = "Six Meetings before Lunch"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/west-wing/:title/"
-categories = ["Recaps"]
-tags = ["The West Wing"]
-station = "NBC"
-showname = "The West Wing"
-showslug = "west-wing" 
-season = "One"
-epnum = "Eighteen"
-prodnum = "225917"
-date = "2000-04-05"
-rating = "4"
-+++
+---
+title: Six Meetings before Lunch
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/west-wing/:title/
+categories: ["Recaps"]
+tags: ["The West Wing"]
+station: NBC  
+showname: "The West Wing"
+showslug: west-wing  
+season : One  
+epnum: Eighteen  
+prodnum: 225917
+date: 2000-04-05 
+rating: 4  
+---
 
 ## Summary
   

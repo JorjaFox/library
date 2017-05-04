@@ -1,17 +1,18 @@
-+++
-title = "Channel Five"
-date = "2006-05-11"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Channel Five
+date: 2006-05-11
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "CSI: Crime Scene Investigation - Cast Interviews"
-newsauthor = "Staff"
-newssource = "Channel Five"
-newsurl = "http://www.five.tv"
-+++
+newstitle: "CSI: Crime Scene Investigation - Cast Interviews  "
+newsauthor: Staff  
+newssource: Channel Five  
+newsurl: http://www.five.tv  
+
+---
 
 **Jorja Fox  
 Plays Sara Sidle**

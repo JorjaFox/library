@@ -1,18 +1,19 @@
-+++
-title = "Formalities"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "7 "
-date = "2004-11-11"
-prodnum= "507 "
-+++
+---
+title: "Formalities"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 7 
+date: 2004-11-11
+prodnum: 507 
+---
 
 ## Synopsis
 

@@ -1,18 +1,19 @@
-+++
-title = "Dead Doll"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "8"
-epnum = "1"
-date = "2007-09-27"
-prodnum= "801"
-+++
+---
+title: "Dead Doll"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 8
+epnum: 1  
+date: 2007-09-27
+prodnum: 801  
+---
 
 ## Synopsis
 

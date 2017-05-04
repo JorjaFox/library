@@ -1,17 +1,18 @@
-+++
-title = "Perez Hilton"
-date = "2009-08-18"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Perez Hilton
+date: 2009-08-18
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Jorja Fox Returns To 'CSI"
-newsauthor = "Staff"
-newssource = "Perez Hilton"
-newsurl = "http://perezhilton.com/2009-07-18-jorja-fox-returns-to-csi"
-+++
+newstitle: "Jorja Fox Returns To 'CSI'"
+newsauthor: Staff  
+newssource: Perez Hilton  
+newsurl: http://perezhilton.com/2009-07-18-jorja-fox-returns-to-csi  
+
+---
 
 **Jorja Fox** will be returning to "CSI" in its upcoming season.
 

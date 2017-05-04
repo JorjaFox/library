@@ -1,17 +1,18 @@
-+++
-title = "Woman Magazine UK"
-date = "2007-01-29"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Woman Magazine UK
+date: 2007-01-29
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "The Way I See It..."
-newsauthor = "Woman Magazine"
-newssource = "Woman Magazine"
-newsurl = "http://www.ipcmedia.com/magazines/woman/"
-+++
+newstitle: "The Way I See It..."
+newsauthor: Woman Magazine
+newssource: Woman Magazine
+newsurl: http://www.ipcmedia.com/magazines/woman/
+
+---
 
 Does being too popular do more harm than good? CSI star Jorja Fox says her blessing in disguise was **Not Always Fitting In.**
 

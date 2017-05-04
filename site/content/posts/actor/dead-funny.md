@@ -1,15 +1,15 @@
-+++
-layout = "actor"
-title = "Dead Funny"
-categories = ["Filmography"]
-tags = ["movies"]
-excerpt = "<strong>Dead Funny</strong> is about Viv (Elizabeth Pena), and Reggie (Andrew McCarthy) who live in separate New York apartments. Their relationship is based on sex and sick practical jokes. They used to think it was dead funny. Now Reggie's just dead."
-character = "Fate 3"
-chartype = "supporting"
-rating = "2"
-year = "1994"
-genre = "Dark Comedy"
-+++
+---
+layout: actor
+title: "Dead Funny"
+categories: ["Filmography"]
+tags: ["movies"]
+excerpt: "<strong>Dead Funny</strong> is about Viv (Elizabeth Pena), and Reggie (Andrew McCarthy) who live in separate New York apartments. Their relationship is based on sex and sick practical jokes. They used to think it was dead funny. Now Reggie's just dead."
+character: "Fate 3"
+chartype: supporting
+rating: 2
+year: 1994
+genre: "Dark Comedy"
+---
 
 Reggie has been skewered to the kitchen table with a Samurai sword, and Viv's trying to remember what happened. After all, it was one hell of a party last night. Instead of calling the police, Louise, Viv's best friend, takes charge, attempting to solve Reggie's murder with the help of a list of suspects and a couple of bottles of champagne. Deep in memories of her last year with Reggie and continuously interrupted by a strange cast of characters, Viv wanders through her apartment in a daze. Still desperately hoping that Reggie's body in the kitchen is another of his tasteless pranks, she slowly begins to recall the bizarre events of the last 24 hours.
 

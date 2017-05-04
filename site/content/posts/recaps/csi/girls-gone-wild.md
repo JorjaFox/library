@@ -1,18 +1,19 @@
-+++
-title = "Girls Gone Wild"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "10"
-date = "2013-11-27"
-prodnum= "305"
-+++
+---
+title: "Girls Gone Wild"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14  
+epnum: 10  
+date: 2013-11-27
+prodnum: 305  
+---
 
 ## Synopsis## 
 

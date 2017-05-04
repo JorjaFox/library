@@ -1,18 +1,19 @@
-+++
-title = "Room Service"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "6"
-epnum = "2"
-date = "2005-09-29"
-prodnum = "602"
-+++
+---
+title: "Room Service"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 6
+epnum: 2
+date: 2005-09-29  
+prodnum: 602  
+---
 
 ## Synopsis
 

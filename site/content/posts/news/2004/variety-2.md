@@ -1,16 +1,17 @@
-+++
-title = "Variety"
-date = "2004-07-21"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "News"
-newsauthor = "Staff"
-newssource = "Variety"
-newsurl = "http://www.variety.com/"
-+++
+---
+title: Variety
+date: 2004-07-21
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "News"
+newsauthor: Staff  
+newssource: Variety  
+newsurl: http://www.variety.com/  
+
+---
 
 [...]
 

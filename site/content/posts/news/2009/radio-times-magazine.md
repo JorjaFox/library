@@ -1,17 +1,18 @@
-+++
-title = "Radio Times Magazine"
-date = "2009-04-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Radio Times Magazine
+date: 2009-04-01
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Where There's A Gil"
-newsauthor = "Unknown"
-newssource = "Radio Times"
-newsurl = "http://www.radiotimes.com/content/magazine/"
-+++
+newstitle: "Where There's A Gil  "
+newsauthor: Unknown  
+newssource: Radio Times  
+newsurl: http://www.radiotimes.com/content/magazine/  
+
+---
 
 [...]
 

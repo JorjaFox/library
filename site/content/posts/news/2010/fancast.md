@@ -1,17 +1,18 @@
-+++
-title = "Fancast"
-date = "2010-05-11"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
+---
+title: Fancast
+date: 2010-05-11
+author: Mika Epstein
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
 
-newstitle = "The Big Tease: Scoop on 'House,' 'NCIS,' 'Bones' and More!"
-newsauthor = "Matt Webb Mitovich"
-newssource = "Fancast"
-newsurl = "http://www.fancast.com/blogs/2010/tv-news/the-big-tease-scoop-on-house-ncis-bones-and-more/"
-+++
+newstitle: "The Big Tease: Scoop on 'House,' 'NCIS,' 'Bones' and More!  "
+newsauthor: Matt Webb Mitovich  
+newssource: Fancast  
+newsurl: http://www.fancast.com/blogs/2010/tv-news/the-big-tease-scoop-on-house-ncis-bones-and-more/  
+
+---
 
 [...]
 

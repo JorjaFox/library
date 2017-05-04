@@ -1,17 +1,18 @@
-+++
-title = "Galaxie Magazine"
-date = "2005-07-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: Galaxie Magazine
+date: 2005-07-01
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "CSI: Partners in Love"
-newsauthor = "Staff"
-newssource = "Galaxie Magazine"
-newsurl = "http://www.galaxie.com.my/"
-+++
+newstitle: "CSI: Partners in Love"
+newsauthor: Staff  
+newssource: Galaxie Magazine  
+newsurl: http://www.galaxie.com.my/  
+
+---
 [...]
 
 Meanwhile, Sara has her own share of men to deal with as well. On one hand, there is Grissom, emotionally distant and much older, and on the other is Greg, the young guy who had a crush on Sara a while back.

@@ -1,17 +1,18 @@
-+++
-title = "US Today"
-date = "2005-02-02"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: US Today
+date: 2005-02-02
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Petersen lays it on the table"
-newsauthor = "Staff"
-newssource = "US Today"
-newsurl = "http://www.usatoday.com/"
-+++
+newstitle: "Petersen lays it on the table  "
+newsauthor: Staff  
+newssource: US Today  
+newsurl: http://www.usatoday.com/  
+
+---
 [...]
 
 Petersen's shortened workday is evident in tonight's episode, "Nesting Dolls," which intertwines domestic abuse with mail-order brides. However, his scenes are significant, marking one of the rare occasions in which CSI goes home with a character to peel back layers of personality.

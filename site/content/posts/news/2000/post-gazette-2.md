@@ -1,16 +1,17 @@
-+++
-title = "Post-Gazette"
-date = "2000-07-29"
-author = "Mika Epstein"
-layout = "news"
-categories = ["Articles", "News"]
-permalink = "/news/2000/:title/"
-tags = ["2000"]
-newstitle = "Even celebrities are carried away with castaways"
-newsauthor = "Staff"
-newssource = "Post-Gazette Publishing"
-newsurl = "http://www.post-gazette.com"
-+++
+---
+title: Post-Gazette
+date: 2000-07-29
+author: Mika Epstein
+layout: news
+categories: ["Articles", "News"]
+permalink: /news/2000/:title/
+tags: ["2000"]
+newstitle: Even celebrities are carried away with castaways  
+newsauthor: Staff  
+newssource: Post-Gazette Publishing  
+newsurl: http://www.post-gazette.com  
+
+---
 [...]
 
 Jorja Fox, who played Maggie Doyle on "ER" and the Secret Service agent assigned to the president's daughter on "West Wing," said she has watched every episode of "Survivor."

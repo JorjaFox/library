@@ -1,19 +1,19 @@
-+++
-title = "The Good Fight"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Five"
-epnum = "Eight"
-prodnum = "467558  "
-date = "1998-11-19"
-rating = "1"
-+++
+---
+title: The Good Fight
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Five  
+epnum: Eight  
+prodnum: 467558    
+date: 1998-11-19  
+rating: 1  
+---
 
 ## Summary  
   

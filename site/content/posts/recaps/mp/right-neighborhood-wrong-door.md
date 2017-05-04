@@ -1,17 +1,17 @@
-+++
-title = "Right Neighborhood ... Wrong Door"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/:title/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-date = "1993-12-02"
-season = "1"
-episode = "10"
-+++
+---
+title: "Right Neighborhood ... Wrong Door"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/missing-persons/:title/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+date: 1993-12-02
+season: 1
+episode: 10
+---
   
 ## Synopsis
 

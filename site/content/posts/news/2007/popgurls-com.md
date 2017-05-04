@@ -1,17 +1,18 @@
-+++
-title = "Popgurls.com "
-date = "2007-04-04"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Popgurls.com 
+date: 2007-04-04
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "PopGurls Interview: CSI's Jorja Fox"
-newsauthor = "Popgurls.com"
-newssource = "Popgurls.com"
-newsurl = "http://www.popgurls.com/article_show.php3?id=661 "
-+++
+newstitle: "PopGurls Interview: CSI's Jorja Fox"
+newsauthor: Popgurls.com
+newssource: Popgurls.com
+newsurl: http://www.popgurls.com/article_show.php3?id=661 
+
+---
 
 The first thing that I notice about Jorja Fox is how quick she is to laugh. It's a little disarming, considering her character on CSI: Crime Scene Investigation, Sara Sidle, is not known for her jovial sense of humor. Disarming, yet infectious and even over the phone, its feels less like an interview and more like we're kicking back a few beers in a local pub and sharing stories. 
 
@@ -57,7 +58,7 @@ Yeah -- the fumbles of that and the ups and downs of that. Even though we don't 
 
 Our writers our phenomenal -- every year it gets harder and more challenging for them to come up with stuff that's still our show, but at the same time, fresh and different enough to keep people surprised. After so many years, ''they'' have the hard job. I have to show up and try to bring it to life. So I really commend them, I think they're really doing a great job with that. 
 
-This episode I'm working on right now, it's episode 18 ["[[Empty Eyes]]] -- I always think, "man, they can't shock me any more" and they gave me this episode 10 days ago and I was floored. How do they do it? I'm excited -- it's a real strong show for Sara. 
+This episode I'm working on right now, it's episode 18 ["[[Empty Eyes]]"] -- I always think, "man, they can't shock me any more" and they gave me this episode 10 days ago and I was floored. How do they do it? I'm excited -- it's a real strong show for Sara. 
 
 **Did the writers tell you how long Grissom and Sara have been together, or have you come up with your own history? **
 

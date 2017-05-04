@@ -1,18 +1,19 @@
-+++
-title = "Law of Gravity"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "15"
-date = "2007-02-08"
-prodnum= "715"
-+++
+---
+title: "Law of Gravity"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 15
+date: 2007-02-08
+prodnum: 715  
+---
 
 ## Synopsis
 

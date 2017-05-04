@@ -1,17 +1,18 @@
-+++
-title = "Defamer (6 November 2007)"
-date = "2007-11-06"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Defamer (6 November 2007)
+date: 2007-11-06
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Hollywood PrivacyWatch: Elvish Warrior Takes In Some Postmodern Feminist Art"
-newsauthor = "Mark"
-newssource = "Defamer Hollywood"
-newsurl = "http://defamer.com"
-+++
+newstitle: "Hollywood PrivacyWatch: Elvish Warrior Takes In Some Postmodern Feminist Art"
+newsauthor: Mark
+newssource: Defamer Hollywood
+newsurl: http://defamer.com
+
+---
   
 [...]
 

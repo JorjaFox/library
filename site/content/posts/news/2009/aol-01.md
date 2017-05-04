@@ -1,17 +1,18 @@
-+++
-title = "AOL.com"
-date = "2009-10-15"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: AOL.com
+date: 2009-10-15
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Jorja Fox Staying on &#8216;CSI.' Will This Help the Ratings? "
-newsauthor = "Gary Susman "
-newssource = "AOL Inside TV"
-newsurl = "http://insidetv.aol.com/2009/10/15/jorja-fox-staying-on-csi-will-this-help-the-ratings/"
-+++
+newstitle: "Jorja Fox Staying on &#8216;CSI.' Will This Help the Ratings? "
+newsauthor: Gary Susman 
+newssource: AOL Inside TV  
+newsurl: http://insidetv.aol.com/2009/10/15/jorja-fox-staying-on-csi-will-this-help-the-ratings/
+
+---
 
 The latest puzzler for the &#8216;CSI: Crime Scene Investigation': How to stop a ratings slide that began with William Petersen's departure last season and has continued into a new season, during which the granddaddy of forensic procedural dramas has lost its crown as TV's top-rated scripted series to &#8216;NCIS'? Answer? Stunts, starting with extending Jorja Fox's return to the show from temporary (five episodes) to indefinite.
 

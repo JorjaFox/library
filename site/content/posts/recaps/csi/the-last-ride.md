@@ -1,18 +1,19 @@
-+++
-title = "The Last Ride"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "15"
-epnum = "16"
-date = "2015-01-27"
-prodnum= "333"
-+++
+---
+title: "The Last Ride"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 15  
+epnum: 16  
+date: 2015-01-27
+prodnum: 333  
+---
 
 ## Synopsis## 
 

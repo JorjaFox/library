@@ -1,13 +1,13 @@
-+++
-title = "KPIX - Rescued Lions from Bolivia Arrive at SFO (27 May 2010)"
-date = "2010-05-27"
-author = "Mika Epstein"
-layout = "transcript"
-interviewurl = "http://cbs5.com/video/?id=65714@kpix.dayport.com"
-permalink = "/transcript/2010/:title/"
-categories = ["Interviews"]
-tags = ["Transcript", "2010", "Animal Rights"]
-+++
+---
+title: KPIX - Rescued Lions from Bolivia Arrive at SFO (27 May 2010)
+date: 2010-05-27
+author: Mika Epstein
+layout: transcript
+interviewurl: http://cbs5.com/video/?id=65714@kpix.dayport.com  
+permalink: /transcript/2010/:title/
+categories: ["Interviews"]
+tags: [Transcript, 2010, "Animal Rights"]
+---
 
 **Don Knapp** And along for the trip tonight was Jorja Fox, of *CSI*, she's lending her celebrity and her back.
 

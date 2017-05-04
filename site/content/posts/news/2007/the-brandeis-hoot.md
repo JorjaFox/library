@@ -1,17 +1,18 @@
-+++
-title = "The Brandeis Hoot "
-date = "2007-11-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: The Brandeis Hoot 
+date: 2007-11-16
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Jorja is CSI's goodbye girl"
-newsauthor = "Arielle Kaplan"
-newssource = "The Brandeis Hoot"
-newsurl = "http://www.thehoot.net/?module=displaystory&story_id=2465&format=html "
-+++
+newstitle: "Jorja is CSI's goodbye girl  "
+newsauthor: Arielle Kaplan  
+newssource: The Brandeis Hoot  
+newsurl: http://www.thehoot.net/?module=displaystory&story_id=2465&format=html 
+
+---
 "Wouldn't you if you were married to Mrs. Roper?"
 
 "I don't even have to turn around. Sara Sidle."

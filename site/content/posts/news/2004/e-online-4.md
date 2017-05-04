@@ -1,16 +1,17 @@
-+++
-title = "E! Online"
-date = "2004-07-21"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "'CSI' Kills Back to Life?"
-newsauthor = "Staff"
-newssource = "E! Online"
-newsurl = "http://eonline.com"
-+++
+---
+title: E! Online
+date: 2004-07-21
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "'CSI' Kills Back to Life?"
+newsauthor: Staff  
+newssource: E! Online  
+newsurl: http://eonline.com  
+
+---
 
 Are CSI's casualties about to return from the dead? 
 

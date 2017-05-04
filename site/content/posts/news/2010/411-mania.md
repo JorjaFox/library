@@ -1,17 +1,18 @@
-+++
-title = "411 Mania "
-date = "2010-10-20"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2010"]
-categories = ["Articles", "News"]
-permalink = "/news/2010/:title/"
+---
+title: 411 Mania 
+date: 2010-10-20
+author: Mika Epstein
+layout: news
+tags: ["2010"]
+categories: ["Articles", "News"]
+permalink: /news/2010/:title/
 
-newstitle = "20 October"
-newsauthor = "Bryan Kristopowitz"
-newssource = "411Mania.com"
-newsurl = "http://www.411mania.com/movies/columns/158335/"
-+++
+newstitle: "20 October  "
+newsauthor: Bryan Kristopowitz  
+newssource: 411Mania.com  
+newsurl: http://www.411mania.com/movies/columns/158335/  
+
+---
  [...]
 
 **- "CSI" premiere thoughts:** Man, where to freaking begin?Â 

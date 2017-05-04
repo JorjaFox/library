@@ -1,18 +1,19 @@
-+++
-title = "Helpless"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "8"
-date = "2013-11-13"
-prodnum= "303"
-+++
+---
+title: "Helpless"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14  
+epnum: 8  
+date: 2013-11-13
+prodnum: 303  
+---
 
 ## Synopsis
 

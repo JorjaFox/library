@@ -1,17 +1,17 @@
-+++
-title = "I Can't Even Imagine"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/:title/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-date = "1993-09-30"
-season = "1"
-episode = "4"
-+++
+---
+title: "I Can't Even Imagine"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/missing-persons/:title/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+date: 1993-09-30  
+season: 1
+episode: 4
+---
 
 
 ## Synopsis

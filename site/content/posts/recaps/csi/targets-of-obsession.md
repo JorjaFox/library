@@ -1,18 +1,19 @@
-+++
-title = "Targets of Obsession"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "15"
-date = "2011-02-17"
-prodnum= "244"
-+++
+---
+title: "Targets of Obsession"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11
+epnum: 15  
+date: 2011-02-17
+prodnum: 244  
+---
 
 ## Synopsis
 

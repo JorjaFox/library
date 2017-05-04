@@ -1,18 +1,19 @@
-+++
-title = "Dead Air"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "11"
-date = "2013-01-16"
-prodnum= "284"
-+++
+---
+title: "Dead Air"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13  
+epnum: 11  
+date: 2013-01-16
+prodnum: 284  
+---
 
 ## Synopsis
 

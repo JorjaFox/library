@@ -1,18 +1,19 @@
-+++
-title = "The Case of the Cross-Dressing Carp"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "8"
-epnum = "4"
-date = "2007-10-18"
-prodnum= "804"
-+++
+---
+title: "The Case of the Cross-Dressing Carp"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 8
+epnum: 4  
+date: 2007-10-18
+prodnum: 804  
+---
 
 ## Synopsis
 

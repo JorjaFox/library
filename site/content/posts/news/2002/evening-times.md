@@ -1,16 +1,17 @@
-+++
-title = "Evening Times"
-date = "2002-02-02"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2002"]
-categories = ["Articles", "News"]
-permalink = "/news/2002/:title/"
-newstitle = "Jorja Can Track Down Top Roles"
-newsauthor = "Staff"
-newssource = "Evening Times"
-newsurl = "http://www.eveningtimes.co.uk/"
-+++
+---
+title: Evening Times
+date: 2002-02-02
+author: Mika Epstein
+layout: news
+tags: ["2002"]
+categories: ["Articles", "News"]
+permalink: /news/2002/:title/
+newstitle: Jorja Can Track Down Top Roles  
+newsauthor: Staff  
+newssource: Evening Times  
+newsurl: http://www.eveningtimes.co.uk/  
+
+---
 
 Jorja Fox appears to have the golden touch, having starred in three of the biggest US TV hits of the last decade!
 

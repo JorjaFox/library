@@ -1,16 +1,17 @@
-+++
-title = "Yahoo News"
-date = "2004-07-15"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "Eye axes &#8216;CSI' duo"
-newsauthor = "Staff"
-newssource = "Yahoo News"
-newsurl = "http://news.yahoo.com/"
-+++
+---
+title: Yahoo News
+date: 2004-07-15
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "Eye axes &#8216;CSI' duo"
+newsauthor: Staff  
+newssource: Yahoo News  
+newsurl: http://news.yahoo.com/  
+
+---
 
 Blood is on the floor at "CSI": CBS has fired thesps George Eads and Jorja Fox from the hit Eye drama for breach of contract. 
 

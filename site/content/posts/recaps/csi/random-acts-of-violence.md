@@ -1,18 +1,19 @@
-+++
-title = "Random Acts of Violence"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "13"
-date = "2003-01-30"
-prodnum= "313"
-+++
+---
+title: "Random Acts of Violence"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3
+epnum: 13
+date: 2003-01-30
+prodnum: 313  
+---
 
 ## Synopsis
 

@@ -1,18 +1,19 @@
-+++
-title = "Harvest"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "3 "
-date = "2004-10-14"
-prodnum= "503 "
-+++
+---
+title: "Harvest"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 3 
+date: 2004-10-14
+prodnum: 503 
+---
 
 ## Synopsis
 

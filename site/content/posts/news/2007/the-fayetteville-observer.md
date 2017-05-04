@@ -1,17 +1,18 @@
-+++
-title = "The Fayetteville Observer "
-date = "2007-11-15"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: The Fayetteville Observer 
+date: 2007-11-15
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Sara says good-bye to &#8216;CSI"
-newsauthor = "Jessica Banov"
-newssource = "The Fayetteville Observer"
-newsurl = "http://www.fayobserver.com/article?id=277791 "
-+++
+newstitle: "Sara says good-bye to &#8216;CSI'  "
+newsauthor: Jessica Banov  
+newssource: The Fayetteville Observer  
+newsurl: http://www.fayobserver.com/article?id=277791 
+
+---
 [...]
 
 "CSI"

@@ -1,16 +1,17 @@
-+++
-title = "The Futon Critic"
-date = "2004-07-16"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "Pay Dispute Sacks &#8216;C.S.I.'s' Fox, Eads"
-newsauthor = "Staff"
-newssource = "The Futon Critic"
-newsurl = "http://www.thefutoncritic.com"
-+++
+---
+title: The Futon Critic
+date: 2004-07-16
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "Pay Dispute Sacks &#8216;C.S.I.'s' Fox, Eads"
+newsauthor: Staff  
+newssource: The Futon Critic  
+newsurl: http://www.thefutoncritic.com  
+
+---
 
 In one of the industry's most surprising moves in recent memory, actors George Eads and Jorja Fox have been fired from CBS' top-rated drama "C.S.I.: Crime Scene Investigation" over breach of contract.
 

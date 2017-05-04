@@ -1,17 +1,18 @@
-+++
-title = "TV Guide "
-date = "2007-08-27"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: TV Guide 
+date: 2007-08-27
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Roush on CSI: Crime Scene Investigation and Jorja Fox"
-newsauthor = "Matt Roush"
-newssource = "Ask Matt"
-newsurl = "http://www.tvguide.com"
-+++
+newstitle: "Roush on CSI: Crime Scene Investigation and Jorja Fox"
+newsauthor: Matt Roush
+newssource: Ask Matt
+newsurl: http://www.tvguide.com
+
+---
 
 
 **Question: This question has been eating away at me for months and I'm hoping you can help me out. I've always enjoyed spoilers. I'm the impatient type, and summer is usually the worst stretch of time for me. TVGuide.com is obviously known for giving out little tidbits here and there about certain shows, but why aren't we "allowed" to know specific details? I'll use "CSI" as an example, or more to the point, Jorja Fox. She will either be back or she won't, and we already know that at least one reporter knows the truth, so why can't we be in on the secret? I guess my question is: Where's the line? What's the difference between a spoiler and knowing who will be back for what episodes? Does this depend on what the reporter is willing to divulge? And what would happen if they did, against the producers' or writers' wishes? Some part of me admires the fact that reporters are willing to keep a secret, but the much more selfish side doesn't quite understand why they would when it is their job to keep us informed! -- Sharon**

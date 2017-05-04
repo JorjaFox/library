@@ -1,18 +1,19 @@
-+++
-title = "All They Had to Do Was Ask..."
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/:title/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-season = "1"
-epnum = "15"
-date = "1994-02-03"
-episode = "15"
-+++
+---
+title: "All They Had to Do Was Ask..."
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/missing-persons/:title/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+season : 1  
+epnum: 15  
+date: 1994-02-03  
+season: 1
+episode: 15
+---
   
 ## Synopsis
 

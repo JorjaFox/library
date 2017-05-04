@@ -1,17 +1,18 @@
-+++
-title = "If Magazine"
-date = "2006-05-23"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: If Magazine
+date: 2006-05-23
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "TV Review: C.S.I. - CRIME SCENE INVESTIGATION - Season 6 - 'Way To Go"
-newsauthor = "Staff"
-newssource = "If Magazine"
-newsurl = "http://www.ifmagazine.com"
-+++
+newstitle: "TV Review: C.S.I. - CRIME SCENE INVESTIGATION - Season 6 - 'Way To Go'"
+newsauthor: Staff  
+newssource: If Magazine  
+newsurl: http://www.ifmagazine.com  
+
+---
 
 For a season finale, the series leaves viewers on a sour note and cranks up the cheese more than usual
 

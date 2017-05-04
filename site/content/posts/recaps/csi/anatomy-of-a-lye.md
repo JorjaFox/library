@@ -1,18 +1,19 @@
-+++
-title = "Anatomy of a Lye"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "21"
-date = "2002-05-02"
-prodnum= "221"
-+++
+---
+title: "Anatomy of a Lye"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2  
+epnum: 21
+date: 2002-05-02
+prodnum: 221  
+---
 
 ## Synopsis
 

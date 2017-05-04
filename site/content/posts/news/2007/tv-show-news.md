@@ -1,17 +1,18 @@
-+++
-title = "TV Show News "
-date = "2007-05-23"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: TV Show News 
+date: 2007-05-23
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "CSI CAST ATTEND CSI EXHIBIT GALA OPENING"
-newsauthor = "TV Show News"
-newssource = "TV Show News"
-newsurl = "http://www.accesstvshows.com/"
-+++
+newstitle: "CSI CAST ATTEND CSI EXHIBIT GALA OPENING"
+newsauthor: TV Show News
+newssource: TV Show News
+newsurl: http://www.accesstvshows.com/
+
+---
 
 Be there as the cast and executive producers of "**CSI: Crime Scene Investigation** "walk the “green carpet” at the "CSI: The Experience "exhibit preview party"-"May 23" at "Chicago’s Museum of Science and Industry. Cast attendees will include:
 

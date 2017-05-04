@@ -1,16 +1,17 @@
-+++
-title = "LA Times"
-date = "2015-09-28"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "'I was part of this weird love story': Jorja Fox on 'CSI' finale and working with William Petersen"
-newsauthor = "Greg Braxton"
-newssource = "LA Times"
-newsurl = "http://www.latimes.com/entertainment/tv/showtracker/la-st-jorja-fox-csi-20150925-story.html"
-+++
+---
+title: LA Times
+date: 2015-09-28
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: "'I was part of this weird love story': Jorja Fox on 'CSI' finale and working with William Petersen"
+newsauthor: Greg Braxton  
+newssource: LA Times  
+newsurl: http://www.latimes.com/entertainment/tv/showtracker/la-st-jorja-fox-csi-20150925-story.html  
+
+---
 
 [...]
 

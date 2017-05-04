@@ -1,18 +1,19 @@
-+++
-title = "CSI Unplugged"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "12"
-epnum = "16"
-date = "2012-02-29"
-prodnum= "267"
-+++
+---
+title: "CSI Unplugged"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 12  
+epnum: 16  
+date: 2012-02-29
+prodnum: 267  
+---
 
 ## Synopsis
 

@@ -1,12 +1,19 @@
-+++
-title = "Filmography"
-author = "Mika Epstein"
-layout = "single"
-permalink = "/filmography/"
-categories = ["General"]
-tags = [ "Movies" , "Television" ]
-aliases = [ "/actor/", "/self/", "/producer/", "/writer/"]
-+++
+---
+title: Filmography
+author: Mika Epstein
+layout: single
+permalink: /filmography/
+categories: ["General"]
+tags: 
+  - Movies
+  - Television
+
+aliases: 
+  - /actor/
+  - /self/
+  - /producer/
+  - /writer/
+---
 A filmography is, in essence, the resume of a performer, listing all their cinematic achievements. This filmography has been broken down by section, to aid in sorting her work.
 
 Jorja is credited as Jorja Fox unless otherwise noted.

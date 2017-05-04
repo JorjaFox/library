@@ -1,18 +1,19 @@
-+++
-title = "The End Game"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "15"
-epnum = "18"
-date = "2015-02-15"
-prodnum= "335"
-+++
+---
+title: "The End Game"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 15  
+epnum: 18  
+date: 2015-02-15
+prodnum: 335  
+---
 
 * George Eads' final episode*
 

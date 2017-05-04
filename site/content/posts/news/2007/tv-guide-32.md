@@ -1,17 +1,18 @@
-+++
-title = "TV Guide"
-date = "2007-05-28"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: TV Guide
+date: 2007-05-28
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Finale burning questions answered!"
-newsauthor = "Staff"
-newssource = "TV Guide"
-newsurl = "http://www.tvguide.com/"
-+++
+newstitle: "Finale burning questions answered!"
+newsauthor: Staff
+newssource: TV Guide
+newsurl: http://www.tvguide.com/
+
+---
 
 [...]
 

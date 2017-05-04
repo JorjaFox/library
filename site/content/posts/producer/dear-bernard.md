@@ -1,13 +1,13 @@
-+++
-title = "Dear Bernard"
-author = "Mika Epstein"
-layout = "producer"
-categories = ["Filmography"]
-tags = ["producer", "stage", "honeypot"]
-genre = "Musical"
-year = "2014"
-excerpt = "<strong>Dear Bernard</strong> is a musical by Honeypot Productions."
-+++
+---
+title: "Dear Bernard"
+author: Mika Epstein
+layout: producer
+categories: ["Filmography"]
+tags: [producer, stage, honeypot]
+genre: Musical
+year: 2014
+excerpt: "<strong>Dear Bernard</strong> is a musical by Honeypot Productions."
+---
 
 ## Overview
 

@@ -1,17 +1,18 @@
-+++
-title = "The Works (July 2006)"
-date = "2006-05-25"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: The Works (July 2006)
+date: 2006-05-25
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Jorja Fox"
-newsauthor = "Jenny Eden"
-newssource = "The Works"
-newsurl = "http://www.visimag.com/theworks/index.htm"
-+++
+newstitle: "Jorja Fox"
+newsauthor: Jenny Eden  
+newssource: The Works
+newsurl: http://www.visimag.com/theworks/index.htm  
+
+---
 
 One of the stars of the US's top-rated drama **CSI** speaks out...
 

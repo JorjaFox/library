@@ -1,18 +1,19 @@
-+++
-title = "Organ Grinder"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "Eleven"
-date = "2001-12-13"
-prodnum= "211"
-+++
+---
+title: "Organ Grinder"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2
+epnum: Eleven  
+date: 2001-12-13
+prodnum: 211  
+---
 
 ## Synopsis## 
 

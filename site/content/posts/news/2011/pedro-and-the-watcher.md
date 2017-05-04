@@ -1,17 +1,18 @@
-+++
-title = "Pedro and the Watcher"
-date = "2011-07-20"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: Pedro and the Watcher
+date: 2011-07-20
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "Jorja Fox returns to 'CSI' as a regular"
-newsauthor = "The Watcher"
-newssource = "Pedro and the Watcher"
-newsurl = "http://pedrowatcher.ocregister.com/2011/07/20/jorja-fox-returns-to-csi-as-a-regular/39777/"
-+++
+newstitle: "Jorja Fox returns to 'CSI' as a regular  "
+newsauthor: The Watcher  
+newssource: Pedro and the Watcher  
+newsurl: http://pedrowatcher.ocregister.com/2011/07/20/jorja-fox-returns-to-csi-as-a-regular/39777/  
+
+---
 
 **Jorja Fox's** on-again. off-again relationship with **"CSI: Crime Scene Investigation"** flipped to on-again, as CBS announced she will return to the series as a regular this fall.
 

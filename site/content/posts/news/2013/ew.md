@@ -1,17 +1,18 @@
-+++
-title = "EW.com"
-date = "2013-02-19"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
+---
+title: EW.com
+date: 2013-02-19
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
 
-newstitle = "&#8216;CSI': What is sad Sara waiting for? &#8212; EXCLUSIVE VIDEO"
-newsauthor = "Lynette Rice"
-newssource = "EW.com"
-newsurl = "http://insidetv.ew.com/2013/02/19/csi-jorja-fox-william-petersen/"
-+++
+newstitle: "&#8216;CSI': What is sad Sara waiting for? &#8212; EXCLUSIVE VIDEO  "
+newsauthor: Lynette Rice  
+newssource: EW.com  
+newsurl: http://insidetv.ew.com/2013/02/19/csi-jorja-fox-william-petersen/  
+
+---
 
 Why so sad, Sara?
 

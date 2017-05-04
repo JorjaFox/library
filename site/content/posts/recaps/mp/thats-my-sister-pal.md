@@ -1,17 +1,17 @@
-+++
-title = "That's My Sister, Pal"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/:title/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-date = "1993-10-14"
-season = "1"
-episode = "5"
-+++
+---
+title: "That's My Sister, Pal"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/missing-persons/:title/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+date: 1993-10-14
+season: 1
+episode: 5
+---
 
 ## Synopsis
 

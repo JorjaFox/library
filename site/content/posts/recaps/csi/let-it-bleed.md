@@ -1,18 +1,19 @@
-+++
-title = "Let It Bleed"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "9"
-epnum = "4"
-date = "2008-10-30"
-prodnum= "904"
-+++
+---
+title: "Let It Bleed"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 9
+epnum: 4  
+date: 2008-10-30
+prodnum: 904  
+---
 
 ## Synopsis
 

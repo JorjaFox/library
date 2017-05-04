@@ -1,17 +1,18 @@
-+++
-title = "The Male Couple "
-date = "2011-07-01"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2011"]
-categories = ["Articles", "News"]
-permalink = "/news/2011/:title/"
+---
+title: The Male Couple 
+date: 2011-07-01
+author: Mika Epstein
+layout: news
+tags: ["2011"]
+categories: ["Articles", "News"]
+permalink: /news/2011/:title/
 
-newstitle = "Never Be Ashamed of Who You Are"
-newsauthor = "Antonio C. "
-newssource = "The Male Couple"
-newsurl = "http://themalecouple.blogspot.com/2011/07/matthew-jaeger-never-be-ashamed-of-who.html"
-+++
+newstitle: "Never Be Ashamed of Who You Are"
+newsauthor: Antonio C. 
+newssource: The Male Couple
+newsurl: http://themalecouple.blogspot.com/2011/07/matthew-jaeger-never-be-ashamed-of-who.html  
+
+---
  [...]
 
 **How it was the experience working in a chapter of a prime time TV show CSI with Academy Oscar Winner Marlee Matlin or TV stars like Jorja Fox?**  

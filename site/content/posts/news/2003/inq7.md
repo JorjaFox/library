@@ -1,16 +1,17 @@
-+++
-title = "INQ7"
-date = "2003-04-03"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "CSI STAR Jorja Fox's answered prayer"
-newsauthor = "Staff"
-newssource = "INQ 7"
-newsurl = "http://www.inq7.net/ent/2003/apr/04/ent_3-1.htm"
-+++
+---
+title: INQ7
+date: 2003-04-03
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: "CSI STAR Jorja Fox's answered prayer"
+newsauthor: Staff  
+newssource: INQ 7  
+newsurl: http://www.inq7.net/ent/2003/apr/04/ent_3-1.htm  
+
+---
 
 TELEVISION actress Jorja Fox is no stranger to violence: She plays  
 criminal scene investigator Sara Sidle in the top-rating "CSI: Crime  

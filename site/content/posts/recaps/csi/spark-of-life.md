@@ -1,18 +1,19 @@
-+++
-title = "Spark of Life"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "18 "
-date = "2005-03-31"
-prodnum= "518 "
-+++
+---
+title: "Spark of Life"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 18 
+date: 2005-03-31
+prodnum: 518 
+---
 
 ## Synopsis
 

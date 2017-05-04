@@ -1,16 +1,17 @@
-+++
-title = "TV Gal"
-date = "2002-01-21"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2002"]
-categories = ["Articles", "News"]
-permalink = "/news/2002/:title/"
-newstitle = "TV Gal Dishes Up the Globes"
-newsauthor = "Staff"
-newssource = "TV Gal"
-newsurl = "http://tv.zap2it.com/"
-+++
+---
+title: TV Gal
+date: 2002-01-21
+author: Mika Epstein
+layout: news
+tags: ["2002"]
+categories: ["Articles", "News"]
+permalink: /news/2002/:title/
+newstitle: TV Gal Dishes Up the Globes  
+newsauthor: Staff  
+newssource: TV Gal  
+newsurl: http://tv.zap2it.com/  
+
+---
 
 Okay people, clearly I'm going to have to fly to LA and apply for a job at the E! channel.
 

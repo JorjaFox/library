@@ -1,17 +1,18 @@
-+++
-title = "Buddy TV "
-date = "2007-05-04"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Buddy TV 
+date: 2007-05-04
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "More on Jorja Fox's Possible Exit from CSI"
-newsauthor = "Staff"
-newssource = "Buddy TV "
-newsurl = "http://www.buddytv.com/articles/csi/more-on-jorja-foxs-possible-ex-6214.aspx"
-+++
+newstitle: "More on Jorja Fox's Possible Exit from CSI"
+newsauthor: Staff
+newssource: Buddy TV 
+newsurl: http://www.buddytv.com/articles/csi/more-on-jorja-foxs-possible-ex-6214.aspx
+
+---
 
 As we told you **last week**, speculation is running rampant about whether **Jorja Fox**, who plays Sara Sidle, will be leaving **CSI**. Now more possible details have emerged â but are they true? You be the judge. 
 

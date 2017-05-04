@@ -1,17 +1,18 @@
-+++
-title = "TV Guide"
-date = "2006-09-21"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: TV Guide
+date: 2006-09-21
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "'CSI' Stars Answer Your Burning Questions!"
-newsauthor = "Staff"
-newssource = "TV Guide"
-newsurl = "http://www.tvguide.com"
-+++
+newstitle: "'CSI' Stars Answer Your Burning Questions!  "
+newsauthor: Staff  
+newssource: TV Guide  
+newsurl: http://www.tvguide.com  
+
+---
 
 You wanted answers about Grissom and Sara's relationship, and we've got 'em. For the occasion of "CSI**s Season 7 premiere (tonight at 9 pm/ET), TV Guide brought your burning questions, collected at TVGuide.com,&nbsp;to series stars William Petersen and Jorja Fox. In addition to what follows, look for many more Q's and A's in the new [TV Guide magazine](http://www.tvguide.com/Magazine/default.aspx). 
 
@@ -69,7 +70,7 @@ You wanted answers about Grissom and Sara's relationship, and we've got 'em. For
   
 **Petersen: **Certainly the Quentin Tarantino episode ["Grave Danger"] was great. That was a full two hours, a big job for everybody.  
   
-**Fox: **I really liked "A Bullet Runs Through It," "Parts&nbsp;1 and 2. That was incredibly good.  
+**Fox: **I really liked "A Bullet Runs Through It,"" "Parts&nbsp;1 and 2. That was incredibly good.  
   
 **Petersen: **The big ones create more memories for us. Sometimes we'll work on a show for&nbsp;eight or&nbsp;nine days, so to spend "three weeks" on the same story line is great for us. You feel like you were there because it was bigger.  
   

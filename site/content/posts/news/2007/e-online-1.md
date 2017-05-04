@@ -1,17 +1,18 @@
-+++
-title = "E Online"
-date = "2007-09-28"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: E Online
+date: 2007-09-28
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "'CSI' Losing Fox, Wins Ratings"
-newsauthor = "E! Online"
-newssource = "E! Online"
-newsurl = "http://www.eonline.com"
-+++
+newstitle: "'CSI' Losing Fox, Wins Ratings"
+newsauthor: "E! Online"
+newssource: "E! Online"
+newsurl: http://www.eonline.com
+
+---
 
 Sara Sidle is a survivor. The actor that plays her, not so much.
 

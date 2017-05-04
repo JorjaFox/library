@@ -1,17 +1,18 @@
-+++
-title = "AfterEllen"
-date = "2009-01-06"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: AfterEllen
+date: 2009-01-06
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Ask AfterEllen.com (Jan. 6, 2009)"
-newsauthor = "Sarah Warn"
-newssource = "AfterEllen"
-newsurl = "http://www.afterellen.com/column/ask-afterellen-01-06-09?page=0%2C3"
-+++
+newstitle: "Ask AfterEllen.com (Jan. 6, 2009)  "
+newsauthor: Sarah Warn  
+newssource: AfterEllen  
+newsurl: http://www.afterellen.com/column/ask-afterellen-01-06-09?page=0%2C3  
+
+---
 
 **Q: Any update on the Dusty Springfield movie Kristin Chenoweth is starring in besides what Kristin said about it in her interview last month?**
 

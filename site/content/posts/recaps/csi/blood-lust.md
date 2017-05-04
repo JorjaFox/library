@@ -1,18 +1,19 @@
-+++
-title = "Blood Lust"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "9"
-date = "2002-12-05"
-prodnum= "309"
-+++
+---
+title: "Blood Lust"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3  
+epnum: 9
+date: 2002-12-05
+prodnum: 309  
+---
 
 ## Synopsis
 

@@ -1,17 +1,18 @@
-+++
-title = "Total TVguide"
-date = "2013-04-02"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
+---
+title: Total TVguide
+date: 2013-04-02
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
 
-newstitle = "&#8216;We're number one in the world"
-newsauthor = "David Collins"
-newssource = "Total TVguide"
-newsurl = "http://www.tvchoicemagazine.co.uk/"
-+++
+newstitle: "&#8216;We're number one in the world'  "
+newsauthor: David Collins  
+newssource: Total TVguide  
+newsurl: http://www.tvchoicemagazine.co.uk/  
+
+---
 
 **Jorja Fox**, who plays Sara Sidle, is proud to be part of the planet's favourite show
 

@@ -1,17 +1,18 @@
-+++
-title = "MSNBC "
-date = "2007-11-14"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: MSNBC 
+date: 2007-11-14
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Fans fear 'CSI' will suffer without Sara Sidle"
-newsauthor = "MSNBC"
-newssource = "MSNBC"
-newsurl = "http://www.msnbc.msn.com/id/21777452/ "
-+++
+newstitle: "Fans fear 'CSI' will suffer without Sara Sidle  "
+newsauthor: MSNBC  
+newssource: MSNBC  
+newsurl: http://www.msnbc.msn.com/id/21777452/ 
+
+---
 **Jorja Fox's character valuable to show, and she's a role model, readers say**
 
 It's not unusual for actors to leave a successful show after a long run to pursue other opportunities. George Clooney did so successfully. But whether or not Jorja Fox can pull off the same feat when she leaves âCSI's' Sara Sidle behind is of little worry for fans of the hit crime drama -- they're more concerned that the show will suffer without her.

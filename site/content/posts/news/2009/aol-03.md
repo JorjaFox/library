@@ -1,17 +1,18 @@
-+++
-title = "AOL TV"
-date = "2009-08-18"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: AOL TV
+date: 2009-08-18
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Jorja Fox Interview on Returning to &#8216;CSI"
-newsauthor = "Sandra Deane"
-newssource = "AOL TV"
-newsurl = "http://television.aol.com/insidetv/2009/08/18/jorja-fox-interview-on-returning-to-csi/"
-+++
+newstitle: "Jorja Fox Interview on Returning to &#8216;CSI'  "
+newsauthor: Sandra Deane  
+newssource: AOL TV  
+newsurl: http://television.aol.com/insidetv/2009/08/18/jorja-fox-interview-on-returning-to-csi/  
+
+---
 
 It's been two years since Jorja Fox left the grimy Las Vegas crime scenes of &#8216;CSI' for sun, surf and soul searching. But now she's set to return as Sara Sidle for a much anticipated five-episode arc on the series' 10th season (premiering Sept. 24 on CBS). There's wild speculation around the circumstances of her visit &#8212; Is another CSI in danger? Are Sara and Grissom still together? &#8212; and AOL TV grilled her mercilessly for the juicy details.
 

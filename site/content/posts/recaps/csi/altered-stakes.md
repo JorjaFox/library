@@ -1,18 +1,19 @@
-+++
-title = "Altered Stakes"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "12"
-epnum = "20"
-date = "2012-04-11"
-prodnum= "271"
-+++
+---
+title: "Altered Stakes"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 12  
+epnum: 20  
+date: 2012-04-11
+prodnum: 271  
+---
 
 ## Synopsis
 

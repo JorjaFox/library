@@ -1,18 +1,19 @@
-+++
-title = "Living Doll"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "24"
-date = "2007-05-17"
-prodnum= "724"
-+++
+---
+title: "Living Doll"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 24  
+date: 2007-05-17
+prodnum: 724  
+---
 
 ## Synopsis
 

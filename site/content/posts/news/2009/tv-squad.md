@@ -1,17 +1,18 @@
-+++
-title = "TV Squad"
-date = "2009-08-19"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: TV Squad
+date: 2009-08-19
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Jorja Fox back on duty at CSI...for a little while"
-newsauthor = "Allison Waldman"
-newssource = "TV Squad"
-newsurl = "http://www.tvsquad.com/2009/07/19/jorja-fox-back-on-duty-at-csi-for-a-little-while/"
-+++
+newstitle: "Jorja Fox back on duty at CSI...for a little while  "
+newsauthor: Allison Waldman  
+newssource: TV Squad  
+newsurl: http://www.tvsquad.com/2009/07/19/jorja-fox-back-on-duty-at-csi-for-a-little-while/  
+
+---
 
 When last we saw actress Jorja Fox on "CSI", her alter ego Sara Sidle was deep in the Costa Rican jungle, happily reunited with the love of her life, Gil Grissom. Well, apparently Sara's going to have some very good reason to leave that romantic idyll because come this fall, Jorja Fox is returning to "CSI" for five episodes. 
 

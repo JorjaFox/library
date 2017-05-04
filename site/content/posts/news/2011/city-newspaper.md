@@ -1,17 +1,18 @@
-+++
-title = "City Newspaper"
-date = "2011-10-06"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: City Newspaper
+date: 2011-10-06
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "'CSI' Season 12, Episode3: Like abductor, like daughter"
-newsauthor = "Willie Clark"
-newssource = "City Newspaper"
-newsurl = "http://www.rochestercitynewspaper.com/entertainment/blog/2011/10/CSI-Season-12-Episode3-Like-abductor-like-daughter/"
-+++
+newstitle: "'CSI' Season 12, Episode3: Like abductor, like daughter  "
+newsauthor: Willie Clark  
+newssource: City Newspaper  
+newsurl: http://www.rochestercitynewspaper.com/entertainment/blog/2011/10/CSI-Season-12-Episode3-Like-abductor-like-daughter/  
+
+---
 
 I can't believe it, but I think I am starting to actually "like" D.B. Russell. Granted, the show's new lead (played by Ted Danson) had a very good supporting story this episode, continuing the trend of the crimes getting more interesting, which is something the show hasn't done for some time.
 

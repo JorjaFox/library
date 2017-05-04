@@ -1,17 +1,18 @@
-+++
-title = "RT Guide"
-date = "2009-01-06"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: RT Guide
+date: 2009-01-06
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "CSI Special"
-newsauthor = "Janice Butler"
-newssource = "RT Guide"
-newsurl = "http://www.rteguide.ie"
-+++
+newstitle: "CSI Special  "
+newsauthor: Janice Butler  
+newssource: RT Guide  
+newsurl: http://www.rteguide.ie  
+
+---
 
 [...]
 

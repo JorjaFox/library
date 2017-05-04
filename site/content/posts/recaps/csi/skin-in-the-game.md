@@ -1,18 +1,19 @@
-+++
-title = "Skin in the Game"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "22"
-date = "2013-05-15"
-prodnum= "295"
-+++
+---
+title: "Skin in the Game"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13  
+epnum: 22  
+date: 2013-05-15
+prodnum: 295  
+---
 
 ## Synopsis
 

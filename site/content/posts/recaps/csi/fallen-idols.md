@@ -1,18 +1,19 @@
-+++
-title = "Fallen Idols"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "17"
-date = "2007-02-22"
-prodnum= "717"
-+++
+---
+title: "Fallen Idols"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 17
+date: 2007-02-22
+prodnum: 717  
+---
 
 ## Synopsis
 

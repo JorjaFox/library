@@ -1,18 +1,19 @@
-+++
-title = "Pick and Roll"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "6"
-date = "2012-11-07"
-prodnum= "279"
-+++
+---
+title: "Pick and Roll"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13  
+epnum: 6  
+date: 2012-11-07
+prodnum: 279  
+---
 
 ## Synopsis
 

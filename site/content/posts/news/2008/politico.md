@@ -1,17 +1,18 @@
-+++
-title = "Politico"
-date = "2008-11-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Politico
+date: 2008-11-13
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "There's a new group in town, and Hollywood is excited to learn about it"
-newsauthor = "Anne Schroeder Mullins"
-newssource = "Politico"
-newsurl = "http://www.politico.com/blogs/anneschroeder/1108/Theres_a_new_group_in_town_and_Hollywood_is_excited_to_learn_about_it.html"
-+++
+newstitle: "There's a new group in town, and Hollywood is excited to learn about it  "
+newsauthor: Anne Schroeder Mullins  
+newssource: Politico  
+newsurl: http://www.politico.com/blogs/anneschroeder/1108/Theres_a_new_group_in_town_and_Hollywood_is_excited_to_learn_about_it.html  
+
+---
 
 The Obama campaign is going to do wonders for the gang running Artists & Athletes, the nonprofit that has found its niche within the confines of Hollywood's interest in and naivetÃ© about Washington.
 

@@ -1,18 +1,19 @@
-+++
-title = "Family Affair"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "10"
-epnum = "1"
-date = "2009-09-24"
-prodnum= "207"
-+++
+---
+title: "Family Affair"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 10
+epnum: 1  
+date: 2009-09-24
+prodnum: 207  
+---
 
 ## Synopsis
 

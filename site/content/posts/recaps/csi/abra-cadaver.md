@@ -1,18 +1,19 @@
-+++
-title = "Abra-Cadaver"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "3"
-epnum = "5"
-date = "2002-10-31"
-prodnum= "306"
-+++
+---
+title: "Abra-Cadaver"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 3
+epnum: 5
+date: 2002-10-31
+prodnum: 306  
+---
 
 ## Synopsis## 
 

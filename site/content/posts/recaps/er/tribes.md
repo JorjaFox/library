@@ -1,19 +1,19 @@
-+++
-title = "Tribes"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Seventeen"
-prodnum = "465417  "
-date = "1997-04-10"
-rating = "1"
-+++
+---
+title: Tribes
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Seventeen  
+prodnum: 465417    
+date: 1997-04-10  
+rating: 1  
+---
 
 ## Summary  
   

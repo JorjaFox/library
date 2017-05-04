@@ -1,18 +1,19 @@
-+++
-title = "Better Off Dead"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "10"
-epnum = "10"
-date = "2009-12-17"
-prodnum= "216"
-+++
+---
+title: "Better Off Dead"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 10
+epnum: 10  
+date: 2009-12-17
+prodnum: 216  
+---
 
 ## Synopsis
 

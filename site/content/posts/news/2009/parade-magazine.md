@@ -1,17 +1,18 @@
-+++
-title = "Parade Magazine"
-date = "2009-01-18"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: Parade Magazine
+date: 2009-01-18
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Personality Parade"
-newsauthor = "Staff"
-newssource = "Parade Magazine"
-newsurl = "http://www.parade.com/celebrity/slideshows/personality-parade/male-film-legends.html?index=9"
-+++
+newstitle: "Personality Parade  "
+newsauthor: Staff  
+newssource: Parade Magazine  
+newsurl: http://www.parade.com/celebrity/slideshows/personality-parade/male-film-legends.html?index=9  
+
+---
 
 [...]
 

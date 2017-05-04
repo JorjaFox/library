@@ -1,16 +1,17 @@
-+++
-title = "Hollywood.com 24"
-date = "2001-08-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = "TV Q&A: 'C.S.I.''s Jorja Fox"
-newsauthor = "Staff"
-newssource = "Hollywood.com"
-newsurl = "http://hollywood.com"
-+++
+---
+title: Hollywood.com 24
+date: 2001-08-01
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle: "TV Q&A: 'C.S.I.''s Jorja Fox"
+newsauthor: Staff  
+newssource: Hollywood.com  
+newsurl: http://hollywood.com  
+
+---
 Actress Jorja Fox has been everywhere on the tube-from a three-season stint on *ER* to a guest role on *The West Wing*-but she's found a home on CBS' critically acclaimed series *C.S.I.*, playing forensics expert Sara Sidle.  
 Fox, 33, spoke with Hollywood.com over the phone from her L.A. home to discuss her role on *C.S.I.*, the upcoming Emmys ceremony, the success of *ER* and the joys of nudity.
 

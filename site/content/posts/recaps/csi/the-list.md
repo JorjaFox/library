@@ -1,18 +1,19 @@
-+++
-title = "The List"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "17"
-date = "2011-03-10"
-prodnum= "246"
-+++
+---
+title: "The List"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11
+epnum: 17  
+date: 2011-03-10
+prodnum: 246  
+---
 
 ## Synopsis
 

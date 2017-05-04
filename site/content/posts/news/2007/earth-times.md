@@ -1,17 +1,18 @@
-+++
-title = "Earth Times "
-date = "2007-09-28"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Earth Times 
+date: 2007-09-28
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Jorja Fox to leave &#8216;CSI"
-newsauthor = "Earth Times "
-newssource = "Earth Times "
-newsurl = "http://www.earthtimes.org"
-+++
+newstitle: "Jorja Fox to leave &#8216;CSI'"
+newsauthor: Earth Times 
+newssource: Earth Times 
+newsurl: http://www.earthtimes.org
+
+---
 
 Hollywood actress Jorja Fox is reportedly planning to leave the popular police procedural, "CSI: Crime Scene Investigation."
 

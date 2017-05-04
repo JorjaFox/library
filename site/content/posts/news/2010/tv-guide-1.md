@@ -1,17 +1,18 @@
-+++
-title = "TV Guide.com"
-date = "2010-07-25"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
+---
+title: TV Guide.com
+date: 2010-07-25
+author: Mika Epstein
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
 
-newstitle = "Ask Matt: *Damages*&#8216; Rescue, Summer Crime Drama, *The Choir* and More!"
-newsauthor = "Matt Roush"
-newssource = "TV Guide.com"
-newsurl = "http://www.tvguide.com/News/Ask-Matt-Damages-1020939.aspx"
-+++
+newstitle: "Ask Matt: *Damages*&#8216; Rescue, Summer Crime Drama, *The Choir* and More!  "
+newsauthor: Matt Roush  
+newssource: TV Guide.com  
+newsurl: http://www.tvguide.com/News/Ask-Matt-Damages-1020939.aspx  
+
+---
 
 [...]
 

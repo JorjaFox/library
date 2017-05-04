@@ -1,16 +1,18 @@
-+++
-title = "EFlux Media "
-date = "2007-11-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
-newstitle = "Jorja Fox Leaves CSI"
-newsauthor = "Jane Ivory"
-newssource = "eFlux Media"
-newsurl = "http://www.efluxmedia.com/"
-+++
+---
+title: EFlux Media 
+date: 2007-11-16
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
+
+newstitle: "Jorja Fox Leaves CSI  "
+newsauthor: Jane Ivory  
+newssource: eFlux Media  
+newsurl: http://www.efluxmedia.com/news\_Jorja\_Fox\_Leaves\_CSI_10711.html 
+
+---
 "Goodbye and Good Luck" was Jorja Fox's last appearance on the popular CBS series "CSI," after a seven-year tenure on the show.
 
 Forensic scientist Sara Sidle, the character Fox had portrayed since 2000, was very popular with fans â so much so that, when the actress was fired in 2004. It was a temporary dismissal, as the public reacted strongly, demanding that she return.

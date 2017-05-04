@@ -1,17 +1,18 @@
-+++
-title = "TV Guide"
-date = "2008-04-08"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2008"]
-categories = ["Articles", "News"]
-permalink = "/news/2008/:title/"
+---
+title: TV Guide
+date: 2008-04-08
+author: Mika Epstein
+layout: news
+tags: ["2008"]
+categories: ["Articles", "News"]
+permalink: /news/2008/:title/
 
-newstitle = "'Ausiello on \"CSI\", \"Office\", \"Heroes\", \"Bones\", \"Lost\" and More!'"
-newsauthor = "Michael Ausiello"
-newssource = "Ask Ausiello"
-newsurl = "http://www.tvguide.com/Ask-Ausiello/080408"
-+++
+newstitle: 'Ausiello on "CSI", "Office", "Heroes", "Bones", "Lost" and More!'
+newsauthor: Michael Ausiello  
+newssource: Ask Ausiello  
+newsurl: http://www.tvguide.com/Ask-Ausiello/080408  
+
+---
 
 [...]
 

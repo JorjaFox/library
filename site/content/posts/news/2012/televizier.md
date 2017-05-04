@@ -1,17 +1,18 @@
-+++
-title = "Televizier"
-date = "2012-12-04"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
+---
+title: Televizier
+date: 2012-12-04
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
 
-newstitle = "Sara, the mother hen in CSI - Background"
-newsauthor = "Leks van der Horst"
-newssource = "Televizier"
-newsurl = "http://www.televizier.nl/nieuws/achtergrond/sara-de-moederkloek-in-csi-achtergrond.1049543.lynkx"
-+++
+newstitle: "Sara, the mother hen in CSI - Background  "
+newsauthor: Leks van der Horst  
+newssource: Televizier  
+newsurl: http://www.televizier.nl/nieuws/achtergrond/sara-de-moederkloek-in-csi-achtergrond.1049543.lynkx  
+
+---
 
 *[Translated from Dutch by Google & Corrected by Volunteers.]*  
 "'In the new season of CSI, Russel has to save his granddaughter. Sara finds an important lead. If he hadn"t had herâ¦"'

@@ -1,18 +1,19 @@
-+++
-title = "Dead of the Class"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "17"
-date = "2013-03-20"
-prodnum= "290"
-+++
+---
+title: "Dead of the Class"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13  
+epnum: 17  
+date: 2013-03-20
+prodnum: 290  
+---
 
 ## Synopsis
 

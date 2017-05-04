@@ -1,13 +1,16 @@
-+++
-title = "Yahoo Chat"
-author = "Mika Epstein"
-date = "2001-04-24"
-layout = "transcript"
-interviewurl = "http://yahoo.com/"
-permalink = "/transcript/2001/:title/"
-categories = ["Interviews"]
-tags = ["Online Chat", "2001"]
-+++
+---
+title: Yahoo Chat
+author: Mika Epstein
+date: 2001-04-24
+layout: transcript
+interviewurl: http://yahoo.com/
+permalink: /transcript/2001/:title/
+categories:
+  - Interviews
+tags:
+  - "Online Chat"
+  - 2001
+---
 This chat log was cut short by technical difficulties (dialup connection crashed). Despite promises to provide the full log, Yahoo! never did.
 
 ## "CSI" star Jorja Fox

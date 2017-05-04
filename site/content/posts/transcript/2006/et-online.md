@@ -1,13 +1,16 @@
-+++
-title = "ET Online"
-author = "Mika Epstein"
-interviewurl = "http://www.etonline.com"
-date = "2006-04-27"
-layout = "transcript"
-permalink = "/transcript/2006/:title/"
-categories = ["Interviews"]
-tags = ["2006", "Talk Shows"]
-+++
+---
+title: ET Online
+author: Mika Epstein
+interviewurl: http://www.etonline.com
+date: 2006-04-27
+layout: transcript
+permalink: /transcript/2006/:title/
+categories: ["Interviews"]
+
+tags:
+  - 2006
+  - "Talk Shows"
+---
 
 Go behind the scenes of the "CSI" wedding murder!
 

@@ -1,17 +1,18 @@
-+++
-title = "CMS Review"
-date = "2005-04-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: CMS Review
+date: 2005-04-01
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Reality TV: Good for Networks, Bad for Network Workers"
-newsauthor = "Andrew Murphy"
-newssource = "CMS Review"
-newsurl = "http://www.niagara.edu/communication/pdf/CMS%20Review%20Apr%2005%20Vol8-4.pdf"
-+++
+newstitle: "Reality TV: Good for Networks, Bad for Network Workers"
+newsauthor: Andrew Murphy  
+newssource: CMS Review  
+newsurl: http://www.niagara.edu/communication/pdf/CMS%20Review%20Apr%2005%20Vol8-4.pdf  
+
+---
 [...]
 
 However, a more tangible problem that reality television has caused is a heavy increase in unemployment among actors and production crews. I was able to speak with two actresses, Jorja Fox of *C.S.I.* and Sami Reade an actress with 15 years of experience. They discussed how the changes have affected them and members of the acting and production community.

@@ -1,13 +1,14 @@
-+++
-title = "VegTV (25 August 2007)"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2007-08-25"
-interviewurl = "http://www.vegtv.com"
-permalink = "/transcript/2007/:title/"
-categories = ["Interviews"]
-tags = ["2007"]
-+++
+---
+title: VegTV (25 August 2007)
+author: Mika Epstein
+layout: transcript
+date: 2007-08-25
+interviewurl: http://www.vegtv.com
+permalink: /transcript/2007/:title/
+categories: ["Interviews"]
+tags:
+  - 2007
+---
  
 **Announcer:** VegTV on the road with Marie Oser.
 

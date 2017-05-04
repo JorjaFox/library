@@ -1,16 +1,17 @@
-+++
-title = "In Style"
-date = "2003-03-01"
-author = "Mika Epstein"
-layout = "news"
-categories = ["Articles", "News"]
-tags = ["2003"]
-permalink = "/news/2003/:title/"
-newstitle = "Guess Who's Serving You Dinner?"
-newsauthor = "Staff"
-newssource = "In Style Magazine"
-newsurl = "http://instyle.com"
-+++
+---
+title: In Style
+date: 2003-03-01
+author: Mika Epstein
+layout: news
+categories: ["Articles", "News"]
+tags: ["2003"]
+permalink: /news/2003/:title/
+newstitle: Guess Who's Serving You Dinner?  
+newsauthor: Staff  
+newssource: In Style Magazine  
+newsurl: http://instyle.com
+
+---
 
 A future Academy Award winner, perhaps. Today's stars recall how time spent waiting for their big break often meant waiting on customers.
 

@@ -1,17 +1,18 @@
-+++
-title = "Chicago Tribune"
-date = "2006-07-21"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Chicago Tribune
+date: 2006-07-21
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "It's about time &#8216;CSI' got personal"
-newsauthor = "Staff"
-newssource = "Chicago Tribune"
-newsurl = "http://www.chicagotribune.com"
-+++
+newstitle: "It's about time &#8216;CSI' got personal  "
+newsauthor: Staff  
+newssource: Chicago Tribune  
+newsurl: http://www.chicagotribune.com  
+
+---
 
 For her part, Fox says she was "thrilled" to get the script pages with that intimate scene between Grissom and Sidle.
 

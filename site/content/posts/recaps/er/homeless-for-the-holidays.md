@@ -1,19 +1,19 @@
-+++
-title = "Homeless For The Holidays"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Three"
-epnum = "Ten"
-prodnum = "465410  "
-date = "1996-12-19"
-rating = "5"
-+++
+---
+title: Homeless For The Holidays
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Three  
+epnum: Ten  
+prodnum: 465410    
+date: 1996-12-19  
+rating: 5  
+---
 
 ## Summary  
   

@@ -1,17 +1,18 @@
-+++
-title = "Chicago Sun-Times "
-date = "2007-12-06"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Chicago Sun-Times 
+date: 2007-12-06
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "&#8216;CSI' outshines stars"
-newsauthor = "Doug Elfman"
-newssource = "Chicago Sun-Times"
-newsurl = "http://www.suntimes.com"
-+++
+newstitle: "&#8216;CSI' outshines stars"
+newsauthor: Doug Elfman  
+newssource: Chicago Sun-Times  
+newsurl: http://www.suntimes.com
+
+---
 
 **REVIEW | Dazzling visuals set pace for TV procedurals, making departure of Fox or anyone else secondary**
 

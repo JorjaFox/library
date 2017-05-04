@@ -1,18 +1,19 @@
-+++
-title = "Felonious Monk"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "17"
-date = "2002-03-07"
-prodnum= "217"
-+++
+---
+title: "Felonious Monk"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2  
+epnum: 17
+date: 2002-03-07
+prodnum: 217  
+---
 
 ## Synopsis
 

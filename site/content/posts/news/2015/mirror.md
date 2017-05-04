@@ -1,16 +1,17 @@
-+++
-title = "Mirror"
-date = "2015-09-15"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2015"]
-categories = ["Articles", "News"]
-permalink = "/news/2015/:title/"
-newstitle = "Watch CSI Immortality teaser as the team comes back together for one last case"
-newsauthor = "Alistair McGeorge"
-newssource = "Mirror"
-newsurl = "http://www.mirror.co.uk/tv/tv-news/watch-csi-immortality-teaser-team-6447877"
-+++
+---
+title: Mirror
+date: 2015-09-15
+author: Mika Epstein
+layout: news
+tags: ["2015"]
+categories: ["Articles", "News"]
+permalink: /news/2015/:title/
+newstitle: Watch CSI Immortality teaser as the team comes back together for one last case  
+newsauthor: Alistair McGeorge  
+newssource: Mirror  
+newsurl: http://www.mirror.co.uk/tv/tv-news/watch-csi-immortality-teaser-team-6447877  
+
+---
 
 After 15 years on the air, it's time to say goodbye - but it's all hands on deck for the final mystery.
 

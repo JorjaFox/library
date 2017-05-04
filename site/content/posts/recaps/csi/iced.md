@@ -1,18 +1,19 @@
-+++
-title = "Iced"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "23 "
-date = "2005-05-12"
-prodnum= "523 "
-+++
+---
+title: "Iced"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 23 
+date: 2005-05-12
+prodnum: 523 
+---
 
 ## Synopsis
 

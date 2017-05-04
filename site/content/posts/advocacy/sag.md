@@ -1,11 +1,13 @@
-+++
-title = "Screen Actors Guild"
-author = "Mika Epstein"
-layout = "advocacy"
-categories = ["Advocacy"]
-tags = [ "Acting", "Unions"]
-website = "http://www.SAG.org"
-+++
+---
+title: Screen Actors Guild
+author: Mika Epstein
+layout: advocacy
+categories: ["Advocacy"]
+tags: 
+  - Acting
+  - Unions
+website: http://www.SAG.org
+---
 
 The Screen Actors Guild (aka SAG) is an American labor union representing over 120,000 film and television principal performers and background performers worldwide. According to SAG's Mission Statement, the Guild seeks to: negotiate and enforce collective bargaining agreements that establish equitable levels of compensation, benefits, and working conditions for its performers; collect compensation for exploitation of recorded performances by its members, and provide protection against unauthorized use of those performances; and preserve and expand work opportunities for its members.
 

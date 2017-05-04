@@ -1,17 +1,18 @@
-+++
-title = "The TV Addict "
-date = "2007-10-08"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: The TV Addict 
+date: 2007-10-08
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Joanna's Best & Worst of the Week"
-newsauthor = "The TV Addict"
-newssource = "The TV Addict"
-newsurl = "http://thetvaddict.com"
-+++
+newstitle: "Joanna's Best & Worst of the Week"
+newsauthor: The TV Addict
+newssource: The TV Addict
+newsurl: http://thetvaddict.com
+
+---
 
 [...]
 

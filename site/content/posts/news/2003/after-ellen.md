@@ -1,16 +1,17 @@
-+++
-title = "After Ellen"
-date = "2003-03-15"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "Maggie Doyle and the Lesbian-Feminist Connection"
-newsauthor = "Sarah Warn"
-newssource = "AfterEllen"
-newsurl = "http://www.afterellen.com/"
-+++
+---
+title: After Ellen
+date: 2003-03-15
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: Maggie Doyle and the Lesbian-Feminist Connection  
+newsauthor: Sarah Warn  
+newssource: AfterEllen  
+newsurl: http://www.afterellen.com/  
+
+---
 
 **1996 saw an "explosion" of lesbians on TV compared to previous years: we were introduced to **lesbian twenty-something Rhonda Roth on the new (and short-lived) series *[http://www.afterellen.com/TV/relativity.html Relativity]*, Paul's sister came out on *Mad About You*, Roseanne's mom came out on *Roseanne*, lesbian Officer Abby Sullivan joined *NYPD Blue*-and Dr. Maggie Doyle became the first lesbian to join the staff of the hit NBC series *[http://www.afterellen.com/TV/er.html ER]*, then in its third season.
 

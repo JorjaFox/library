@@ -1,17 +1,18 @@
-+++
-title = "VIVA nacion.com"
-date = "2008-04-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: VIVA nacion.com
+date: 2008-04-17
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Jorja Fox Vists"
-newsauthor = "Staff"
-newssource = "VIVA nacion"
-newsurl = "http://www.nacion.com/viva/2008/abril/17/viva1500216.html "
-+++
+newstitle: "Jorja Fox Vists"
+newsauthor: Staff  
+newssource: VIVA nacion  
+newsurl: http://www.nacion.com/viva/2008/abril/17/viva1500216.html 
+
+---
 
 <em>Translated from Spanish</em>
 

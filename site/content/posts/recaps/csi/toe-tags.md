@@ -1,18 +1,19 @@
-+++
-title = "Toe Tags"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "3"
-date = "2006-10-05"
-prodnum= "701"
-+++
+---
+title: "Toe Tags"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 3
+date: 2006-10-05
+prodnum: 701  
+---
 
 ## Synopsis
 

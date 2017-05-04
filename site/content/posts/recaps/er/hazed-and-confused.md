@@ -1,19 +1,19 @@
-+++
-title = "Hazed and Confused"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/er/:title/"
-categories = ["Recaps"]
-tags = ["ER"]
-station = "NBC"
-showname = "E.R."
-showslug = "er"
-season = "Five"
-epnum = "Seven"
-prodnum = "467557  "
-date = "1998-11-12"
-rating = "1"
-+++
+---
+title: Hazed and Confused
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/er/:title/
+categories: ["Recaps"]
+tags: ["ER"]
+station: NBC
+showname: "E.R."
+showslug: er
+season : Five  
+epnum: Seven  
+prodnum: 467557    
+date: 1998-11-12  
+rating: 1  
+---
 
 ## Summary  
   

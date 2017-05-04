@@ -1,17 +1,18 @@
-+++
-title = "TV Guide"
-date = "2005-09-25"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: TV Guide
+date: 2005-09-25
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "CSI: Back on the Scene"
-newsauthor = "Staff"
-newssource = "TV Guide"
-newsurl = "http://www.tvguide.com"
-+++
+newstitle: "CSI: Back on the Scene"
+newsauthor: Staff  
+newssource: TV Guide  
+newsurl: http://www.tvguide.com  
+
+---
 What a difference a year (not to mention a coffin, a crazed killer and hundreds of fire ants) has made for *CSI*.
 
 Last season was a rocky one, both behind and in front of the camera, whether it was one of the stars reportedly being fired and rehired after a contract spat or the show's investigative team suddenly splintering into two squads. Then along came the sizzling season finale, which reunited the teams in order to save a kidnapped Nick (**George Eads**), who faced certain death trapped in an insect-filled casket. But he survived, and his ordeal breathed new life into the series.
@@ -24,7 +25,7 @@ It starts with Grissom (**William Petersen**) uncovering a clue that proves the 
 
 Adds **Eric Szmanda**, who plays lab-guy-turned-CSI Greg Sanders: "Now we're going to be more careful in how we approach everything. And we'll be more conscious of bugs." Particularly Nick, who doesn't have to wait long before the writers find a way to bug him: There's a scene early in the season where a big roach crawls on him, and he lets it creep up until it freaks him out.
 
-Viewers &#8212; if not Nick's coworkers &#8212; will be let in on his real state of mind. "What happened to Nick happened between him and the audience. The CSIs didn't see as much," Eads explains. "I want to keep [his reaction] between me and the audience. If I get the shakes, I'll try to do it behind people's backs. I can say, 'I'll wait in the car,' and [the CSIs] will think, 'What does he mean? Is he waiting in the car thinking about what happened?"]
+Viewers &#8212; if not Nick's coworkers &#8212; will be let in on his real state of mind. "What happened to Nick happened between him and the audience. The CSIs didn't see as much," Eads explains. "I want to keep [his reaction] between me and the audience. If I get the shakes, I'll try to do it behind people's backs. I can say, 'I'll wait in the car,' and [the CSIs] will think, 'What does he mean? Is he waiting in the car thinking about what happened?'"
 
 While Nick's trying to hide his reaction, Warrick stuns everyone with his very noticeable &#8212; and very personal &#8212; response to his buddy's abduction. By the luck of the draw, Warrick escaped being the kidnap victim, and that realization leaves him so rattled that he makes a move sure to change his relationship with his sultry supervisor, Catherine Willows (**Marg Helgenberger**). "They'll finally have that heart-to-heart a lot of fans have been waiting for," Mendelsohn promises. "Catherine is thrown for a loop."
 

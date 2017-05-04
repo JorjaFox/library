@@ -1,18 +1,19 @@
-+++
-title = "Double Fault"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "12"
-date = "2013-01-23"
-prodnum= "285"
-+++
+---
+title: "Double Fault"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13  
+epnum: 12  
+date: 2013-01-23
+prodnum: 285  
+---
 
 ## Synopsis
 

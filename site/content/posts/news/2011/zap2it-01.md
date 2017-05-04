@@ -1,17 +1,18 @@
-+++
-title = "Zap2It"
-date = "2011-07-21"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: Zap2It
+date: 2011-07-21
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "Jorja Fox rejoins CSI as series regular"
-newsauthor = "David Eckstein"
-newssource = "Zap2It"
-newsurl = "http://blog.zap2it.com/frominsidethebox/2011/07/jorja-fox-rejoins-csi-as-series-regular.html"
-+++
+newstitle: "Jorja Fox rejoins CSI as series regular  "
+newsauthor: David Eckstein  
+newssource: Zap2It  
+newsurl: http://blog.zap2it.com/frominsidethebox/2011/07/jorja-fox-rejoins-csi-as-series-regular.html  
+
+---
 
 It appears that **Jorja Fox's** on-again, off-again relationship with the long-running CBS hit **"CSI"** is on again. And this time it's permanent ... for now.
 

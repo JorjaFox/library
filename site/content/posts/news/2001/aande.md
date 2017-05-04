@@ -1,16 +1,17 @@
-+++
-title = "AandE"
-date = "2001-04-30"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = "Tube Tied"
-newsauthor = "Craig D. Lindsey"
-newssource = "Tube Tied"
-newsurl = "http://www.brainsoap.com/ Brainsoap"
-+++
+---
+title: AandE
+date: 2001-04-30
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle: Tube Tied  
+newsauthor: Craig D. Lindsey  
+newssource: Tube Tied  
+newsurl: http://www.brainsoap.com/ Brainsoap  
+
+---
 *I know you're a huge CSI fan.*
 
 I love CSI. Jorja Fox rules!

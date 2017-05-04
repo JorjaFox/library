@@ -1,17 +1,19 @@
-+++
-title = "New York Post"
-date = "2007-12-01"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2013/:title/"
-categories = ["News", "Articles"]
-tags = ["2013"]
+---
+title: New York Post
 
-newstitle = "FOXY LADY MOVES ON"
-newsauthor = "Liz Smith"
-newssource = "New York Post"
-newsurl = "http://www.nypost.com/"
-+++
+date: 2007-12-01
+author: Mika Epstein
+layout: news
+permalink: /news/2013/:title/
+categories: [News, Articles]
+tags: ["2013"]
+
+newstitle: "FOXY LADY MOVES ON  "
+newsauthor: Liz Smith  
+newssource: New York Post  
+newsurl: http://www.nypost.com/seven/12022007/gossip/liz/foxy\_lady\_moves\_on\_670812.htm?page=0  
+
+---
 
 'I'D WALK through fire for the &#8216;guys' I worked with on &#8216;CSI.' I could never be sick of them!" says **Jorja Fox**, who has left the popular TV series.
 

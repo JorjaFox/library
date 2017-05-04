@@ -1,18 +1,19 @@
-+++
-title = "Compulsion"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "17"
-date = "2005-03-10"
-prodnum = "517 "
-+++
+---
+title: "Compulsion"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 17
+date: 2005-03-10  
+prodnum: 517 
+---
 
 ## Synopsis
 

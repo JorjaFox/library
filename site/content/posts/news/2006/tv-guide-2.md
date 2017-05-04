@@ -1,17 +1,18 @@
-+++
-title = "TV Guide"
-date = "2006-03-29"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: TV Guide
+date: 2006-03-29
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "ASK AUSIELLO"
-newsauthor = "Michael Ausiello"
-newssource = "TV Guide"
-newsurl = "http://tvguide.com"
-+++
+newstitle: "ASK AUSIELLO  "
+newsauthor: Michael Ausiello  
+newssource: TV Guide  
+newsurl: http://tvguide.com  
+
+---
 
 **Question:** OK, we've been waiting for six years. Is something going to happen between Grissom and Sara on CSI before the end of this season? &#8212; Cindy
 

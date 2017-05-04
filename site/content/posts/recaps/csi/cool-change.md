@@ -1,18 +1,19 @@
-+++
-title = "Cool Change"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "1"
-epnum = "2"
-date = "2000-10-13"
-prodnum= "101"
-+++
+---
+title: "Cool Change"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 1
+epnum: 2
+date: 2000-10-13
+prodnum: 101  
+---
 
 ## Synopsis
 

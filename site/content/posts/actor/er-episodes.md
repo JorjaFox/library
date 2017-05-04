@@ -1,11 +1,11 @@
-+++
-title = "'List of ER episodes"
-author = "Mika Epstein"
-layout = "single"
-categories = ["ER"]
-tags = ["Television"]
-show = "er"
-+++
+---
+title: 'List of ER episodes'
+author: Mika Epstein
+layout: single
+categories: ["ER"]
+tags: ["Television"]
+show: er
+---
 
 The following is a list of episodes from the CBS television series, "[ER](/library/actor/er/)" in which Jorja Fox appeared or was credited. Episodes are rated based on quality and volume of Jorja's scenes. Episodes in which she is listed in the credits but does not appear are rated with zero stars. 
 

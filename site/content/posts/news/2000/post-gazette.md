@@ -1,16 +1,17 @@
-+++
-title = "Post-Gazette"
-date = "2000-10-04"
-author = "Mika Epstein"
-layout = "news"
-categories = ["Articles", "News"]
-permalink = "/news/2000/:title/"
-tags = ["2000"]
-newstitle = "'West Wing' elects to keep its idealistic platform"
-newsauthor = "Staff"
-newssource = "Post-Gazette"
-newsurl = "http://www.post-gazette.com"
-+++
+---
+title: Post-Gazette
+date: 2000-10-04
+author: Mika Epstein
+layout: news
+categories: ["Articles", "News"]
+permalink: /news/2000/:title/
+tags: ["2000"]
+newstitle: "'West Wing' elects to keep its idealistic platform"
+newsauthor: Staff  
+newssource: Post-Gazette  
+newsurl: http://www.post-gazette.com  
+
+---
 **Who's been shot?**
 
 It's the question fans of NBC's "The West Wing" have been asking all summer following the show's season finale shooting attack on the president and his staff. Tonight viewers will get their answer. 

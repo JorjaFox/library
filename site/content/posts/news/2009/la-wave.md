@@ -1,17 +1,18 @@
-+++
-title = "LA Wave"
-date = "2009-01-26"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2009/:title/"
-categories = ["News", "Articles"]
-tags = ["2009"]
+---
+title: LA Wave
+date: 2009-01-26
+author: Mika Epstein
+layout: news
+permalink: /news/2009/:title/
+categories: [News, Articles]
+tags: ["2009"]
 
-newstitle = "Save Billy from LA Zoo"
-newsauthor = "Terrence Lau"
-newssource = "LA Wave"
-newsurl = "http://www.wavenewspapers.com/community/calendar/38493429.html"
-+++
+newstitle: "Save Billy from LA Zoo  "
+newsauthor: Terrence Lau  
+newssource: LA Wave  
+newsurl: http://www.wavenewspapers.com/community/calendar/38493429.html  
+
+---
 
 [...]
 

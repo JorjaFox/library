@@ -1,16 +1,16 @@
-+++
-title = "Self"
-date = "2002-09-01"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2002"]
-categories = ["Articles", "News"]
-permalink = "/news/2002/:title/"
-newstitle = "How I Work Out"
-newsauthor = "Shelly Levitt"
-newssource = "Self"
-newsurl = "http://self.com"
-+++
+---
+title: Self
+date: 2002-09-01
+author: Mika Epstein
+layout: news
+tags: ["2002"]
+categories: ["Articles", "News"]
+permalink: /news/2002/:title/
+newstitle: How I Work Out  
+newsauthor: Shelly Levitt  
+newssource: Self  
+newsurl: http://self.com  
+---
 
 **Love Match**
 

@@ -1,19 +1,19 @@
-+++
-title = "Summer Stories: The Mall"
-author = "Mika Epstein"
-layout = "actor"
-categories = ["Filmography"]
-tags = ["Television"]
-show = "afterschool-specials"
-station = "ABC"
-rating = "4"
-episodes = "3"
-chartype = "guest"
-genre = "Drama"
-year = "1993"
-character = "Diane Dravecki"
-excerpt = "<strong>Summer Stories: The Mall</strong> was an ABC miniseries, much in the vein of their after school specials."
-+++
+---
+title: "Summer Stories: The Mall"
+author: Mika Epstein
+layout: actor
+categories: ["Filmography"]
+tags: ["Television"]
+show: afterschool-specials
+station: ABC
+rating: 4
+episodes: 3
+chartype: guest
+genre: Drama
+year: 1993
+character: "Diane Dravecki"
+excerpt: "<strong>Summer Stories: The Mall</strong> was an ABC miniseries, much in the vein of their after school specials."
+---
 
 Experience summer at the mall with Sarah, Spinner, Marla, Diane (Jorja Fox), Teresa, Kwan, and their friends.
 

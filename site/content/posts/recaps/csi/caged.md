@@ -1,18 +1,19 @@
-+++
-title = "Caged"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "7 "
-date = "2001-11-08"
-prodnum= "207"
-+++
+---
+title: "Caged"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2  
+epnum: 7 
+date: 2001-11-08
+prodnum: 207  
+---
 
 ## Synopsis
 

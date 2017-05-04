@@ -1,17 +1,18 @@
-+++
-title = "TV Line"
-date = "2011-04-06"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: TV Line
+date: 2011-04-06
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "Preview: Lady Heather Returns to CSI -- With Ties to Big Bad Nate Haskell?"
-newsauthor = "Megan Masters"
-newssource = "TVLine"
-newsurl = "http://www.tvline.com/2011/04/csi-preview-lady-heather-melinda-clarke/"
-+++
+newstitle: "Preview: Lady Heather Returns to CSI -- With Ties to Big Bad Nate Haskell?  "
+newsauthor: Megan Masters  
+newssource: TVLine  
+newsurl: http://www.tvline.com/2011/04/csi-preview-lady-heather-melinda-clarke/  
+
+---
 
 Lady Heather rears her <del>ugly</del> gorgeous head on CSI this Thursday (CBS, 9/8c), but why the unexpected encore? The vexing vixen â played by Nikita's Melinda Clarke â is back for two reasons: to solve a strange crime, and to provide insider knowledge on that "evil" DNA gene that Langston (Laurence Fishburne) shares with MIA murderer Nate Haskell (returning guest star Bill Irwin).
 

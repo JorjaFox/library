@@ -1,13 +1,13 @@
-+++
-title = "Stay Forever: The Life and Music of Dusty Springfield"
-author = "Mika Epstein"
-layout = "producer"
-categories = ["Filmography"]
-tags = ["producer", "stage", "honeypot", "bunnyhop"]
-genre = "Musical"
-year = "2014"
-excerpt = "<strong>Stay Forever: The Life and Music of Dusty Springfield</strong> is a musical by Honeypot Productions  and Bunnyhop Productions."
-+++
+---
+title: "Stay Forever: The Life and Music of Dusty Springfield"
+author: Mika Epstein
+layout: producer
+categories: ["Filmography"]
+tags: [producer, stage, honeypot, bunnyhop]
+genre: Musical
+year: 2014
+excerpt: "<strong>Stay Forever: The Life and Music of Dusty Springfield</strong> is a musical by Honeypot Productions  and Bunnyhop Productions."
+---
 
 Originally shown at the L.A. Gay & Lesbian Center’s Lily Tomlin/Jane Wagner Cultural Arts Center, Jorja Fox produced this with Bunnyhop Productions in 2008.
 

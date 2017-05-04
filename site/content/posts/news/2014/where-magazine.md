@@ -1,16 +1,17 @@
-+++
-title = "Where Magazine"
-date = "2014-11-01"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2014"]
-categories = ["Articles", "News"]
-permalink = "/news/2014/:title/"
-newstitle = "Celebrity Interview: Jorja Fox"
-newsauthor = "Jessica Radloff"
-newssource = "Where Magazine"
-newsurl = "http://wherela.com/blog/2014/10/26/celebrity-interview-jorja-fox/"
-+++
+---
+title: Where Magazine
+date: 2014-11-01
+author: Mika Epstein
+layout: news
+tags: ["2014"]
+categories: ["Articles", "News"]
+permalink: /news/2014/:title/
+newstitle: "Celebrity Interview: Jorja Fox"
+newsauthor: Jessica Radloff  
+newssource: Where Magazine  
+newsurl: http://wherela.com/blog/2014/10/26/celebrity-interview-jorja-fox/  
+
+---
 
 "'Catch up with the *CSI: Crime Scene Investigation* star, find out her favorite places in Los Angeles and more."'
 

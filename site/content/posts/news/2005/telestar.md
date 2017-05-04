@@ -1,17 +1,18 @@
-+++
-title = "TeleStar"
-date = "2005-04-27"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: TeleStar
+date: 2005-04-27
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "CSIs Sara Sidle"
-newsauthor = "Staff"
-newssource = "TeleStar"
-newsurl = "http://www.telestar.fr/"
-+++
+newstitle: "CSIs Sara Sidle"
+newsauthor: Staff  
+newssource: TeleStar  
+newsurl: http://www.telestar.fr/  
+
+---
 Jorja Fox - "Marriage? It gives me the shivers!"
 
 At 36 years, this New Yorker is an atypical and secritive member of the CSIs. Thanks to this series' great acclaim, Jorja Fox achieved great popularity while preserving her mystery.

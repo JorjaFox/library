@@ -1,17 +1,18 @@
-+++
-title = "CSI Files (17 October 2012)"
-date = "2012-10-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
+---
+title: CSI Files (17 October 2012)
+date: 2012-10-17
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
 
-newstitle = "Interview: Joe Pokaski"
-newsauthor = "Shane Saunders"
-newssource = "CSI Files"
-newsurl = "http://www.csifiles.com/content/2012/10/interview-joe-pokaski-3/"
-+++
+newstitle: "Interview: Joe Pokaski"
+newsauthor: Shane Saunders  
+newssource: CSI Files  
+newsurl: http://www.csifiles.com/content/2012/10/interview-joe-pokaski-3/
+
+---
 
 [...]
 

@@ -1,18 +1,19 @@
-+++
-title = "Alter Boys"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "6"
-date = "2001-11-01"
-prodnum= "206"
-+++
+---
+title: "Alter Boys"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2  
+epnum: 6
+date: 2001-11-01
+prodnum: 206  
+---
 
 ## Synopsis
 

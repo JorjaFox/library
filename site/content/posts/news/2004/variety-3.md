@@ -1,16 +1,17 @@
-+++
-title = "Variety"
-date = "2004-07-22"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2004"]
-categories = ["Articles", "News"]
-permalink = "/news/2004/:title/"
-newstitle = "&#8216;CSI' thesp back on set"
-newsauthor = "Staff"
-newssource = "Variety"
-newsurl = "http://variety.com"
-+++
+---
+title: Variety
+date: 2004-07-22
+author: Mika Epstein
+layout: news
+tags: ["2004"]
+categories: ["Articles", "News"]
+permalink: /news/2004/:title/
+newstitle: "&#8216;CSI' thesp back on set"
+newsauthor: Staff  
+newssource: Variety  
+newsurl: http://variety.com  
+
+---
 
 CBS has rehired "CSI" star Jorja Fox and is talking to George Eads about a reprieve as well.
 

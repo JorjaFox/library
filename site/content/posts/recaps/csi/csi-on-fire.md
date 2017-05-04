@@ -1,18 +1,19 @@
-+++
-title = "CSI on Fire"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "13"
-epnum = "8"
-date = "2012-11-21"
-prodnum= "281"
-+++
+---
+title: "CSI on Fire"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 13
+epnum: 8  
+date: 2012-11-21
+prodnum: 281  
+---
 
 ## Synopsis
 

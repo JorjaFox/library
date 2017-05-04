@@ -1,16 +1,17 @@
-+++
-title = "New York Post"
-date = "2003-09-03"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2003"]
-categories = ["Articles", "News"]
-permalink = "/news/2003/:title/"
-newstitle = "TV's Weirdest Romance"
-newsauthor = "Staff"
-newssource = "New York Post"
-newsurl = "http://www.nypost.com/entertainment/4745.htm"
-+++
+---
+title: New York Post
+date: 2003-09-03
+author: Mika Epstein
+layout: news
+tags: ["2003"]
+categories: ["Articles", "News"]
+permalink: /news/2003/:title/
+newstitle: "TV's Weirdest Romance"
+newsauthor: Staff  
+newssource: New York Post  
+newsurl: http://www.nypost.com/entertainment/4745.htm  
+
+---
 
 ONE question romantically inclined TV audiences never tire of asking is "Will they or won't they?"
 

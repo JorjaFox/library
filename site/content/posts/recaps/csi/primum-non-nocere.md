@@ -1,18 +1,19 @@
-+++
-title = "Primum Non Nocere"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "2"
-epnum = "16"
-date = "2002-02-28"
-prodnum= "216"
-+++
+---
+title: "Primum Non Nocere"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 2
+epnum: 16  
+date: 2002-02-28
+prodnum: 216  
+---
 
 ## Synopsis
 

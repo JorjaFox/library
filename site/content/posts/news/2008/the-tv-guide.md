@@ -1,17 +1,18 @@
-+++
-title = "The TV Guide"
-date = "2008-04-05"
-author = "Mika Epstein"
-layout = "news"
-tags = ["2008"]
-categories = ["Articles", "News"]
-permalink = "/news/2008/:title/"
+---
+title: The TV Guide
+date: 2008-04-05
+author: Mika Epstein
+layout: news
+tags: ["2008"]
+categories: ["Articles", "News"]
+permalink: /news/2008/:title/
 
-newstitle = "Life after Jorja"
-newsauthor = "Jenny Cooney Carrillo"
-newssource = "The TV Guide"
-newsurl = "http://tv-guide.co.nz"
-+++
+newstitle: "Life after Jorja"
+newsauthor: Jenny Cooney Carrillo
+newssource: The TV Guide
+newsurl: http://tv-guide.co.nz
+
+---
 
 For eight seasons of "**CSI: Crime Scene Investigation"**, William Petersen has played Gil Grissom [...] The 55-year-old theater veteran talks to "TV Guide" about the hit show, his character and what happens now co-star Jorja Fox has left.
 

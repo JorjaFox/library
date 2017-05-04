@@ -1,13 +1,17 @@
-+++
-title = "The Late Late Show"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2001-06-25"
-interviewurl = "http://www.cbs.com"
-permalink = "/transcript/2001/:title/"
-categories = [ "Interviews" ]
-tags = ["Talk Shows", "2001"]
-+++
+---
+title: The Late Late Show
+author: Mika Epstein
+layout: transcript
+date: 2001-06-25
+interviewurl: http://www.cbs.com
+permalink: /transcript/2001/:title/
+categories:
+  - Interviews
+
+tags:
+  - "Talk Shows"
+  - 2001
+---
 The Late Late Show with Craig Kilborn is a TV Talk show/variety show, hosted by Craig Kilborn. Jorja Fox was the second guest, and introduced as a "beautiful actress ... helming the hit TV series CSI".
 
 **Craig Kilborn:** Welcome back, our next guest is a beautiful actress who has helped make CBS series "CSI." the highest rated new drama on television. Please welcome Jorja Fox. "(cheers and applause)"

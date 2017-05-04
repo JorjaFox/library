@@ -1,19 +1,20 @@
-+++
-title = "Global Surf News"
-date = "2006-11-12"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Global Surf News
+date: 2006-11-12
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "World Premier of Documentary &#8216;Accidental Icon: The Real Gidget Story"
-newsauthor = "Staff"
-newssource = "Global Surf News"
-newsurl = "http://www.globalsurfnews.com"
-+++
+newstitle: "World Premier of Documentary &#8216;Accidental Icon: The Real Gidget Story'  "
+newsauthor: Staff  
+newssource: Global Surf News  
+newsurl: http://www.globalsurfnews.com  
 
-Oscar-winning actress Sally Field admits that Gidget was "my beginning and I loved her!" Former Motion Picture Academy President Frank Pierson calls Gidget as "a proto-feminist figure." And says former U.S. Surf Champion Jericho Poppler Bartlow, "I remember thinking, \`Gidget could do it.I know I can."]
+---
+
+Oscar-winning actress Sally Field admits that Gidget was "my beginning and I loved her!" Former Motion Picture Academy President Frank Pierson calls Gidget as "a proto-feminist figure." And says former U.S. Surf Champion Jericho Poppler Bartlow, "I remember thinking, \`Gidget could do it.I know I can.'"
 
 "Accidental Icon: The Real Gidget Story," a new one-hour documentary, will world premier on October 8, 2006, at the Malibu Celebration of Film festival. 
 

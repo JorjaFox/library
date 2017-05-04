@@ -1,17 +1,17 @@
-+++
-title = "Pilot (Missing Persons)"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/missing-persons/pilot/"
-categories = ["Recaps"]
-tags = ["Missing Persons"]
-station = "ABC"
-showname = "Missing Persons"
-showslug = "missing-persons"
-date = "1993-08-30"
-season = "1"
-episode = "1"
-+++
+---
+title: Pilot (Missing Persons)
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/missing-persons/pilot/
+categories: ["Recaps"]
+tags: ["Missing Persons"]
+station: ABC
+showname: "Missing Persons"
+showslug: missing-persons
+date: 1993-08-30
+season: 1
+episode: 1
+---
 
 ## Synopsis
 

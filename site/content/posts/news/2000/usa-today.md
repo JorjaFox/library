@@ -1,16 +1,17 @@
-+++
-title = "USA Today"
-date = "2000-12-22"
-author = "Mika Epstein"
-layout = "news"
-categories = ["Articles", "News"]
-permalink = "/news/2000/:title/"
-tags = ["2000"]
-newstitle = "'CSI' succeeds with gritty realism."
-newsauthor = "Staff"
-newssource = "USA Today"
-newsurl = "http://www.usatoday.com"
-+++
+---
+title: USA Today
+date: 2000-12-22
+author: Mika Epstein
+layout: news
+categories: ["Articles", "News"]
+permalink: /news/2000/:title/
+tags: ["2000"]
+newstitle: "'CSI' succeeds with gritty realism."
+newsauthor: Staff  
+newssource: USA Today  
+newsurl: http://www.usatoday.com  
+
+---
 12/21/00- Updated 07:16 PM ET
 
 VALENCIA, Calif. &#8212; Harsh sunlight burst through the ceiling of a burned-out house, turning the *CSI* criminalists into shadows against the charred walls. Smoke particles hung in the air, but, three months after an arson, the crime scene appeared cold.

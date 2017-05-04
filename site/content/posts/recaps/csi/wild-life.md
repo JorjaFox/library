@@ -1,18 +1,19 @@
-+++
-title = "Wild Life"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "9"
-prodnum = "238"
-date = "2010-11-18"
-+++
+---
+title: "Wild Life"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11  
+epnum: 9  
+prodnum: 238  
+date: 2010-11-18
+---
 
 ## Synopsis
 

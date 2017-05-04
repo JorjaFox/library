@@ -1,18 +1,19 @@
-+++
-title = "Unbearable"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "14 "
-date = "2005-02-10"
-prodnum= "514 "
-+++
+---
+title: "Unbearable"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 14 
+date: 2005-02-10
+prodnum: 514 
+---
 
 ## Synopsis
 

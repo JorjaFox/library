@@ -1,18 +1,19 @@
-+++
-title = "Keep Calm and Carry-on"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "12"
-date = "2014-01-15"
-prodnum= "307"
-+++
+---
+title: "Keep Calm and Carry-on"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14  
+epnum: 12  
+date: 2014-01-15
+prodnum: 307  
+---
 
 ## Synopsis
 

@@ -1,13 +1,15 @@
-+++
-title = "Issues with Jane Velez-Mitchell"
-date = "2011-02-23"
-author = "Mika Epstein"
-layout = "transcript"
-permalink = "/transcript/2011/:title/"
-categories = ["Interviews"]
-tags = ["2011", "talk shows"]
-interviewurl = "http://transcripts.cnn.com/TRANSCRIPTS/1102/23/ijvm.01.html"
-+++
+---
+title: Issues with Jane Velez-Mitchell
+date: 2011-02-23
+author: Mika Epstein
+layout: transcript
+permalink: /transcript/2011/:title/
+categories: ["Interviews"]
+tags:
+  - 2011
+  - 'talk shows'
+interviewurl: http://transcripts.cnn.com/TRANSCRIPTS/1102/23/ijvm.01.html
+---
 
 (BEGIN VIDEO CLIP)
 

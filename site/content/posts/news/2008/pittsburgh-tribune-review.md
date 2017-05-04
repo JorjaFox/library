@@ -1,17 +1,18 @@
-+++
-title = "Pittsburgh Tribune-Review"
-date = "2008-03-26"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Pittsburgh Tribune-Review
+date: 2008-03-26
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Helgenberger focuses on family"
-newsauthor = "Will Keck"
-newssource = "Pittsburgh Tribune-Review"
-newsurl = "http://www.pittsburghlive.com/x/pittsburghtrib/living/s_558968.html"
-+++
+newstitle: "Helgenberger focuses on family  "
+newsauthor: Will Keck  
+newssource: Pittsburgh Tribune-Review  
+newsurl: http://www.pittsburghlive.com/x/pittsburghtrib/living/s_558968.html  
+
+---
 
 [...]
 

@@ -1,18 +1,19 @@
-+++
-title = "Leapin' Lizards"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "22"
-date = "2007-05-03"
-prodnum= "722"
-+++
+---
+title: "Leapin' Lizards"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 22
+date: 2007-05-03
+prodnum: 722  
+---
 
 ## Synopsis
 

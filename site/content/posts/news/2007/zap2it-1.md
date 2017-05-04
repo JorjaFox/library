@@ -1,17 +1,18 @@
-+++
-title = "Zap2It "
-date = "2007-10-03"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Zap2It 
+date: 2007-10-03
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Rock On &#8212; This Year's Emmy Winner Returns"
-newsauthor = "TVGal"
-newssource = "TVGal"
-newsurl = "http://blog.zap2it.com"
-+++
+newstitle: "Rock On &#8212; This Year's Emmy Winner Returns"
+newsauthor: TVGal
+newssource: TVGal
+newsurl: http://blog.zap2it.com
+
+---
 
 [...]
 

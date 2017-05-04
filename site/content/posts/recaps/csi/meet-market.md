@@ -1,18 +1,19 @@
-+++
-title = "Meet Market"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "7"
-epnum = "14"
-date = "2007-02-01"
-prodnum= "714"
-+++
+---
+title: "Meet Market"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 7
+epnum: 14  
+date: 2007-02-01
+prodnum: 714  
+---
 
 ## Synopsis## 
 

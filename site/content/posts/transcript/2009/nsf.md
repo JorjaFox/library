@@ -1,13 +1,14 @@
-+++
-title = "NSF, The Humane Society And GQ Magazine Join Forces To Stop Puppy Mills"
-author = "Mika Epstein"
-layout = "transcript"
-interviewurl = "http://www.gettyimages.com"
-date = "2009-09-22"
-permalink = "/transcript/2009/:title/"
-categories = ["Interviews"]
-tags = ["2009"]
-+++
+---
+title: NSF, The Humane Society And GQ Magazine Join Forces To Stop Puppy Mills
+author: Mika Epstein
+layout: transcript
+interviewurl: http://www.gettyimages.com
+date: 2009-09-22
+permalink: /transcript/2009/:title/
+categories: ["Interviews"]
+tags:
+  - 2009
+---
 
 [...]
 

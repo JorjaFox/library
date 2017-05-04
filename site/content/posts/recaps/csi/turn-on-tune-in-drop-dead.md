@@ -1,18 +1,19 @@
-+++
-title = "Turn On, Tune In, Drop Dead"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "11"
-epnum = "16"
-date = "2011-02-24"
-prodnum= "245"
-+++
+---
+title: "Turn On, Tune In, Drop Dead"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 11
+epnum: 16  
+date: 2011-02-24
+prodnum: 245  
+---
 
 ## Synopsis
 

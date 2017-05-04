@@ -1,17 +1,18 @@
-+++
-title = "The Globe and Mail"
-date = "2005-03-19"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2005/:title/"
-categories = ["News", "Articles"]
-tags = ["2005"]
+---
+title: The Globe and Mail
+date: 2005-03-19
+author: Mika Epstein
+layout: news
+permalink: /news/2005/:title/
+categories: [News, Articles]
+tags: ["2005"]
 
-newstitle = "Esprite de Corpse"
-newsauthor = "Staff"
-newssource = "The Globe and Mail"
-newsurl = "http://www.theglobeandmail.com"
-+++
+newstitle: "Esprite de Corpse"
+newsauthor: Staff  
+newssource: The Globe and Mail  
+newsurl: http://www.theglobeandmail.com  
+
+---
 [...]
 
 Petersen and several of the members of his cast, such as Marg Helgenberger and Gary Dourdan, have been openly critical of the two CSI spinoffs, saying they dilute the brand. Matters got worse when two of the original CSI actors, Jorja Fox and George Eads, were fired (and then rehired) by CBS boss Les Moonves for making excessive wage demands. Hostility heightened between the show's financiers (CBS and Toronto-based co-producer Alliance Atlantis) and its cast, half of whom got raises while the remainder did not, leaving more than a few bruised egos.

@@ -1,17 +1,18 @@
-+++
-title = "TODAYonline"
-date = "2010-02-26"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2010/:title/"
-categories = ["News", "Articles"]
-tags = ["2010"]
+---
+title: TODAYonline
+date: 2010-02-26
+author: Mika Epstein
+layout: news
+permalink: /news/2010/:title/
+categories: [News, Articles]
+tags: ["2010"]
 
-newstitle = "Forgetting Sara Sidle"
-newsauthor = "Genevieve Loh"
-newssource = "TODAYonline"
-newsurl = "http://www.todayonline.com/Plus/Television/EDC100226-0000056/Forgetting-Sara-Sidle"
-+++
+newstitle: "Forgetting Sara Sidle  "
+newsauthor: Genevieve Loh  
+newssource: TODAYonline  
+newsurl: http://www.todayonline.com/Plus/Television/EDC100226-0000056/Forgetting-Sara-Sidle  
+
+---
 
 **The fans didn't, and neither could Jorja Fox, who's reprising the role in CSI**
 
@@ -25,7 +26,7 @@ Fox reprises her fan-favourite role as moody, no-nonsense forensic scientist Sar
 
 "I felt bad," she told Today of her departure. "People were showing support, but it was actually my fault that I was leaving. I had made the decision and it was a hard one to make.
 
-"I left CSI because I was exhausted and I wanted to take some time off. I was literally crying, but I said to the executive producer, Carol Mendelsohn, &#8216;I'd love to visit sometime,"] Fox said about her controversial and abrupt departure. "I never thought they would ever call again!"
+"I left CSI because I was exhausted and I wanted to take some time off. I was literally crying, but I said to the executive producer, Carol Mendelsohn, &#8216;I'd love to visit sometime,'" Fox said about her controversial and abrupt departure. "I never thought they would ever call again!"
 
 And it seems after playing a character for 10 years, it really is hard to completely get away from her - even with a self-imposed break to write, travel and produce a play.
 

@@ -1,16 +1,18 @@
-+++
-title = "Xfinity TV Blog"
-date = "2012-09-11"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2012/:title/"
-categories = ["News", "Articles"]
-tags = ["2012"]
-newstitle = "'CSI' Boss: Season 13 Will Pull the Team Apart"
-newsauthor = "Paulette Cohn"
-newssource = "xfinity TV Blog"
-newsurl = "http://xfinity.comcast.net/blogs/tv/2012/09/11/csi-boss-season-13-will-pull-the-team-apart/"
-+++
+---
+title: Xfinity TV Blog
+date: 2012-09-11
+author: Mika Epstein
+layout: news
+permalink: /news/2012/:title/
+categories: [News, Articles]
+tags: ["2012"]
+
+newstitle: "'CSI' Boss: Season 13 Will Pull the Team Apart  "
+newsauthor: Paulette Cohn  
+newssource: xfinity TV Blog  
+newsurl: http://xfinity.comcast.net/blogs/tv/2012/09/11/csi-boss-season-13-will-pull-the-team-apart/  
+
+---
 
 'CSI: Crime Scene Investigation"s' season finale proved that even though the procedural drama has been on the air for 12 seasons, it"s still got what it takes to surprise viewers. The kidnapping of D.B. Russell"s ("'Ted Danson"') granddaughter Kaitlyn ("'Mia Hayes"') and the resignation of Nick Stokes ("'George Eads"') set such dramatic â and unforeseen â events in motion that the audience will be compelled to tune in for 13th season premiere to get answers.
 

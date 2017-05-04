@@ -1,17 +1,18 @@
-+++
-title = "TV Guide "
-date = "2007-04-17"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: TV Guide 
+date: 2007-04-17
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Is 'CSI' killing off Jorja Fox?"
-newsauthor = "Michael Ausiello"
-newssource = "Ausiello Report"
-newsurl = "http://www.tvguide.com"
-+++
+newstitle: "Is 'CSI' killing off Jorja Fox?"
+newsauthor: Michael Ausiello
+newssource: Ausiello Report
+newsurl: http://www.tvguide.com
+
+---
 
 [...]
 

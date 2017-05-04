@@ -1,17 +1,18 @@
-+++
-title = "Teletext"
-date = "2006-05-29"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Teletext
+date: 2006-05-29
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Life in the Worlds Most Popular Show"
-newsauthor = "Staff"
-newssource = "Teletext"
-newsurl = "http://teletext.com"
-+++
+newstitle: "Life in the Worlds Most Popular Show  "
+newsauthor: Staff  
+newssource: Teletext  
+newsurl: http://teletext.com
+
+---
 
 *CSI: Crime Scene Investigation* is the US's Number One Show and has proved a Global hit, including here in the UK.
 

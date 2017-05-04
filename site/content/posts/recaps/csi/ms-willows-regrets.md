@@ -1,18 +1,19 @@
-+++
-title = "Ms. Willows Regrets"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "12"
-epnum = "11"
-date = "2012-01-18"
-prodnum= "262"
-+++
+---
+title: "Ms. Willows Regrets"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 12  
+epnum: 11  
+date: 2012-01-18
+prodnum: 262  
+---
 
 ## Synopsis
 

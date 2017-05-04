@@ -1,11 +1,11 @@
-+++
-title = "Politics"
-author = "Mika Epstein"
-layout = "single"
-categories = ["Politics"]
-tags = ["Index"]
-permalink = "/politics/"
-+++
+---
+title: Politics
+author: Mika Epstein
+layout: single
+categories: ["Politics"]
+tags: ["Index"]
+permalink: /politics/
+---
 
 In addition to her [Advocacy](/library/advocacy/), Jorja is very politically active. She spends time with the [Artists & Athletes Alliance](/library/advocacy/artists-athletes/), fights for legislation for the protection of animals, and has spoken out against candidates like George W. Bush.
 

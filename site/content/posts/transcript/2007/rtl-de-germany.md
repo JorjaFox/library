@@ -1,13 +1,14 @@
-+++
-title = "'RTL.de - Germany"
-author = "David Masters"
-layout = "transcript"
-date = "2007-11-01"
-interviewurl = "http://www.rtl.de/"
-permalink = "/transcript/2007/:title/"
-categories = ["Interviews"]
-tags = ["2007"]
-+++
+---
+title: 'RTL.de - Germany'
+author: David Masters
+layout: transcript
+date: 2007-11-01
+interviewurl: http://www.rtl.de/
+permalink: /transcript/2007/:title/
+categories: ["Interviews"]
+tags:
+  - 2007
+---
  
 ## "Why Sara decided to leave"
 

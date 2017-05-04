@@ -1,11 +1,12 @@
-+++
-title = "Huckleberry Foundation"
-author = "Mika Epstein"
-layout = "advocacy"
-categories = ["Advocacy"]
-tags = [ "Human Rights"]
-website = "http://www.huckleberrygroup.org/huckleberry-foundation-home.html"
-+++
+---
+title: Huckleberry Foundation
+author: Mika Epstein
+layout: advocacy
+categories: ["Advocacy"]
+tags: 
+  - "Human Rights"
+website: http://www.huckleberrygroup.org/huckleberry-foundation-home.html
+---
 
 The Huckleberry Foundation is named after Huckleberry Finn, an 11-year-old who ran away from home to escape the abuse of his alcoholic father.
 

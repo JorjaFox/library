@@ -1,11 +1,13 @@
-+++
-title = "In Defense of Animals"
-author = "Mika Epstein"
-layout = "advocacy"
-categories = ["Advocacy"]
-tags = [ "Environmentalism", "Animal Rights"]
-website = "http://www.idausa.org"
-+++
+---
+title: In Defense of Animals
+author: Mika Epstein
+layout: advocacy
+categories: ["Advocacy"]
+tags: 
+  - Environmentalism
+  - "Animal Rights"
+website: http://www.idausa.org
+---
 
 "In Defense of Animals" (IDA)'s mission is to end animal exploitation, cruelty, and abuse by protecting and advocating for the rights, welfare, and habitats of animals, as well as to raise their status beyond mere property, commodities, or things.
 

@@ -1,17 +1,18 @@
-+++
-title = "Desert Morning News"
-date = "2006-08-08"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: Desert Morning News
+date: 2006-08-08
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Apparently, autopsies and romance do mix"
-newsauthor = "Staff"
-newssource = "Desert Morning News"
-newsurl = "http://deseretnews.com"
-+++
+newstitle: "Apparently, autopsies and romance do mix  "
+newsauthor: Staff  
+newssource: Desert Morning News  
+newsurl: http://deseretnews.com  
+
+---
 
 If the revelation that Sara (Jorja Fox) and Gil (William Petersen) are having an affair came as a surprise to "CSI" fans in May's season finale, it was a surprise that was a long time coming. And not just because there have been little hints along the way.
 

@@ -1,13 +1,17 @@
-+++
-title = "The Early Show"
-author = "Mika Epstein"
-layout = "transcript"
-date = "2005-11-04"
-interviewurl = "http://www.cbsnews.com/earlyshow/"
-permalink = "/transcript/2005/:title/"
-categories = ["Interviews"]
-tags = ["television", "2005", "Talk Shows"]
-+++
+---
+title: The Early Show
+author: Mika Epstein
+layout: transcript
+date: 2005-11-04
+interviewurl: http://www.cbsnews.com/earlyshow/
+permalink: /transcript/2005/:title/
+categories: ["Interviews"]
+
+tags:
+  - television
+  - 2005
+  - "Talk Shows"
+---
 
 **Julie Chen:** If you can't get enough of TV's hottest drama, CSI:, then you're in luck. Every Friday, we're going to take you behind the scenes to show you how they make it happen. In last night's episode, called "Secrets and Flies", star Jorja Fox came face to face with an actor's big challenge: working with a baby. Or did she?
 

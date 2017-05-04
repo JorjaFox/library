@@ -1,17 +1,18 @@
-+++
-title = "Half-Life Source "
-date = "2007-11-14"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: Half-Life Source 
+date: 2007-11-14
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Jorja Fox departs from CSI"
-newsauthor = "Jennifer Hong"
-newssource = "Half-Life Source"
-newsurl = "http://www.halflifesource.com/news/2007/11/14/article10091.htm "
-+++
+newstitle: "Jorja Fox departs from CSI  "
+newsauthor: Jennifer Hong  
+newssource: Half-Life Source  
+newsurl: http://www.halflifesource.com/news/2007/11/14/article10091.htm 
+
+---
 **The TV hit series CSI will lose Jorja Fox as one of their starring actors.**
 
 Jorja Fox, who plays Sara Sidle on "CSI," is leaving the show to pursue other opportunities. Fox has been on the show since it premiered in 2000.

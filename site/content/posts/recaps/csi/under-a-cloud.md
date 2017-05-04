@@ -1,18 +1,19 @@
-+++
-title = "Under a Cloud"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "7"
-date = "2013-11-06"
-prodnum= "302"
-+++
+---
+title: "Under a Cloud"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14  
+epnum: 7  
+date: 2013-11-06
+prodnum: 302  
+---
 
 ## Synopsis
 

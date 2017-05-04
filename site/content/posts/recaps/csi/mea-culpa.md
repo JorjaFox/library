@@ -1,18 +1,19 @@
-+++
-title = "Mea Culpa"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "5"
-epnum = "9 "
-date = "2004-11-25"
-prodnum= "509 "
-+++
+---
+title: "Mea Culpa"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 5  
+epnum: 9 
+date: 2004-11-25
+prodnum: 509 
+---
 
 ## Synopsis
 

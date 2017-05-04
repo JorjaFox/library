@@ -1,17 +1,18 @@
-+++
-title = "Inquisitr"
-date = "2011-11-03"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2011/:title/"
-categories = ["News", "Articles"]
-tags = ["2011"]
+---
+title: Inquisitr
+date: 2011-11-03
+author: Mika Epstein
+layout: news
+permalink: /news/2011/:title/
+categories: [News, Articles]
+tags: ["2011"]
 
-newstitle = "Bob Barker, Jorja Fox Fight to Stop Circus Animal Cruelty"
-newsauthor = "Michael SÃ¶ze"
-newssource = "Inquisitr"
-newsurl = "http://www.inquisitr.com/156384/bob-barker-traveling-exotic-animal-protection-act/"
-+++
+newstitle: "Bob Barker, Jorja Fox Fight to Stop Circus Animal Cruelty  "
+newsauthor: Michael SÃ¶ze  
+newssource: Inquisitr  
+newsurl: http://www.inquisitr.com/156384/bob-barker-traveling-exotic-animal-protection-act/  
+
+---
 
 **Bob Barker**, the mythological horde of "Price is Right," as well as "CSI" star Jorja Fox, assimilated with Animal Defenders International (ADI) as well as Performing Animal Welfare Society (PAWS) currently to deliver legislation to Congress to finish the pang as well as unsuitable conditions playground animals have been forced to endure.
 

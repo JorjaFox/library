@@ -1,18 +1,19 @@
-+++
-title = "Dead In His Tracks"
-author = "Mika A. Epstein"
-layout = "recap-tv"
-permalink = "/recaps/csi/:title/"
-categories = ["Recaps"]
-tags = ["CSI"]
-station = "CBS"
-showname = "CSI"
-showslug = "csi"
-season = "14"
-epnum = "22"
-date = "2014-05-07"
-prodnum= "317"
-+++
+---
+title: "Dead In His Tracks"
+author: Mika A. Epstein
+layout: recap-tv
+permalink: /recaps/csi/:title/
+categories: ["Recaps"]
+tags: ["CSI"]
+station: CBS
+showname: "CSI"
+showslug: csi
+
+season: 14  
+epnum: 22  
+date: 2014-05-07
+prodnum: 317  
+---
 
 ## Synopsis
 

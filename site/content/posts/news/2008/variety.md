@@ -1,17 +1,18 @@
-+++
-title = "Variety"
-date = "2008-02-06"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: Variety
+date: 2008-02-06
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Jorja Fox - Co-producer of &#8216;Stay Together: The Life and Music of Dusty Springfield,' which opens on Feb. 7"
-newsauthor = "Variety Staff"
-newssource = "Variety"
-newsurl = "http://www.variety.com/article/VR1117980300.html?categoryid=15&cs=1"
-+++
+newstitle: "Jorja Fox - Co-producer of &#8216;Stay Together: The Life and Music of Dusty Springfield,' which opens on Feb. 7  "
+newsauthor: Variety Staff  
+newssource: Variety  
+newsurl: http://www.variety.com/article/VR1117980300.html?categoryid=15&cs=1  
+
+---
 
 **Jorja Fox**, co-producer of "Stay Together: The Life and Music of Dusty Springfield," which opens on Feb. 7
 

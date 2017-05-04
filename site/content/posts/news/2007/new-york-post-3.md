@@ -1,17 +1,18 @@
-+++
-title = "New York Post "
-date = "2007-11-15"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: New York Post 
+date: 2007-11-15
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "SARA'S LAST DAY"
-newsauthor = "Adam Buckman"
-newssource = "New York Post"
-newsurl = "http://www.nypost.com/"
-+++
+newstitle: "SARA'S LAST DAY  "
+newsauthor: Adam Buckman  
+newssource: New York Post  
+newsurl: http://www.nypost.com/seven/11152007/tv/saras\_last\_day_271927.htm 
+
+---
 AS if **"CSI"** wasn't de pressing enough, to night's episode is devoted entirely to the disillusionment of Sara Sidle.
 
 It's the long-awaited episode in which sourpuss Sara (Jorja Fox) makes her exit from the show - finally.

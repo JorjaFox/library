@@ -1,16 +1,16 @@
-+++
-title = "MetroActive"
-date = "2001-04-05"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2001/:title/"
-categories = ["Articles", "News"]
-tags = ["2001"]
-newstitle = "Backward Runs Mystery"
-newsauthor = "Staff"
-newssource = "MetroActive"
-newsurl = "http://www.metroactive.com/papers/metro/04.05.01/memento-0114.html"
-+++
+---
+title: MetroActive
+date: 2001-04-05
+author: Mika Epstein
+layout: news
+permalink: /news/2001/:title/
+categories: ["Articles", "News"]
+tags: ["2001"]
+newstitle: Backward Runs Mystery  
+newsauthor: Staff  
+newssource: MetroActive  
+newsurl: http://www.metroactive.com/papers/metro/04.05.01/memento-0114.html  
+---
 
 [...]
 

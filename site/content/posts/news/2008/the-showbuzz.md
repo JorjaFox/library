@@ -1,17 +1,18 @@
-+++
-title = "The Showbuzz"
-date = "2008-03-24"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2008/:title/"
-categories = ["News", "Articles"]
-tags = ["2008"]
+---
+title: The Showbuzz
+date: 2008-03-24
+author: Mika Epstein
+layout: news
+permalink: /news/2008/:title/
+categories: [News, Articles]
+tags: ["2008"]
 
-newstitle = "Favorite TV Shows Return With Fanfare"
-newsauthor = "Staff"
-newssource = "The Showbuzz"
-newsurl = "http://www.showbuzz.cbsnews.com/stories/2008/03/24/tv/main3963566.shtml"
-+++
+newstitle: "Favorite TV Shows Return With Fanfare  "
+newsauthor: Staff  
+newssource: The Showbuzz  
+newsurl: http://www.showbuzz.cbsnews.com/stories/2008/03/24/tv/main3963566.shtml  
+
+---
 
 **Networks Pull Out All The Stops To Entice Viewers Back To Their TV Sets**
 

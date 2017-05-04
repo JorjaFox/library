@@ -1,17 +1,18 @@
-+++
-title = "CBS News"
-date = "2006-11-16"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2006/:title/"
-categories = ["News", "Articles"]
-tags = ["2006"]
+---
+title: CBS News
+date: 2006-11-16
+author: Mika Epstein
+layout: news
+permalink: /news/2006/:title/
+categories: [News, Articles]
+tags: ["2006"]
 
-newstitle = "Behind The Scenes Of &#8216;CSI"
-newsauthor = "Staff"
-newssource = "CBS News"
-newsurl = "http://www.cbsnews.com/"
-+++
+newstitle: "Behind The Scenes Of &#8216;CSI'  "
+newsauthor: Staff  
+newssource: CBS News  
+newsurl: http://www.cbsnews.com/  
+
+---
 
 **The Hit Show's Seventh Season Has Been An Eventful One**
 

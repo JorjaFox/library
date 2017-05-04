@@ -1,17 +1,18 @@
-+++
-title = "The Official CSI Magazine "
-date = "2007-11-13"
-author = "Mika Epstein"
-layout = "news"
-permalink = "/news/2007/:title/"
-categories = ["News", "Articles"]
-tags = ["2007"]
+---
+title: The Official CSI Magazine 
+date: 2007-11-13
+author: Mika Epstein
+layout: news
+permalink: /news/2007/:title/
+categories: [News, Articles]
+tags: ["2007"]
 
-newstitle = "Goodbye Sara"
-newsauthor = "Staff"
-newssource = "The Official CSI Magazine"
-newsurl = "http://www.titanmagazines.com/app?service=external/Product&sp=l1075&sp=Sen&sp=SUS "
-+++
+newstitle: "Goodbye Sara  "
+newsauthor: Staff  
+newssource: The Official CSI Magazine  
+newsurl: http://www.titanmagazines.com/app?service=external/Product&sp=l1075&sp=Sen&sp=SUS 
+
+---
 "After eight years playing Sara Sidle, Jorja Fox is bitting farewell to" CSI: Crime Scene Investigation. "In an exclusive interview with" The Official CSI Magazine, "the actress chats about her final episodes..."
 
 November 8, 2007 proved a sad day for "CSI: Crime Scene Investigation" fans when Sara Sidle left the Las Vegas Crime Lab for the last time. After escaping death at the nads of minature kill Natalie Kimble in the season eight opener "Dead Doll," the gutsy CSI had struggled to settle back into her job, with even a marriage proposal from Grissom doing little to raise her spirits. Following an explosive row with Greg Sanders in the crime department's locker room, the final straw came for Sara when she was ordered to reopen a case that she and Nick had bungled a few years back, involving a suspected 12-year-old murderess ("The Unusual Suspect"). Weary of the strsses a job in Sin City can bring, Sara decides to bid farewell to Las Vegas for good, much to the dismay of her fellow CSIs.
