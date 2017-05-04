@@ -31,6 +31,8 @@ It should take about 10 seconds, max.
 in 10442 ms
 ```
 
+`git push` will automagically do it all.
+
 ## To Do
 
 * Figure out why FAQs won't title
