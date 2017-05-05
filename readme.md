@@ -4,16 +4,12 @@ This replaced the old Wiki. It's written in [Hugo](http://gohugo.io), which is a
 
 ## Update Content
 
-All content lives in `site/content`
+All content lives in `content`
 
 * Posts are in the `posts` folder.
 * Formatted data is in the `data` folder.
     - filmography.json - acting, writing, self, etc.
     - episodes/* - All the eps for the TV shows.
-
-## Update Search
-
-From root run `npm run index`
 
 ## Push New Version
 
