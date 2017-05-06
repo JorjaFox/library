@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 8
 epnum: 1  
 date: 2007-09-27

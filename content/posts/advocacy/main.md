@@ -1,6 +1,6 @@
 ---
 title: Advocacy
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: advocacy
 permalink: /advocacy/
 categories: ["Advocacy"]
@@ -17,4 +17,4 @@ type: index
 
 ## Supported Groups
 
-Groups that Jorja Fox supports and has done work for.
+The following are groups that Jorja Fox supports and has done work for:

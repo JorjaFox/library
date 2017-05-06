@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 15  
 epnum: 5  
 date: 2014-11-09

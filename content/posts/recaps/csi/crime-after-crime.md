@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 12  
 epnum: 8  
 date: 2011-11-16

@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 6
 epnum: 15
 date: 2006-02-09

@@ -1,7 +1,7 @@
 ---
 title: Dorothy Surrenders
 date: 2009-09-24
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]

@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 9
 epnum: 4  
 date: 2008-10-30

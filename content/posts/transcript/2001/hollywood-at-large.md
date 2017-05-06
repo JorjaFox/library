@@ -1,6 +1,6 @@
 ---
 title: Hollywood At Large
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 date: 2001-02-23
 interviewurl: http://www.imdb.com/title/tt0361191/

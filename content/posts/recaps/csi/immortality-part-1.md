@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 16  
 epnum: 1  
 date: 2015-09-27
 prodnum: 336  
 ---
 
-## Synopsis## 
+## Synopsis
 
 We start with a 'normal' episode of CSI. Finn is dead, D.B. Russell is leaving to work for the CSI: Cyber people, Sara is applying for a 'key position' And then it all goes to hell with a suicide bomber. 
 
@@ -29,11 +28,11 @@ At Heather's house they find evidence of bomb making, which doesn't make anyone 
 
 And the woman? Isn't Heather. Alive and well, Heather comes to the lab and turns herself in, saying she's the one behind the bombings.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 While she's moved on with her life and is trying to professionally make it through, Sara is not happy about Grissom and Heather, and really who can blame her? She kept Grissom's number but they hadn't been talking, even before the divorce, to the point that she didn't know he was talking to Heather.
 
-## Character Notes## 
+## Character Notes
 
 * Sara and Grissom are divorced  
 * Communication issues led to the divorce  

@@ -1,6 +1,6 @@
 ---
 title: "Summer Stories: The Mall"
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: actor
 categories: ["Filmography"]
 tags: ["Television"]

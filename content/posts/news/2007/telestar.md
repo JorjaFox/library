@@ -1,7 +1,7 @@
 ---
 title: Telestar (November 2007)
 date: 2007-11-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]

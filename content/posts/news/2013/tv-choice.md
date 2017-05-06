@@ -1,7 +1,7 @@
 ---
 title: TV Choice
 date: 2013-04-02
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]

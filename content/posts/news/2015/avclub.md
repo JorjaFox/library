@@ -1,7 +1,7 @@
 ---
 title: "A.V. Club"
 date: 2015-12-03
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]

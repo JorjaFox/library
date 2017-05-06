@@ -25,4 +25,4 @@ Scott's parents know more about what happened to Anne, but refuse to talk about 
 ## Character Notes
 * Connie adopts a Columbo schtick when interrogating families, pretending to be simple minded in order to draw out information.
 
-## Quotes## 
+## Quotes

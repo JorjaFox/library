@@ -1,7 +1,7 @@
 ---
 title: Veronica Magazine
 date: 2002-07-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]

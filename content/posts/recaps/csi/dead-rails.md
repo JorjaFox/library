@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 15  
 epnum: 10  
 date: 2014-12-14
 prodnum: 327  
 ---
 
-## Synopsis## 
+## Synopsis
 
 After digging his way out of a shallow grave, Jimmy Turelli stumbled out of the desert and to a road, only to be hit by a speeding car and killed. The trace evidence puts him as a billiards player, likely a member of a tournament run by Elise Massey (special guest Sharon Osbourne), but instead he paid for the entry of a player named 'The Hornet' for Elise Massey (who neglected to mention this before). Cal Tate, a hustler at The Rails, had been in an argument with Jimmy, and his wife Zoe pinned Jimmy's murder on Cal. Of course, Cal's found dead, shot in the head at home.
 

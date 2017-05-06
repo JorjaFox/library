@@ -1,7 +1,7 @@
 ---
 title: ADI Jorja Fox Addresses Congress
 date: 2011-11-02
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://www.ad-international.org/
 permalink: /transcript/2011/:title/

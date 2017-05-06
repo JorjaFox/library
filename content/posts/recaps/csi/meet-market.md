@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 7
 epnum: 14  
 date: 2007-02-01
 prodnum: 714  
 ---
 
-## Synopsis## 
+## Synopsis
 
 A faked death turns into a case of body-part trafficking, when a Jewish body turns up with his bones replaced with pipe. Orthodox Jews don't believe in donating their body parts, and the dead body found had leukemia. The body part clinic caused the death of over thirty people, having used unhealthy body parts.
 

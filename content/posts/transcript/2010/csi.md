@@ -1,6 +1,6 @@
 ---
 title: 'CSI: Season Ten EPK'
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 date: 2010-07-01
 interviewurl: http://cbs.com/

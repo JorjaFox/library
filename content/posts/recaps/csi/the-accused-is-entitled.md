@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 3  
 epnum: 2
 date: 2002-10-03
 prodnum: 301  
 ---
 
-## Synopsis## 
+## Synopsis
 
 The tables are turned on the CSIs, who are the ones put under the microscope when movie star is on trial for murder. Grissom and his crew are called in to investigate the death of a young woman found in the hotel room of popular actor Tom Haviland. Haviland admits that he slept with her, but denies killing her. Grissom believes otherwise, however, after finding blood evidence on the celebrity. Then things get personal when Haviland's lawyer hires Grissom's former mentor, Philip Gerard, to find mistakes in the forensic part of the case. And, unfortunately for Grissom, Gerard finds plenty of errors to exploit.
 

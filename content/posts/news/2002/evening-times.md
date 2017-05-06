@@ -1,7 +1,7 @@
 ---
 title: Evening Times
 date: 2002-02-02
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]

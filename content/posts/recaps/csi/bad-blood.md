@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 15  
 epnum: 3  
 date: 2014-10-12
@@ -33,7 +32,7 @@ Sara develops a headache and fever, passing out (or rather falling down like a l
 
 After the case is solved, Greg wakes up to see Sara's bed empty and stripped of sheets. As he panics, Sara walks in to tell him she's fine and so is he. The virus dies in the air after roughly two hours. They were never at risk.
 
-## Character Notes## 
+## Character Notes
 
 * This is the second time Greg and Sara have been exposed to pathogens.  
 * Sara and Greg play chess together.

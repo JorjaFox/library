@@ -1,7 +1,7 @@
 ---
 title: EasyVegan.info 
 date: 2008-11-07
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
 categories: ["Articles", "News"]

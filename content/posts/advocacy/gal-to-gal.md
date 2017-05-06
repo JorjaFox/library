@@ -1,6 +1,6 @@
 ---
 title: Gal to Gal Virtual Walk
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags: 

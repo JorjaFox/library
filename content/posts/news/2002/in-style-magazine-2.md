@@ -1,7 +1,7 @@
 ---
 title: In Style Magazine
 date: 2002-09-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]
@@ -50,7 +50,7 @@ Normally it's 12 to 15 hours a day, but we do get days off and three-day weekend
 
 **How do you keep up your energy?**
 
-Coffee, coffee and more coffee. Also, I try to get at least eight to 10 hours sleep. My social life has gone out the window. But I try to keep my energy up by eating well- lots of fruit, vegetables and protein. I eat a lot of those protien bars, too. I'm a vegetarian, not so much for health reasons but becuase I live in the big city, where there's plenty of food, I don't see the need to kill animals to eat.
+Coffee, coffee and more coffee. Also, I try to get at least eight to 10 hours sleep. My social life has gone out the window. But I try to keep my energy up by eating well- lots of fruit, vegetables and protein. I eat a lot of those protien bars, too. I'm a vegetarian, not so much for health reasons but because I live in the big city, where there's plenty of food, I don't see the need to kill animals to eat.
 
 **What do you do to disguise tiredness?**
 

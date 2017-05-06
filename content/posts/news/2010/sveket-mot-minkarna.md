@@ -1,7 +1,7 @@
 ---
 title: Sveket mot minkarna
 date: 2010-08-16
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]

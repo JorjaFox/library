@@ -1,7 +1,7 @@
 ---
 title: "TV & Satellite week"
 date: 2009-01-10
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
 categories: ["Articles", "News"]

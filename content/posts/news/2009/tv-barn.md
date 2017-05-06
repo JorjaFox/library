@@ -1,7 +1,7 @@
 ---
 title: TV Barn
 date: 2009-01-16
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]

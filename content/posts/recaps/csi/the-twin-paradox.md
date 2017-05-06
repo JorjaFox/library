@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 15  
 epnum: 6  
 date: 2014-11-16
 prodnum: 323  
 ---
 
-## Synopsis## 
+## Synopsis
 
 The Gig Harbor Killer is back. Twin brothers Jared Brisco (the confessed killer) and Paul Winthrope (the free lawyer) both argue that Jared is innocent.
 
@@ -25,11 +24,11 @@ Up in Seattle, Finn works with a local PI (and ex-boyfriend) and investigate Jar
 
 They're able to find the Gig Harbor Killer's lair, but at the cost of the life of his latest victim. When rescued, she attacks Greg and hits him with a pipe, taking his gun. Finn is forced to shoot and kill her to protect him. It turns out that the woman was a post-surgery transgendered man who was used by the Gig Harbor Killer, however the city exonerates Finn for killing what appears to be the Gig Harbor Killer.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 Listening to the audio, Sara is able to identify two people walking, implying the killer has a partner. When Sara and DB listen to interviews with Jared Brisco, and he says how after foster care how could he be anything _but_ a serial killer, Sara is pained.
 
-## Character Notes## 
+## Character Notes
 
 * Sara is understanding of people in foster care.  
 * Sara checks on Greg after he's injured on the scene.

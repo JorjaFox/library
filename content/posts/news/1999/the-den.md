@@ -1,7 +1,7 @@
 ---
 title: The Den
 date: 1999-02-09
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]

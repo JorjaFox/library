@@ -1,7 +1,7 @@
 ---
 title: Guardian Unlimited 
 date: 2007-01-31
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]

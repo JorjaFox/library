@@ -1,6 +1,6 @@
 ---
 title: Channel 5 UK
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 date: 2002-04-19
 interviewurl: http://www.channel5.co.uk/

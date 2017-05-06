@@ -1,6 +1,6 @@
 ---
 title: Variety
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/1998/:title/
 tags: ["1998"]

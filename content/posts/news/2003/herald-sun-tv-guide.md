@@ -1,7 +1,7 @@
 ---
 title: Herald Sun TV Guide
 date: 2003-08-24
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

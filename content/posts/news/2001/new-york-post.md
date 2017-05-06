@@ -1,7 +1,7 @@
 ---
 title: New York Post
 date: 2001-06-24
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]

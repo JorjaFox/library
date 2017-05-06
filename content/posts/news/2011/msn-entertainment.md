@@ -1,7 +1,7 @@
 ---
 title: MSN Entertainment 
 date: 2011-01-06
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2011"]
 categories: ["Articles", "News"]

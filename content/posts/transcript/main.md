@@ -1,6 +1,6 @@
 ---
 title: Transcripts
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript-list
 permalink: /transcript/
 categories: ["Transcripts"]

@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 6
 epnum: 20
 date: 2006-04-13
@@ -31,4 +30,4 @@ Sara's time is mostly spent going over the car used for the drive by, and going 
 
 * Sara inspects the car, showing a consistent theme with her and vehicles.
 
-## Quotes## 
+## Quotes

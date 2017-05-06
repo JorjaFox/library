@@ -1,6 +1,6 @@
 ---
 title: Checkout
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/1995/:title/
 categories: ["Articles", "News"]

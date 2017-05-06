@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 1
 epnum: 19
 date: 2001-04-12
@@ -19,7 +18,7 @@ prodnum: 118
 
 Grissom finds it difficult to control his emotions when he investigates the alleged kidnapping of the infant son of a Dot-Com Las Vegas millionaire family, especially when the evidence begins pointing to various family members who may be involved in the disappearance.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 Sara arrives at the scene, and Grissom has her run the ransom note over to QD (Questionable Documents). Sara goes to QD and they determine the printers from the house don't match the note. Sara calls Grissom with the news, and he has her check the printers from the husband's office.
 

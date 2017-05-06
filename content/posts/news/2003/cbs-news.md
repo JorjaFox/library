@@ -1,7 +1,7 @@
 ---
 title: CBS News
 date: 2003-01-09
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

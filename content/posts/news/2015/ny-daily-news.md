@@ -1,7 +1,7 @@
 ---
 title: NY Daily News
 date: 2015-09-25
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]

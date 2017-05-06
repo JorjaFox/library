@@ -1,7 +1,7 @@
 ---
 title: Boston Herald
 date: 2006-09-05
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]

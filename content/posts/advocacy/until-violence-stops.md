@@ -1,6 +1,6 @@
 ---
 title: 'Until the Violence Stops: Los Angeles'
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags: ['Human Rights']

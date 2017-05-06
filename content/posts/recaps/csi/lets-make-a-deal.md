@@ -8,18 +8,17 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 15  
 epnum: 9  
 date: 2014-12-07
 prodnum: 326  
 ---
 
-## Synopsis## 
+## Synopsis
 
 The CSIs investigate a murder at the Clark County jail after an inmate stumbles upon a body while running away from officers.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 **Sara Sidle** does not appear in this episode.
 

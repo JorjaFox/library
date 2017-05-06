@@ -1,7 +1,7 @@
 ---
 title: National Ledger
 date: 2005-08-27
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]

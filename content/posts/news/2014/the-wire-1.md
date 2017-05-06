@@ -1,7 +1,7 @@
 ---
 title: The Wire
 date: 2014-09-16
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]

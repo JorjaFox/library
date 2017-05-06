@@ -1,7 +1,7 @@
 ---
 title: Plugged In
 date: 2001-02-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]

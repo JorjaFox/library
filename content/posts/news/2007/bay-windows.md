@@ -1,7 +1,7 @@
 ---
 title: Bay Windows 
 date: 2007-05-10
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]

@@ -1,7 +1,7 @@
 ---
 title: Zap2It - TV Gal
 date: 2009-09-28
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]

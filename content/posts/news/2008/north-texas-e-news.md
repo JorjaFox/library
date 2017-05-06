@@ -1,7 +1,7 @@
 ---
 title: North Texas E-news
 date: 2008-07-14
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]

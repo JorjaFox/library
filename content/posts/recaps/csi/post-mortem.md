@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 7  
 epnum: 7 
 date: 2006-11-09
@@ -27,7 +26,7 @@ Greg is called to court, in an inquest from his accidental killing of a young ma
 
 Catherine is sent to assist Sara on this case. Sara finds that Penny had been calling an unlisted, disposable cellphone number. Based on Grissom's examination of the miniature, Sara finds the drugs buried outside that Penny was selling for cash.
 
-## Character Notes## 
+## Character Notes
 
 ## Quotes
 

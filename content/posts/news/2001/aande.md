@@ -1,7 +1,7 @@
 ---
 title: AandE
 date: 2001-04-30
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]

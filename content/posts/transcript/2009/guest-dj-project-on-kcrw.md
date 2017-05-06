@@ -1,6 +1,6 @@
 ---
 title: Guest DJ Project on KCRW
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://kcrw.com/  
 date: 2009-09-23

@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 10  
 epnum: 17  
 date: 2010-04-08
@@ -27,5 +26,5 @@ While Sara is back on the job, she still hates the limits of how much they can h
 
 * Sara is familiar with the particulars of the Manson Family (they used to break into people's houses and perform 'creepy crawls')
 
-## Quotes## 
+## Quotes
 

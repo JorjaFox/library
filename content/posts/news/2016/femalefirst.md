@@ -1,7 +1,7 @@
 ---
 title: "FemaleFirst"
 date: 2016-07-07
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2016"]
 categories: ["Articles", "News"]

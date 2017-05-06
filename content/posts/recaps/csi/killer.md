@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 6  
 epnum: 14  
 date: 2006-02-02
@@ -33,4 +32,4 @@ There is very little character development in this episode, as the majority of t
 
 * N/A
 
-## Quotes## 
+## Quotes

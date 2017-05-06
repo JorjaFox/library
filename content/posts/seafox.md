@@ -1,6 +1,6 @@
 ---
 title: "Seafox Productions"
-author: Mika Epstein
+author: "Mika A. Epstein"
 permalink: /seafox/
 layout: single
 categories: ["Filmography"]

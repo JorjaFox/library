@@ -1,7 +1,7 @@
 ---
 title: TV Guide Canada
 date: 2001-09-15
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]

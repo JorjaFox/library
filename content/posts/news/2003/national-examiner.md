@@ -1,7 +1,7 @@
 ---
 title: National Examiner
 date: 2003-09-30
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: [2003, tabloids]
 categories: ["Articles", "News"]

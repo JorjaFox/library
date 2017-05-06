@@ -1,7 +1,7 @@
 ---
 title: E! Online
 date: 2004-07-21
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]

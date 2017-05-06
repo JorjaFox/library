@@ -2,7 +2,10 @@
 
 {{ range .Data.Pages }}
     {{if eq .Type "mainindex" }}
-        {{ partial "content.html" . }}
+		{{ if not .Params.notoc }}
+			{{ .TableOfContents }}
+		{{ end }}
+		{{ .Content }}
     {{end}}
 {{ end }}
 

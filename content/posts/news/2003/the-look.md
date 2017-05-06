@@ -1,7 +1,7 @@
 ---
 title: The Look
 date: 2003-01-25
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
@@ -37,9 +37,9 @@ Born in New York, Jorja moved with her parents, Edward and Marilyn, to Florida w
 
 Even so, she was "spotted" at a model-search competition and spent her late teens on the catwalks of Europe. But determined to act, she worked in bars, as a waitress, in kennels and got TV bit parts until landing the role of Maggie Doyle in the third series of ER. She moved on to do The West Wing, starred in the film Memento with Guy Pearce, and then CSI came up.
 
-With over 23 million American viewers, CSI is building an impressive fan base here too, and is the highest-rated drama on Five. Kings of cool Samuel L. Jackson, Quentin Tarintino and Kevin Spacey all reckon it's their favourite show. "CSI feels special becuase I was in it from the start, when no one knew if it would take off."
+With over 23 million American viewers, CSI is building an impressive fan base here too, and is the highest-rated drama on Five. Kings of cool Samuel L. Jackson, Quentin Tarintino and Kevin Spacey all reckon it's their favourite show. "CSI feels special because I was in it from the start, when no one knew if it would take off."
 
 With stories of decomposing corpses and bodies attacked by vultures, the subject matter is not for the squeamish. It's also hard for Jorja given that she lost her mum six years ago, aged 69, to ovarian cancer.
 
-"Losing her and being in CSI has made me think there's a very thin veil between life and death," says Jorja. "Maybe that's why I'm such an optimist. I don't worry about the future becuase it wastes the time you're in. I'd much rather be in the moment, enjoy each day, and do things that make me feel good. I've got a lot to be happy about."
+"Losing her and being in CSI has made me think there's a very thin veil between life and death," says Jorja. "Maybe that's why I'm such an optimist. I don't worry about the future because it wastes the time you're in. I'd much rather be in the moment, enjoy each day, and do things that make me feel good. I've got a lot to be happy about."
 

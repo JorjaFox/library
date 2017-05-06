@@ -1,7 +1,7 @@
 ---
 title: INQ7
 date: 2003-04-03
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

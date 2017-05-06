@@ -1,6 +1,6 @@
 ---
 title: News
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 type: index
 permalink: /news/

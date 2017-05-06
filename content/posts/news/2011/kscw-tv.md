@@ -1,7 +1,7 @@
 ---
 title: KSCW-TV
 date: 2011-02-17
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]

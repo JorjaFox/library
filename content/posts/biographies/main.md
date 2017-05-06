@@ -1,6 +1,6 @@
 ---
 title: Biography
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: single
 categories: ["Biographies"]
 tags: ["Index"]

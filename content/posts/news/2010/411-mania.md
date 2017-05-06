@@ -1,7 +1,7 @@
 ---
 title: 411 Mania 
 date: 2010-10-20
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2010"]
 categories: ["Articles", "News"]

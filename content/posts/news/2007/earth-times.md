@@ -1,7 +1,7 @@
 ---
 title: Earth Times 
 date: 2007-09-28
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]

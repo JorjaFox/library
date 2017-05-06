@@ -1,6 +1,6 @@
 ---
 title: The Friends of El Faro
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags: 

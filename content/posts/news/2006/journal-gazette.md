@@ -1,7 +1,7 @@
 ---
 title: Journal Gazette
 date: 2006-08-03
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]

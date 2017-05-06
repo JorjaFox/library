@@ -1,7 +1,7 @@
 ---
 title: The Courier-Mail
 date: 2008-10-19
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]

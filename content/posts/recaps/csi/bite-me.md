@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 6  
 epnum: 3
 date: 2005-10-06
 prodnum: 603  
 ---
 
-## Synopsis## 
+## Synopsis
 
 A husband and wife, unhappily married, have a night alone which ends when the wife is found dead at the bottom of the stairs in a pool of blood. The case unfolds ambiguously, as the evidence points to an accident or a murder, but neither conclusively. The husband, Ray, was married before and his first wife died of a stroke, falling on the stairs; this is later proven correct by exhumation and autopsy. His recent wife, Becky, doesn't show the classic signs of a fall, however, which confuses the CSIs, who are being pressured by the DA for this high profile case.
 

@@ -1,7 +1,7 @@
 ---
 title: New Zealand TV Guide (February 2008)
 date: 2008-02-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]

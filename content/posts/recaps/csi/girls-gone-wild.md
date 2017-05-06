@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 14  
 epnum: 10  
 date: 2013-11-27
 prodnum: 305  
 ---
 
-## Synopsis## 
+## Synopsis
 
 The episode opens with Morgan Brody rushing through the lab to tell D.B. Russell that Sara was involved in a shooting in Larkston, but there's still no word on Finn. DB and Nick take a helicopter out to find Sara has been grazed by a bullet, but Finn is missing. We cut to Finn, who is beaten and bloodied, walking down a desert road, only to be hit by a car. Sara is checked out alright, and she is sent back to talk to Brass while DB puts a BOLO out on the last car Finn was seen using.
 

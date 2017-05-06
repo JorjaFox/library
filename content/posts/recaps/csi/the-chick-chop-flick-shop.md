@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 8
 epnum: 5  
 date: 2007-11-01
@@ -21,7 +20,7 @@ A successful horror-film actress, Weatherly Adams, goes missing and the CSIs are
 
 Weatherly's death was a set related accident, which the owners tried to cover up so as not to lose their bond. In the backstabing and cover-up that follow, all the involved parties die. A cross-dressing Zarco kills Stanley to save Ronnie, and avenge Weatherly's death.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 Wendy was in one of the horror films by Mr. Putrid, which she shows to the Lab Rats and Sara. Sara leaves and Greg finds her in the locker room, where Sara confides that she's sick of death in Las Vegas.
 

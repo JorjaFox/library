@@ -1,7 +1,7 @@
 ---
 title: The Star
 date: 2005-09-04
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]

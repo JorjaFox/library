@@ -1,7 +1,7 @@
 ---
 title: TV Guide - The Biz Blog
 date: 2008-08-28
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]

@@ -1,7 +1,7 @@
 ---
 title: Slush
 date: 2001-03-23
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]

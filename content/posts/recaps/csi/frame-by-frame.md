@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 14
 epnum: 5  
 date: 2013-10-23
 prodnum: 300  
 ---
 
-## Synopsis## 
+## Synopsis
 
 Gwen Onetto is found murdered in front of a miniature casino model. The model is of the Premiere, a casino that never was, because Jack Witten was accused of murdering a young woman fourteen years ago.
 
@@ -33,7 +32,7 @@ Finally Witten admits he *did* know Darcy. He'd met her at NA -- Narcotics Anony
 
 Sara is not as pleased about the confession as one might expect. The bullet used to kill Gear was not a match to Witten's gun. Greg manages to restore the film more, and finds that it was shot two months *after* Darcy's death. Darcy faked her death to get away from her father, who may have abused her.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 Fourteen years ago, Sara and Catherine worked the case where Jack Witten was accused of murdering Darcy Blaine, an eighteen year-old he met at a bar and who was never seen again after leaving with Witten. When they were unable to come up with enough evidence, Conrad Ecklie (then only the dayshift lead) took the case from them. With Grissom away at a conference, there was nothing Catherine or Sara could do to prevent the case from being filed away as a cold case, unsolved until now.
 
@@ -41,7 +40,7 @@ Sara is, again, a soft touch for a sob story that hits her in the right place. S
 
 However, when faced with Darcy, Sara stays true to justice. Instead of relying on justice when (and if) her father abused her, Darcy's choice to pervert it, let innocents suffer, and in the end, commit murder is too much for Sara to let slide. But Sara doesn't know what to believe anymore.
 
-## Character Notes## 
+## Character Notes
 
 * Sara still chases rabbits. 
 

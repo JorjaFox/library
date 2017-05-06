@@ -1,6 +1,6 @@
 ---
 title: Memento Premiere
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 date: 2001-01-01
 interviewurl: http://wireimage.com/

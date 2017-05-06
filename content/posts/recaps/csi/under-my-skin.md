@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 15  
 epnum: 17  
 date: 2015-02-15
 prodnum: 334  
 ---
 
-## Synopsis## 
+## Synopsis
 
 The CSI team investigates a murder with ties to two teenaged kidnapped girls.
 
@@ -26,6 +25,6 @@ Lexi is found dead in a dumpster, still in Vegas, killed from a rare scorpion st
 ## Sara Sidle Review
 Sara doesn't appreciate people who abuse women in any way. She's aggressive towards Axel but kinder to Tori when explaining the graphic photos found on Lexi's phone.
 
-## Character Notes## 
+## Character Notes
 
 * Parents fighting make Sara uncomfortable

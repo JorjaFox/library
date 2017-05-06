@@ -1,6 +1,6 @@
 ---
 title: The Early Show
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://www.cbsnews.com/earlyshow/
 date: 2006-05-19

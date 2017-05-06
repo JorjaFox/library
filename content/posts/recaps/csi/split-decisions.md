@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 12  
 epnum: 19  
 date: 2012-04-04
@@ -29,7 +28,7 @@ Brass thinks the mother, Mrs. Brentson, orchestrated the murder as payback for K
 
 Weirder still, the brothers all won their trips from Dr. Kiel. He'd been keeping tabs on the triplets. Sara talks to Kiel's son, who says his father met with two of the brothers. While she's out with Avery, they determine who the fourth brother is. Avery is the fourth brother, and arranged for his father's murder and brother's faux suicide.
 
-Avery didn't kill his father over money, but becuase he found the truth about his birth. While he managed to create a perfect crime, the evidence only damns him and the deceased Kevin. His other brothers will get off Scott free.
+Avery didn't kill his father over money, but because he found the truth about his birth. While he managed to create a perfect crime, the evidence only damns him and the deceased Kevin. His other brothers will get off Scott free.
 
 ## Sara Sidle Review
 

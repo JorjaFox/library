@@ -1,7 +1,7 @@
 ---
 title: Box Off
 date: 1999-01-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/1999/:title/
 tags: ["1999"]

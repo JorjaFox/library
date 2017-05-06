@@ -1,7 +1,7 @@
 ---
 title: TV Guide
 date: 2006-10-09
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]
@@ -14,7 +14,7 @@ newsurl: http://tvguide.com
 
 ---
 
-I beg forgiveness for all the mean things I've said recently about TV Guide, becuase I nearly died when I saw your Jorja Fox/William Petersen cover [9/25]. He looks "soooooo" good. And Jorja's a doll, too! &#8212; "Lauren Kleinfeldt, Glendale, N.Y."
+I beg forgiveness for all the mean things I've said recently about TV Guide, because I nearly died when I saw your Jorja Fox/William Petersen cover [9/25]. He looks "soooooo" good. And Jorja's a doll, too! &#8212; "Lauren Kleinfeldt, Glendale, N.Y."
 
 [...]
 

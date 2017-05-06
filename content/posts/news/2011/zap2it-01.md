@@ -1,7 +1,7 @@
 ---
 title: Zap2It
 date: 2011-07-21
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]

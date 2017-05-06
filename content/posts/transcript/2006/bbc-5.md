@@ -1,6 +1,6 @@
 ---
 title: BBC 5
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 permalink: /transcript/2006/:title/
 categories: ["Interviews"]

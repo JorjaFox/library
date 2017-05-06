@@ -1,6 +1,6 @@
 ---
 title: VegTV (25 August 2007)
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 date: 2007-08-25
 interviewurl: http://www.vegtv.com

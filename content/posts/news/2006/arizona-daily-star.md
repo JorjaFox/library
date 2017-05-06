@@ -1,7 +1,7 @@
 ---
 title: Arizona Daily Star
 date: 2006-07-20
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]

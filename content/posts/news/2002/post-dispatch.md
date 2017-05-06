@@ -1,7 +1,7 @@
 ---
 title: Post Dispatch
 date: 2002-09-17
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]

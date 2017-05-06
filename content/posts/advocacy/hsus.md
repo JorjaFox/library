@@ -1,6 +1,6 @@
 ---
 title: Humane Society of the United States
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags: 

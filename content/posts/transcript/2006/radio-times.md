@@ -1,6 +1,6 @@
 ---
 title: Radio Times
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://www.radiotimes.com
 date: 2006-06-06
@@ -58,7 +58,7 @@ Oh gosh. We've had this crazy dance for many years &#8212; off and on, odd and o
 
 **Some of *CSI's* scenes are really gross. What's the closest you've come to losing your dinner?**
 
-Oh yeah. Six years of that and I'm the most squeamish member of the cast! I really feel like the writers give me those scenes intentionally becuase they think it's funny. It'll affect my day, my lunch. Two seasons ago, Eric Szmanda [*CSI's* Greg Sanders] and I were looking through the stomach contents of a victim. They had brought in pizza because we were working late, and both of us almost got sick. Even though it's make-believe, a lot of our stories are based on real events. It has less to do with what I'm looking at than why I'm looking at it &#8212; how they died.
+Oh yeah. Six years of that and I'm the most squeamish member of the cast! I really feel like the writers give me those scenes intentionally because they think it's funny. It'll affect my day, my lunch. Two seasons ago, Eric Szmanda [*CSI's* Greg Sanders] and I were looking through the stomach contents of a victim. They had brought in pizza because we were working late, and both of us almost got sick. Even though it's make-believe, a lot of our stories are based on real events. It has less to do with what I'm looking at than why I'm looking at it &#8212; how they died.
 
 **You're up for World's Sexiest Vegetarian this year. Have you been on the website, voting for yourself?**
 

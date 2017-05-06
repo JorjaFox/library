@@ -1,7 +1,7 @@
 ---
 title: BlackBook
 date: 2009-08-23
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]

@@ -1,6 +1,6 @@
 ---
 title: ET Online
-author: Mika Epstein
+author: "Mika A. Epstein"
 interviewurl: http://www.etonline.com
 date: 2006-04-27
 layout: transcript

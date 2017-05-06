@@ -1,7 +1,7 @@
 ---
 title: TV Guide Magazine 
 date: 2009-10-05
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
 categories: ["Articles", "News"]

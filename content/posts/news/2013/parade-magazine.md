@@ -1,7 +1,7 @@
 ---
 title: Parade Magazine
 date: 2013-08-12
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]

@@ -1,7 +1,7 @@
 ---
 title: TV Times
 date: 2003-01-25
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

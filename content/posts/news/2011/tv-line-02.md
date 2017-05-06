@@ -1,7 +1,7 @@
 ---
 title: TV Line
 date: 2011-04-06
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]

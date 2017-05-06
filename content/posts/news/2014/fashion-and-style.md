@@ -1,7 +1,7 @@
 ---
 title: Fashion and Style
 date: 2014-10-12
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]

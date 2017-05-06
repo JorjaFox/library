@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 15  
 epnum: 12  
 date: 2014-12-28
@@ -25,11 +24,11 @@ Fogel claims innocence. He found in about Hannah while in prison and looked them
 
 Abby IDs a hunter, Donald Wraith, as the man who shot her parents, but when the CSIs go to arrest him, Donald is dead. Shot in the head the same way the Fishers had been. Randy Pruitt, president of Wraith's hunting club, had killed him, and his prints match the unknowns found in the Fishers' tent. Randy and Donald wanted to rape the wife, so the drugged the husband but she fought back and Donald killed her. He and Randy had done this before.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 Sara does not initially believe Abby, but after looking at the evidence, starts digging into the case. This ruffles a lot of feather, including Doc Robbins and Ecklie.
 
-## Character Notes## 
+## Character Notes
 
 * Sara has kept in touch with Abby, enough to know she's still in foster care and who Slade is.  
 * Sara empathizes with Abby, sharing the pain of a family member murdering another.  

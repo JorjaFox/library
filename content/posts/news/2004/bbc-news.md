@@ -1,7 +1,7 @@
 ---
 title: BBC News
 date: 2004-07-16
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]

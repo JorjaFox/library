@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 4
 epnum: 14  
 date: 2004-02-12
@@ -25,4 +24,4 @@ Grissom appears to be avoiding Sara at the crime scene, a result of the events i
 
 _Note: this episode was originally scheduled to air the week after "Butterflied" aired, explaining why Grissom is uncomfortable working with Sara._
 
-## Quotes## 
+## Quotes

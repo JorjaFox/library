@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 14  
 epnum: 2  
 date: 2013-10-02
 prodnum: 297  
 ---
 
-## Synopsis## 
+## Synopsis
 
 A high stakes game of Texas No-Limit Hold'em at the Four Kings Casino ends with a heist, when a motorcyclist, Clint Tyree, steals over a million in cash and kills the guard, Paul Branston. He doesn't make out alive, however, as a security guard shoots at him causing him to crash on Fremont street. The shots don't kill him, or even hit him, but the thief collapses anyway, dead. When the CSIs arrive, they learn the money and chips are fake, and the thief's face is grotesquely swollen.
 

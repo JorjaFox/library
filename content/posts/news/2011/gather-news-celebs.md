@@ -1,7 +1,7 @@
 ---
 title: Gather News - Celebs
 date: 2011-09-20
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]

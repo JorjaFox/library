@@ -1,7 +1,7 @@
 ---
 title: The Test
 date: 2001-04-24
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 categories: ["Articles"]
 tags: [""]

@@ -1,7 +1,7 @@
 ---
 title: Us Weekly
 date: 2001-11-19
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
@@ -24,7 +24,7 @@ Even thought the cast members spend up to 50 hours working togeather during the 
 
 As a tribute to the fictional crime victims, the cast came up with a rating system [...] The all time winner [...] was Jody Lynn Wilson, a stunt actor from last season who was covered with live bugs and didn't move for at least two hours. It's a notion that still makes Fox a little squeamish. "I'm the wimp of the cast," she admits. "But I'm getting getter. Last year, I couldn't red the scripts before I went to bed. I couldn't eat anything and watch the show at the same time. Now when I see something [gross] is coming up, I'm like, &#8216;Yeah, cool.'"
 
-It's now late afternoon. Outside the soundstage, Eads, Petersen and Dourdan assemble under golf umbrellas for a brief cigarette break. Fox, who might normally join the guys, stays inside becuase "my hair will frizz out in this weather."
+It's now late afternoon. Outside the soundstage, Eads, Petersen and Dourdan assemble under golf umbrellas for a brief cigarette break. Fox, who might normally join the guys, stays inside because "my hair will frizz out in this weather."
 
 [...]
 

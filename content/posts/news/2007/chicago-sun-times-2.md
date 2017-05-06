@@ -1,7 +1,7 @@
 ---
 title: Chicago Sun-Times 
 date: 2007-12-06
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]

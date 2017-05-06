@@ -1,6 +1,6 @@
 ---
 title: U.S. Campaign for Burma
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags: [Politics, 'Human Rights']

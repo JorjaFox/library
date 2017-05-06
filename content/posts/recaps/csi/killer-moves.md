@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 14  
 epnum: 16  
 date: 2014-03-05
@@ -24,7 +23,7 @@ The killer turns out to be the woman running the chess tour, murdering out of ha
 ## Sara Sidle Review
 Sara works the case as Greg's second, and while initially she thinks he might be a little stretching it for the chess connection, declares him a genius when it's true. At the end of the episode, Sara offers to play chess with Greg, in order to cheer him up.
 
-## Character Notes## 
+## Character Notes
 
 ## Quotes
 

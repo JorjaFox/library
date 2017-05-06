@@ -1,7 +1,7 @@
 ---
 title: News.com.au
 date: 2014-03-30
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]

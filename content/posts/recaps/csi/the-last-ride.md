@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 15  
 epnum: 16  
 date: 2015-01-27
 prodnum: 333  
 ---
 
-## Synopsis## 
+## Synopsis
 
 A woman, Eva Montrose, is found dead of asphyxiation from being painted solid silver and swallowing it. The paint used was special, eco-friendly, car chrome paint. Based on the bruise pattern on her back and the shards of headlamp in her arm, the CSIs track down a classic Packard car and it's owner... Eva's ex-boyfriend, Carlo Derosa.
 
@@ -25,13 +24,13 @@ The find the car in a storage unit rented by Eva, along with Aron who tracked th
 
 But the killer was the car appraiser, Ken Bixler, who was also the real killer of Alfonso. He was there to kill Vera, Alfonso's mistress and Ken's fiancÃ©e. Eva asked Ken to help her steal the car, knowing him from her drug days, and Ken stole the headrest to cover his murder of Vera and Alfonso. Eva stumbled on him and he killed her.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 Sara gives the death notification to Eva's parents and goes with Finn to find the cars. When Carlo's a bit of a dick and tries to ignore them, she bumps his expensive car and sets off the alarm.
 
-## Character Notes## 
+## Character Notes
 
 * Sara hates when people lie to her
 
-## Quotes## 
+## Quotes
 

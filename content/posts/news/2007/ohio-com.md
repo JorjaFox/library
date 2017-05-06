@@ -2,7 +2,7 @@
 title: Ohio.com
 
 date: 2007-12-19
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]

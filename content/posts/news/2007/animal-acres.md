@@ -1,7 +1,7 @@
 ---
 title: Animal Acres (08-14 July 2007)
 date: 2007-07-08
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]

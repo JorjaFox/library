@@ -1,7 +1,7 @@
 ---
 title: TV Gal
 date: 2002-01-21
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]

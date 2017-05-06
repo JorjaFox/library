@@ -1,7 +1,7 @@
 ---
 title: "Reed all about Tracie's Obama adventures"
 date: 2008-08-29
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
 categories: ["Articles", "News"]

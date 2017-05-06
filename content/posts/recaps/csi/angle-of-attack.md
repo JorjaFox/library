@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 15  
 epnum: 11  
 date: 2014-12-21
 prodnum: 328  
 ---
 
-## Synopsis## 
+## Synopsis
 
 A 'hit and run' is found on the streets of Vegas, but curiously matches none of the markers one would expect. The case only gets odder when they determine the man fell from a building blocks away, being thrown through glass thick enough to take a bullet. At first the lab suspects a missile, but they determine it's a Squirrel Suit and manage to ID the deceased: Captain Robert Holland, Air Force.
 

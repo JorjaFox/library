@@ -1,7 +1,7 @@
 ---
 title: The Futon Critic
 date: 2005-04-25
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]

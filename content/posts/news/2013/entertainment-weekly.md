@@ -1,7 +1,7 @@
 ---
 title: Entertainment Weekly
 date: 2013-02-15
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]

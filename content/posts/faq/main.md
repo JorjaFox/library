@@ -1,6 +1,6 @@
 ---
 title: "FAQs"
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: single
 permalink: /faq/
 categories: ["FAQ"]

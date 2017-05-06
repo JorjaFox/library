@@ -1,7 +1,7 @@
 ---
 title: E Online
 date: 2003-09-25
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

@@ -1,7 +1,7 @@
 ---
 title: Post-Gazette
 date: 2000-10-04
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 categories: ["Articles", "News"]
 permalink: /news/2000/:title/

@@ -1,7 +1,7 @@
 ---
 title: Scarlet Carpet
 date: 2004-05-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]

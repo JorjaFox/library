@@ -1,6 +1,6 @@
 ---
 title: Clothes Off Our Back
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags: 

@@ -1,7 +1,7 @@
 ---
 title: MSN Malaysian
 date: 2010-02-24
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]

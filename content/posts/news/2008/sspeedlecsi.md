@@ -1,7 +1,7 @@
 ---
 title: "CSI: Crime Scene Investigatio News"
 date: 2008-04-17
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
 categories: ["Articles", "News"]

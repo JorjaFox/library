@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 15  
 epnum: 18  
 date: 2015-02-15
@@ -17,7 +16,7 @@ prodnum: 335
 
 * George Eads' final episode*
 
-## Synopsis## 
+## Synopsis
 
 The CSI unit faces the final showdown with the Gig Harbor killer whose motives are finally revealed. Also, Nick makes a decision that will affect the entire team moving forward.
 

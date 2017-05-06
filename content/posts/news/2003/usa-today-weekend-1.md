@@ -1,7 +1,7 @@
 ---
 title: USA Today Weekend
 date: 2003-01-12
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

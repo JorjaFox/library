@@ -1,7 +1,7 @@
 ---
 title: In Touch
 date: 2004-05-14
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]

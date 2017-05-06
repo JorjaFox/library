@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 7
 epnum: 9
 date: 2006-11-23
@@ -25,7 +24,7 @@ Assuming that the bullet would kill him if removed, Mickey staged his revenge pl
 
 Sara works the murder of Mason, who is strangled by Dunn, in the guise of Pamela Vorhees.
 
-## Character Notes## 
+## Character Notes
 
 ## Quotes
 

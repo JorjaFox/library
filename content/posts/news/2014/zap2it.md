@@ -1,7 +1,7 @@
 ---
 title: Zap2It 
 date: 2014-10-13
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]

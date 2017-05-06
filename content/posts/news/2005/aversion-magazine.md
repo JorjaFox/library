@@ -1,7 +1,7 @@
 ---
 title: Aversion Magazine
 date: 2005-05-23
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]

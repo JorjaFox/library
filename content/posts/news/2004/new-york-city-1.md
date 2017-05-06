@@ -1,7 +1,7 @@
 ---
 title: New York City
 date: 2004-07-18
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]

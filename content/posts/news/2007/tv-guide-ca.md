@@ -1,7 +1,7 @@
 ---
 title: TV Guide CA 
 date: 2007-08-16
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]

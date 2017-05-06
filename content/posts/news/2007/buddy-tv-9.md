@@ -1,7 +1,7 @@
 ---
 title: Buddy TV 
 date: 2007-11-13
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]

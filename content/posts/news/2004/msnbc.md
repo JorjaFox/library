@@ -1,7 +1,7 @@
 ---
 title: MSNBC
 date: 2004-09-19
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]

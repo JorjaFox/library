@@ -1,6 +1,6 @@
 ---
 title: "Loving Stanley"
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: producer
 categories: ["Filmography"]
 tags: [producer, stage, honeypot, writer]

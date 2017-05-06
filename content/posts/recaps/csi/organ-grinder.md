@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 2
 epnum: Eleven  
 date: 2001-12-13
 prodnum: 211  
 ---
 
-## Synopsis## 
+## Synopsis
 
 The CSI team is called in when a famous real estate entrepreneur is found dead in a hotel elevator.
 

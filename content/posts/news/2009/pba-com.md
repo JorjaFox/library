@@ -1,7 +1,7 @@
 ---
 title: PBA.com
 date: 2009-11-18
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]

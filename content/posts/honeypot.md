@@ -1,6 +1,6 @@
 ---
 title: "Honeypot Productions"
-author: Mika Epstein
+author: "Mika A. Epstein"
 permalink: /honeypot/
 layout: single
 categories: ["Filmography"]

@@ -1,7 +1,7 @@
 ---
 title: ET Online 
 date: 2007-10-04
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]

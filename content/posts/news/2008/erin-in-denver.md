@@ -1,7 +1,7 @@
 ---
 title: Erin in Denver 
 date: 2008-08-28
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
 categories: ["Articles", "News"]

@@ -1,6 +1,6 @@
 ---
 title: SpinDaily 
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 date: 2008-02-04
 interviewurl: http://www.spindaily.com/content/view/315/1/

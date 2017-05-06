@@ -1,7 +1,7 @@
 ---
 title: De Telegraaf
 date: 2002-06-21
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories:

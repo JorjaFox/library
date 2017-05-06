@@ -1,7 +1,7 @@
 ---
 title: TV Guide
 date: 2012-01-24
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]

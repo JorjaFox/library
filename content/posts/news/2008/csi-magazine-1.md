@@ -1,7 +1,7 @@
 ---
 title: The Official CSI Magazine
 date: 2008-05-13
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]
@@ -55,7 +55,7 @@ That was interesting because there was a different ending planned for the show, 
 
 **What was your take on doing an ongoing arc like the Miniature Killer storyline?**
 
-I loved the fact that we were going to take on a story that would go the whole season. I wasn't thrilled with the idea of becoming a victim of the serial killer, though. Maybe I wasn't completely listening becuase Carol and Ann did mention something to me about how this thing would go all season, that there would be something between Sara and the serial killer, but when push came to shove, I wasn't really for that at all. I was extremely protective of the character. I felt Sara had been victimized as a child, and had gone through so much, and had made such a heroic stand at not being a victim anymore, which is partly how she ended up at the crime labs. But it makes excellent drama and speaking of the season eight premiere, it was fun to shoot it. I am really glad I did it and have no regrets
+I loved the fact that we were going to take on a story that would go the whole season. I wasn't thrilled with the idea of becoming a victim of the serial killer, though. Maybe I wasn't completely listening because Carol and Ann did mention something to me about how this thing would go all season, that there would be something between Sara and the serial killer, but when push came to shove, I wasn't really for that at all. I was extremely protective of the character. I felt Sara had been victimized as a child, and had gone through so much, and had made such a heroic stand at not being a victim anymore, which is partly how she ended up at the crime labs. But it makes excellent drama and speaking of the season eight premiere, it was fun to shoot it. I am really glad I did it and have no regrets
 
 **The eighth season premiere "Dead Doll", had Sara in pretty dire circumstances. How was it filming that wet, deadly trap?**
 
@@ -67,7 +67,7 @@ It is amzing to me that after seven years, people would still be invested enough
 
 **There have been so many bloody and gory episodes. Is there one that really disturbed you?**
 
-If I was speaking personally about going to far, I'd say most of them. I am so squeamish. I am a pacifist so every week I am like, "Ewwww ... we're doing that?" One of the worst ones for me was a long time ago and based on a true story. It took place in Texas and was about a woman who was coming home, ran a guy over, and he stuck to her car. She was on LSD, was a nurse, and just drove home with the guy on her car, and parked it in the garage. We changed the story a little but so it had been a lawyer who'd been drinking. At a certain point, the person became aware that the guy on the car was still alive but they made the conscious decision to leave him to die in the garage. That story really affected me profoundly as a story and there was something about the autopsy in that case. His knees were both shredded becuase he had been dragged.
+If I was speaking personally about going to far, I'd say most of them. I am so squeamish. I am a pacifist so every week I am like, "Ewwww ... we're doing that?" One of the worst ones for me was a long time ago and based on a true story. It took place in Texas and was about a woman who was coming home, ran a guy over, and he stuck to her car. She was on LSD, was a nurse, and just drove home with the guy on her car, and parked it in the garage. We changed the story a little but so it had been a lawyer who'd been drinking. At a certain point, the person became aware that the guy on the car was still alive but they made the conscious decision to leave him to die in the garage. That story really affected me profoundly as a story and there was something about the autopsy in that case. His knees were both shredded because he had been dragged.
 
 **That is pretty grisly ... Lastly, what will you cherish the most about your time on "CSI"?**
 

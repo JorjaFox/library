@@ -1,6 +1,6 @@
 ---
 title: "Courthouse"
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: actor
 categories: ["Filmography"]
 tags: ["Television"]

@@ -1,7 +1,7 @@
 ---
 title: Hollywood.com
 date: 2004-01-26
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]

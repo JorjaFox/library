@@ -1,6 +1,6 @@
 ---
 title: Five Acres
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags:

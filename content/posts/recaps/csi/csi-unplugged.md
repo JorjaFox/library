@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 12  
 epnum: 16  
 date: 2012-02-29
@@ -30,5 +29,5 @@ At the autopsy, Sara is delighted when David the coroner's assistant makes light
 * Sara and David (aka Super Dave) still flirt as friends.  
 * Sara and Nick confess to being out of practice reviewing prints by eye and not computer.
 
-## Quotes## 
+## Quotes
 

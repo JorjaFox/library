@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 16  
 epnum: 2  
 date: 2015-09-27
@@ -47,7 +46,7 @@ In the end, Sara gets the position she wants but refuses to say goodbye to Griss
 
 And she gives it all up for Grissom, sailing off into the ocean with him.
 
-## Character Notes## 
+## Character Notes
 
 * Sara is promoted to Lab Director (the role Grissom had in season one)  
 * Sara chooses Grissom in the end.

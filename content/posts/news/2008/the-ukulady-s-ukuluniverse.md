@@ -1,7 +1,7 @@
 ---
 title: The UkuLady's UkulUniverse 
 date: 2008-02-28
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2008"]
 categories: ["Articles", "News"]

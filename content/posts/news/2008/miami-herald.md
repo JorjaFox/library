@@ -1,7 +1,7 @@
 ---
 title: Miami Herald
 date: 2008-03-30
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]

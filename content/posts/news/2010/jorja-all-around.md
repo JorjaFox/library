@@ -1,7 +1,7 @@
 ---
 title: Jorja All Around 
 date: 2010-09-29
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2010"]
 categories: ["Articles", "News"]

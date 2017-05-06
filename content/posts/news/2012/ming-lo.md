@@ -2,7 +2,7 @@
 title: Ming Lo (25 October 2012)
 
 date: 2012-10-25
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]

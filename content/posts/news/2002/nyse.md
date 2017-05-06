@@ -1,7 +1,7 @@
 ---
 title: NYSE
 date: 2002-05-17
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]

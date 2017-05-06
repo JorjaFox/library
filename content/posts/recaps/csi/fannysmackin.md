@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 7
 epnum: 4
 date: 2006-10-12
@@ -23,7 +22,7 @@ A series of people, seemingly at random, are beaten and kicked to the point that
 
 Sara speaks to the second victim of the night, and also processes Greg when he becomes a victim of the beatings. She is near tears while processing Greg. She also sees the kids have no one to blame but themselves for their actions.
 
-## Character Notes## 
+## Character Notes
 
 ## Quotes
 

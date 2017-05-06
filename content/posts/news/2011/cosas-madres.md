@@ -1,7 +1,7 @@
 ---
 title: Cosas Madres (07 01 2011)
 date: 2011-07-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]

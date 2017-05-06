@@ -1,7 +1,7 @@
 ---
 title: The F-Word
 date: 2009-02-18
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]

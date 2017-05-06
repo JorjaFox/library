@@ -1,7 +1,7 @@
 ---
 title: Star Magazine
 date: 2003-06-17
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

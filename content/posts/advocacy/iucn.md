@@ -1,6 +1,6 @@
 ---
 title: International Union for Conservation of Nature
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags: 

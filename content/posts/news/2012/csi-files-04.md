@@ -1,7 +1,7 @@
 ---
 title: CSI Files (17 October 2012)
 date: 2012-10-17
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]

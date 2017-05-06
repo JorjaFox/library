@@ -1,7 +1,7 @@
 ---
 title: "People"
 date: 2016-03-15
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2016"]
 categories: ["Articles", "News"]

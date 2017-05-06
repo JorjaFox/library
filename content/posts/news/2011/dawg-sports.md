@@ -1,7 +1,7 @@
 ---
 title: Dawg Sports
 date: 2011-01-18
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]

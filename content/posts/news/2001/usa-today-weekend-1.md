@@ -1,7 +1,7 @@
 ---
 title: USA Today Weekend
 date: 2001-06-17
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]

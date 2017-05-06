@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 14  
 epnum: 14  
 date: 2014-02-05
@@ -23,7 +22,7 @@ Meanwhile, back in Las Vegas, Greg and Sara work a case where a couple is buried
 
 Both women were having portraits done by the same artist. Ana's father had hired Keith Garner, Ana's art teacher, to do a portrait of her. Keith was also Claire's art teacher, 15 years ago. 
 
-## Character Notes## 
+## Character Notes
 
 ## Quotes
 

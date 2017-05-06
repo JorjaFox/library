@@ -1,6 +1,6 @@
 ---
 title: Politics
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: single
 categories: ["Politics"]
 tags: ["Index"]

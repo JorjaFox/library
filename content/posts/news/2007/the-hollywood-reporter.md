@@ -1,7 +1,7 @@
 ---
 title: The Hollywood Reporter 
 date: 2007-08-20
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]

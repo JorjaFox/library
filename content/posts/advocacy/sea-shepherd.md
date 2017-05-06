@@ -1,6 +1,6 @@
 ---
 title: Sea Shepherd Conservation Society
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags: 

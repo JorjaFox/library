@@ -1,7 +1,7 @@
 ---
 title: U.S. Newswire
 date: 2005-11-18
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]

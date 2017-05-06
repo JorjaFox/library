@@ -1,7 +1,7 @@
 ---
 title: Entertainment Tonight
 date: 2002-07-24
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]

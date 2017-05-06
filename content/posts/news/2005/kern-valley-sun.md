@@ -1,7 +1,7 @@
 ---
 title: Kern Valley Sun
 date: 2005-01-05
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]

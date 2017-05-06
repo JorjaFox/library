@@ -1,7 +1,7 @@
 ---
 title: Animal Defender 
 date: 2010-08-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2010"]
 categories: ["Articles", "News"]

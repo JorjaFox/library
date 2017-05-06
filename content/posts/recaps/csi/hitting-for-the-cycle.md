@@ -9,7 +9,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 11
 epnum: 18
 date: 2011-03-31

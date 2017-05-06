@@ -1,7 +1,7 @@
 ---
 title: Honolulu Pulse
 date: 2013-10-11
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]

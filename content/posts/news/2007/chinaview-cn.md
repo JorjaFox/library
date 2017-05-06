@@ -1,7 +1,7 @@
 ---
 title: Chinaview.cn 
 date: 2007-11-16
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]

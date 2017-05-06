@@ -1,7 +1,7 @@
 ---
 title: Playboy
 date: 2003-05-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 categories: [News, Articles]
 tags: ["2003"]

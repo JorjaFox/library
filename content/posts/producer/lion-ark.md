@@ -1,6 +1,6 @@
 ---
 title: "Lion Ark"
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: producer
 categories: ["Filmography"]
 tags: ["producer", "movies"]

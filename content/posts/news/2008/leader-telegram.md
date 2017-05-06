@@ -1,7 +1,7 @@
 ---
 title: Leader-Telegram
 date: 2008-08-27
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]

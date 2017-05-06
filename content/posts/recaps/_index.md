@@ -1,6 +1,6 @@
 ---
 title: Recaps
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: single
 permalink: /recaps/
 categories: ["Recaps"]

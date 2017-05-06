@@ -1,7 +1,7 @@
 ---
 title: Los Angeles Magazine
 date: 2003-10-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

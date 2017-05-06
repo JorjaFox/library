@@ -1,7 +1,7 @@
 ---
 title: Channel Guide Magazine
 date: 2009-08-20
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]

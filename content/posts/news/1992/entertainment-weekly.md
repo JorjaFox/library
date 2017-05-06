@@ -1,6 +1,6 @@
 ---
 title: Entertainment Weekly
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/1992/:title/
 categories: ["Articles", "News"]

@@ -28,7 +28,7 @@ At the top of every article is a header, which looks like this:
 ```
 ---
 title: Politics
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: post
 categories: ["Politics"]
 tags: ["Index"]

@@ -1,7 +1,7 @@
 ---
 title: Shane S Saunders 
 date: 2011-03-10
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2011"]
 categories: ["Articles", "News"]

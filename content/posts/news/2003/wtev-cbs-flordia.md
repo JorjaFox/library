@@ -1,7 +1,7 @@
 ---
 title: WTEV CBS Flordia
 date: 2003-07-03
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

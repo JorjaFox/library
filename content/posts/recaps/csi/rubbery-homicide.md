@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 15  
 epnum: 8  
 date: 2014-11-30
 prodnum: 325  
 ---
 
-## Synopsis## 
+## Synopsis
 
 A man, Nelson Kern, is found stripped to his boxers in an alley, having been slashed to death. But with so little blood on his person, the scene is very odd. It gets odder when they find a life sized rubber outfit in the dumpster. An outfit that fits Mr. Kern.
 
@@ -23,7 +22,7 @@ The outfit is based on a model from the 80s named Charlene, which is the same na
 
 Kern wasn't Charlene, however. He was a rival vulcanized vixen, Lexie, who broken into the home of the *real* Charlene's widower, Stan, to steal the outfit and the doll. But Stan didn't kill Kern. His daughter, April, did, in order to protect the image of her father, mother, and the company they created.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 Sara works the case, however there is little notable this episode. She's quick to come up with a slightly out-there theory again (like she did with spontaneous human combustion).
 
@@ -31,5 +30,5 @@ Sara works the case, however there is little notable this episode. She's quick t
 
 * Sara is quick to theorize about a rape gone wrong, identifying with the theoretical woman.
 
-## Quotes## 
+## Quotes
 

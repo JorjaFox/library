@@ -1,7 +1,7 @@
 ---
 title: Fancast
 date: 2010-05-11
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]

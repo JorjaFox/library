@@ -1,7 +1,7 @@
 ---
 title: NEWS.com.au
 date: 2005-11-16
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]

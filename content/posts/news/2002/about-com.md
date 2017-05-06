@@ -1,7 +1,7 @@
 ---
 title: About.com
 date: 2002-11-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]

@@ -1,7 +1,7 @@
 ---
 title: Newsday
 date: 2000-09-24
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 categories: ["Articles", "News"]
 permalink: /news/2000/:title/

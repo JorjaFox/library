@@ -1,7 +1,7 @@
 ---
 title: St. Paul Pioneer Press
 date: 2006-11-19
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]

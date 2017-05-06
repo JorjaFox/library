@@ -1,7 +1,7 @@
 ---
 title: AOL Inside TV
 date: 2009-02-05
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]

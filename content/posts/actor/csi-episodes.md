@@ -1,74 +1,75 @@
 ---
 title: 'List of CSI: Crime Scene Investigation episodes'
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: single
 categories: ["CSI"]
 tags: ["Television"]
 show: csi
+seasons: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
 ---
 
 The following is a list of episodes from the CBS television series, "[CSI: Crime Scene Investigation](/library/actor/csi/)" in which Jorja Fox appeared or was credited. Episodes are rated based on quality and volume of Jorja's scenes. Episodes in which she is listed in the credits but does not appear are rated with zero stars.
 
-## Season One
+## Season 1
 
 {{< episodelist season="1" >}}
 
-## Season Two
+## Season 2
 
 {{< episodelist season="2" >}}
 
-## Season Three
+## Season 3
 
 {{< episodelist season="3" >}}
 
-## Season Four
+## Season 4
 
 {{< episodelist season="4" >}}
 
-## Season Five
+## Season 5
 
 {{< episodelist season="5" >}}
 
-## Season Six
+## Season 6
 
 {{< episodelist season="6" >}}
 
-## Season Seven
+## Season 7
 
 {{< episodelist season="7" >}}
 
-## Season Eight
+## Season 8
 
 {{< episodelist season="8" >}}
 
-## Season Nine
+## Season 9
 
 {{< episodelist season="9" >}}
 
-## Season Ten
+## Season 10
 
 {{< episodelist season="10" >}}
 
-## Season Eleven
+## Season 11
 
 {{< episodelist season="11" >}}
 
-## Season Twelve
+## Season 12
 
 {{< episodelist season="12" >}}
 
-## Season Thirteen
+## Season 13
 
 {{< episodelist season="13" >}}
 
-## Season Fourteen
+## Season 14
 
 {{< episodelist season="14" >}}
 
-## Season Fifteen
+## Season 15
 
 {{< episodelist season="15" >}}
 
-## Season Sixteen
+## Season 16
 
 {{< episodelist season="16" >}}

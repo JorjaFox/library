@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 12  
 epnum: 17  
 date: 2012-03-14
@@ -23,5 +22,5 @@ The CSIs are brought in to solve the case of a recently murdered student whose d
 
 _Sara does not appear in this episode._
 
-## Quotes## 
+## Quotes
 

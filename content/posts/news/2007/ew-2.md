@@ -1,7 +1,7 @@
 ---
 title: Entertainment Weekly 
 date: 2007-06-15
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2007/:title/
 categories: [News, Articles]

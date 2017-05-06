@@ -1,7 +1,7 @@
 ---
 title: Radio Times Magazine
 date: 2009-04-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2009/:title/
 categories: [News, Articles]

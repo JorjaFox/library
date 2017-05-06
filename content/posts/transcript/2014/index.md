@@ -1,6 +1,6 @@
 ---
 title: Transcripts (2014)
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 topic: index
 date: 2014-01-01

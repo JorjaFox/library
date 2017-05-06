@@ -1,7 +1,7 @@
 ---
 title: TVGuide.com 
 date: 2009-07-17
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
 categories: ["Articles", "News"]

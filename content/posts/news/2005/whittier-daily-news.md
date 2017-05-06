@@ -1,7 +1,7 @@
 ---
 title: Whittier Daily News
 date: 2005-01-09
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2005/:title/
 categories: [News, Articles]

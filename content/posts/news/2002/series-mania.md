@@ -1,7 +1,7 @@
 ---
 title: Series Mania
 date: 2002-01-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]

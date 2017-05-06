@@ -1,7 +1,7 @@
 ---
 title: Contra Costa Times
 date: 2008-12-04
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]

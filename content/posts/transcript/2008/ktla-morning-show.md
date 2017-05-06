@@ -1,6 +1,6 @@
 ---
 title: KTLA Morning Show 
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 date: 2008-01-31
 interviewurl: http://ktla.trb.com/

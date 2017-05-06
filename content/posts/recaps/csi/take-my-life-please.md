@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 10
 epnum: 20  
 date: 2010-04-29
@@ -36,5 +35,5 @@ Sara works with Catherine and Ray on the body found in the alley. She finds the 
 * Sara had no idea there was a huge indoor firing range phenomenon in Las Vegas.  
 * Sara only goes to PD firing ranges.
 
-## Quotes## 
+## Quotes
 

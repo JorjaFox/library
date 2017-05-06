@@ -1,7 +1,7 @@
 ---
 title: Variety
 date: 2010-04-29
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]

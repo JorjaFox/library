@@ -1,7 +1,7 @@
 ---
 title: "World SCREEN"
 date: 2015-12-30
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]

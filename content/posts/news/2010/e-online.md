@@ -1,7 +1,7 @@
 ---
 title: E! Online - Watch With Kristin
 date: 2010-11-29
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]

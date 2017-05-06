@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 14
 epnum: 4  
 date: 2013-10-16
 prodnum: 299  
 ---
 
-## Synopsis## 
+## Synopsis
 
 The name of the hit cooking show, 'Slice and Dice,' takes on a grim new meaning when a sliced-and-diced former contestant is incorporated into a 'special challenge'.
 

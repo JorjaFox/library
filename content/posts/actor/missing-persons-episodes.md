@@ -1,6 +1,6 @@
 ---
 title: 'List of Missing Persons episodes'
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: single
 categories: ["missing persons"]
 tags: ["Television"]

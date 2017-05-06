@@ -1,6 +1,6 @@
 ---
 title: In Defense of Animals
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags: 

@@ -1,7 +1,7 @@
 ---
 title: The Male Couple 
 date: 2011-07-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2011"]
 categories: ["Articles", "News"]

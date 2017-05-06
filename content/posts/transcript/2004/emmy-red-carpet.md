@@ -1,6 +1,6 @@
 ---
 title: E! - Emmy Red Carpet
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 date: 2004-09-19
 interviewurl: http://www.eonline.com  

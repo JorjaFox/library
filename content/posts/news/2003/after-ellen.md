@@ -1,7 +1,7 @@
 ---
 title: After Ellen
 date: 2003-03-15
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
@@ -29,8 +29,7 @@ That is the extent of the conversation about Doyle's sexuality, and this is actu
 
 There are only two other times, in fact, when Doyle's lesbianism is even mentioned-in the beginning of the fourth season when Carter asks Doyle if she's showing favoritism towards the new female intern, to which Doyle just laughs, and then in the fifth season when Doyle comments "guess he thought anything goes with the gay chick" in reference to the sexual harassment she was subjected to by a male doctor, whom she later filed charges against. When asked by another doctor if she thought filing these charges would hurt her career, Doyle just shrugs it off with "self-respect is a bitch."
 
-**There were a few other cryptic (and humorous) references to her lesbianism over her three-season run, **which established Doyle's quirky personality, such as in this** **exchange between a group of doctors and nurses in the third season:
-
+**There were a few other cryptic (and humorous) references to her lesbianism over her three-season run, **which established Doyle's quirky personality, such as in this** **exchange between a group of doctors and nurses in the third 
 Chuney: Malibu Barbie was my favorite, too.  
 Mark: I was always partial to Ken.  
 Louise: Ken?  

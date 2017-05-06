@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 14  
 epnum: 22  
 date: 2014-05-07
@@ -29,7 +28,7 @@ Karen also killed Roger, taking the stone lion, and hid it and the gun she used 
 
 Meanwhile, Jim Brass has a decision to make when his daughter attempts suicide. 
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 While Ellie is in the hospital, Sara visits Brass and comforts him, telling him someone else's madness is not his fault, nor his responsibility.
 

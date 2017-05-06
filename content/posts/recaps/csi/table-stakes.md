@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 1
 epnum: 15
 date: 2001-02-22
@@ -19,7 +18,7 @@ prodnum: 114
 
 An elite fund-raising party at a legendary showgirl's elegant Las Vegas mansion turns deadly in a twist-filled episode. Grissom, Catherine, Sara and Nick investigate when the body of a leggy brunette is discovered floating in the mansion's pool. Their suspicions soon focus on the brash couple, Patrick and Amanda Haynes, who hosted the party and are house-sitting for the absent owner. They claim the former entertainer, now a wealthy older woman, is vacationing in Europe and can't be reached, but the CSI team isn't so sure. Also, Warrick combs for clues when a man is gunned down, possibly by a hit man, in a glass hotel elevator.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 Sara gets woken up on her day off (her first in three weeks) and gets called in. Sara's just a bit cranky and tired, evidencing this with a large yawn. Sara and Nick give instructions to Greg (she 'hates' him because he's awake).
 

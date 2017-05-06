@@ -1,6 +1,6 @@
 ---
 title: All Movie Guide Biography
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: single
 permalink: /biographies/allmovieguide/
 categories: ["Biographies"]

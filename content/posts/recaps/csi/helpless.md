@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 14  
 epnum: 8  
 date: 2013-11-13
@@ -29,5 +28,5 @@ Sara goes over the case details with Morgan and D.B. Russell.
 
 * N/A -- Sara is only in one scene
 
-## Quotes## 
+## Quotes
 

@@ -1,6 +1,6 @@
 ---
 title: "How I Became an Elephant"
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: producer
 categories: ["Filmography"]
 tags: ["producer", "movies"]

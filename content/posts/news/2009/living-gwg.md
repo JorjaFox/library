@@ -1,7 +1,7 @@
 ---
 title: Living GWG 
 date: 2009-04-25
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
 categories: ["Articles", "News"]

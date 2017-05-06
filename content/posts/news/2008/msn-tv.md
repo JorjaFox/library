@@ -1,7 +1,7 @@
 ---
 title: MSN tv
 date: 2008-07-10
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]

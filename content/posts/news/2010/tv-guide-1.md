@@ -1,7 +1,7 @@
 ---
 title: TV Guide.com
 date: 2010-07-25
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]

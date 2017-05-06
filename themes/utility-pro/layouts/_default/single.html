@@ -1,5 +1,8 @@
 {{ partial "header.html" . }}
 
-	{{ partial "content.html" . }}
+	{{ if not .Params.notoc }}
+		{{ .TableOfContents }}
+	{{ end }}
+	{{ .Content }}
 
 {{ partial "footer.html" . }}

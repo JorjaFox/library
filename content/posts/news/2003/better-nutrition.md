@@ -1,7 +1,7 @@
 ---
 title: Better Nutrition
 date: 2003-02-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]
@@ -15,7 +15,7 @@ newsurl: http://www.betternutrition.com
 
 **vegetarian girl next door catapults to stardom**
 
-As a star on the top-rated CBS police drama *CSI: Crime Scene Investigation*, Jorja (pronounced Georgia) Fox as to watch what she eats. Not or health reasons- although nutrition certainly is important to the devoted vegetarian- but becuase of the show's sometimes gory realism. "I've learned not to eat before certain scenes," she says.
+As a star on the top-rated CBS police drama *CSI: Crime Scene Investigation*, Jorja (pronounced Georgia) Fox as to watch what she eats. Not or health reasons- although nutrition certainly is important to the devoted vegetarian- but because of the show's sometimes gory realism. "I've learned not to eat before certain scenes," she says.
 
 That's hardly surprising give the fact that Fox's character, Sara Sidle- a name that, she says, "sounds a little too much like 'suicidal'"- works as a member of the CSI autopsy team. Her job? Examining the lifeless bodies discovered in the dark hours of the night in Las Vegas and uncovering clues about the who, what, where, when and why of their demise.
 
@@ -31,7 +31,7 @@ A New Your City native, Fox spent most of her childhood in Melbourne Beach, Flor
 
 The family- which includes an older brother- had moved south to fulfull Fox's mother's dream of living in a beach town. But they were a restless group, changing residences often and taking frequent trips to New York City and Canada, where Fox's parents hail from.
 
-As it turns out, it was in Flordia that Fox met her destiny, winning by a fluke, she says, a modeling contest she entered as a joke. "I was very, very, very shocked to win," she says. "I was a fish out of water becuase I wasn't a classic beauty. In Florida, beauty was all about being blond and tan. I'm a tall, gangly, dark-haired Irish girl. I just didn't fit the bill." But her beauty was recognized nevertheless, and at 15 she won the oppertunity to live in New York City and give modeling a try.
+As it turns out, it was in Flordia that Fox met her destiny, winning by a fluke, she says, a modeling contest she entered as a joke. "I was very, very, very shocked to win," she says. "I was a fish out of water because I wasn't a classic beauty. In Florida, beauty was all about being blond and tan. I'm a tall, gangly, dark-haired Irish girl. I just didn't fit the bill." But her beauty was recognized nevertheless, and at 15 she won the oppertunity to live in New York City and give modeling a try.
 
 After a summer spent living with another teenage model and a chaperone, Fox decided there was no going back. She opted to stay in New York, finish high school and pursue modeling. Her career focused primarily on print media- magazines in particular. "I'm too short for runway work," she says. "I only worked the runway when someone else called in sick." Another impediment to success on the catwalk? The once-barefoot girl "could barely walk in heels."
 
@@ -50,7 +50,7 @@ At age 19, Fox got her first movie role in *The Kill-Off*, a dark and disturbing
 
 At 34, she has ample proof that she was right. Her resume includes stints on the best and brightest of what's on the small screen. in addition to her roles on *ER* and *The West Wing*, Fox has also appeared on *Law & Order*, the "coming out" episode of *Ellen*, and in such films as *The Jerky Boys*, *Dead Funny* and *The Hungry Bachelor's Club*.
 
-Now, Fox throws herself into the role as the work-obsessed, relationship-impaired Sidle, a hard-nosed scientist raised by two ex-hippies in rural Northern California. According to her character sketch, Fox's current alter ego "can solve any problem except how she's supposed to relate to others." Her character plunges into her work becuase she's afraid of what she'd have to face if she slowed down. She pursues the mysteries of death because those of life are more discomforting.
+Now, Fox throws herself into the role as the work-obsessed, relationship-impaired Sidle, a hard-nosed scientist raised by two ex-hippies in rural Northern California. According to her character sketch, Fox's current alter ego "can solve any problem except how she's supposed to relate to others." Her character plunges into her work because she's afraid of what she'd have to face if she slowed down. She pursues the mysteries of death because those of life are more discomforting.
 
 Fox's own character sketch would read quite differently. She's devoted to work and life in equal measure, and has no trouble connecting with myriad living, breathing creatures. She exudes energy, enthusiasm and, in contrast to her serious television demeanor, a light-hearted, let's-have-some-fun approach to life. Her passions are many- being outdoors, getting in her car and heading out on the open road, surfing, live music, spending time with friends and the company on her animals- two cats rescued from shelters, and one dog, a boxer aptly named Ali.
 

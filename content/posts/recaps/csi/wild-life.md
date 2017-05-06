@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 11  
 epnum: 9  
 prodnum: 238  
@@ -29,5 +28,5 @@ Sara and Greg work the domestic abuse case, which Sara handles far better than s
 
 * Sara remains quick to judge men in abuse cases.
 
-## Quotes## 
+## Quotes
 

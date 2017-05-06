@@ -1,7 +1,7 @@
 ---
 title: The Electric New Paper, Singapore
 date: 2010-02-18
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2010/:title/
 categories: [News, Articles]

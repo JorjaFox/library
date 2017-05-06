@@ -1,7 +1,7 @@
 ---
 title: Sweden with Love (May 6 2014)
 date: 2014-05-06
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]

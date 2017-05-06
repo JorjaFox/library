@@ -1,7 +1,7 @@
 ---
 title: Vegan Health and Fitness Magazine
 date: 2013-06-11
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]

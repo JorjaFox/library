@@ -1,7 +1,7 @@
 ---
 title: Florida Today
 date: 2003-06-11
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

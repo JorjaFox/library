@@ -1,6 +1,6 @@
 ---
 title: News Articles (2016)
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 topic: index
 date: 2016-01-01

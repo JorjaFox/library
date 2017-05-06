@@ -1,6 +1,6 @@
 ---
 title: "Stay Forever: The Life and Music of Dusty Springfield"
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: producer
 categories: ["Filmography"]
 tags: [producer, stage, honeypot, bunnyhop]

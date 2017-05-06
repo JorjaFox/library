@@ -1,7 +1,7 @@
 ---
 title: Defamer
 date: 2004-12-07
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]

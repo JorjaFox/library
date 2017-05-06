@@ -1,7 +1,7 @@
 ---
 title: The Austin Chronicle
 date: 2008-07-18
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]

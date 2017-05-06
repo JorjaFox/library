@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 1
 epnum: 16  
 date: 2001-03-01
@@ -19,7 +18,7 @@ prodnum: 115
 
 Sara gets a little too personally involved when she investigates the rape and shooting of a young woman who was left for dead, but who still fights for her life in a nearby hospital; Catherine and Warrick try to determine whether a fatal shooting involving two neighbors was committed in self-defense.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 At the scene, Grissom tells Sara to go to the hospital and collect evidence from the victim, even though she says she'd rather stay at the scene. Sara takes samples and evidence from 'Jane Doe' at the hospital; after collecting everything, she discovers a St. Catherine's medal in the victim's belongings, and sits down to explain to the unconscious victim who St. Catherine was and why she admires her. Sara promises the victim that she'll find who did this; Grissom arrives and tries to dissuade Sara from getting too involved with the victim.
 

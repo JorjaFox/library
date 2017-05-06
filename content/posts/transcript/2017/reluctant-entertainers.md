@@ -1,7 +1,7 @@
 ---
 title: The Reluctant Entertainers
 date: 2017-03-27
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://www.sharkallies.com/
 permalink: /transcript/2016/:title/

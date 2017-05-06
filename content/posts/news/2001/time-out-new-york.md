@@ -1,7 +1,7 @@
 ---
 title: Time Out New York
 date: 2001-09-27
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]

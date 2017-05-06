@@ -1,7 +1,7 @@
 ---
 title: CBS Watch! Magazine
 date: 2014-07-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]

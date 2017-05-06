@@ -1,7 +1,7 @@
 ---
 title: TV Guide Magazine
 date: 2015-08-27
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]

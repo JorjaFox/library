@@ -1,7 +1,7 @@
 ---
 title: TMZ.com
 date: 2006-05-09
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]

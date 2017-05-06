@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 10
 epnum: 15  
 date: 2010-03-11
@@ -41,5 +40,5 @@ Sara commiserates with the man working at central evidence that this sort of cas
 
 * Sara mentions she used to drink. 
 
-## Quotes## 
+## Quotes
 

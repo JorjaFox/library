@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 15  
 epnum: 15  
 date: 2015-01-25
 prodnum: 332  
 ---
 
-## Synopsis## 
+## Synopsis
 
 A homeless man is harassed by some masked street thugs, only to be saved by a young man dressed as a superhero. Sara and Nick find the hero, beaten to death, but are able to identify the barefoot homeless man when he returns to try and get his cart, and learn that the assailants drove off in a red truck.
 
@@ -23,11 +22,11 @@ While looking for more evidence, Morgan Brody and Greg stumble across two more h
 
 The killer turns out to be Seth, Brad's stepfather.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 Sara makes sure the homeless man, Roger, is fed and clothed back at the station before talking to him.
 
-## Character Notes## 
+## Character Notes
 
 * Sara's escape as a child was science and math.
 

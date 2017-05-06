@@ -1,7 +1,7 @@
 ---
 title: ExtraTV
 date: 2015-08-18
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://extratv.com/videos/0_mjhid6vd
 permalink: /transcript/2015/:title/

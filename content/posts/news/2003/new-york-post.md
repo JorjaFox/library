@@ -1,7 +1,7 @@
 ---
 title: New York Post
 date: 2003-09-03
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

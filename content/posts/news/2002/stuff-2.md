@@ -1,7 +1,7 @@
 ---
 title: Stuff Magazine
 date: 2002-05-16
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]

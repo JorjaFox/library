@@ -2,7 +2,7 @@
 title: Everyday Health
 
 date: 2007-04-30
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]

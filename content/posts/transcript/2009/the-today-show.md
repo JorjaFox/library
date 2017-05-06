@@ -1,6 +1,6 @@
 ---
 title: The Today Show
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://today.msnbc.msn.com/  
 date: 2009-04-02

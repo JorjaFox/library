@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 1
 epnum: 21
 date: 2001-04-26
@@ -19,7 +18,7 @@ prodnum: 120
 
 Grissom, Warrick and Nick investigate the brutal death of a jogger who was apparently killed by a mountain lion or a large dog and then had his organs removed with a scalpel, with a striking number of grisly, yet entirely possible conclusions, including evidence of cannibalism and organ harvesting, and their efforts to find out what caused the person's demise leads them to a startling discovery. Catherine becomes convinced that a 6-year-old girl's death was no accident when she and Sara examine a crime scene inside the Tunnel of Love ride at an amusement park.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 Sara and Catherine work the case of a kid found dead in the Tunnel of Love at a traveling carnival. The victim is a six year old girl, and Sara shows concern for Catherine, asking her if she's okay with it; Catherine replies by asking Sara to interview the mother. In checking the background of the carnival, Sara discovers that it has numerous safety violations, more than half of its employees have criminal records and the ride operator is a convicted sex offender out on parole.
 

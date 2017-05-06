@@ -1,7 +1,7 @@
 ---
 title: TV Guide Magazine
 date: 2013-09-28
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]

@@ -8,14 +8,13 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 14  
 epnum: 3  
 date: 2013-10-09
 prodnum: 298  
 ---
 
-## Synopsis## 
+## Synopsis
 
 When a fire breaks out at a Las Vegas nightclub, it's every man for himself, resulting in multiple deaths not from the fire itself but from the escaping mob and smoke inhalation. Among the dead include two band members (front man and bass player), a white 18-year old Kevin, and a young Latino man named Timo Pedia. The kicker? The band is a white supremacist hate core band: White Rising.
 
@@ -27,7 +26,7 @@ Part of the reason the fire was so bad was that a car was blocking the door. Thi
 
 Baxton had been hired by the club owner, who hasn't able to keep the club afloat.
 
-## Sara Sidle Review## 
+## Sara Sidle Review
 
 While Nick and Finn work the arson, Morgan and Sara work the deaths. 
 

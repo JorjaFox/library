@@ -1,6 +1,6 @@
 ---
 title: GLAAD
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/1997/:title/
 tags: ["1997"]

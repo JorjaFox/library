@@ -1,7 +1,7 @@
 ---
 title: Extra TV
 date: 2002-09-07
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]

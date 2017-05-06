@@ -1,7 +1,7 @@
 ---
 title: Couriermail
 date: 2014-03-04
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]

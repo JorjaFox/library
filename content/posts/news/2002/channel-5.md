@@ -1,7 +1,7 @@
 ---
 title: Channel 5
 date: 2002-03-19
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2002"]
 categories: ["Articles", "News"]

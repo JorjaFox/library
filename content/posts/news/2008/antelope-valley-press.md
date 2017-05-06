@@ -1,7 +1,7 @@
 ---
 title: Antelope Valley Press (08 September 2008)
 date: 2008-09-08
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]

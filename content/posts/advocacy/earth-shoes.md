@@ -1,6 +1,6 @@
 ---
 title: Earth Shoes
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags:

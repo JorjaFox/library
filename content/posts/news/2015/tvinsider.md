@@ -1,7 +1,7 @@
 ---
 title: TV Insider
 date: 2015-10-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]

@@ -1,7 +1,7 @@
 ---
 title: TV Squad
 date: 2008-05-22
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2008/:title/
 categories: [News, Articles]

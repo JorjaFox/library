@@ -1,7 +1,7 @@
 ---
 title: Music News &#038; Events on KCRW 
 date: 2009-09-25
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2009"]
 categories: ["Articles", "News"]

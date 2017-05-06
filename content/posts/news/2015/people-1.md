@@ -1,7 +1,7 @@
 ---
 title: People
 date: 2015-09-23
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2015"]
 categories: ["Articles", "News"]

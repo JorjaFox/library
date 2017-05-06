@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 2
 epnum: 13
 date: 2002-01-17
@@ -29,7 +28,7 @@ Grissom and Catherine also track down Isabelle Millander and discover a hand pri
 
 The entire team works the Paula / Paul Millander case. Again showing her mechanical talents, Sara goes over the car with Warrick.
 
-## Character Notes## 
+## Character Notes
 
 ## Quotes
 

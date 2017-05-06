@@ -2,7 +2,7 @@
 
 title: TV Guide (Brisbane Australia)
 date: 2004-04-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]

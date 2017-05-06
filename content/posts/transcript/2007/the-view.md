@@ -1,6 +1,6 @@
 ---
 title: The View
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 date: 2007-11-17
 interviewurl: http://abc.go.com/daytime/theview  

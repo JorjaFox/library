@@ -1,7 +1,7 @@
 ---
 title: I Have a Dream Foundation
 date: 2004-01-18
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: advocacy
 categories: ["Advocacy"]
 tags: 

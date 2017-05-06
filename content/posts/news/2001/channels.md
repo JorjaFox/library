@@ -1,7 +1,7 @@
 ---
 title: Channels
 date: 2001-12-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2001/:title/
 categories: ["Articles", "News"]
@@ -18,7 +18,7 @@ Thursday TV is the talk of two networks: one that hopes it's still on the way up
 
 Fox admits she has been lucky to be casted in award winning series, such as *"CSI"* and *"ER."* "It's very hard to digest the stardom I have recieved &#8212; it still hasn't sunk in," she says. "It's a miracle I get paid to do what I love most."
 
-Ever since she was five years old, she wanted to be an actress of a rockstar. "Even though I knew how to play the guitar, as a child I couldn't get myself on talent shows &#8212; when I got into New Your city I kept getting offers to act for money and I never did becuase of my music," Fox says.
+Ever since she was five years old, she wanted to be an actress of a rockstar. "Even though I knew how to play the guitar, as a child I couldn't get myself on talent shows &#8212; when I got into New Your city I kept getting offers to act for money and I never did because of my music," Fox says.
 
 Growing up in Florida's small town, Melbourne, Fox moved to her birth town of NYC upon completion of high school. "Sometimes your dream is in you and you could manifest your dream without having to leave home, but there are a couple things, such as acting that ultimately find yourself leaving home.
 

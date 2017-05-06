@@ -1,6 +1,6 @@
 ---
 title: Ian Harvie Show 
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 date: 2008-01-21
 interviewurl: http://www.ianharvie.com/jorjafox.html

@@ -1,6 +1,6 @@
 ---
 title: "Dear Bernard"
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: producer
 categories: ["Filmography"]
 tags: [producer, stage, honeypot]

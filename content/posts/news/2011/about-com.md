@@ -1,7 +1,7 @@
 ---
 title: About.com
 date: 2011-07-22
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2011/:title/
 categories: [News, Articles]

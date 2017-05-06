@@ -1,6 +1,6 @@
 ---
 title: TVGuide.com Biography
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: single
 permalink: /biographies/tvguide/
 categories: ["Biographies"]

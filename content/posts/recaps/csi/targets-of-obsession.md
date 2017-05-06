@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 11
 epnum: 15  
 date: 2011-02-17
@@ -29,5 +28,5 @@ Sara works in the lab, helping to determine who set the bomb up at Nick's. She t
 
 * Sara's advice to Ray is remembered, and used in court against Haskell.
 
-## Quotes## 
+## Quotes
 

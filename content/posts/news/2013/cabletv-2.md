@@ -1,7 +1,7 @@
 ---
 title: CableTV.com
 date: 2013-10-14
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]

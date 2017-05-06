@@ -1,7 +1,7 @@
 ---
 title: People Magazine
 date: 2004-01-27
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2004"]
 categories: ["Articles", "News"]

@@ -1,7 +1,7 @@
 ---
 title: TV Gal
 date: 2003-05-08
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

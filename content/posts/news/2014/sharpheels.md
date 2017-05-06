@@ -1,7 +1,7 @@
 ---
 title: SharpHeels
 date: 2014-02-21
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2014"]
 categories: ["Articles", "News"]

@@ -1,6 +1,6 @@
 ---
 title: The Late Late Show
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: transcript
 date: 2001-06-25
 interviewurl: http://www.cbs.com

@@ -1,7 +1,7 @@
 ---
 title: People Pets
 date: 2013-11-13
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]

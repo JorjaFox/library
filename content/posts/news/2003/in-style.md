@@ -1,7 +1,7 @@
 ---
 title: In Style
 date: 2003-03-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 categories: ["Articles", "News"]
 tags: ["2003"]

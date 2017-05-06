@@ -1,7 +1,7 @@
 ---
 title: Teen Television
 date: 2003-01-26
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

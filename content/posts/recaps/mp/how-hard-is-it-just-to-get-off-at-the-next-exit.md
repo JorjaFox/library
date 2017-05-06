@@ -19,6 +19,6 @@ A woman sees her missing son as she rides the bus, but by the time she gets off,
 ## Connie Karadzic Review
 Connie helps Ray on his case, interviewing Cilla's fiancee while Ray talks with the parents. While Sean can understand why she might leave her controlling family, he can't fathom why she might leave him. After the bridesmaid leaves a message for Cilla, he calls someone and then vanishes too. Connie follows after the bridesmaid, certain that she arranged for Sean and Cilla to meet. Connie winds up attending the elopement of Sean and Cilla.
 
-## Character Notes## 
+## Character Notes
 
-## Quotes## 
+## Quotes

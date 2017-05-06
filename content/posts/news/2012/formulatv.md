@@ -1,7 +1,7 @@
 ---
 title: FormulaTV
 date: 2012-09-13
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]

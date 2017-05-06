@@ -1,7 +1,7 @@
 ---
 title: Washington Times
 date: 2006-10-23
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2006/:title/
 categories: [News, Articles]

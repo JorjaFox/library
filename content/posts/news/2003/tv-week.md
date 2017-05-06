@@ -1,7 +1,7 @@
 ---
 title: TV Week
 date: 2003-03-29
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 tags: ["2003"]
 categories: ["Articles", "News"]

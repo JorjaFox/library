@@ -2,7 +2,7 @@
 title: New York Post
 
 date: 2007-12-01
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2013/:title/
 categories: [News, Articles]

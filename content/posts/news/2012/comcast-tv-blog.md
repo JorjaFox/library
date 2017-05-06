@@ -1,7 +1,7 @@
 ---
 title: Comcast TV Blog
 date: 2012-05-09
-author: Mika Epstein
+author: "Mika A. Epstein"
 layout: news
 permalink: /news/2012/:title/
 categories: [News, Articles]

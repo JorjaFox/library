@@ -8,7 +8,6 @@ tags: ["CSI"]
 station: CBS
 showname: "CSI"
 showslug: csi
-
 season: 6
 epnum: 11  
 date: 2006-01-15
@@ -33,7 +32,7 @@ Grissom feels bad for Allison, sympathizing with her desire not to be seen as a 
 
 Meanwhile, Casino Dan's trace connects him to the crime scene. He admits he came by to hassle Hayden about the money, but only looked in the window. When Dan saw Hayden (and Hayden saw Dan), he freaked out and ran off because Hayden was a freak.
 
-The autopsy (which takes a long time, becuase all of Hayden's hair had to be shaved off first) suggests Hayden was killed in Allison's room. A check of her room finds blood stains under the bed. Allison confesses that Hayden had actually been shot in her room: he'd come in, asked for her gun (which she'd buried outside) and then been shot. Allison saw the face of Hayden's killer reflected in her TV: Brent.
+The autopsy (which takes a long time, because all of Hayden's hair had to be shaved off first) suggests Hayden was killed in Allison's room. A check of her room finds blood stains under the bed. Allison confesses that Hayden had actually been shot in her room: he'd come in, asked for her gun (which she'd buried outside) and then been shot. Allison saw the face of Hayden's killer reflected in her TV: Brent.
 
 Brent confesses to the murder, saying that his family blamed him for Hayden and Michelle being engaged, and he did it all to protect Michelle. Michelle admits she suspected Brent had killed Hayden, but he'd threatened her to keep her quiet.
 
@@ -45,7 +44,7 @@ The episode ends with Mrs. Bradford knocking on the door to Allison's house.
 
 Sara's most interesting scene is when she meets Sofia by the phone booth. Sofia is irritable and pushy and angry, while Sara is mild and calm. The disparity between the characters shows a depth of calm that Sara didn't always have. Sara doesn't comment about Sofia tampering with evidence at the scene (processing when she shouldn't have been).
 
-## Character Notes## 
+## Character Notes
 
 ## Quotes
 
