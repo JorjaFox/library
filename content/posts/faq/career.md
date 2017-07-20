@@ -64,4 +64,4 @@ The TV shows ER, The West Wing and CSI have all been released on DVD. You can al
 
 ## Is it true she did a movie for free?
 
-The independent film Next Exit was looking to cast no-name actors for the small buget movie. Jorja knew the director and offered to play the role for no pay. The film aired at a Los Angeles area film festival in January 2005.
+The independent film Next Exit was looking to cast no-name actors for the small budget movie. Jorja knew the director and offered to play the role for no pay. The film aired at a Los Angeles area film festival in January 2005.
