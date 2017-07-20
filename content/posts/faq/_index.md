@@ -64,3 +64,6 @@ Because she didn't want to be.
 Mostly advocacy work, but we'll see what's next! Isn't it exciting?
 
 ## See Also
+
+* [About Jorja](/library/faq/jorja/)
+* [About Jorja's Career](/library/faq/career/)

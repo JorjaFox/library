@@ -30,7 +30,7 @@ Yes. During the filming of the final episode for the season, a limousine ran ove
 
 Off camera they're all friends, though Jorja's probably friendlier with Eric Szmanda, Gary Dourdan and George Eads, as they're closer to her age. By all reports, Jorja's friendly with everyone on the set, including William Peteresen and Marg Helgenberger.
 
-## Jorja Fox makes all these cute innuendos in interviews with her CSI co-stars. Do they mean anything?
+## Jorja Fox made all these cute innuendos in interviews with her CSI co-stars. Do they mean anything?
 
 Probably not, she's just good friends with her co-stars. Go re-read the answer to 'Is Jorja dating anyone?' She's not dating Gary Dourdan, George Eads, or Eric Szmanda. I'm not going to dignify the questions of if she's dating any of the co-stars who are happily married to other people. Please get your heads out of the gutter.
 
@@ -44,9 +44,11 @@ As of July 23, 2004 Jorja was officially rehired on CSI. If you want to follow t
 
 ## Why did Jorja leave CSI?
 
+In her own words:
+
 > There are all these things I want to do. Some are personal. Some are professional. And I really need to do some of them before I get too old. If I thought the show were on its last legs, I would have tried harder to stay the course. But I feel like its going to be around for a while, so if I don’t want some of those dreams to pass me by, I have to get off the ride for a while.
 
-## Why did Jorja come back to CSI?
+## Why did Jorja go back to CSI?
 
 In season nine, Jorja came back to give William Petersen a great send off when he left the show.
 
