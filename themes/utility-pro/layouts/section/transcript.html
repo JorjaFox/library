@@ -1,13 +1,11 @@
 {{ partial "header.html" . }}
 
-{{ if and (eq .Type "index") (ne .Params.topic "index") }}
-	{{ .Content }}
-{{ end }}
+{{ .Content }}
 
 	<div class="jfoinfobox">
 		<div class="newsheader"><a href="/library/transcript/" title="Transcripts">Transcripts of Interviews and Chats By Year</a></div>
 		<div class="newsbody"><ul class="infobox">
-		{{ range .Data.Pages.ByDate }}
+		{{ range where $.Page.Site.Pages.ByDate "Section" "transcript" }}
 			{{ if eq .Params.topic "index" }}
 				<li><a href="{{ .Permalink }}">{{ .Date.Format "2006" }}</a></li>
 			{{ end }}
