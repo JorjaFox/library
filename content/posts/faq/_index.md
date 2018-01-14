@@ -5,7 +5,6 @@ layout: single
 permalink: /faq/
 categories: ["FAQ"]
 tags: ["index"]
-type: index
 ---
 
 FAQ stands for **frequently asked questions**, and refers to listed questions and answers, all supposedly frequently asked in some context, and pertaining to a particular topic.

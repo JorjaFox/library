@@ -2,8 +2,8 @@ name = "Utility Pro"
 license = "GNU General Public License v2 or later"
 licenselink = "http://www.gnu.org/licenses/gpl-2.0.html"
 description = "A responsive magazine website with a sleek, modern design."
-tags = ["blog", "wordpress"]
-features = ["blog", ]
+tags = ["website", "starter", "responsive"]
+features = ["posts", "shortcodes"]
 min_version = 0.14
 
 [author]

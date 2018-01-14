@@ -13,7 +13,7 @@ Animal Acres is a farmed animal sanctuary and compassionate living center locate
 
 Jorja Fox has attended many events for Animal Acres. She is also a supporter of "ACI: Animal Cruelty Investigations", a sub-site of Animal Acres.
 
-> 'The way animals are treated to produce meat, milk, and eggs needs to be investigated, exposed, and stopped. I'm pleased to be a supporter of ANIMAL CRUELTY INVESTIGATIONS. ACI investigators go to animal 'crime scenes' in our nation's stockyards, factory farms, and slaughterhouses. Documenting what most of us don't want to see, their undercover video footage and evidence of blatant animal cruelty is helping gain needed humane protection for cows, pigs, and chickens, too.'
+> 'The way animals are treated to produce meat, milk, and eggs needs to be investigated, exposed, and stopped. I'm pleased to be a supporter of ANIMAL CRUELTY INVESTIGATIONS. ACI investigators go to animal 'crime scenes' in our nation's stockyards, factory farms, and slaughterhouses. Documenting what most of us don't want to see, their undercover video footage and evidence of blatant animal cruelty is helping gain needed humane protection for cows, pigs, and chickens, too.'
 > 
 > Actress & Advocate
 > Jorja Fox 

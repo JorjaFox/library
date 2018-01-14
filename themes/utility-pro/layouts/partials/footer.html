@@ -1,13 +1,13 @@
-    </div></div>
+	</div></div>
 
 {{ $baseurl := .Site.BaseURL }}
 
 <footer class="entry-footer">
-        <!-- start tags -->
-        <p class="entry-meta">Filed Under: <strong>
-		    {{ if .IsPage }}
-		    	{{ range $i, $e := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/categories/{{ lower . | urlize }}" rel="category">{{ title $e }}</a>{{ end }}
-		    {{ else }}
+		<!-- start tags -->
+		<p class="entry-meta">Filed Under: <strong>
+			{{ if .IsPage }}
+				{{ range $i, $e := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/categories/{{ lower . | urlize }}" rel="category">{{ title $e }}</a>{{ end }}
+			{{ else }}
 
 				{{ $title := lower .Title }}
 				{{ $.Scratch.Set "has_cats" "" }}
@@ -23,13 +23,13 @@
 					Index
 				{{ end }}
 
-		    {{ end }}
-		    </strong></span>
+			{{ end }}
+			</strong></span>
 
-		    <span class="entry-tags">Tagged With: <strong>
-		    {{ if .IsPage }}
-			    {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/tags/{{ lower . | urlize }}" rel="tag">{{ title $e }}</a>{{ end }}
-		    {{ else }}
+			<span class="entry-tags">Tagged With: <strong>
+			{{ if .IsPage }}
+				{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}/tags/{{ lower . | urlize }}" rel="tag">{{ title $e }}</a>{{ end }}
+			{{ else }}
 
 				{{ $title := lower .Title }}
 				{{ $.Scratch.Set "has_tags" "" }}
@@ -45,9 +45,9 @@
 					Index
 				{{ end }}
 
-		    {{ end }}
+			{{ end }}
 			</strong></span>
-	    </p>
+		</p>
 	</footer>
 </article>
 
@@ -55,9 +55,9 @@
 			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 			<!-- Large Rectangle -->
 			<ins class="adsbygoogle"
-			     style="display:inline-block;width:336px;height:280px"
-			     data-ad-client="ca-pub-7868382837959636"
-			     data-ad-slot="6542485108"></ins>
+				 style="display:inline-block;width:336px;height:280px"
+				 data-ad-client="ca-pub-7868382837959636"
+				 data-ad-slot="6542485108"></ins>
 			<script>
 			(adsbygoogle = window.adsbygoogle || []).push({});
 			</script>
@@ -76,7 +76,7 @@
 
 	{{ partial "sidebar.html" . }}
 
-    </div> <!-- content-sidebar-wrap -->
+	</div> <!-- content-sidebar-wrap -->
 </div><!-- end wrap --></div> <!-- end .site-inner -->
 
 <div class="footer-widgets" id="genwpacc-genesis-footer-widgets">
@@ -154,13 +154,13 @@
 </footer>
 
 <div id="bit" class="">
-    <a class="bsub" href="javascript:void(0)"><span id="bsub-text">Follow Us</span></a>
-    <div id="bitsubscribe">
-        <div class="widget-wrap">
-            <p>Want the latest news about Jorja (and Fans of LeFox) in your in-box ASAP? <a href="/updates/">Sign up for email updates</a> and they're yours!</p>
-            <a href="/updates/"><input type="submit" value="Sign me up!" name="jetpack_subscriptions_widget"></a>
-        </div>
-    </div>
+	<a class="bsub" href="javascript:void(0)"><span id="bsub-text">Follow Us</span></a>
+	<div id="bitsubscribe">
+		<div class="widget-wrap">
+			<p>Want the latest news about Jorja (and Fans of LeFox) in your in-box ASAP? <a href="/updates/">Sign up for email updates</a> and they're yours!</p>
+			<a href="/updates/"><input type="submit" value="Sign me up!" name="jetpack_subscriptions_widget"></a>
+		</div>
+	</div>
 </div>
 </div> <!-- End Site-container -->
 

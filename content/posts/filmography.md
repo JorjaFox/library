@@ -1,7 +1,7 @@
 ---
+layout: single
 title: Filmography
 author: "Mika A. Epstein"
-layout: single
 permalink: /filmography/
 categories: ["General"]
 tags: 

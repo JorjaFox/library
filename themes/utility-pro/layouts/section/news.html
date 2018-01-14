@@ -1,10 +1,6 @@
 {{ partial "header.html" . }}
 
-	{{ range .Data.Pages.ByTitle }}
-		{{ if and (eq .Type "index") (ne .Params.topic "index") }}
-			{{ .Content }}
-		{{ end }}
-	{{ end }}
+{{ .Content }}
 
 	<div class="jfoinfobox">
 		<div class="newsheader"><a href="/library/news/" title="News Articles">News Articles By Year</a></div>

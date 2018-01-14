@@ -2,7 +2,7 @@
 title: News
 author: "Mika A. Epstein"
 layout: news
-type: index
+#type: index
 permalink: /news/
 categories: [News]
 tags: [Index]
