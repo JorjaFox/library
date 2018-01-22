@@ -14,6 +14,7 @@ The goal of the *Fans of Le Fox Library* is to provide a comprehensive resource 
 
 * <a href="biographies/" title="Jorja Fox">Biographies</a> - Various biographies
 * <a href="filmography/" title="Filmography">Filmography</a> - Her work as an actor, producer, and writer
+* <a href="seafox/" title="Seafox Productions">Seafox Productions</a> - Her production company
 * <a href="advocacy/" title="Advocacy">Advocacy</a> - The good she does for the world
 * <a href="transcript/" title="Interviews">Transcripts</a> - Interviews, press releases, and online chats
 * <a href="news/" title="News Articles">News Articles</a> - News where she is mentioned
