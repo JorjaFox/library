@@ -3,7 +3,7 @@ title: The Daily Buzz
 date: 2018-01-26
 author: "Mika A. Epstein"
 layout: transcript
-interviewurl: http://moviecitynews.com/2018/01/the-daily-buzz-from-sundance-day-8/
+interviewurl: http://kcpw.org/blog/daily-buzz/2018-01-27/daily-buzz-sundance-day-8-1-26-18/
 permalink: /transcript/2018/:title/
 categories: ["Interviews"]
 tags:
