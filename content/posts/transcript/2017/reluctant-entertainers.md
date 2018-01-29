@@ -4,7 +4,7 @@ date: 2017-03-27
 author: "Mika A. Epstein"
 layout: transcript
 interviewurl: http://www.sharkallies.com/
-permalink: /transcript/2016/:title/
+permalink: /transcript/2017/:title/
 categories: ["Interviews"]
 tags:
   - 2017
