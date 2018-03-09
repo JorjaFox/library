@@ -1,12 +1,12 @@
 ---
-title: News Articles (2017)
+title: News Articles (2018)
 author: "Mika A. Epstein"
 layout: news
 topic: index
-date: 2017-01-01
-permalink: /news/2017/
+date: 2018-01-01
+permalink: /news/2018/
 categories: ["News"]
-tags: ["2017"]
+tags: ["2018"]
 ---
 
 {{< news >}}
