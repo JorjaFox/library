@@ -1,5 +1,5 @@
 ---
-title: Shifting Equilbrium
+title: Shifting Equilibrium
 author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/er/:title/

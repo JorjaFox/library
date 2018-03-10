@@ -5,8 +5,6 @@ author: "Mika A. Epstein"
 layout: transcript
 categories: ["Articles"]
 tags: [""]
-redirect_from: 
-  - /self/the-test/
 ---
 
 "The Test" was a TV Talk show/game show on which four celebrities are brought on to answer ten questions about a given topic, and are &#8216;scored' based on their answers. On April 24th, 2001, Jorja Fox was a panelist and the test was The Friendship Test.
