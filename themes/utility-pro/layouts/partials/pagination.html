@@ -1,22 +1,23 @@
 {{ $baseurl := .Site.BaseURL }}
 {{ $pag := $.Paginator }}
-    {{ if gt $pag.TotalPages 1 }}
-<nav class="navigation pagination" role="navigation">
-	<h2 class="screen-reader-text">Posts navigation</h2>
-    <div class="nav-links">
-        {{ with $pag.First }}
-        <a href="{{ $baseurl }}{{ .URL }}" aria-label="First"><span class="screen-reader-text">First Page </span>&laquo;&laquo;</a>
-        {{ end }}
-        {{ if .Paginator.HasPrev }}<a class="previous page-numbers" href="{{ $baseurl }}{{ .Paginator.Prev.URL }}">Previous</a> {{ end }}
 
-        {{ range $pag.Pagers }}
-			<a href="{{ $baseurl }}{{ .URL }}" {{ if eq . $pag }}class="page-numbers current"{{ end }}><span class="screen-reader-text">Page </span>{{ .PageNumber }}</a>
-        {{ end }}
-
-        {{ if .Paginator.HasNext }}<a class="next page-numbers" href="{{ $baseurl }}{{ .Paginator.Next.URL }}">Next</a> {{ end }}
-        {{ with $pag.Last }}
-        <a href="{{ $baseurl }}{{ .URL }}" aria-label="Last"><span class="screen-reader-text">Last Page </span>&raquo;&raquo;</a>
-        {{ end }}
-	</div>
-</nav>
-    {{ end }}
+{{ if gt $pag.TotalPages 1 }}
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links">
+			{{ with $pag.First }}
+			<a href="{{ $baseurl }}{{ .URL }}" aria-label="First"><span class="screen-reader-text">First Page </span>&laquo;&laquo;</a>
+			{{ end }}
+			{{ if .Paginator.HasPrev }}<a class="previous page-numbers" href="{{ $baseurl }}{{ .Paginator.Prev.URL }}">Previous</a> {{ end }}
+	
+			{{ range $pag.Pagers }}
+				<a href="{{ $baseurl }}{{ .URL }}" {{ if eq . $pag }}class="page-numbers current"{{ end }}><span class="screen-reader-text">Page </span>{{ .PageNumber }}</a>
+			{{ end }}
+	
+			{{ if .Paginator.HasNext }}<a class="next page-numbers" href="{{ $baseurl }}{{ .Paginator.Next.URL }}">Next</a> {{ end }}
+			{{ with $pag.Last }}
+			<a href="{{ $baseurl }}{{ .URL }}" aria-label="Last"><span class="screen-reader-text">Last Page </span>&raquo;&raquo;</a>
+			{{ end }}
+		</div>
+	</nav>
+{{ end }}
