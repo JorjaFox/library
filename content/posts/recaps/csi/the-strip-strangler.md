@@ -1,5 +1,5 @@
 ---
-title: "Strip Strangler"
+title: "The Strip Strangler"
 author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
