@@ -1,6 +1,15 @@
 [
   {
-  	"role": "actor",
+    "role": "actor",
+    "title": "Chiefs",
+    "slug": "chiefs",
+    "type": "TV Series",
+    "character": "Vicky",
+    "notes": "– Pilot (2018)",
+    "dates": 2018
+  },
+  {
+    "role": "actor",
     "title": "CSI: Immortality",
     "slug": "csi",
     "type": "TV Movie",
@@ -9,7 +18,7 @@
     "dates": 2015
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "CSI: Crime Scene Investigation",
     "slug": "csi",
     "type": "TV Series",
@@ -18,7 +27,7 @@
     "dates": "2000-2015"
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Accidental Icon: The Real Gidget Story",
     "slug": "gidget",
     "type": "Documentary",
@@ -26,7 +35,7 @@
     "dates": 2007
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "3 Weeks to Daytona",
     "slug": "3-weeks-to-daytona",
     "type": "Movie",
@@ -35,7 +44,7 @@
     "dates": 2010
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Drop Dead Diva",
     "slug": "drop-dead-diva",
     "type": "TV Series",
@@ -44,7 +53,7 @@
     "dates": 2009
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Next Exit",
     "slug": "next-exit",
     "type": "Movie",
@@ -53,7 +62,7 @@
     "dates": 2005
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Down with the Joneses",
     "slug": "down-with-the-joneses",
     "type": "Movie",
@@ -62,7 +71,7 @@
     "dates": 2003
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "The West Wing",
     "slug": "west-wing",
     "type": "TV Series",
@@ -71,7 +80,7 @@
     "dates": 2000
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Dodges City",
     "slug": "dodges-city",
     "type": "TV Series",
@@ -80,7 +89,7 @@
     "dates": 1999
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "The True Story",
     "slug": "true-story",
     "type": "TV Series",
@@ -89,7 +98,7 @@
     "dates": 1999
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Memento",
     "slug": "memento",
     "type": "Movie",
@@ -98,7 +107,7 @@
     "dates": 1999
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Food for the Heart",
     "slug": "food-heart",
     "type": "Movie",
@@ -107,7 +116,7 @@
     "dates": 1999
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Forever Fabulous",
     "slug": "forever-fabulous",
     "type": "Movie",
@@ -116,7 +125,7 @@
     "dates": "2000 (1998)"
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "ER",
     "slug": "er",
     "type": "TV Series",
@@ -125,7 +134,7 @@
     "dates": "1996-1999"
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Partners",
     "slug": "partners",
     "type": "TV Series",
@@ -134,7 +143,7 @@
     "dates": 1999
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "How to Make the Cruelest Month",
     "slug": "how-make-cruelest-month",
     "type": "Movie",
@@ -143,7 +152,7 @@
     "dates": 1998
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Velocity Trap",
     "slug": "velocity-trap",
     "type": "Movie",
@@ -152,7 +161,7 @@
     "dates": 1998
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "House of Frankenstein 1997",
     "slug": "house-frankenstein",
     "type": "TV Movie",
@@ -161,7 +170,7 @@
     "dates": 1997
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Ellen",
     "slug": "ellen",
     "type": "TV Series",
@@ -170,7 +179,7 @@
     "dates": 1997
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Alchemy",
     "slug": "alchemy",
     "type": "TV Movie",
@@ -179,7 +188,7 @@
     "dates": 1996
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Courthouse",
     "slug": "courthouse",
     "type": "TV Series",
@@ -189,7 +198,7 @@
     "jorjan": "yes"
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "The Jerky Boys",
     "slug": "jerky-boys",
     "type": "Movie",
@@ -198,7 +207,7 @@
     "dates": 1994
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Dead Funny",
     "slug": "dead-funny",
     "type": "Movie",
@@ -207,7 +216,7 @@
     "dates": 1994
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Missing Persons",
     "slug": "missing-persons",
     "type": "TV Series",
@@ -217,7 +226,7 @@
     "dates": "1993-1994"
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Law & Order",
     "slug": "law-order",
     "type": "TV Series",
@@ -227,7 +236,7 @@
     "dates": 1993
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Lifestories: Families in Crisis",
     "slug": "dead-drunk",
     "type": "TV Series",
@@ -237,7 +246,7 @@
     "dates": 1993
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "ABC Afterschool Specials",
     "slug": "the-mall",
     "type": "TV Series",
@@ -247,7 +256,7 @@
     "dates": 1992
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Happy Hell Night",
     "slug": "happy-hell-night",
     "type": "Movie",
@@ -256,7 +265,7 @@
     "dates": 1992
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "Nineteen",
     "slug": "nineteen",
     "type": "TV Series",
@@ -266,7 +275,7 @@
     "dates": 1990
   },
   {
-  	"role": "actor",
+    "role": "actor",
     "title": "The Kill-Off",
     "slug": "kill-off",
     "type": "Movie",
