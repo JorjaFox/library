@@ -6,12 +6,12 @@ categories: ["Filmography"]
 tags: ["Television"]
 show: chiefs
 station: CBS
-rating: 0
+rating: na
 episodes: 1
 chartype: main
 genre: Drama
 year: 2018
-character: "Chiefs"
+character: "Vicky"
 excerpt: "In Los Angeles County, three female police chiefs work together to catch a serial killer."
 ---
 
