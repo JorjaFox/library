@@ -1,13 +1,13 @@
 ---
 baseURL: "https://jorjafox.net/library"
-title: "Fans of Le Fox Library"
+title: "Fans of LeFox Library"
 languageCode: "en-us"
-theme: "utility-pro"
+theme: "authority-pro"
 contentDir: "content/posts"
 dataDir: "content/data"
 pluralizelisttitles: "false"
 params:
-    Subtitle: "The goal of the Fans of Le Fox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."
+    Subtitle: "The goal of the Fans of LeFox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."
     StaticURL: "https://static.jorjafox.net"
     HomeURL: "https://jorjafox.net"
 outputs:
