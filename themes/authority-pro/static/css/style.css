@@ -105,6 +105,7 @@ input[type="submit"].primary,
 .enews-widget input[type="submit"] {
 	background-color: #107952;
 	color: #ffffff;
+	height: 75px;
 }
 
 .authority-top-banner a,
