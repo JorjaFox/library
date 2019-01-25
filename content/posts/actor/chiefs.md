@@ -22,3 +22,7 @@ The pilot episode was filmed in the spring of 2018, however CBS passed on the sc
 ## Character
 
 Jorja Fox portrayed Vicky, a new police chief from Texas. Stubborn and uncompromising, Vicky's a bull in a china shop. She's tough and focused — the type of person you'd pick to win in a fight.
+
+## See Also
+
+* [Screenshots](https://jorjafox.net/gallery/tv/chiefs/)
