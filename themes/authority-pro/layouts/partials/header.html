@@ -22,7 +22,16 @@
 
 <body class="jekyll custom-background sidebar-content" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 
-	<div class="authority-top-banner" style="display: block;"><div w3-include-html="/home/jorjafox/public_html/wordpress/wp-content/top-bar.html"></div></div>
+	<div class="authority-top-banner" style="display: block;">
+		<div id="top-bar-insert"></div>
+		<script type="text/javascript">
+            var includeDiv = $("#top-bar-insert");
+            $(window).on('hashchange', function() {
+                var href = location.hash.slice(1) +".html";
+                includeDiv.load('include/' + href);
+            });
+        </script>
+	</div>
 
 	<div class="site-container">
 
