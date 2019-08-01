@@ -1,7 +1,12 @@
 ---
-title: "Self"
+layout: single
+title: "As Seen As Self"
 author: "Mika A. Epstein"
-redirectto: "/filmography/#self"
+permalink: /self/
+categories: ["Filmography"]
+tags: ["Movies", "Television"]
 ---
 
-Redirect Redirect
+{{< filmography type="self" >}}
+
+For more information on her body of work, please see her [filmography](/library/filmography/)

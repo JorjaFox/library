@@ -1,7 +1,12 @@
 ---
+layout: single
 title: "Producer"
 author: "Mika A. Epstein"
-redirectto: "/filmography/#producer"
+permalink: /producer/
+categories: ["Filmography"]
+tags: ["Movies", "Television"]
 ---
 
-Redirect Redirect
+{{< filmography type="producer" >}}
+
+For more information on her body of work, please see her [filmography](/library/filmography/)
