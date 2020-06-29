@@ -13,6 +13,9 @@ genre: Comedy
 year: 1997
 character: "Attractive Woman"
 excerpt: "<strong>Ellen</strong> was a comedy TV series about Ellen and her friends, staring Ellen DeGeneres."
+gallery: https://jorjafox.net/gallery/tv/guest/ellen-puppy/
+imdb: https://www.imdb.com/title/tt0570077/
+image: images/actor/ellen.jpg
 ---
 
 ## Episode: "The Puppy Episode (2)"

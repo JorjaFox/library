@@ -13,6 +13,9 @@ genre: Drama
 year: 1993
 character: "Diane Dravecki"
 excerpt: "<strong>Summer Stories: The Mall</strong> was an ABC miniseries, much in the vein of their after school specials."
+gallery: https://jorjafox.net/gallery/tv/movies/summerstories/
+imdb: https://www.imdb.com/title/tt0202179/
+image: images/actor/the-mall.jpg
 ---
 
 Experience summer at the mall with Sarah, Spinner, Marla, Diane (Jorja Fox), Teresa, Kwan, and their friends.

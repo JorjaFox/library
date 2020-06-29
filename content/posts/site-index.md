@@ -12,10 +12,10 @@ outputs:
 
 The goal of the *Fans of LeFox Library* is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox.
 
-* <a href="biographies/" title="Jorja Fox">Biographies</a> - Various biographies
-* <a href="filmography/" title="Filmography">Filmography</a> - Her work as an actor, producer, and writer
-* <a href="seafox/" title="Seafox Productions">Seafox Productions</a> - Her production company
-* <a href="advocacy/" title="Advocacy">Advocacy</a> - The good she does for the world
-* <a href="transcript/" title="Interviews">Transcripts</a> - Interviews, press releases, and online chats
-* <a href="news/" title="News Articles">News Articles</a> - News where she is mentioned
-* <a href="recaps/" title="Recaps">Episode Recaps</a> - Recaps of TV episodes in which she's appeared
+* [Biographies](biographies) - Various biographies
+* [Filmography](filmography) - Her work as an actor, producer, and writer
+* [Seafox Productions](seafox) - Her production company
+* [Advocacy](advocacy) - The good she does for the world
+* [Transcripts](transcript) - Interviews, press releases, and online chats
+* [News Articles](news) - News where she is mentioned
+* [Episode Recaps](recaps) - Recaps of TV episodes in which she's appeared

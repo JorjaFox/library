@@ -13,6 +13,9 @@ genre: Drama
 year: 1993
 character: "Paula Engren"
 excerpt: "<strong>Law & Order</strong> is about the Criminal Justice System. The people are represented by two separate, yet equally important groups. The police who investigate crime and the District Attorneys who prosecute the offenders. These are their stories."
+imdb: https://www.imdb.com/title/tt0629412/
+gallery: https://jorjafox.net/gallery/tv/guest/lo-securitate/
+image: images/actor/law-and-order-securitate.jpg
 ---
 
 ## Episode: "Securitate"

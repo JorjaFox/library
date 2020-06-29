@@ -9,6 +9,9 @@ chartype: main
 rating: 3
 year: 2011
 genre: Drama
+imdb: https://www.imdb.com/title/tt1857605/
+gallery: https://jorjafox.net/gallery/movies/3weekstodaytona/
+image: images/actor/3-weeks-daytona.jpg
 ---
 
 ## Recap
@@ -25,6 +28,6 @@ One of Chuck coworkers, Steve, harasses him at work and happens to be dating Kat
 
 Just as the race starts, Cheryl arrives to manage the pit and works with Willy to improve the speed and performance of the car. When Chuck starts to waver, Willy provides the emotional stimulus to win, and the trio finally move forward to Daytona.
 
-## Character
+## Character Details
 
 Cheryl constantly bets on Chuck, losing money every race by literally betting on him. She loses her cool when he spends money meant for the car on his alimony, but accepts his apology and helps him at the end. Cheryl has a remarkable eye for the track, spotting a crash before it happens, and is innovative, using a hair clip for the car's missing hood pin. While it's clear she and Chuck have feelings for each other, they only kiss after he wins the Speedbowl race.

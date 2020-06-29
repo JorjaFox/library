@@ -5,6 +5,7 @@ author: "Mika A. Epstein"
 permalink: /actor/
 categories: ["Filmography"]
 tags: ["Movies", "Television"]
+notoc: true
 ---
 
 Jorja is credited as Jorja Fox unless otherwise noted.

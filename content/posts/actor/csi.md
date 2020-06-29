@@ -13,7 +13,9 @@ year: 2000-2015
 genre: "Crime Drama"
 excerpt: "<strong>CSI: Crime Scene Investigation</strong> (commonly referred to as CSI) was a popular, Emmy Award-winning CBS television series that trails the investigations of a team of Las Vegas forensic scientists as they unveil the circumstances behind mysterious and unusual deaths and crimes committed.</p><p>CSI aired for 15 seasons, from 2000-15, and concluded with a 2 hour movie in the 2015-16 season."
 imdb: http://www.imdb.com/title/tt0247082
-aliases: 
+gallery: https://jorjafox.net/gallery/tv/csi/
+image: images/actor/csi.jpg
+aliases:
   - /self/csi/
 ---
 
@@ -23,7 +25,7 @@ The show follows the cases of the Crime Scene Investigation division of the Clar
 
 ## Character
 
-Jorja Fox plays Sara Sidle, who hails from San Francisco, and was brought in by personal request of CSI Supervisor Gil Grissom to investigate the shooting (and subsequent death of) Holly Gribbs. Since then, Sara remained on the team and proved her worth while solving crimes. Sidle's relationship with many of her teammates is contentious and layered, as she does not often open up to them. Sara doesn't really have any friends or interests outside of work, which can occasionally cause problems; she can also be obsessive about certain types of cases. 
+Jorja Fox plays Sara Sidle, who hails from San Francisco, and was brought in by personal request of CSI Supervisor Gil Grissom to investigate the shooting (and subsequent death of) Holly Gribbs. Since then, Sara remained on the team and proved her worth while solving crimes. Sidle's relationship with many of her teammates is contentious and layered, as she does not often open up to them. Sara doesn't really have any friends or interests outside of work, which can occasionally cause problems; she can also be obsessive about certain types of cases.
 
 Over time, her relationship with Grissom develops into one of romance, which suffers a setback when, after being kidnapped by a serial killer and nearly dying of exposure, Sara leaves Las Vegas. Sara returns briefly to mourn the death of Warrick Brown, but leaves for Costa Rica. Grissom comes after her when, shortly there after, he too leaves the lab. After a year away, Sara returns yet again, married to Grissom, although he remains in Paris while she works in Las Vegas. Their relationship suffers from the distance and they end up divorcing.
 

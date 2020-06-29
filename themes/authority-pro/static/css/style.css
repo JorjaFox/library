@@ -19,6 +19,17 @@ aside.sidebar {
 	float: right!important;
 }
 
+aside.charphoto {
+	float: left;
+	padding: 10px;
+}
+
+.excerpt::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .entry-content .has-primary-color {
 	color: #107952 !important;
 }

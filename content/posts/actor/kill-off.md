@@ -9,6 +9,9 @@ chartype: main
 rating: 4
 year: 1989
 genre: "Drama"
+gallery: https://jorjafox.net/gallery/movies/kill-off/
+imdb: https://www.imdb.com/title/tt0097665/
+image: images/actor/the-kill-off.jpg
 ---
 
 ## Synopsis
@@ -21,6 +24,6 @@ As this bitter misinformation sweeps through the town, Luanne turns up dead, but
 
 ## Character
 
-Credited as Jorjan Fox.
+_Credited as Jorjan Fox._
 
 Myra Pavlov is a barmaid at her father's nightclub. Myra is in an abusive relationship with both her father (who raped her when she was 12) and her boyfriend, who is not only physically and sexually abusive, but also gets her hooked on heroin. The movie is told, somewhat, in Myra's perspective, and in the end, she is the only one left responsible for what was done.

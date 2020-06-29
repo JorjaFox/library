@@ -12,6 +12,9 @@ genre: Drama
 year: 1993
 character: "Constance Karadzic"
 excerpt: "<strong>Missing Persons</strong> was a television show about missing people, and the detectives who tried to track them down while putting their own lives back together."
+imdb: https://www.imdb.com/title/tt0106067/
+gallery: https://jorjafox.net/gallery/tv/missingpersons/
+image: images/actor/missingpersons.png
 ---
 
 The show aired from August 1993 through February 1994 on ABC at 8 p.m., apart from the feature-length pilot episode, which was broadcast as the Monday Night Movie from 9 p.m.-11 p.m. ET.
@@ -34,7 +37,6 @@ Johnny Sandowski learns Connie's divorced, but honors her request not to tell an
 
 By the end of the series, Connie is dating again and has a new boyfriend.
 
-
 ## See Also
 
-* [CSI Episodes](/library/actor/missing-persons-episodes/)
+* [Missing Persons Episodes](/library/actor/missing-persons-episodes/)

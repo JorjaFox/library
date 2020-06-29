@@ -9,6 +9,9 @@ chartype: supporting
 rating: 2
 year: 1992
 genre: "Slasher/Thriller"
+imdb: https://www.imdb.com/title/tt0236283/
+gallery: https://jorjafox.net/gallery/movies/happyhell/
+image: images/actor/happy-hell-night.jpg
 ---
 
 25 years ago at Winfield College, psycho-priest Zachary Malius murdered seven frat boys and was put away in the local asylum. Now, however, the same fraternity stages a prank from which Malius is inadvertently set free and returns to the house to repeat his crime...

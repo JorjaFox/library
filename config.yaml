@@ -5,11 +5,21 @@ languageCode: "en-us"
 theme: "authority-pro"
 contentDir: "content/posts"
 dataDir: "content/data"
+staticDir: "content/static"
 pluralizelisttitles: "false"
 params:
     Subtitle: "The goal of the Fans of LeFox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."
-    StaticURL: "https://static.jorjafox.net"
+    StaticURL: "https://jorjafox.net/static/"
     HomeURL: "https://jorjafox.net"
 outputs:
     home: [ "HTML", "JSON"]
     page: [ "HTML"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2

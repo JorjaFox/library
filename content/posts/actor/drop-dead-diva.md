@@ -14,6 +14,9 @@ genre: Comedy
 year: 2009-2014
 character: "MaryAnn Neely/Fay Greene"
 excerpt: "<strong>Drop Dead Diva</strong> was about Jane, a plus-size lawyer whose body is inhabited by the soul of a dead fashion model."
+imdb: https://www.imdb.com/title/tt1471519/
+gallery: https://jorjafox.net/gallery/tv/guest/drop-dead-diva/
+image: images/actor/drop-dead-diva.jpg
 ---
 
 The series revolves around vapid aspiring model, Deborah "Deb" Dobkins, who is killed in a car crash on the way to an audition for The Price Is Right. As her soul enters the gates of Heaven, she finds herself being judged by a gatekeeper named Fred. As a result of her shallowness, Fred declares her a "zero-zero," since she has performed zero good deeds and zero bad deeds during her time on Earth. While he's distracted, Deb presses the "return" key before Fred can stop her and is brought back to life in the body of a recently deceased lawyer named Jane Bingum , who died protecting her boss, Jay Parker.
@@ -39,5 +42,6 @@ MaryAnn's testimony sways her husband, and he wants to testify but it's after th
 
 MaryAnn is found guilty of accessory, innocent of murder, and sentence to time served for the community.
 
-##Character##
+## Character Details
+
 Jorja plays the soccer mom, MaryAnn Neely (formerly Fay Greene), whose criminal past comes back to haunt her.
