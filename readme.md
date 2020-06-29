@@ -10,10 +10,11 @@ All content lives in `content`
 * Formatted data is in the `data` folder.
     - filmography.json - acting, writing, self, etc.
     - episodes/* - All the eps for the TV shows.
+* Static content (like images) are in `static`
 
-## Push New Version
+## Testing
 
-In the folder, run the Hugo build command: `hugo`
+In the folder, run the Hugo build command: `hugo serve`
 
 It should take about 10 seconds, max.
 
@@ -27,7 +28,9 @@ It should take about 10 seconds, max.
 in 10442 ms
 ```
 
-`git push` will automagically do it all.
+## Pushing to Production
+
+Code is automatically pushed from the production branch via CodeShip.
 
 ## To Do
 
