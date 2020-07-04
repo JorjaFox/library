@@ -4,7 +4,7 @@
 		<div class="tvheader">
 			<em><a href="/library/actor/{{ .Params.showslug }}/">{{ .Params.showname }}</a></em>
 			<br /><strong>{{ title .Title }}</strong>
-			<br /><center>{{ partial "rating.html" . }}</center>
+			<br /><center>{{ partial "rating-recap-tv.html" . }}</center>
 		</div>
 		<div class="tvbody">
 			<span style="text-align:center;"><a href="/library/actor/{{ .Params.showslug }}-episodes/#season-{{.Params.season}}">Season {{ .Params.season }}</a>, Episode {{ .Params.epnum }}</span>

@@ -19,7 +19,7 @@
 			{{ end }}
 		{{ end }}
 
-		{{ with .Params.rating }}<li>{{ partial "rating.html" . }}<li>{{ end }}
+		{{ with .Params.rating }}<li>{{ partial "rating.html" . }}</li>{{ end }}
 
 		{{ if  .Params.website }}<li><a href="{{ .Params.website}}">Official Website</li>{{ end }}
 	</ul></div>
