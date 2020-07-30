@@ -1,3 +1,3 @@
-# Utility Pro
+# Astra
 
-Take Utility Pro for WP and put it on Hugo
+Take Astra for WP and put it on Hugo
