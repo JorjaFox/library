@@ -2,7 +2,7 @@
 baseURL: "https://jorjafox.net/library"
 title: "Fans of LeFox Library"
 languageCode: "en-us"
-theme: "authority-pro"
+theme: "astra"
 contentDir: "content/posts"
 dataDir: "content/data"
 staticDir: "content/static"

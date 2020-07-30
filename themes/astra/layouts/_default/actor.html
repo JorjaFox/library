@@ -1,0 +1,55 @@
+{{ partial "header.html" . }}
+
+	{{ if .Params.excerpt }}<p>{{ .Params.excerpt | safeHTML }}</p>{{ end }}
+
+	<!-- Excerpt/Details -->
+	<div class="wp-block-atomic-blocks-ab-pricing ab-pricing-columns-1 alignwide">
+		<div class="ab-pricing-table-wrap ab-block-pricing-table-gap-1">
+			<!-- Details -->
+			<div class="wp-block-atomic-blocks-ab-pricing-table ab-block-pricing-table-center ab-block-pricing-table">
+				<div class="ab-block-pricing-table-inside">
+					<div style="padding: 30px 20px 10px 20px" class="wp-block-atomic-blocks-ab-pricing-table-title ab-pricing-table-title has-larger-font-size">
+						{{ if .Params.character }}{{.Params.character}} {{ if .Params.chartype }} ({{.Params.chartype}} character){{ end }}{{ end }}
+					</div>
+
+					<!-- Image -->
+					<div class="wp-block-atomic-blocks-ab-pricing-table-subtitle ab-pricing-table-subtitle" style="padding: 30px 20px 10px 20px;">
+						{{ if .Params.image }}<aside class="charphoto"><img src="{{ .Params.image | absURL }}" alt="{{ .Params.character }}" width="300px"></aside>{{ end }}
+					</div>
+
+					<!-- Stars -->
+					<div class="wp-block-atomic-blocks-ab-pricing-table-subtitle ab-pricing-table-subtitle">
+						{{ if .Params.rating }}
+							{{ .Page.Scratch.Set "goldstar" .Params.rating }}
+							<li>{{ partial "rating.html" . }}</li>
+						{{ end }}
+					</div>
+					<ul itemprop="description" class="wp-block-atomic-blocks-ab-pricing-table-features ab-pricing-table-features ab-list-border-none ab-list-border-width-1" style="padding: 30px 20px 10px 20px;">
+						<li>
+							{{ if .Params.year }}{{.Params.year}}{{ end }}
+							{{ if .Params.genre }}{{ if .Params.year }} &bull; {{ end }}{{ .Params.genre }}{{ end }}
+							{{ if .Params.station }}<br />{{ .Params.station }}{{ end }}
+							{{ if .Params.website }}{{ if .Params.station }} &bull; {{ else }} <br /> {{ end }}<a href="{{ .Params.website }}" target="_blank">Official Website</a>{{ end }}
+							{{ if .Params.imdb }}{{ if .Params.station }} &bull; {{ else }} <br /> {{ end }}<a href="{{ .Params.imdb }}" target="_blank">IMDb</a>{{ end }}
+						</li>
+					</ul>
+					<ul itemprop="description" class="wp-block-atomic-blocks-ab-pricing-table-features ab-pricing-table-features ab-list-border-none ab-list-border-width-1" style="padding: 30px 20px 10px 20px;">
+						<li>
+						{{ if .Params.seasons }}for {{.Params.seasons}} season{{ if gt .Params.seasons "1" }}s{{end}}{{ end }}
+						{{ if .Params.episodes }}for {{.Params.episodes}} episode{{ if gt .Params.episodes "1" }}s{{end}}{{ end }}
+						{{ $character := .Params.character }}
+						{{ range .Site.Data.filmography }}
+							{{ if and (eq .character $character) ( .notes ) }}<br /><small>{{ .notes | safeHTML }}</small>{{ end }}
+						{{ end }}
+						</li>
+						{{ if .Params.gallery }}<li><a href="{{.Params.gallery}}">Gallery</a></li>{{ end }}
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	{{ .Content }}
+
+{{ partial "footer.html" . }}
