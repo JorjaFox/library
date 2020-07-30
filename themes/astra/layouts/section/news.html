@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+{{ .Content }}
+
+	<div class="jfoinfobox">
+		<div class="newsheader"><a href="/library/news/" title="News Articles">News Articles By Year</a></div>
+		<div class="newsbody"><ul class="infobox">
+		{{ range where $.Page.Site.Pages.ByDate "Section" "news" }}
+			{{ if eq .Params.topic "index" }}
+				<li><a href="{{ .Permalink }}">{{ .Date.Format "2006" }}</a></li>
+			{{ end }}
+		{{ end }}
+		</ul></div>
+	</div>
+
+{{ partial "footer.html" . }}

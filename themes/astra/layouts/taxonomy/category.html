@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+
+	<p>The following posts are in the category "{{ .Title }}":</p>
+
+	<ul>
+	{{ range .Data.Pages.ByTitle }}
+		{{ if ne .Type "index" }}
+			<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+		{{ end }}
+	{{ end }}
+	</ul>
+
+{{ partial "footer.html" . }}

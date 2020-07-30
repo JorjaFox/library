@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+
+	{{ .Content }}
+
+	<script>
+	  (function() {
+	    var cx = '009476746106519733539:k8ge5v3db1y';
+	    var gcse = document.createElement('script');
+	    gcse.type = 'text/javascript';
+	    gcse.async = true;
+	    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+	    var s = document.getElementsByTagName('script')[0];
+	    s.parentNode.insertBefore(gcse, s);
+	  })();
+	</script>
+	<gcse:search></gcse:search>
+
+{{ partial "footer.html" . }}
