@@ -12,8 +12,8 @@ params:
     StaticURL: "https://jorjafox.net/static"
     HomeURL: "https://jorjafox.net"
 outputs:
-    home: [ "HTML", "JSON"]
-    page: [ "HTML"]
+    home: [ "HTML", "JSON" ]
+    page: [ "HTML" ]
 
 markup:
   goldmark:

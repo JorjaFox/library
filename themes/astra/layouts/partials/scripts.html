@@ -19,7 +19,14 @@
 <link type='text/plain' rel='author' href='http://jorjafox.net/humans.txt' />
 
 <!-- Scripts -->
-<script type='text/javascript' src='{{ .Site.Params.HomeURL }}/library/js/jquery.js'></script>
+<script type='text/javascript' src='/library/js/jquery.min.js'></script>
+
+<!--[if IE]>
+    <script src='https://jorjafox.net/wordpress/wp-content/themes/astra/assets/js/minified/flexibility.min.js'></script>
+    <script>
+    flexibility(document.documentElement);
+    </script>
+<![endif]-->
 
 <!-- Google Analytics -->
 <script>
