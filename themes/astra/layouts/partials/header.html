@@ -141,6 +141,7 @@
 								<div class="ast-single-post-order">
 								<h1 class="entry-title" itemprop="headline"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
 								<div class="entry-meta">
+									<span class="cat-links"><a href="/library/">Library</a> / </span>
 									<span class="cat-links">
 										{{ if .IsPage }}
 											{{ range $i, $e := .Params.categories }}{{ if $i }} {{ end }}<a href="/library/categories/{{ lower . | urlize }}" rel="category">{{ title $e }}</a> / {{ end }}
