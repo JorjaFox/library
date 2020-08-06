@@ -1,0 +1,173 @@
+.excerpt::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Table of Contents */
+
+nav#TableOfContents {
+	border: #AAA 1px solid;
+	background-color: #f9f9f9;
+	padding: 5px;
+	margin: 0 -60px 10px 20px;
+	list-style-type: none;
+	font-size: 95%;
+	width: 40%;
+	float: right;
+}
+
+nav#TableOfContents:before {
+	content: "Contents";
+	font-size: 125%;
+	padding-left: 15%;
+}
+
+nav#TableOfContents li, nav#TableOfContents ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0 0 0 3%;
+}
+
+div.newsbody ul, div.newsbody li {
+    display: inline;
+    margin: 5px!important;
+}
+
+/* Stars */
+
+.rating {
+    display: inline-flex;
+}
+
+.star-rating {
+	margin-bottom: 20px;
+}
+
+.star-rating object {
+    width: 20px;
+    height: 20px;
+}
+svg#grey-star {
+    fill: #808080;
+}
+svg#red-star {
+    fill: #F00;
+}
+svg#gold-star {
+    fill: #FFD700;
+}
+
+/* Tables */
+
+table.jfotable {
+    margin: 1em;
+    border: 1px #363 solid;
+    border-collapse: collapse;
+    width: 100%!important;
+}
+.jfotable th {
+    background: #E1F3E1!important;
+    text-transform: uppercase;
+    text-align: left!important;
+    font-size: 1em;
+    line-height: 2.5em;
+    font-weight: bold;
+    white-space: nowrap;
+}
+
+ .jfotable td,
+ .jfoinfobox td {
+	border: 1px #aaa solid;
+	padding: 3px;
+}
+
+table.jfoinfobox, table.episodelist {
+	border: 1px #363 solid!important;
+	width: 100%;
+}
+
+.jfoinfobox td#dates {
+	white-space: nowrap;
+}
+
+.jfoinfobox th, .episodelist th {
+	background-color: #ddd;
+	padding: 5px;
+	white-space: nowrap;
+}
+
+.jfoinfobox td, .episodelist td {
+	padding: 5px;
+	word-break: break-word;
+}
+
+tr.episodelist-name {
+	text-align: center;
+	background-color: #E1F3E1;
+	border-top: 2px black solid;
+}
+
+table.episodelist .fa {
+    display: inline;
+}
+
+/* TV Ep Box */
+
+.tvheader {
+    text-align: center;
+    background: #E1F3E1;
+    padding: 5px;
+}
+
+.tvinfo {
+    text-align: center;
+    padding: 5px;
+}
+
+.tvinfo ul {
+	list-style: none;
+}
+
+
+/* Infobox UL */
+
+ul.infobox li:after {
+    content: "•";
+    padding: 0 .5em;
+}
+ul.infobox li {
+    margin: 0px!important;
+}
+
+ul.infobox li:last-child:after {
+    content: ""!important;
+}
+
+ul.infobox li:first-child {
+    margin: -5px!important;
+}
+
+/* JFO Templates */
+
+div.jfoinfobox {
+  display:table;
+  border: 1px solid #363;
+  margin: 10px 0px;
+  font-size: 15px;
+  width: 100%;
+  text-align: center;
+}
+
+div.newsheader, div.newsfooter {
+  text-align:center;
+  background:#E1F3E1;
+  padding: 5px;
+  border-bottom: 1px solid #363;
+}
+
+div.newsbody, div.tvbody {
+  padding: 15px;
+  background: #fff;
+  text-align: left;
+}

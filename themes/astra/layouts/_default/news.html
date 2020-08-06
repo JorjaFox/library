@@ -15,7 +15,7 @@
 	{{ end }}
 
 	<div class="jfoinfobox">
-		<div class="newsheader"><a href="/library/news/" title="News Articles">News Articles By Year</a></div>
+		<div class="newsheader"><strong><a href="/library/news/" title="News Articles">News Articles By Year</a></strong></div>
 		<div class="newsbody"><ul class="infobox">
 		{{ range where .Site.Pages.ByDate "Section" "news" }}
 			{{ if eq .Params.topic "index" }}
