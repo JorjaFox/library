@@ -1,18 +1,27 @@
 {{ partial "header.html" . }}
 
-	<div class="episodeinfobox">
-		<div class="tvheader">
-			<em><a href="/library/actor/{{ .Params.showslug }}/">{{ .Params.showname }}</a></em>
-			<br /><strong>{{ title .Title }}</strong>
-			<br /><center>{{ partial "rating-recap-tv.html" . }}</center>
-		</div>
-		<div class="tvbody">
-			<span style="text-align:center;"><a href="/library/actor/{{ .Params.showslug }}-episodes/#season-{{.Params.season}}">Season {{ .Params.season }}</a>, Episode {{ .Params.epnum }}</span>
-			<br /><strong>Station (US):</strong> {{ .Params.station }}
-			<br /><strong>Air Date (US):</strong> {{ .Date.Format "Jan 02, 2006" }}
-			<br /><small><a href="/library/actor/{{ .Params.showslug }}-episodes/">Complete list of {{ .Params.showname }} episodes</a></small>
-		</div>
-	</div>
+	<table class="">
+		<tr>
+			<td class="tvheader">
+				<h5><a href="/library/actor/{{ .Params.showslug }}/">{{ .Params.showname }}</a></h5>
+
+				<h6>{{ title .Title }}</h6>
+
+				{{ partial "rating-recap-tv.html" . }}
+			</td>
+
+			<td class="tvinfo">
+				<h6><a href="/library/actor/{{ .Params.showslug }}-episodes/#season-{{.Params.season}}">Season {{ .Params.season }}</a>, Episode {{ .Params.epnum }}</h6>
+
+				<ul>
+					<li><strong>Station (US):</strong> {{ .Params.station }}</li>
+					<li><strong>Air Date (US):</strong> {{ .Date.Format "Jan 02, 2006" }}</li>
+					<li><small><a href="/library/actor/{{ .Params.showslug }}-episodes/">Complete list of {{ .Params.showname }} episodes</a></small></li>
+				</ul>
+			</td>
+		</tr>
+	</table>
+
 
 	{{ .Content }}
 
