@@ -1,0 +1,21 @@
+{{ $thisyear := .Date.Format "2006" }}
+
+<div class="card">
+	<div class="card-header"><center><strong><a href="/library/news/" title="News Articles">News Articles By Year</a></strong></center></div>
+	<div class="card">
+		<ul class="nav nav-pills">
+			{{ range where $.Page.Site.Pages.ByDate "Section" "news" }}
+				{{ if eq .Params.topic "index" }}
+					{{ $eachyear := .Date.Format "2006" }}
+
+					{{ if eq $thisyear $eachyear}}
+						<li class="nav-item"><a class="nav-link bg-success text-white" href="{{ .Permalink }}">{{ .Date.Format "2006" }}</a></li>
+					{{ else }}
+						<li class="nav-item"><a class="nav-link" href="{{ .Permalink }}">{{ .Date.Format "2006" }}</a></li>
+					{{ end }}
+
+				{{ end }}
+			{{ end }}
+		</ul>
+	</div>
+</div>

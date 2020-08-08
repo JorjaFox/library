@@ -163,7 +163,6 @@
 										{{ if .IsPage }}
 											{{ range $i, $e := .Params.tags }}{{ if $i }} {{ end }}<a href="/library/tags/{{ lower . | urlize }}" rel="tag">{{ title $e }}</a> / {{ end }}
 										{{ else }}
-
 											{{ $title := lower .Title }}
 											{{ $.Scratch.Set "has_tags" "" }}
 											{{ range $key, $taxonomy := .Site.Taxonomies.tags }}
@@ -172,10 +171,7 @@
 													{{$.Scratch.Set "has_tags" "yes"}}
 												{{ end }}
 											{{ end }}
-
 											{{ $has_tags := $.Scratch.Get "has_tags" }}
-
-
 										{{ end }}
 										</span>
 									By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">the Fans of LeFox Librarians</span>
@@ -183,5 +179,5 @@
 							</div>
 						</header>
 
-						<div class="entry-content clear" itemprop="text">
+						<div class="entry-content" itemprop="text">
 							<!-- Content begins -->
