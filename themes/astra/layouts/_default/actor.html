@@ -3,44 +3,58 @@
 	{{ if .Params.excerpt }}<p>{{ .Params.excerpt | safeHTML }}</p>{{ end }}
 
 	<!-- Excerpt/Details -->
-	<div class="wp-block-columns has-2-columns are-vertically-aligned-top">
-		<div class="wp-block-column">
-			<div class="aligncenter">
-				<h5>{{ if .Params.character }}{{.Params.character}} {{ if .Params.chartype }} ({{.Params.chartype}} character){{ end }}{{ end }}</h5>
-			</div>
 
-			<div class="wp-block-image">
-				{{ if .Params.image }}<img src="{{ .Params.image | absURL }}" alt="{{ .Params.character }}" width="300px">{{ end }}
+	<div class="card mb-3">
+		<div class="row no-gutters">
+			<div class="col-md-12">
+				<div class="card-header">
+					<h5 class="card-title">
+						{{ if .Params.character }}{{.Params.character}} {{ if .Params.chartype }}<small> ({{ .Params.chartype }} character){{ end }}</small>{{ end }}
+
+						{{ if .Params.rating }}
+							<div class="float-right">
+							{{ .Page.Scratch.Set "goldstar" .Params.rating }}
+							{{ partial "rating.html" . }}
+							</div>
+						{{ end }}
+
+
+					</h5>
+				</div>
 			</div>
 		</div>
-		<div class="wp-block-column">
-			<div class="aligncenter">
-				{{ if .Params.rating }}
-					{{ .Page.Scratch.Set "goldstar" .Params.rating }}
-					{{ partial "rating.html" . }}
-				{{ end }}
+		<div class="row no-gutters">
+			<div class="col-md-6">
+				<div class="card-body">
+					{{ if .Params.image }}<img src="{{ .Params.image | absURL }}" alt="{{ .Params.character }}" width="300px" class="img-thumbnail">{{ end }}
+				</div>
 			</div>
+			<div class="col-md-6">
+				<div class="card-body">
+					<ul class="list-group list-group-flush actor-list-group">
+						{{ if .Params.year }}<li class="list-group-item">{{.Params.year}}{{ if .Params.genre }} &bull; {{ .Params.genre }}{{ end }}</li>{{ end }}
+						{{ if .Params.station }}<li class="list-group-item">{{ .Params.station }}</li>{{ end }}
 
-			<ul>
-				<li>
-					{{ if .Params.year }}{{.Params.year}}{{ end }}
-					{{ if .Params.genre }}{{ if .Params.year }} &bull; {{ end }}{{ .Params.genre }}{{ end }}
-					{{ if .Params.station }}<br />{{ .Params.station }}{{ end }}
-					{{ if .Params.website }}{{ if .Params.station }} &bull; {{ else }} <br /> {{ end }}<a href="{{ .Params.website }}" target="_blank">Official Website</a>{{ end }}
-					{{ if .Params.imdb }}{{ if .Params.station }} &bull; {{ else }} <br /> {{ end }}<a href="{{ .Params.imdb }}" target="_blank">IMDb</a>{{ end }}
-				</li>
-			</ul>
-			<ul>
-				<li>
-				{{ if .Params.seasons }}for {{.Params.seasons}} season{{ if gt .Params.seasons "1" }}s{{end}}{{ end }}
-				{{ if .Params.episodes }}for {{.Params.episodes}} episode{{ if gt .Params.episodes "1" }}s{{end}}{{ end }}
-				{{ $character := .Params.character }}
-				{{ range .Site.Data.filmography }}
-					{{ if and (eq .character $character) ( .notes ) }}<br /><small>{{ .notes | safeHTML }}</small>{{ end }}
-				{{ end }}
-				</li>
-				{{ if .Params.gallery }}<li><a href="{{.Params.gallery}}">Gallery</a></li>{{ end }}
-			</ul>
+						<!-- Links -->
+						<li class="list-group-item">
+							{{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">Official Website</a>{{ end }}
+							{{ if .Params.imdb }}{{ if .Params.website }} &bull; {{ end }}<a href="{{ .Params.imdb }}" target="_blank">IMDb</a>{{ end }}
+						</li>
+
+						{{ if or .Params.seasons .Params.episodes }}
+							<li class="list-group-item">
+							{{ if .Params.seasons }}for {{.Params.seasons}} season{{ if gt .Params.seasons "1" }}s{{end}}{{ end }}
+							{{ if .Params.episodes }}for {{.Params.episodes}} episode{{ if gt .Params.episodes "1" }}s{{end}}{{ end }}
+							{{ $character := .Params.character }}
+							{{ range .Site.Data.filmography }}
+								{{ if and (eq .character $character) ( .notes ) }}<br /><small>{{ .notes | safeHTML }}</small>{{ end }}
+							{{ end }}
+							</li>
+						{{ end }}
+						{{ if .Params.gallery }}<li class="list-group-item"><a href="{{.Params.gallery}}">Gallery</a></li>{{ end }}
+					</ul>
+				</div>
+			</div>
 		</div>
 	</div>
 
