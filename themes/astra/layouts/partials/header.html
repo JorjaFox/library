@@ -2,12 +2,27 @@
 <html>
 
 <head>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<meta name="msvalidate.01" content="E46301A97C204E50C6CFD2B6C4D8B68B">
 
 	<title>{{ .Title }} &middot; {{ .Site.Title }}</title>
 
-	<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Subtitle }}{{ end }}">
+	<meta name="robots" content="index, follow">
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<link rel="canonical" href="{{ .Permalink }}">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Welcome, Fans of Jorja Fox ⋆ Fans of LeFox">
+	<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Subtitle }}{{ end }}">
+	<meta property="og:url" content="{{ .Permalink }}">
+	<meta property="og:site_name" content="Fans of LeFox">
+	<meta property="article:publisher" content="https://www.facebook.com/JFO.Fans">
+	<meta property="article:modified_time" content="{{ .Lastmod }}">
+	<meta property="og:image" content="//static.jorjafox.net/wordpress/2015/01/JorjaFox.com_-960x769.jpg">
 
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	{{ "<!--[if lt IE 9]>" | safeHTML }}
@@ -53,9 +68,10 @@
 					<div class="ast-flex main-header-container">
 						<div class="site-branding">
 							<div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-								<span class="site-logo-img"><a href="https://jorjafox.net/" class="custom-logo-link" rel="home"><img width="120" height="120" src="https://static.jorjafox.net/wordpress/2019/01/flf-logo-120x120.png" class="custom-logo" alt="Fans of LeFox" srcset="//static.jorjafox.net/wordpress/2019/01/flf-logo-120x120.png 120w, //static.jorjafox.net/wordpress/2019/01/flf-logo-200x200.png 200w, //static.jorjafox.net/wordpress/2019/01/flf-logo.png 512w" sizes="(max-width: 120px) 100vw, 120px"/></a></span>
-								<div class="ast-site-title-wrap">
-									<span class="site-title" itemprop="name"><a href="https://jorjafox.net/" rel="home" itemprop="url">Fans of LeFox</a></span>
+								<span class="site-logo-img"><a href="https://jorjafox.net/" class="custom-logo-link" rel="home"><img width="120" height="120" src="https://static.jorjafox.net/wordpress/2019/01/flf-logo-120x120.png" class="custom-logo" alt="Fans of LeFox" loading="lazy" srcset="//static.jorjafox.net/wordpress/2019/01/flf-logo-120x120.png 120w, //static.jorjafox.net/wordpress/2019/01/flf-logo-200x200.png 200w, //static.jorjafox.net/wordpress/2019/01/flf-logo.png 512w" sizes="(max-width: 120px) 100vw, 120px" /></a></span><div class="ast-site-title-wrap">
+									<h1 class="site-title" itemprop="name">
+										<a href="https://jorjafox.net/" rel="home" itemprop="url">Fans of LeFox</a>
+									</h1>
 								</div>
 							</div>
 						</div>
@@ -73,7 +89,7 @@
 								<nav class="ast-flex-grow-1 navigation-accessibility" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
 									<div class="main-navigation">
 										<ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border astra-menu-animation-fade ">
-											<li id="menu-item-14304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14304"><a href="https://jorjafox.net/news/" class="menu-link">News</a></li>
+											<li id="menu-item-14304" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-14304"><a href="https://jorjafox.net/news/" aria-current="page" class="menu-link">News</a></li>
 											<li id="menu-item-3622" class="menu-photos menu-item menu-item-type-custom menu-item-object-custom menu-item-3622"><a href="https://jorjafox.net/gallery" class="menu-link">Photos</a></li>
 											<li id="menu-item-3623" class="menu-videos menu-item menu-item-type-custom menu-item-object-custom menu-item-3623"><a href="https://jorjafox.net/videos/" class="menu-link">Videos</a></li>
 											<li id="menu-item-3624" class="menu-jorjapedia menu-item menu-item-type-custom menu-item-object-custom menu-item-3624"><a href="https://jorjafox.net/library/" class="menu-link">Library</a></li>
@@ -87,97 +103,50 @@
 			</div>
 		</div>
 	</header>
-	<div data-stick-gutter="32" data-stick-maxwidth="1430">
-		<header id="ast-fixed-header" class="site-header ast-primary-submenu-animation-fade header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-menu-toggle-icon ast-mobile-header-inline" style="visibility: hidden;" data-type="fixed-header">
-			<div class="main-header-bar-wrap">
-				<div class="main-header-bar">
-					<div class="ast-container">
-						<div class="ast-flex main-header-container">
-							<div class="site-branding">
-								<div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-									<span class="site-logo-img"><a href="https://jorjafox.net/" class="custom-logo-link" rel="home"><img width="120" height="120" src="https://static.jorjafox.net/wordpress/2019/01/flf-logo-120x120.png" class="custom-logo" alt="Fans of LeFox" srcset="//static.jorjafox.net/wordpress/2019/01/flf-logo-120x120.png 120w, //static.jorjafox.net/wordpress/2019/01/flf-logo-200x200.png 200w, //static.jorjafox.net/wordpress/2019/01/flf-logo.png 512w" sizes="(max-width: 120px) 100vw, 120px"/></a></span>
-									<div class="ast-site-title-wrap">
-										<span class="site-title" itemprop="name"><a href="https://jorjafox.net/" rel="home" itemprop="url">Fans of LeFox</a></span>
-									</div>
+	<header id="ast-fixed-header" class="site-header ast-primary-submenu-animation-fade header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-menu-toggle-icon ast-mobile-header-inline" style="visibility: hidden;" data-type="fixed-header">
+		<div class="main-header-bar-wrap">
+			<div class="main-header-bar">
+				<div class="ast-container">
+					<div class="ast-flex main-header-container">
+						<div class="site-branding">
+							<div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
+								<span class="site-logo-img"><a href="https://jorjafox.net/" class="custom-logo-link" rel="home"><img width="120" height="120" src="https://static.jorjafox.net/wordpress/2019/01/flf-logo-120x120.png" class="custom-logo" alt="Fans of LeFox" loading="lazy" srcset="//static.jorjafox.net/wordpress/2019/01/flf-logo-120x120.png 120w, //static.jorjafox.net/wordpress/2019/01/flf-logo-200x200.png 200w, //static.jorjafox.net/wordpress/2019/01/flf-logo.png 512w" sizes="(max-width: 120px) 100vw, 120px" /></a></span><div class="ast-site-title-wrap">
+									<h1 class="site-title" itemprop="name"><a href="https://jorjafox.net/" rel="home" itemprop="url"> Fans of LeFox</a></h1>
 								</div>
 							</div>
+						</div>
 
-							<div class="ast-mobile-menu-buttons">
-								<div class="ast-button-wrap">
-									<button type="button" class="menu-toggle main-header-menu-toggle  ast-mobile-menu-buttons-fill " aria-controls='primary-menu' aria-expanded='false'>
-										<span class="screen-reader-text">Main Menu</span>
-										<span class="menu-toggle-icon"></span>
-									</button>
-								</div>
+						<div class="ast-mobile-menu-buttons">
+							<div class="ast-button-wrap">
+								<button type="button" class="menu-toggle main-header-menu-toggle  ast-mobile-menu-buttons-fill " aria-controls='primary-menu' aria-expanded='false'>
+									<span class="screen-reader-text">Main Menu</span>
+									<span class="menu-toggle-icon"></span>
+								</button>
 							</div>
-							<div class="ast-main-header-bar-alignment">
-								<div class="main-header-bar-navigation">
-									<nav class="ast-flex-grow-1 navigation-accessibility" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
-										<div class="main-navigation">
-											<ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border astra-menu-animation-fade ">
-												<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14304"><a href="https://jorjafox.net/news/" class="menu-link">News</a></li>
-												<li class="menu-photos menu-item menu-item-type-custom menu-item-object-custom menu-item-3622"><a href="https://jorjafox.net/gallery" class="menu-link">Photos</a></li>
-												<li class="menu-videos menu-item menu-item-type-custom menu-item-object-custom menu-item-3623"><a href="https://jorjafox.net/videos/" class="menu-link">Videos</a></li>
-												<li class="menu-jorjapedia menu-item menu-item-type-custom menu-item-object-custom menu-item-3624"><a href="https://jorjafox.net/library/" class="menu-link">Library</a></li>
-											</ul>
-										</div>
-									</nav>
-								</div>
+						</div>
+						<div class="ast-main-header-bar-alignment">
+							<div class="main-header-bar-navigation">
+								<nav class="ast-flex-grow-1 navigation-accessibility" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
+									<div class="main-navigation">
+										<ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border astra-menu-animation-fade ">
+											<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-14304"><a href="https://jorjafox.net/news/" aria-current="page" class="menu-link">News</a></li>
+											<li class="menu-photos menu-item menu-item-type-custom menu-item-object-custom menu-item-3622"><a href="https://jorjafox.net/gallery" class="menu-link">Photos</a></li>
+											<li class="menu-videos menu-item menu-item-type-custom menu-item-object-custom menu-item-3623"><a href="https://jorjafox.net/videos/" class="menu-link">Videos</a></li>
+											<li class="menu-jorjapedia menu-item menu-item-type-custom menu-item-object-custom menu-item-3624"><a href="https://jorjafox.net/library/" class="menu-link">Library</a></li>
+										</ul>
+									</div>
+								</nav>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</header>
-	</div>
+		</div>
+	</header>
 
 	<div id="content" class="site-content">
 		<div class="ast-container">
-			<div id="primary" class="content-area primary">
+			<div id="primary" class="content-area primary ast-grid-1">
 				<main id="main" class="site-main">
-					<article class="post type-post status-publish format-standard hentry ast-article-single" id="post-17379" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
-						<div class="ast-post-format- single-layout-1">
-							<header class="entry-header">
-								<div class="ast-single-post-order">
-								<h1 class="entry-title" itemprop="headline"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
-								<div class="entry-meta">
-									<span class="cat-links"><a href="/library/">Library</a> / </span>
-									<span class="cat-links">
-										{{ if .IsPage }}
-											{{ range $i, $e := .Params.categories }}{{ if $i }} {{ end }}<a href="/library/categories/{{ lower . | urlize }}" rel="category">{{ title $e }}</a> / {{ end }}
-										{{ else }}
-											{{ $title := lower .Title }}
-											{{ $.Scratch.Set "has_cats" "" }}
-											{{ range $key, $taxonomy := .Site.Taxonomies.categories }}
-												{{ if eq $key $title }}
-													{{ title $title }}
-													{{$.Scratch.Set "has_cats" "yes"}}
-												{{ end }}
-											{{ end }}
-
-											{{ $has_cats := $.Scratch.Get "has_cats" }}
-
-										{{ end }}
-									</span>
-									<span class="tag-links">
-										{{ if .IsPage }}
-											{{ range $i, $e := .Params.tags }}{{ if $i }} {{ end }}<a href="/library/tags/{{ lower . | urlize }}" rel="tag">{{ title $e }}</a> / {{ end }}
-										{{ else }}
-											{{ $title := lower .Title }}
-											{{ $.Scratch.Set "has_tags" "" }}
-											{{ range $key, $taxonomy := .Site.Taxonomies.tags }}
-												{{ if eq $key $title }}
-													{{ title $title }}
-													{{$.Scratch.Set "has_tags" "yes"}}
-												{{ end }}
-											{{ end }}
-											{{ $has_tags := $.Scratch.Get "has_tags" }}
-										{{ end }}
-										</span>
-									By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">the Fans of LeFox Librarians</span>
-								</div>
-							</div>
-						</header>
-
-						<div class="entry-content" itemprop="text">
-							<!-- Content begins -->
+					<div class="ast-row">
+						<article class="post hentry ast-article-post" id="post-library" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">

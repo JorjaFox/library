@@ -1,10 +1,9 @@
-							<!-- Content Ends -->
-						</div>
-					</article>
-				</main>
-			</div> <!-- content-area primary -->
+						<!-- Content Ends -->
+						</article>
+					</main>
+				</div> <!-- content-area primary -->
 
-			{{ partial "sidebar.html" . }}
+				{{ partial "sidebar.html" . }}
 
 			</div> <!-- ast-container -->
 		</div> <!-- site-content -->
@@ -91,32 +90,31 @@
 
 	</div> <!-- End hfeed site -->
 
-		<script>
+	<script id='astra-theme-js-js-extra'>
 	var astra = {
 		"break_point": "921",
 		"isRtl": "",
 		"query_vars": "{\"page\":\"\",\"pagename\":\"news\"}",
-		"edit_post_url": "",
-		"ajax_url": "",
 		"infinite_count": "2",
 		"infinite_total": "256",
 		"pagination": "number",
 		"infinite_scroll_event": "scroll",
-		"infinite_nonce": "7ecdfc6755",
+		"infinite_nonce": "b996cd4f9c",
 		"no_more_post_message": "No more posts to show.",
 		"grid_layout": "1",
-		"site_url": "https:\/\/jorjafox.net\/wordpress",
-		"show_comments": "",
-		"masonryEnabled": "",
-		"blogMasonryBreakPoint": "768"
+		"site_url":"https:\/\/jorjafox.net\/wordpress",
+		"show_comments":"",
+		"masonryEnabled":"",
+		"blogMasonryBreakPoint":"768"
 	};
 	</script>
-	<script src="https://jorjafox.net/wordpress/wp-content/themes/astra/assets/js/minified/style.min.js"></script>
+	<script src='https://jorjafox.net/wordpress/wp-content/themes/astra/assets/js/minified/style.min.js?ver={{ .Site.Params.Version }}' id='astra-theme-js-js'></script>
 
-	<script>
+	<script id='astra-addon-js-js-extra'>
 		var astraAddon = {"sticky_active":"1","header_main_stick":"1","header_above_stick":"0","header_below_stick":"0","stick_header_meta":"","header_main_stick_meta":"","header_above_stick_meta":"","header_below_stick_meta":"","sticky_header_on_devices":"desktop","sticky_header_style":"slide","sticky_hide_on_scroll":"0","break_point":"921","tablet_break_point":"768","mobile_break_point":"544","header_main_shrink":"1","header_logo_width":"","responsive_header_logo_width":{"desktop":"50","tablet":"","mobile":"120"},"stick_origin_position":"","site_layout":"","site_content_width":"1240","site_layout_padded_width":"1200","site_layout_box_width":"1200"};
 	</script>
-	<script src="https://jorjafox.net/static/content/code/astra-addon.php?type=js"></script>
+
+	<script src='{{ .Site.Params.StaticURL }}/content/code/astra-addon.php?type=js&ver={{ .Site.Params.Version }}'></script>
 
 </body>
 </html>
