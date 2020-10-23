@@ -1,6 +1,15 @@
 [
     {
       "role": "actor",
+      "title": "The Map of Tiny Perfect Things",
+      "slug": "map-of-tiny-perfect-things",
+      "type": "Movie",
+      "character": "TBD",
+      "notes": "unconfirmed",
+      "dates": 2020
+    },
+    {
+      "role": "actor",
       "title": "3022",
       "slug": "3022",
       "type": "Movie",
