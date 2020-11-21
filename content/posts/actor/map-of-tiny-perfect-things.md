@@ -8,10 +8,10 @@ character: "Greta"
 chartype: supporting
 rating: na
 year: 2021
-genre: "Romance/Drama"
+genre: "Fantasy / Drama"
 imdb: https://www.imdb.com/title/tt11080108/
 gallery:
-image:
+image: images/actor/map-tpt.jpg
 ---
 
 Jorja plays Greta, mother of Margaret (one of the teens).
