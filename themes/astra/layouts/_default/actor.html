@@ -10,15 +10,12 @@
 				<div class="card-header">
 					<h5 class="card-title">
 						{{ if .Params.character }}{{.Params.character}} {{ if .Params.chartype }}<small> ({{ .Params.chartype }} character){{ end }}</small>{{ end }}
-
 						{{ if .Params.rating }}
 							<div class="float-right">
 							{{ .Page.Scratch.Set "goldstar" .Params.rating }}
 							{{ partial "rating.html" . }}
 							</div>
 						{{ end }}
-
-
 					</h5>
 				</div>
 			</div>
