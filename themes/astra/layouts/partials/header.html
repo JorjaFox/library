@@ -150,3 +150,15 @@
 				<main id="main" class="site-main">
 					<div class="ast-row">
 						<article class="post hentry ast-article-post" id="post-library" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+							<header class="entry-header">
+								<div class="ast-single-post-order">
+									<h1 class="entry-title" itemprop="headline">{{ .Title }}</h1>
+									<div class="entry-meta">
+										<span class="cat-links">
+											{{ range (.GetTerms "tags") }}<a href="{{ .Permalink }}" rel="category tag">{{ .LinkTitle }}</a> / {{ end }}
+											{{ range (.GetTerms "categories") }}<a href="{{ .Permalink }}" rel="category tag">{{ .LinkTitle }}</a> / {{ end }}
+										</span>
+										By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author"><a href="/library/" rel="author">the Fans of LeFox Librarians</a></span>
+										<br />&nbsp;</div>
+								</div>
+							</header>
