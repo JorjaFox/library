@@ -19,3 +19,4 @@ The goal of the *Fans of LeFox Library* is to provide a comprehensive resource f
 * [Transcripts](transcript) - Interviews, press releases, and online chats
 * [News Articles](news) - News where she is mentioned
 * [Episode Recaps](recaps) - Recaps of TV episodes in which she's appeared
+* [Frequently Asked Questions](faq) - Common questions about Jorja and this site

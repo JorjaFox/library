@@ -11,8 +11,6 @@ FAQ stands for **frequently asked questions**, and refers to listed questions an
 
 Which is to say, here is what people ask the most:
 
-## Most Frequently Asked Questions
-
 ### Is this FAQ up to date?
 
 You're probably trying to ask if the contact information is up to date. Yes, yes it is. That's the official, public, contact information.
@@ -40,7 +38,7 @@ Yes!
 * [Facebook - JorjaFoxworldwide](https://www.facebook.com/JorjaFoxworldwide)
 * [Twitter - @jorjafoxofficia](https://twitter.com/jorjafoxofficia)
 
-If she has anything else, she's keeping it private. That means **anyone** you see claiming to be her probably isn't. 
+If she has anything else, she's keeping it private. That means **anyone** you see claiming to be her probably isn't.
 
 ### Is Jorja Fox pregnant?
 
@@ -60,9 +58,11 @@ Because she didn't want to be.
 
 ### What's she doing now that CSI is over?
 
-Mostly advocacy work, but we'll see what's next! Isn't it exciting?
+Mostly advocacy work, a couple movies, you know, keeping busy.
 
-## See Also
+### What about ...
 
-* [About Jorja](/library/faq/jorja/)
-* [About Jorja's Career](/library/faq/career/)
+Got more questions not answered here? Try these:
+
+* [... Jorja](/library/faq/jorja/)
+* [... Jorja's Career](/library/faq/career/)

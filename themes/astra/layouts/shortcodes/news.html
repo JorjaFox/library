@@ -6,6 +6,7 @@
 		<tr>
 			<th scope="col">Date</th>
 			<th scope="col">Source</th>
+			<th scope="col">Title</th>
 		</tr>
 	</thead>
 
@@ -13,10 +14,11 @@
 	{{ range where $.Page.Site.Pages.ByDate "Section" "news" }}
 		{{ $thisdate := .Date.Format "2006" }}
 
-		{{ if and (eq $date $thisdate) (ne .Params.topic "index") }}
+		{{ if and (eq $date $thisdate) (ne .Params.topic "index") (isset .Params "newstitle") }}
 			<tr>
 				<td>{{ .Date.Format "January 02" }}</td>
-				<td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+				<td><a href="{{ .Permalink }}">{{ .Params.newssource }}</a></td>
+				<td>{{ htmlUnescape .Params.newstitle }}</td>
 			</tr>
 		{{ end }}
 	{{ end }}

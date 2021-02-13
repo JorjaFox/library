@@ -16,7 +16,6 @@ var fuseOptions = {
   ]
 };
 
-
 var searchQuery = param("s");
 
 if(searchQuery.length > 1){

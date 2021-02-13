@@ -1,7 +1,7 @@
 /**
- * Fuse.js v6.4.1 - Lightweight fuzzy-search (http://fusejs.io)
+ * Fuse.js v6.4.6 - Lightweight fuzzy-search (http://fusejs.io)
  *
- * Copyright (c) 2020 Kiro Risk (http://kiro.me)
+ * Copyright (c) 2021 Kiro Risk (http://kiro.me)
  * All Rights Reserved. Apache Software License 2.0
  *
  * http://www.apache.org/licenses/LICENSE-2.0
@@ -367,6 +367,10 @@
     var arr = false;
 
     var deepGet = function deepGet(obj, path, index) {
+      if (!isDefined(obj)) {
+        return;
+      }
+
       if (!path[index]) {
         // If there's no path left, we've arrived at the object we care about.
         list.push(obj);
@@ -462,6 +466,7 @@
   function norm() {
     var mantissa = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 3;
     var cache = new Map();
+    var m = Math.pow(10, mantissa);
     return {
       get: function get(value) {
         var numTokens = value.match(SPACE).length;
@@ -470,7 +475,9 @@
           return cache.get(numTokens);
         }
 
-        var n = parseFloat((1 / Math.sqrt(numTokens)).toFixed(mantissa));
+        var norm = 1 / Math.sqrt(numTokens); // In place of `toFixed(mantissa)`, for faster computation
+
+        var n = parseFloat(Math.round(norm * m) / m);
         cache.set(numTokens, n);
         return n;
       },
@@ -690,42 +697,6 @@
     myIndex.setKeys(keys);
     myIndex.setIndexRecords(records);
     return myIndex;
-  }
-
-  function transformMatches(result, data) {
-    var matches = result.matches;
-    data.matches = [];
-
-    if (!isDefined(matches)) {
-      return;
-    }
-
-    matches.forEach(function (match) {
-      if (!isDefined(match.indices) || !match.indices.length) {
-        return;
-      }
-
-      var indices = match.indices,
-          value = match.value;
-      var obj = {
-        indices: indices,
-        value: value
-      };
-
-      if (match.key) {
-        obj.key = match.key.src;
-      }
-
-      if (match.idx > -1) {
-        obj.refIndex = match.idx;
-      }
-
-      data.matches.push(obj);
-    });
-  }
-
-  function transformScore(result, data) {
-    data.score = result.score;
   }
 
   function computeScore(pattern) {
@@ -1427,7 +1398,9 @@
           _ref$minMatchCharLeng = _ref.minMatchCharLength,
           minMatchCharLength = _ref$minMatchCharLeng === void 0 ? Config.minMatchCharLength : _ref$minMatchCharLeng,
           _ref$isCaseSensitive = _ref.isCaseSensitive,
-          isCaseSensitive = _ref$isCaseSensitive === void 0 ? Config.isCaseSensitive : _ref$isCaseSensitive;
+          isCaseSensitive = _ref$isCaseSensitive === void 0 ? Config.isCaseSensitive : _ref$isCaseSensitive,
+          _ref$ignoreLocation = _ref.ignoreLocation,
+          ignoreLocation = _ref$ignoreLocation === void 0 ? Config.ignoreLocation : _ref$ignoreLocation;
 
       _classCallCheck(this, FuzzyMatch);
 
@@ -1439,7 +1412,8 @@
         includeMatches: includeMatches,
         findAllMatches: findAllMatches,
         minMatchCharLength: minMatchCharLength,
-        isCaseSensitive: isCaseSensitive
+        isCaseSensitive: isCaseSensitive,
+        ignoreLocation: ignoreLocation
       });
       return _this;
     }
@@ -1496,7 +1470,7 @@
         var isMatch = !!indices.length;
         return {
           isMatch: isMatch,
-          score: isMatch ? 1 : 0,
+          score: isMatch ? 0 : 1,
           indices: indices
         };
       }
@@ -1616,6 +1590,8 @@
           includeMatches = _ref$includeMatches === void 0 ? Config.includeMatches : _ref$includeMatches,
           _ref$minMatchCharLeng = _ref.minMatchCharLength,
           minMatchCharLength = _ref$minMatchCharLeng === void 0 ? Config.minMatchCharLength : _ref$minMatchCharLeng,
+          _ref$ignoreLocation = _ref.ignoreLocation,
+          ignoreLocation = _ref$ignoreLocation === void 0 ? Config.ignoreLocation : _ref$ignoreLocation,
           _ref$findAllMatches = _ref.findAllMatches,
           findAllMatches = _ref$findAllMatches === void 0 ? Config.findAllMatches : _ref$findAllMatches,
           _ref$location = _ref.location,
@@ -1633,6 +1609,7 @@
         includeMatches: includeMatches,
         minMatchCharLength: minMatchCharLength,
         findAllMatches: findAllMatches,
+        ignoreLocation: ignoreLocation,
         location: location,
         threshold: threshold,
         distance: distance
@@ -1828,6 +1805,85 @@
     return next(query);
   }
 
+  function computeScore$1(results, _ref) {
+    var _ref$ignoreFieldNorm = _ref.ignoreFieldNorm,
+        ignoreFieldNorm = _ref$ignoreFieldNorm === void 0 ? Config.ignoreFieldNorm : _ref$ignoreFieldNorm;
+    results.forEach(function (result) {
+      var totalScore = 1;
+      result.matches.forEach(function (_ref2) {
+        var key = _ref2.key,
+            norm = _ref2.norm,
+            score = _ref2.score;
+        var weight = key ? key.weight : null;
+        totalScore *= Math.pow(score === 0 && weight ? Number.EPSILON : score, (weight || 1) * (ignoreFieldNorm ? 1 : norm));
+      });
+      result.score = totalScore;
+    });
+  }
+
+  function transformMatches(result, data) {
+    var matches = result.matches;
+    data.matches = [];
+
+    if (!isDefined(matches)) {
+      return;
+    }
+
+    matches.forEach(function (match) {
+      if (!isDefined(match.indices) || !match.indices.length) {
+        return;
+      }
+
+      var indices = match.indices,
+          value = match.value;
+      var obj = {
+        indices: indices,
+        value: value
+      };
+
+      if (match.key) {
+        obj.key = match.key.src;
+      }
+
+      if (match.idx > -1) {
+        obj.refIndex = match.idx;
+      }
+
+      data.matches.push(obj);
+    });
+  }
+
+  function transformScore(result, data) {
+    data.score = result.score;
+  }
+
+  function format(results, docs) {
+    var _ref = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {},
+        _ref$includeMatches = _ref.includeMatches,
+        includeMatches = _ref$includeMatches === void 0 ? Config.includeMatches : _ref$includeMatches,
+        _ref$includeScore = _ref.includeScore,
+        includeScore = _ref$includeScore === void 0 ? Config.includeScore : _ref$includeScore;
+
+    var transformers = [];
+    if (includeMatches) transformers.push(transformMatches);
+    if (includeScore) transformers.push(transformScore);
+    return results.map(function (result) {
+      var idx = result.idx;
+      var data = {
+        item: docs[idx],
+        refIndex: idx
+      };
+
+      if (transformers.length) {
+        transformers.forEach(function (transformer) {
+          transformer(result, data);
+        });
+      }
+
+      return data;
+    });
+  }
+
   var Fuse = /*#__PURE__*/function () {
     function Fuse(docs) {
       var options = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {};
@@ -1886,6 +1942,7 @@
           if (predicate(doc, i)) {
             this.removeAt(i);
             i -= 1;
+            len -= 1;
             results.push(doc);
           }
         }
@@ -2178,52 +2235,9 @@
     }]);
 
     return Fuse;
-  }(); // Practical scoring function
+  }();
 
-  function computeScore$1(results, _ref8) {
-    var _ref8$ignoreFieldNorm = _ref8.ignoreFieldNorm,
-        ignoreFieldNorm = _ref8$ignoreFieldNorm === void 0 ? Config.ignoreFieldNorm : _ref8$ignoreFieldNorm;
-    results.forEach(function (result) {
-      var totalScore = 1;
-      result.matches.forEach(function (_ref9) {
-        var key = _ref9.key,
-            norm = _ref9.norm,
-            score = _ref9.score;
-        var weight = key ? key.weight : null;
-        totalScore *= Math.pow(score === 0 && weight ? Number.EPSILON : score, (weight || 1) * (ignoreFieldNorm ? 1 : norm));
-      });
-      result.score = totalScore;
-    });
-  }
-
-  function format(results, docs) {
-    var _ref10 = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {},
-        _ref10$includeMatches = _ref10.includeMatches,
-        includeMatches = _ref10$includeMatches === void 0 ? Config.includeMatches : _ref10$includeMatches,
-        _ref10$includeScore = _ref10.includeScore,
-        includeScore = _ref10$includeScore === void 0 ? Config.includeScore : _ref10$includeScore;
-
-    var transformers = [];
-    if (includeMatches) transformers.push(transformMatches);
-    if (includeScore) transformers.push(transformScore);
-    return results.map(function (result) {
-      var idx = result.idx;
-      var data = {
-        item: docs[idx],
-        refIndex: idx
-      };
-
-      if (transformers.length) {
-        transformers.forEach(function (transformer) {
-          transformer(result, data);
-        });
-      }
-
-      return data;
-    });
-  }
-
-  Fuse.version = '6.4.1';
+  Fuse.version = '6.4.6';
   Fuse.createIndex = createIndex;
   Fuse.parseIndex = parseIndex;
   Fuse.config = Config;
