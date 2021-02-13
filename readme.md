@@ -31,7 +31,3 @@ in 10442 ms
 ## Pushing to Production
 
 Code is automatically pushed from the production branch via CodeShip.
-
-## To Do
-
-* Figure out why FAQs won't title

@@ -13,7 +13,6 @@
 <link rel='stylesheet' href='/library/css/bootstrap.css?ver={{ .Site.Params.Version }}' type='text/css' />
 
 <!-- Astra -->
-
 <link rel='stylesheet' id='astra-theme-css-css' href='{{ .Site.Params.HomeURL }}/wordpress/wp-content/themes/astra/assets/css/minified/style.min.css?ver={{ .Site.Params.Version }}' media='all' type='text/css' />
 <link rel='stylesheet' id='astra-google-fonts-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A400%7CPoppins%3A600%2C%7COpen+Sans+Condensed%3A700&#038;display=fallback&#038;ver={{ .Site.Params.Version }}' media='all'/>
 <link rel='stylesheet' id='astra-theme-dynamic-css' href='{{ .Site.Params.StaticURL }}/content/code/astra-dynamic.php?type=theme&ver={{ .Site.Params.Version }}' media='all'/>
@@ -28,6 +27,10 @@
 
 <!-- Gutenberg -->
 <link rel="stylesheet" id="wp-block-library-css" href="{{ .Site.Params.HomeURL }}/wordpress/wp-includes/css/dist/block-library/style.min.css?ver={{ .Site.Params.Version }}" media="all">
+
+<!-- Jetpack -->
+<link rel="stylesheet" id="social-logos-css" href="{{ .Site.Params.HomeURL }}/wordpress/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver={{ .Site.Params.Version }}" media="all">
+<link rel="stylesheet" id="jetpack-css" href="{{ .Site.Params.HomeURL }}/wordpress/wp-content/plugins/jetpack/css/jetpack.css?ver={{ .Site.Params.Version }}" media="all">
 
 <!-- Original -->
 <link rel='stylesheet' href='/library/css/wordpress.css?ver={{ .Site.Params.Version }}' type='text/css' />
@@ -59,3 +62,5 @@
 
   setTimeout("ga('send','event','Profitable Engagement','time on page more than 2 minutes')",15000);
 </script>
+
+<style type="text/css" id="ast-site-identity-img" class="ast-site-identity-img"> #masthead .ast-header-sticked .site-logo-img .astra-logo-svg { width: 50px; } @media (max-width: 768px) { #masthead .ast-header-sticked .site-logo-img .astra-logo-svg { width: px; } } @media (max-width: 544px) { #masthead .ast-header-sticked .site-logo-img .astra-logo-svg{ width: 120px; } } </style>

@@ -1,13 +1,19 @@
 /* WordPress */
 
 div.footer-adv-widget svg {
-    max-width: 50px;
-    max-height: 50px;
-    fill: #fff;
+	max-width: 50px;
+	max-height: 50px;
+	fill: #fff;
 }
 
-div.footer-adv-widget svg:hover {
-    fill: #107952;
+div.footer-adv-widget svg:hover{
+	fill: #107952;
+}
+
+.home figcaption {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: smaller;
 }
 
 @media (min-width: 992px) {
@@ -21,3 +27,7 @@ div.footer-adv-widget svg:hover {
         width: 33%!important;
     }
 }
+
+#masthead .ast-header-sticked .site-logo-img .astra-logo-svg { width: 50px; } @media (max-width: 768px) { #masthead .ast-header-sticked .site-logo-img .astra-logo-svg { width: px; } } @media (max-width: 544px) { #masthead .ast-header-sticked .site-logo-img .astra-logo-svg { width: 120px; } }
+
+.ast-right-sidebar #secondary { border-left: none!important; }
