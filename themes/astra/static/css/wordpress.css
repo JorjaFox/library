@@ -1,12 +1,16 @@
 /* WordPress */
 
-div.footer-adv-widget svg {
+div.site-above-footer-wrap svg {
 	max-width: 50px;
 	max-height: 50px;
-	fill: #fff;
+	fill: #ffffff;
 }
 
-div.footer-adv-widget svg:hover{
+div.site-above-footer-wrap .widget-title {
+	fill: #dddddd;
+}
+
+div.site-above-footer-wrap svg:hover {
 	fill: #107952;
 }
 
@@ -14,6 +18,17 @@ div.footer-adv-widget svg:hover{
 	text-align: center;
 	text-transform: uppercase;
 	font-size: smaller;
+}
+
+div.site-below-footer-inner-wrap  a {
+	color: #fff;
+}
+div.site-below-footer-inner-wrap  a:hover {
+	color: purple!important;
+}
+
+#subscribe-blog-blog_subscription-10 {
+	display:inline-flex;
 }
 
 @media (min-width: 992px) {
