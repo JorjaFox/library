@@ -37,14 +37,14 @@
 							{{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">Official Website</a>{{ end }}
 							{{ if .Params.imdb }}{{ if .Params.website }} &bull; {{ end }}<a href="{{ .Params.imdb }}" target="_blank">IMDb</a>{{ end }}
 						</li>
-
 						{{ if or .Params.seasons .Params.episodes }}
 							<li class="list-group-item">
 							{{ if .Params.seasons }}for {{.Params.seasons}} season{{ if gt .Params.seasons "1" }}s{{end}}{{ end }}
 							{{ if .Params.episodes }}for {{.Params.episodes}} episode{{ if gt .Params.episodes "1" }}s{{end}}{{ end }}
 							{{ $character := .Params.character }}
+							{{ $show := .Params.show }}
 							{{ range .Site.Data.filmography }}
-								{{ if and (eq .character $character) ( .notes ) }}<br /><small>{{ .notes | safeHTML }}</small>{{ end }}
+								{{ if and (eq .character $character) (eq .slug $show) ( .notes ) }}<br /><small>{{ .notes | safeHTML }}</small>{{ end }}
 							{{ end }}
 							</li>
 						{{ end }}

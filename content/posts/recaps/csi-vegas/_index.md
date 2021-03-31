@@ -1,7 +1,7 @@
 ---
-title: "CSI: Crime Scene Investigation Episodes"
+title: "CSI: Vegas Episodes"
 author: "Mika A. Epstein"
-redirectto: "/actor/csi-episodes/"
+redirectto: "/actor/csi-vegas-episodes/"
 layout: single
 ---
 
@@ -9,6 +9,6 @@ layout: single
   <head>
     <link rel="canonical" href="/library/actor/csi-episodes/"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <meta http-equiv="refresh" content="0;url=/library/actor/csi-episodes/"/>
+    <meta http-equiv="refresh" content="0;url=/library/actor/csi-vegas-episodes/"/>
   </head>
 </html>

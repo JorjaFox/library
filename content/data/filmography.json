@@ -1,6 +1,15 @@
 [
     {
       "role": "actor",
+      "title": "CSI: Vegas",
+      "slug": "csi-vegas",
+      "type": "TV Series",
+      "character": "Sara Sidle",
+      "notes": null,
+      "dates": 2021
+    },
+    {
+      "role": "actor",
       "title": "The Map of Tiny Perfect Things",
       "slug": "map-of-tiny-perfect-things",
       "type": "Movie",
