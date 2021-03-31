@@ -12,19 +12,19 @@ character: "Sara Sidle"
 year: 2000-2015
 genre: "Crime Drama"
 excerpt: "<strong>CSI: Crime Scene Investigation</strong> (commonly referred to as CSI) was a popular, Emmy Award-winning CBS television series that trails the investigations of a team of Las Vegas forensic scientists as they unveil the circumstances behind mysterious and unusual deaths and crimes committed.</p><p>CSI aired for 15 seasons, from 2000-15, and concluded with a 2 hour movie in the 2015-16 season."
-imdb: http://www.imdb.com/title/tt0247082
+imdb: http://www.imdb.com/title/tt0247082/
 website: https://www.cbs.com/shows/csi/
 gallery: https://jorjafox.net/gallery/tv/csi/
 image: images/actor/csi.jpg
 aliases:
   - /self/csi/
-  - /self/sara-sidle/
-  - /actor/sara-sidle/
 ---
 
 ## Premise
 
 The show follows the cases of the Crime Scene Investigation division of the Clark County (Nevada) Sheriff's Department, usually referred to by officers as the "Las Vegas Crime Lab." The division solves crimes almost entirely through the means of forensics evidence, which may or may not come to the conclusion of a murder or accidental death. Keeping in theme with the setting, investigations often lead to taboo subjects, such as sexual deviations. The bizarre conclusions of these cases often force one to question morals and beliefs and possibly human nature in general.
+
+The show was given a sequel in 2021: _[CSI: Vegas](/library/actor/csi-vegas/)_
 
 ## Character
 
@@ -36,4 +36,4 @@ In the series finale, Sara is promoted to Lab Director following a convoluted an
 
 ## See Also
 
-* [CSI Episodes](/library/actor/csi-episodes/)
+* [CSI: Crime Scene Investigation Episodes](/library/actor/csi-episodes/)
