@@ -30,4 +30,4 @@ in 10442 ms
 
 ## Pushing to Production
 
-Code is automatically pushed from the production branch via CodeShip.
+This is pushed via rysnc, which is automated: `$ deployme jorjafox library`
