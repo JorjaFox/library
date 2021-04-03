@@ -1,0 +1,42 @@
+<h2 class="widget-title">Next "CSI: Vegas" Episode</h2>
+<div id="tvmaze_content"></div>
+<script type='text/javascript' src='/library/js/tvmaze.js'></script>
+<script type="text/javascript">
+	var tvmaze = new TVMaze();
+	tvmaze.shows(50361, function(show) { // CSI 50361 || Magnum 32819
+
+		var show_url       = show.url;
+		var show_url_split = show_url.split("/");
+		var show_slug      = show_url_split[5];
+
+		var nextep_link  = show._links.nextepisode;
+		var nextep       = JSON.stringify(nextep_link);
+
+		if (typeof nextep !== 'undefined'){
+			var nextep_clean = nextep.replace('"}', '');
+			var nextep_split = nextep_clean.split("/");
+			var nextep_id    = nextep_split[4];
+
+			tvmaze.nextep( nextep_id, function(ep) {
+				var mydate   = new Date( ep.airdate);
+				var months   = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+				var nextdate = months[mydate.getMonth()] + ' ' + mydate.getDate() + ', ' +  mydate.getFullYear();
+
+				var body   = '<p><strong>' + ep.name + '</strong><br />Episode ' + ep.season + 'x' + ep.number + '; ' + nextdate + '</p><small>' + ep.summary + '</small>';
+				var footer = '<p><a href="https://jorjafox.net/library/actor/' + show_slug + '">More <em>' + show.name + '</em> Episodes</a><br /><small><a href="' + show.url + '">Powered by TV Maze</a></small>';
+
+				var content = body + footer;
+				document.getElementById("tvmaze_content").innerHTML = content;
+			} );
+		} else {
+			if (typeof show_slug !== 'undefined'){
+				var content = '<p><a href="https://jorjafox.net/library/actor/' + show_slug + '">Coming soon...</a></p>';
+			} else {
+				var content = '<p>Coming soon...</p>';
+			}
+
+			document.getElementById("tvmaze_content").innerHTML = content;
+		}
+	});
+
+</script>
