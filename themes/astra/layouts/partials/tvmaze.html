@@ -23,7 +23,7 @@
 				var nextdate = months[mydate.getMonth()] + ' ' + mydate.getDate() + ', ' +  mydate.getFullYear();
 
 				var body   = '<p><strong>' + ep.name + '</strong><br />Episode ' + ep.season + 'x' + ep.number + '; ' + nextdate + '</p><small>' + ep.summary + '</small>';
-				var footer = '<p><a href="https://jorjafox.net/library/actor/' + show_slug + '">More <em>' + show.name + '</em> Episodes</a><br /><small><a href="' + show.url + '">Powered by TV Maze</a></small>';
+				var footer = '<p><a href="https://jorjafox.net/library/actor/' + show_slug + '-episodes">More <em>' + show.name + '</em> Episodes</a><br /><small><a href="' + show.url + '">Powered by TV Maze</a></small>';
 
 				var content = body + footer;
 				document.getElementById("tvmaze_content").innerHTML = content;
