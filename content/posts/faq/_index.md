@@ -23,6 +23,8 @@ Fans of LeFox (formerly "Jorja Fox: Online") is NOT an official Jorja Fox websit
 
 ### How can I contact Jorja?
 
+Fan mail request-sending by postal mail only:
+
 Studio Fan Mail  
 1048 Irvine Ave #624  
 Newport Beach, CA 92660  

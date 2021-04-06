@@ -12,13 +12,13 @@ Questions here are about Jorja Fox's personal life and, in broad terms, her care
 
 Jorja Fox is an actor, producer, activist and musician.
 
-She is most well known for her TV work, having played the recurring role of Dr. Maggie Doyle on the NBC show ER from 10/10/1996 through 01/21/1999, the guest role of Secret Service Agent Gina Toscano on NBC's The West Wing from 02/24/2000 through 09/2000, and the regular role of Sara Sidle on CBS's CSI: Crime Scene Investigation.
+She is most well known for her TV work, having played the recurring role of Dr. Maggie Doyle on the NBC show _ER_ from 10/10/1996 through 01/21/1999, the guest role of Secret Service Agent Gina Toscano on NBC's _The West Wing_ from 02/24/2000 through 09/2000, and the regular role of Sara Sidle on CBS's _CSI: Crime Scene Investigation_.
 
 She has also been seen in movies and award shows, and is an environmentalist and humanitarian who attends many outreach causes. For her other roles, see her filmography. For more about her background, read her biography.
 
 ## What's the deal with her name?
 
-This question arises since Jorja Fox was listed as 'Jorjan Fox' in her first few movies, on Missing Persons, and on her first few episodes of ER. After a few episodes, her listing changed to 'Jorja Fox'. The confusion was compounded by the following rumor "When [Jorja] joined the cast of ER, her name was shortened back to Jorja after a couple episodes, hence the confusion. In an interview she said that one day she woke up and wanted her name back."
+This question arises since Jorja Fox was listed as 'Jorjan Fox' in her first few movies, on Missing Persons, and on her first few episodes of _ER_. After a few episodes, her listing changed to 'Jorja Fox'. The confusion was compounded by the following rumor "When [Jorja] joined the cast of _ER_, her name was shortened back to Jorja after a couple episodes, hence the confusion. In an interview she said that one day she woke up and wanted her name back."
 
 The rumor is arguable, and not verifiable. The truth of the matter is that her birth name is 'Jorja-An' and Jorja is a shortening. Jorjan was bastardization of Jorja-An that was done when she was on Missing Persons.
 
@@ -37,6 +37,8 @@ Jorja is pronounced just like the US state or the Eurasian country 'Georgia.'
 Jorja lives around the Los Angeles area in California.
 
 ## How do I contact her?
+
+Her official fan mail contact is as follows:
 
 Studio Fan Mail  
 1048 Irvine Ave #624  
@@ -58,12 +60,12 @@ I would if I could, but as I can't, please don't email personal letters to me. I
 
 Yes.
 
-[Facebook](https://www.facebook.com/JorjaFoxworldwide)
-[Twitter](https://twitter.com/JorjaFoxofficia)
+* [Facebook](https://www.facebook.com/JorjaFoxworldwide)
+* [Twitter](https://twitter.com/JorjaFoxofficia)
 
 ## What movies and TV shows has she been in?
 
-Jorja Fox most recently starred in the CBS drama CSI. For more information, please check her filmography.
+Jorja Fox most recently starred in the CBS drama _CSI_. For more information, please check her filmography.
 
 ## Is Jorja Fox gay, bisexual or straight?
 
@@ -81,7 +83,7 @@ No. Regardless of what you read online elsewhere and hear in rumors, she is not,
 
 ## Does Jorja have any children? Does she want any?
 
-Jorja has no children, but she has cats and dogs. I don't know if she wants any children (though she did mention it when talking about why she left CSI).
+Jorja has no children, but she has cats and dogs. I don't know if she wants any children (though she did mention it when talking about why she left _CSI_).
 
 ## Is Jorja Fox a smoker?
 
@@ -89,7 +91,7 @@ Yes and no. She has smoked, and has tried to quit many times. As of February 201
 
 ## Is she a vegetarian?
 
-Jorja Fox became a vegetarian at the age of 19, sometime around her modeling days, and discovered PETA in New York City at about the same time. Jorja told the PETA spokesperson that she took part in a few protests, and enjoyed their "confrontational" attitude. She describes herself as an aspiring vegan.
+Jorja Fox became a vegetarian at the age of 19, sometime around her modelling days, and discovered PETA in New York City at about the same time. Jorja told the PETA spokesperson that she took part in a few protests, and enjoyed their "confrontational" attitude. She describes herself as an aspiring vegan.
 
 ## What political party is Jorja affiliated with?
 
@@ -97,11 +99,11 @@ Emphatically not Republican. She's done work with Libertarians and Democrats, bu
 
 ## Does she wear corrective lenses?
 
-Jorja wore glasses in a Support SAG PSA in 2008, and in bonus material on CSI DVDs, she wore glasses while re-doing lines in a recording studio. It's likely she just needs reading lenses.
+Jorja wore glasses in a Support SAG PSA in 2008, and in bonus material on _CSI_ DVDs, she wore glasses while re-doing lines in a recording studio. It's likely she just needs reading lenses.
 
 ## Does she have any tattoos?
 
-Yes. She has a flower on her left ankle (seen in the CSI season five episode 4x4 and in various award show and charity photographs).
+Yes. She has a flower on her left ankle (seen in the _CSI_ season five episode 4x4 and in various award show and charity photographs).
 
 A temporary/henna tattoo was spotted on "The Early Show" for April 28, 2006. On that show, she had what looked like a stylized turtle tattoo high up on her right shoulder. This has not been seen since.
 
@@ -123,19 +125,19 @@ She watched the first season of Survivor, and she also is a fan of Lost.
 
 ## Does she play music?
 
-While Jorja is disparaging about her musical talents, she sings and plays the guitar. CSI co-star Gary Dourdan says she plays well. You can hear her sing in the CSI episode Too Tough To Die and also in the movie Food for the Heart. Jorja also wrote and performed a song for the short movie, Traveling Companions, as well as some songs written with the CSI cast and crew. She has performed her music at the several wrap parties for CSI, including after season Four and Season Five. At various times she has had songs that she has written and played on her personal web site.
+While Jorja is disparaging about her musical talents, she sings and plays the guitar. _CSI_ co-star Gary Dourdan says she plays well. You can hear her sing in the _CSI_ episode Too Tough To Die and also in the movie Food for the Heart. Jorja also wrote and performed a song for the short movie, Traveling Companions, as well as some songs written with the _CSI_ cast and crew. She has performed her music at the several wrap parties for _CSI_, including after season Four and Season Five. At various times she has had songs that she has written and played on her personal web site.
 
 In 2005 she reportedly acquired a drum set and was learning to play, and according to an L.A. Times article, she often takes part in a 'drum circle' at Malibu Beach.
 
 ## Does Jorja play sports?
 
-Yes. Jorja and fellow CSI cast member Eric Szmanda were members of the "Royal Blue Balls", which is a team in the Adult Kickball League. To stay in shape she jogs, and for personal enjoyment she plays tennis, surfs, swims, hikes, kayaks and goes camping.
+Yes. Jorja and fellow _CSI_ cast member Eric Szmanda were members of the "Royal Blue Balls", which is a team in the Adult Kickball League. To stay in shape she jogs, and for personal enjoyment she plays tennis, surfs, swims, hikes, kayaks and goes camping.
 
 ## Does Jorja really surf?
 
-Jorja has been surfing since she was little and was a self-professed 'surfer girl' in high school. She's surfed in Florida and California, and during the Christmas break in 2006 she went surfing in Puerto Rico. After leaving CSI, Jorja mentioned wanting to surf in South America.
+Jorja has been surfing since she was little and was a self-professed 'surfer girl' in high school. She's surfed in Florida and California, and during the Christmas break in 2006 she went surfing in Puerto Rico. After leaving _CSI_, Jorja mentioned wanting to surf in South America.
 
-Once CSI ended, she started surfing more often.
+Once _CSI_ ended, she started surfing more often.
 
 ## What kind of car does Jorja drive?
 
