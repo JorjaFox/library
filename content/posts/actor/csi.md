@@ -1,6 +1,6 @@
 ---
 title: "CSI: Crime Scene Investigation"
-categories: ["Filmography"]
+categories: ["Filmography", "CSI"]
 tags: ["Television"]
 layout: actor
 show: csi

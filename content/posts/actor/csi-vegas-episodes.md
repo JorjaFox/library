@@ -2,7 +2,7 @@
 title: 'List of CSI: Vegas episodes'
 author: "Mika A. Epstein"
 layout: single
-categories: ["CSI"]
+categories: ["CSI: Vegas"]
 tags: ["Television"]
 show: csi-vegas
 seasons: [1]
@@ -14,4 +14,4 @@ For the prequel episodes, please see [CSI: Crime Scene Investigation Episodes](/
 
 ## Season 1
 
-_TBD_
+{{< episodelist season="1" >}}

@@ -1,6 +1,6 @@
 ---
 title: "CSI: Vegas"
-categories: ["Filmography"]
+categories: ["Filmography", "CSI: Vegas"]
 tags: ["Television"]
 layout: actor
 show: csi-vegas
@@ -13,8 +13,8 @@ year: 2021
 genre: "Crime Drama"
 excerpt: "<strong>CSI: Vegas</strong> opens a brand new chapter in Las Vegas, the city where it all began."
 imdb: http://www.imdb.com/title/tt12887536/
-website: https://www.paramountplus.com/shows/csi/
-#gallery: https://jorjafox.net/gallery/tv/csi-vegas/
+website: https://www.cbs.com/shows/csi-vegas/
+gallery: https://jorjafox.net/gallery/tv/csi-vegas/
 image: images/actor/csi-vegas.jpg
 aliases:
   - /self/csi-vegas/

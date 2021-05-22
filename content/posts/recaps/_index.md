@@ -16,3 +16,4 @@ The follow shows are currently recapped here:
 * [ER](/library/actor/er-episodes/)
 * [The West Wing](/library/actor/west-wing-episodes/)
 * [CSI: Crime Scene Investigation](/library/actor/csi-episodes/)
+* [CSI: Vegas](/library/actor/csi-vegas-episodes/)
