@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,9 +16,9 @@ prodnum: 336
 
 ## Synopsis
 
-We start with a 'normal' episode of CSI. Finn is dead, D.B. Russell is leaving to work for the CSI: Cyber people, Sara is applying for a 'key position' And then it all goes to hell with a suicide bomber. 
+We start with a 'normal' episode of CSI. Finn is dead, D.B. Russell is leaving to work for the CSI: Cyber people, Sara is applying for a 'key position' And then it all goes to hell with a suicide bomber.
 
-We find Grissom working on a boat in San Diego, helping catch people illegally trapping sharks for shark fin soup. The CSIs that show up don't mention Nick, who is their head last we heard. 
+We find Grissom working on a boat in San Diego, helping catch people illegally trapping sharks for shark fin soup. The CSIs that show up don't mention Nick, who is their head last we heard.
 
 While Grissom is arrested for illegal trespassing, Catherine shows up from Quanitco and wants in. DB and Sara try to keep her off the case, but it's Catherine. When they find evidence pointing to Lady Heather, it's Conrad Ecklie who has the brass balls to ask Sara for Grissom's number. This gets Grissom out of hot water with San Diego at least.
 
@@ -28,7 +28,9 @@ At Heather's house they find evidence of bomb making, which doesn't make anyone 
 
 And the woman? Isn't Heather. Alive and well, Heather comes to the lab and turns herself in, saying she's the one behind the bombings.
 
-## Sara Sidle Review
+_The episode concludes with [Immortality (Part 2)](/library/recaps/csi/immortality-part-2/)_
+
+## Character Review
 
 While she's moved on with her life and is trying to professionally make it through, Sara is not happy about Grissom and Heather, and really who can blame her? She kept Grissom's number but they hadn't been talking, even before the divorce, to the point that she didn't know he was talking to Heather.
 
@@ -42,4 +44,3 @@ While she's moved on with her life and is trying to professionally make it throu
 
 **Sara Sidle** Look, we both went our separate ways. You're doing your Jacques Cousteau thing. I'm out in the field. Things end. I get it. But you and I are professionals. And as professionals, I think it's in the best interest of my case to put our game faces on... and keep it... professional... See... Mine's on. Ready to go in?  
 **Gil Grissom** Seeing you again left me speechless.
-

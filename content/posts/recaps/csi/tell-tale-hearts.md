@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,7 +24,7 @@ The Chambliss family was also selling drugs, and prints on the money lead them t
 
 All three confessors, however, use the same verbiage: I'm the one who killed the Chambliss family. The three, Lee, Gitig and Gallows, met up at a auto shop after Gitig hit Gallows' truck. Lee worked at the auto-shop. The three conspired to create reasonable doubt as to who actually killed the Chambliss family. It was Leslie Gitig's plan, and John Lee, upset over his part, shot Leslie Gitig and then confessed the true story and killed himself. Maurice Gallows shot Cal, while Leslie Gitig killed the rest.
 
-## Sara Sidle Review
+## Character Review
 
 Sara comes to help process John Lee's house. When D.B. expresses doubts that John Lee killed the Chambliss', Sara is surprised.
 

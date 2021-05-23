@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ The entire CSI team investigates a disappearance at a local university. A young 
 
 ## Character Notes
 
-*Sara knows about the trick of filling nail holes with toothpaste to get a security deposit back.
+* Sara knows about the trick of filling nail holes with toothpaste to get a security deposit back.
 
 ## Quotes
 
@@ -28,4 +28,3 @@ The entire CSI team investigates a disappearance at a local university. A young 
 **Sidle:** It's called zeal, Greg.  
 **Sanders:** Or overkill.  
 **Grissom:** It's called procedure.
-

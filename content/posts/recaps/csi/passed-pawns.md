@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,6 +18,6 @@ prodnum: 301
 
 After a homeless man picks up a quick $350,000 at the blackjack tables, he's found dead in an alley and the money is missing -- but it's not a simple mugging.
 
-## Sara Sidle Review
+## Character Review
 
 Sara appears in one scene and overlooks the crime scene photos with Morgan Brody. In doing so, she spots inconsistencies with the current theory, and gives Morgan an idea that perhaps they've arrested the wrong man.

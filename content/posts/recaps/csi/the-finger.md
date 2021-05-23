@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,9 +16,9 @@ prodnum: 214
 
 ## Synopsis
 
-When a man withdraws one million dollars cash from his bank, and he's got blood on his hands, he draws attention from the police, and soon Catherine ends up an unwitting participant in a kidnapping gone awry in which the only lead to the victim is a severed finger. Catherine is ordered by a kidnapper to accompany a man who is to deliver $1 million in ransom to him or else he will kill the man's mistress. And ... Sara goes on a date.
+When a man withdraws one million dollars cash from his bank, and he's got blood on his hands, he draws attention from the police, and soon Catherine ends up an unwitting participant in a kidnapping gone awry in which the only lead to the victim is a severed finger. Catherine is ordered by a kidnapper to accompany a man who is to deliver $1 million in ransom to him or else he will kill the man's mistress.
 
-## Sara Sidle Review
+## Character Review
 
 Sara was on a date with Hank this episode, and had told Warrick where she was going. Warrick, in turn, told everyone at work.
 
@@ -35,7 +35,6 @@ Sara was on a date with Hank this episode, and had told Warrick where she was go
 - - -
 
 **Sidle:** I cannot believe you brought that up. _(pauses, seeing Catherine outside)_ Yeah, yeah, that, that, that, uh, day we met, that, that was very gross. Not for me, but for everyone else, for you. _(Catherine enters diner)_
-  
 
 - - -
 
@@ -43,4 +42,3 @@ Sara was on a date with Hank this episode, and had told Warrick where she was go
 **Stokes:** I knew.  
 **Brown:** _(Warrick grins at this)_  
 **Sidle:** _(shoves Warrick in the shoulder__
-

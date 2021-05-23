@@ -15,7 +15,7 @@ date: 2000-05-17
 rating: 4  
 ---
 
-## Summary 
+## Summary
 
 The president prepares for a town-hall meeting with college students, while the military searches for a downed pilot in the Iraqi desert.
 
@@ -27,13 +27,13 @@ Gina sees the shooter, but makes sure to protect Zoey first.
 
 ## Quotes
 
-**Ron** Straight to the car  
-**Gina** He's not going to work the rope line?  
-**Ron** There's a softball game the President wants to watch.  
-**Gina** They show softball on TV?  
-**Ron** Well, yeah.  
-**Gina** And the president watches it?  
-**Ron** He likes to unwind by watching sports on TV.  
-**Gina** Softball.  
-**Ron** Whatever's on.  
-**Gina** Okay.
+**Ron:** Straight to the car  
+**Gina:** He's not going to work the rope line?  
+**Ron:** There's a softball game the President wants to watch.  
+**Gina:** They show softball on TV?  
+**Ron:** Well, yeah.  
+**Gina:** And the president watches it?  
+**Ron:** He likes to unwind by watching sports on TV.  
+**Gina:** Softball.  
+**Ron:** Whatever's on.  
+**Gina:** Okay.

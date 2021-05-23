@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,11 +16,11 @@ prodnum: 808
 
 ## Synopsis
 
-Hodges stages hypothetical murders in the lab in order to give his fellow lab techs a chance to play CSI, but unbenownst to them he has other motives behind his actions. Meanwhile, after Sara's farewell, everyone tries to comfort Grissom.
+Hodges stages hypothetical murders in the lab in order to give his fellow lab techs a chance to play CSI, but unbeknownst to them he has other motives behind his actions. Meanwhile, after Sara's farewell, everyone tries to comfort Grissom.
 
-## Sara Sidle Review
+## Character Review
 
-**Sara Sidle** does not appear in this episode.
+_Sara Sidle does not appear in this episode._
 
 ## Character Notes
 
@@ -53,4 +53,3 @@ Hodges stages hypothetical murders in the lab in order to give his fellow lab te
 **Grissom:** _(pause)_ Yeah, she was.  
 **Hodges:** You can't stand in the way of that. _(pause)_ When it's time for someone to move on, you've just gotta let 'em go.  
 **Grissom:** Let's play the game, shall we?
-

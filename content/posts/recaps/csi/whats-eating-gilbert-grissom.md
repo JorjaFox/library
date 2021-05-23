@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 506
 
 The killer from "The Execution of Catherine Willows" returns with deadly results. The entire team is engaged in a race against time to stop this sadistic killer from succeeding again. Grissom is additionally distraugh by the idea that this killer is smarter than he is.
 
-## Sara Sidle Review
+## Character Review
 
 Sara is tasked to decipher the psychological clues in the bondage comic book. Later she realizes that the last 'victims' name is actually an anagram for 'Miss October'.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -26,7 +26,7 @@ Kurtis Torse's body with over a hundred bullet holes in his body is found, with 
 
 Trace points the body to a magnasite river wash in Koral, Nevada, downstream from the biggest magnasite mine in the US. The CSIs arrive to find an immense open air shootout, complete with the same bullets found in Torse's body. After an all night search of the property, they finally find body parts, leading them back to the fence behind a van that the shootout participants used for target practice. An accidental murder.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works with Catherine and Ray on the body found in the alley. She finds the fingertip that IDs Torse and goes with Ray to the firing range. Later, at the shootout site, Sara finds Torse's foot and finger.
 
@@ -34,6 +34,3 @@ Sara works with Catherine and Ray on the body found in the alley. She finds the 
 
 * Sara had no idea there was a huge indoor firing range phenomenon in Las Vegas.  
 * Sara only goes to PD firing ranges.
-
-## Quotes
-

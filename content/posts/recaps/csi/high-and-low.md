@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 310
 
 Grissom, Warrick, and Nick investigate the case of man who apparently was murdered and pushed off a six story building. Grissom's involvement is cut short by renewed hearing problems. Catherine looks into the murder of man outside of his regular bar.
 
-## Sara Sidle Review
+## Character Review
 
 Sara only appears in the scene quoted below, having maxed out on her overtime and is not permitted in the field for a while.
 

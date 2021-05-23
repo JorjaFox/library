@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,7 +24,7 @@ One of the trial groupies from the original case, Monica Downs, is spotted in ol
 
 Thomas Pope was 11 when Simms kidnapped him, but ran away when Simms was caught. In the twenty years since, he became the property manager for the slaughterhouse. As they determined that, Pope was letting a curious Greg into the property to look around before it was demolished. Greg gets the drop on him, arresting Pope before he can kill Greg. Pope was really foster child, Jonathan Harris, and built himself a new life and identity. He was afraid that the ghost hunters would find out who he was by talking to the dead boys.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Finn tease David Phillips a little at the crime scene, but once he leaves, both admit to being creeped out by the location (a slaughterhouse). While working the scene, Sara gets a call from SFPD and says she'll call them back later.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 114
 
 An elite fund-raising party at a legendary showgirl's elegant Las Vegas mansion turns deadly in a twist-filled episode. Grissom, Catherine, Sara and Nick investigate when the body of a leggy brunette is discovered floating in the mansion's pool. Their suspicions soon focus on the brash couple, Patrick and Amanda Haynes, who hosted the party and are house-sitting for the absent owner. They claim the former entertainer, now a wealthy older woman, is vacationing in Europe and can't be reached, but the CSI team isn't so sure. Also, Warrick combs for clues when a man is gunned down, possibly by a hit man, in a glass hotel elevator.
 
-## Sara Sidle Review
+## Character Review
 
 Sara gets woken up on her day off (her first in three weeks) and gets called in. Sara's just a bit cranky and tired, evidencing this with a large yawn. Sara and Nick give instructions to Greg (she 'hates' him because he's awake).
 
@@ -41,13 +41,13 @@ Sara, Nick, Catherine and Brass have lunch in a restaurant as they discuss the c
 **Sidle:** _(growls)_ I'm tired.  
 **Stokes:** You? Tired? I thought you never sleep. _(Sidle yawns)_ Oh, nice. Nice. _(both walk into the lab)_ What up, G? _(to Greg)_  
 **Sidle:** You're awake. I hate you.  
-**Greg** Couple glasses of merlot, rack of lamb on my day off. Slept like a baby yesterday. _(looks at Sidle)_ You look horrible.  
+**Greg:** Couple glasses of merlot, rack of lamb on my day off. Slept like a baby yesterday. _(looks at Sidle)_ You look horrible.  
 **Sidle:** Thanks, Greg.  
 **Nick** Don't look at me, I've got Sunshine all night. _[re: Sidle]_ [...]  
 **Sidle:** Everything has to be in CODOS, ASAP.  
-**Greg** Oh, is that all? Wanna know who's going to authorize my overtime?  
+**Greg:** Oh, is that all? Wanna know who's going to authorize my overtime?  
 **Sidle:** Suck it up, Greg. You're well rested. _leaves_  
-**Greg** _(to Nick)_ You want a Valium for her?  
+**Greg:** _(to Nick)_ You want a Valium for her?  
 **Sidle:** _(off screen)_ I heard that.  
 
 - - -

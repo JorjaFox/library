@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,7 +24,7 @@ Up in Seattle, Finn works with a local PI (and ex-boyfriend) and investigate Jar
 
 They're able to find the Gig Harbor Killer's lair, but at the cost of the life of his latest victim. When rescued, she attacks Greg and hits him with a pipe, taking his gun. Finn is forced to shoot and kill her to protect him. It turns out that the woman was a post-surgery transgendered man who was used by the Gig Harbor Killer, however the city exonerates Finn for killing what appears to be the Gig Harbor Killer.
 
-## Sara Sidle Review
+## Character Review
 
 Listening to the audio, Sara is able to identify two people walking, implying the killer has a partner. When Sara and DB listen to interviews with Jared Brisco, and he says how after foster care how could he be anything _but_ a serial killer, Sara is pained.
 
@@ -34,10 +34,10 @@ Listening to the audio, Sara is able to identify two people walking, implying th
 * Sara checks on Greg after he's injured on the scene.
 
 ## Quotes
+
 **Stokes:** reading 'People Lie, Follow the Evidence'?  
 **Sidle:** We're really good at that.  
 
-* * *
+- - -
 
 **Sidle:** You did the best you could. You need to know that. In time, you will know that. As for how you live with what happened, I wish I knew the answer to that.
-

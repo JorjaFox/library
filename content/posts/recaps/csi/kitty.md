@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,8 +16,8 @@ prodnum: 316
 
 ## Synopsis
 
-The CSIs investigate the cyber-related murder of a prominent casino ownerâs wife and receive help from the FBIâs Cyber Crime Division.
+The CSIs investigate the cyber-related murder of a prominent casino owner's wife and receive help from the FBI's Cyber Crime Division.
 
-## Sara Sidle Review
+## Character Review
 
-**Sara Sidle** does not appear in this episode.
+_Sara Sidle does not appear in this episode._

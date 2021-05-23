@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ Lady Heather  is nearly strangled to death, while acting out a Wild West fantasy
 
 A fifteen year-old pickpocket and petty thief is found dead of blunt force trauma with paint chips in her hair, from a taxi. Two taxi drivers had been feuding, and the girl was killed accidentally.
 
-## Sara Sidle Review
+## Character Review
 
 Sara arrives on the scene to help Catherine, and asks Catherine about Lady Heather. Once Catherine gets started, she delves into the details of Lady Heather's career and the relationship she presumes exists between Grissom and Lady Heather. Sara tries multiple times to get Catherine back on a work topic. Sara goes to the hospital to collect Heather's clothes, an SAE kit, and photograph her neck. While she's doing so, Grissom arrives. Grissom spends the night with Lady Heather and provides an alibi for her. Later, when Sara's processing evidence, she and Grissom talk about the case, though there's tension between them. When Grissom tries to explain that he's Heather's only friend and needs to help her, Sara says she understands, but sounds bitter and jealous.
 

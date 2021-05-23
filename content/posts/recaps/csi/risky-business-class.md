@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -32,7 +32,7 @@ Jordan's DNA test cannot be recovered, but the fact that she only has two swabs 
 
 Back at Tranquil Hours, Helen has been moved to critical care, her room cleaned with bleach, and her doctor, Dr. O'Keefe, has called in sick. They find a fingerprint, naming fake-Helen as Marsha Forsythe, and the DNA comes back and connects the fake Helen with whomever sabotaged the plane; Jeffery Forsythe, the lawyer who loaned his gun to his coworker who was on the plane. Forsythe was also a pilot.
 
-## Sara Sidle Review
+## Character Review
 
 While Sara is public about having worked with Doug before, she does not disclose to her coworkers exactly how close they once were. Doug is tangentially aware Sara married her boss (and manages to make that a teasing dig at her), while Sara is seemingly unaware Doug split with his wife (also making that a dig at him). While they work together, their old camaraderie appears.
 
@@ -48,7 +48,7 @@ When Doug asks Sara and Grissom out to dinner, and then just Sara, she asks him 
 
 **Sidle:** *to phone* Hey, Gil. Just wanted to hear your voice. It's kind of a slow night here. Give me a call if you get the chance.  
 
-* * *
+- - -
 
 **Wilson** Did you hear that the Rusty Nickel closed?  
 **Sidle:** Hah! Well, that's about time, that bar gave dives a bad name.  
@@ -57,17 +57,17 @@ When Doug asks Sara and Grissom out to dinner, and then just Sara, she asks him 
 **Wilson** They did do that.  
 **Sidle:** Yep.  
 
-* * *
+- - -
 
 **Sidle:** I tell you what. I'm going to take my physics and find whatever it was that fell out of your plane.  
 **Wilson** What about me? What am I going to do?  
 **Sidle:** You're going to build me a plane.  
 
-* * *
+- - -
 
 **Finn** You can take that. I'll come back.  
 **Sidle:** No, that's alright. I-- I'll call him back later.  
-**Finn** If you ever feel like talking â¦  
+**Finn** If you ever feel like talking ...  
 **Sidle:** You ever try the long distance thing?  
 **Finn** No. But I think it would have helped with my relationship with husband number two.  
 **Sidle:** Ah, the Seattle Ex.  
@@ -80,7 +80,7 @@ When Doug asks Sara and Grissom out to dinner, and then just Sara, she asks him 
 **Finn** Gonna stay that way?  
 **Sidle:** It has to, right?  
 
-* * *
+- - -
 
 **Wilson** Listen, Sara, I was wondering if I could buy you and Grissom dinner tonight. You pick the place, NTSB picks up the tab, I'm a, uh, hell of a third wheel.  
 **Sidle:** Actually... Gil's out of town.  

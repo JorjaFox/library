@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ Grissom, Catherine and Nick investigate a woman who is kidnapped from a grocery 
 
 _Note: This episode was originally filmed to air third (after "Cool Change" and before "Crate 'n Burial"), explaining Sara's attitude towards Warrick.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works the apartment murder by herself until Warrick is assigned to help her -- something she is not happy about. She confronts Grissom, but doesn't get an answer that satisfies her. She rides Warrick the entire episode with an antagonistic attitude -- and then at the end she discovers that he was in the casino to collect a debt, not to gamble.
 

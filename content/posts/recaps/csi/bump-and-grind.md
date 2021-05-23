@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,7 +24,7 @@ Julius was a former mobster, known as Julius Child, as he used to feed his victi
 
 Facial recognition determines that Shredder Guy is Larry LaMotte. The *real* Larry LaMotte. The 'TV' Larry stole *his* identity in order to hide his criminal past, and the real Larry was going to take down the whole I.D.-Preserve brand. For that, TV Larry (aka Arlo Karden) had him killed. He had attempted to kill Larry years ago in Reno and failed. When Larry showed back up, he asked for $5-million, which Arlo had Julius pay him. However, Arlo's assistant, Elaine Travers, stole someone's identity and used it to cover her tracks, kill Julius (who did kill Larry), and then stole the money.
 
-## Sara Sidle Review
+## Character Review
 
 After loosing Rock-Paper-Scissors, Sara gets stuck with picking the body parts out from the garbage, working directly with the body bits and, yet again, Sara ends up with residual dead body smell.  Sara comes up with the idea of checking the bins for blood, which leads them to Julius Kaplan.
 
@@ -39,17 +39,17 @@ Sara, seeing Ray's inner angst over being attacked by Nate Haskell, and reminds 
 
 **Sidle:** Two ships that pass in the night ... takes a while for the fog to clear.  
 
-* * *
+- - -
 
 **Sidle:** I think we just found our smoking bin.  
 
-* * *
+- - -
 
 **Sidle:** ... Going, going ... caught at the warning track.  
 **Super Dave** A baseball reference. How quaint.  
 **Sidle:** Blame Grissom.  
 
-* * *
+- - -
 
 **Langston:** [looking at his scars]  
 **Sidle:** I should show you mine, but I think that might be inappropriate. You hardly notice them.  

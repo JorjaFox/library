@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ Through flashbacks, the story of Sara's kidnapping and the perils she faced in t
 
 Nick finds Sara's CSI vest, proving she got out from under the car, and Grissom found Sara's footprints, leading away from the car. Following Sara's trail, they find a dead body in the desert, but it's not Sara's. Nick finds Sara, within sight of the road, unconscious. The EMTs arrive moments later, and while Sara appears to be alive, she has no radial pulse. Grissom rides with Sara to the ER in the helicopter.
 
-## Sara Sidle Review
+## Character Review
 
 Sara had gone to the mall to get food from a vegetarian restaurant, and was in the parking lot when Grissom called to tell her about Natalie Davis. As Sara was putting her things in the trunk, Natalie stepped out and stunned her with a Tazer, and locked Sara in the back of her own trunk. Sara woke up in the back of the car and removed the Tazer needle from her vest in order to cut the plastic restraints holding her hands.
 
@@ -41,7 +41,7 @@ Sara wakes up in the helicopter with Grissom smiling at her, and she returns the
 * Sara doesn't like car trunks, because in her line of work, you only find corpses in them.  
 * Sara knew that Natalie was a cleaning person at the lab, and recognized her.  
 * Sara calls Grissom by his first name for the first time.  
-* Even bruised, battered and drugged, Sara kept her wits and determined while Natalie kidnapped her.  
+* Even bruised, battered and drugged, Sara kept her wits and was determined to leave evidence while Natalie kidnapped her.  
 * When cornered, Sara fights back.  
 * Sara eats at the veggie place in the mall 2 or 3 times a week.  
 * When Sara tells Natalie about her foster experience, she says that she was all alone -- no mention of an older brother.  
@@ -49,9 +49,8 @@ Sara wakes up in the helicopter with Grissom smiling at her, and she returns the
 
 ## Quotes
 
-**Sidle:** Hello, Gilbert.  
+**Sidle:** Hello, Gilbert.
 
 - - -
 
 **Sidle:** I have a fear of trunks. In my line of work, you only find one thing in them.
-

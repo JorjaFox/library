@@ -28,5 +28,5 @@ I think all I can really say is [pause] the team has had a rough year--there has
 **And if Sara is back in the lab, where does that leave Gil?**  
 Ah! That will hopefully be a reveal in the premiere. They've prevented me from discussing Grissom at all. [Laughs]
 
-**It's got to be the burning question for fans of the showâ¦ **  
+**It's got to be the burning question for fans of the show... **  
 Thank you. We hope we've picked the right stuff to be a surprise.  

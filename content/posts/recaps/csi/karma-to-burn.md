@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -26,7 +26,7 @@ Outside the Russell house, Sara finds an LVPD flashlight, as well as trace that 
 
 While the case concludes well, Russell is left with a lingering fear that his wife will leave him over his work, and the inherent dangers.
 
-## Sara Sidle Review
+## Character Review
 
 After texting Finn to inform her about Russell's granddaughter, Sara is on hand for when Ecklie is loaded into the ambulance. She and Greg split the load, and Sara heads to the Russell house. While Sara urges Russell to not work the case, he argues he doesn't plan on the case going to court.
 
@@ -43,7 +43,7 @@ As the episode ends, Nick, Sara, and Greg are sitting in the break room again, j
 **Sidle:** I didn't come here to talk, Nick, I came here to drag your ass back to work. So how many drinks have you had exactly?  
 **Stokes:** Mmm.... Not enough.
 
-* * *
+- - -
 
 **Sanders:** Sounds like the LVPD is making a comeback. How about you, Nick?  
 **Stokes:** What about me? I don't know, I haven't talked to Russell yet.  

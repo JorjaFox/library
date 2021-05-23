@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -48,7 +48,7 @@ Back on the liquified body case, Sara traces the cocaine to Joey Zack, who traff
 
 At the end, Nick takes Warrick to dinner to celebrate the marriage. Catherine begs off to pick up her daughter, while Grissom says he'll come, he just has one more thing to do. Grissom and Archie listen to the tape (see "Grave Danger") and determine the kidnapper, David Walter, had an accomplice.
 
-## Sara Sidle Review
+## Character Review
 
 Not a stand out Sara episode, the one showed her doing what she does best: being witty and enjoying being a CSI. Sara allows her hypotheses to be advanced by the change in evidence, and she is quite comfortable showing Greg the ropes. Sara remains as disgusted as she did in "Bully for You" about liquified bodies (though perhaps this time her hair won't retain that smell). She also seems to get along better with Sofia, now that she's a detective and not a CSI.
 

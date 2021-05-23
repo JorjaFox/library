@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,10 +18,8 @@ prodnum: 413
 
 A robbery at a grocery store results in a shootout leaving five dead. The police officer at the scene believes Grissom has a grudge against him. The entire team has to process the enormous amount of evidence at the scene.
 
-## Sara Sidle Review
+## Character Review
 
 Grissom appears to be avoiding Sara at the crime scene, a result of the events in "Butterflied".
 
 _Note: this episode was originally scheduled to air the week after "Butterflied" aired, explaining why Grissom is uncomfortable working with Sara._
-
-## Quotes

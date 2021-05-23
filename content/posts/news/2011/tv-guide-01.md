@@ -14,7 +14,7 @@ newsurl: http://www.tvguide.com/News/Jorja-Fox-CSI-Regular-1035488.aspx
 
 ---
 
-Jorja Fox will no longer guest-star on her old haunt of CSI: Crime Scene Investigation â come next season, the show's 12th, she'll be considered a full-fledged regular, TVLine reports.
+Jorja Fox will no longer guest-star on her old haunt of CSI: Crime Scene Investigation - come next season, the show's 12th, she'll be considered a full-fledged regular, TVLine reports.
 
 [...]
 

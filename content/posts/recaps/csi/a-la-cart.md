@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ The CSIs work two cases, one of a high school student, Vincent Bartley, whose he
 
 Meanwhile, Grissom and Sara are under review for their relationship, which is in violation of lab policy. Grissom dodges the review for most of the day. The other CSIs discuss Grissom and Sara's relationship during their cases.
 
-## Sara Sidle Review
+## Character Review
 
 Sara returns to the lab to have her review with Conrad Ecklie. Having a relationship with another member of the team is in violation of policy. Ecklie asks when Grissom and Sara first began their relationship, to which Sara points out they've always had a relationship. She claims they became intimate two years ago, on a Sunday.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 309
 
 Grissom encounters a crime scene unlike any he has ever investigated before in this taut, twist-filled episode. Distracted by an attractive passenger, an Indian taxi driver feels his cab strike something at a suburban intersection. When he gets out to check, he finds a teenage boy pinned beneath the left rear tire, apparently killed on impact. The cabbie jumps back into the taxi to call for help, but a mob of angry onlookers--all of them white--drags him out and beats him for the crime. When Grissom arrives on the scene, he discovers that the teen has been eviscerated and has stab wounds, but shows no signs of having been struck by the cab.
 
-## Sara Sidle Review
+## Character Review
 
 An all-hands case, it seems. Sara is pulled away from a required forensics anthropology seminar by Grissom to help with this case (Grissom himself says he was out on a date). Together they backtrack the bloodstains and discover their origin in a local park. With sniffer dogs and a metal detector, they discover a gun -- and another body. Joking with Catherine later, Sara claims not to know what a 'Bridal Barbie' is. With something about the scene bothering her, Sara goes back there at night and discovers drag marks from where the body was moved. Later she participates in an experiment with Warrick and Grissom to discover who moved the body.
 
@@ -42,7 +42,6 @@ An all-hands case, it seems. Sara is pulled away from a required forensics anthr
 - - -
 
 **Sidle:** What's a Bridal Barbie?
-  
 
 - - -
 
@@ -51,4 +50,3 @@ An all-hands case, it seems. Sara is pulled away from a required forensics anthr
 **Grissom:** Do I have to get a scale?  
 **Brown:** A buck 95, give or take a donut.  
 **Sidle:** Don't even ask, I'm not telling you.
-

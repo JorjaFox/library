@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -13,8 +13,6 @@ epnum: 18
 date: 2015-02-15
 prodnum: 335  
 ---
-
-* George Eads' final episode*
 
 ## Synopsis
 
@@ -28,9 +26,9 @@ Brother Larson also talked to Collin Winthrop shortly before he died, contrary t
 
 Winthrop is shot when the police burst in and Finn is left in critical condition. Finn remains in a coma as the episode ends while Winthrop will recover and pay for his crimes. Nick takes the job in San Diego.
 
-## Sara Sidle Review
+## Character Review
 
-Nick asks Sara if he should take the job in San Diego. 
+Nick asks Sara if he should take the job in San Diego.
 
 While Nick is in San Diego, Sara is left in charge of the lab as DB and Finn are headed to Seattle. She proves herself more than capable, reading the situation and sending out the CSIs to the right places at the right time.
 
@@ -38,4 +36,3 @@ While Nick is in San Diego, Sara is left in charge of the lab as DB and Finn are
 
 **Stokes:** You know, Sara, after all these years, I've finally learned what's important to me, and it's not a promotion.  
 **Sidle:** Well. You know what Grissom would say. You gotta go where you can do the most good.
-

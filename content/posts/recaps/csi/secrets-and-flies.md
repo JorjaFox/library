@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,7 +24,7 @@ The gun is a lost cause, as if belonged to a lawyer who gave it to his paralegal
 
 Grissom, who is late with evaluations again, is pulled off the main case by Conrad Ecklie and the sheriff to help with a case gone to trial. It was the recent murder of the sheriff's god-daughter, and the defense has brought in expert etymologist, Mark Thayer, to prove she died when the suspected killer was out of town. Perhaps more to spike Thayer than help Ecklie, Grissom agrees to work on the case. Thayer presents documentation and a surprise video of an experiment proving his point. Grissom is stymied for a long time, but manages to determine Thayer doctored his pig in the experiment, forcing the flies to grow at a slower rate. Thayer's work is worthless and he is arrested.
 
-## Sara Sidle Review
+## Character Review
 
 Perhaps unexpectedly, Sara doesn't have a lot of emotional investment in this cast, offering no opinion on in vitro fertilization or conception. She seems content to go with the status quo, even when Catherine flies off the handle a bit, sitting quietly while Catherine vents at the head of Project Sunflower. Sara also displays her research skills, digging up both information on Project Sunflower and the Johnsons. At the initial scene, Sara and Catherine quickly realize that it is not a suicide, but rather a murder. She compliments the tech in QD (Questionable Documents), an older, bearded man. Sara informs Catherine of the biological parents and the victim's will, and together they visit the biological mother and her mother. Sara later finds blood on the biological grandmother's blouse.
 

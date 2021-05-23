@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ With Grissom away, Warrick is in charge for the first time as the team investiga
 
 Meanwhile, the physical evidence in the case leads Sara to investigate a high-end counterfeit operation after the money found on the victim turns out to be bogus.
 
-## Sara Sidle Review
+## Character Review
 
 Sara doesn't get angry when she discovers that the Feds were testing her with the bogus money.
 

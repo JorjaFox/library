@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -36,7 +36,7 @@ Nick interviews Kelly, and determines that Sylvia was the trustee to Walter's es
 
 Kelly Gordon is arrested and confesses. She killed Sylvia because the ransom plot was Sylvia's idea. Sylvia had also taken the money from the Gordon estate. As the episode ends, Kelly is ODing on handfuls of meds, and her death is uncertain though likely.
 
-## Sara Sidle Review
+## Character Review
 
 After talking to Bianca in the ER, Sara notices the substance on her skin and snaps up the nurse's gloves. It's this evidence that leads them to look at Tom closer and eventually find the killer. While Sara is more subdued than normal with an abuse case, she still shows her strong distaste in those situations.
 

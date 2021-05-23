@@ -14,11 +14,11 @@ newsurl: http://www.hudsonvalleygoodstuff.com/2012/09/jorja-fox-from-csi-las-veg
 
 ---
 
-It was a pleasure sitting down with Jorja Fox on a park bench on a quiet Wall Street in Kingston on Labor Day to interview her about the new documentary she produced called "How I Became an Elephant." The documentary was one of the films screened in the first Kingston NY Film Festival. 
+It was a pleasure sitting down with Jorja Fox on a park bench on a quiet Wall Street in Kingston on Labor Day to interview her about the new documentary she produced called "How I Became an Elephant." The documentary was one of the films screened in the first Kingston NY Film Festival.
 
-Jorja Fox is a vegetarian so I wanted to know where she dined. Which Hudson Valley restaurants offer good vegetarian cuisine? Does she visit the Hudson Valley often? 
+Jorja Fox is a vegetarian so I wanted to know where she dined. Which Hudson Valley restaurants offer good vegetarian cuisine? Does she visit the Hudson Valley often?
 
-"Wow! A gazillion places to eat which is so nice while you"re on vacation. I never had a car when I lived in NYC so this area is mostly a mystery to me. I came to the first Woodstock reunion, back in the 1990s so I knew I was in the general area, but I couldn"t tell you exactly where I was (laughs) I just got on the bus at Port Authority. Because of Astrid, we had a mutual friend in California, who invited me to come. For very strict vegetarian there is the Garden CafÃ© in Woodstock which is amazing," says Jorja Fox.
+"Wow! A gazillion places to eat which is so nice while you"re on vacation. I never had a car when I lived in NYC so this area is mostly a mystery to me. I came to the first Woodstock reunion, back in the 1990s so I knew I was in the general area, but I couldn"t tell you exactly where I was (laughs) I just got on the bus at Port Authority. Because of Astrid, we had a mutual friend in California, who invited me to come. For very strict vegetarian there is the Garden Café in Woodstock which is amazing," says Jorja Fox.
 
 Jorja Fox enjoyed eating at two Kingston restaurants. "At Boitson's, I had these incredible vegan fried mushrooms, like oyster mushrooms, almost taste like calamari, and we also enjoyed DUO Bistro very much," adds Fox.
 

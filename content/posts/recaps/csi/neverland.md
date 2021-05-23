@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -30,7 +30,7 @@ Mason had asked Will to break in because he and Steve, Will's other former best 
 
 And Simon Rose remained in jail.
 
-## Sara Sidle Review
+## Character Review
 
 Perceptively noticing that he looks ill, Sara admits to Steve, Will's former best friend, that she drank when she was younger, to try and be cool. When Steve vomits, Sara correctly deduces he'd been drinking tequila.
 
@@ -39,6 +39,3 @@ Sara commiserates with the man working at central evidence that this sort of cas
 ## Character Notes
 
 * Sara mentions she used to drink. 
-
-## Quotes
-

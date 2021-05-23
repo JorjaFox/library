@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -28,26 +28,25 @@ At the same time, Sara went with the sheriff and deputy to where Darryl's car ha
 
 The sheriff corroborates Sara's story, and she goes back to Las Vegas, while Nick and DB trail Finn's car and, eventually, find both a dead Darryl (shot by Finn), and a nearly dead Finn (after being hit by the car). Morgan and Sara process Finn and her clothes, finding that she was hit by a car owned by the town's doctor and coroner. He too was in on the rapes and kidnapping.
 
-## Sara Sidle Review
+## Character Review
 
-Sara initially planned to go home, drink some wine, and watch old movies. While she's interested in the idea of the spa, she does seem awkward around the younger Morgan, and slightly out of touch with the time. When Finn returns to the bar, cut and disoriented, Sara takes charge to find out what happened. 
+Sara initially planned to go home, drink some wine, and watch old movies. While she's interested in the idea of the spa, she does seem awkward around the younger Morgan, and slightly out of touch with the time. When Finn returns to the bar, cut and disoriented, Sara takes charge to find out what happened.
 
 While Sara is angry that she, and Finn and Morgan, aren't taken seriously by the local authorities, she's also stubbornly helpful and nudges her way into their case with evidence and facts.
 
 ## Character Notes
 
 * Sara likes Hepburn and Tracy movies  
-* Sara doesn't know who BeyoncÃ© is 
+* Sara claims she doesn't know who Beyoncé is
 
 ## Quotes
 
 **Sidle:** Larkston was never part of the plan. How often do we all have the weekend off?  
 
-* * *
+- - -
 
-**Sidle:** Uh... who's BeyoncÃ©?  
+**Sidle:** Uh... who's Beyoncé?  
 
-* * *
+- - -
 
 **Sidle:** So, what do you want to do next weekend?
-

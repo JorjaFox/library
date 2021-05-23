@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ The team follows the victim via hotel surveillance, discovering who he was with 
 
 In the end, the high-roller dies because he can't tell the difference between fantasy and reality, and gets a fatal beating from the bodyguards of a rich Korean gambler.
 
-## Sara Sidle Review
+## Character Review
 
 Sara is her usual investigative self in this, trading barbs with Greg as they strip a car, and tracing cell phones via computer. There are, however, unspoken vibes in the air. At the end, when the team is putting together the final clues of the puzzle, the talk turns to fantasies -- several times during this she and Grissom exchange glances, leaving us to wonder what their fantasies might be like.
 

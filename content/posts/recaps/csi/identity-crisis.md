@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,7 +24,7 @@ Grissom realizes that Millander could be after him next. Tracing speeding ticket
 
 Grissom and Catherine also track down Isabelle Millander and discover a hand print belonging to Paul Millander's deceased father. They then begin to suspect that Paul could be using his father's prints to cover his tracks.
 
-## Sara Sidle Review
+## Character Review
 
 The entire team works the Paula / Paul Millander case. Again showing her mechanical talents, Sara goes over the car with Warrick.
 

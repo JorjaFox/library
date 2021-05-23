@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,13 +20,10 @@ Brad Malone, after loosing 100 grand at the Eclipse Casino, falls and splatters 
 
 Meanwhile Lance and Denise Irwin, are found dead in their apartment, with the cat missing but the bird still in it's cage and no money stolen. For years, the Irwins had been mutually abusive, and their behavior translated to their pets. Mr. Irwin was showering, with the bird, when the cat attacked, knocking him into the wall and killing him. The now free bird attacked Mrs. Irwin, who accidentally stabbed herself. The cat ran and hid, while the bird called 911 and then locked itself back in the cage.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Greg work the domestic abuse case, which Sara handles far better than she did in the past. S When first presented with the idea that the parrot killed Mrs. Irwin, Sara winds herself up and Dr. Robbins has to talk her down a bit.
 
 ## Character Notes
 
 * Sara remains quick to judge men in abuse cases.
-
-## Quotes
-

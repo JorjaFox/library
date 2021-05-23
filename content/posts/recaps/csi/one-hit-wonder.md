@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 314
 
 Catherine tries to track down a sexual predator who breaks into single women's apartments and terrorizes them. Meanwhile, Sara reopens a cold case in which a colleague's husband was murdered, but the killer was never caught. Sara is troubled with personal ties, as her colleague has a potentially fatal affliction. Grissom's hearing further deteriorates.
 
-## Sara Sidle Review
+## Character Review
 
 Sara stops by court to visit a wheelchair-bound prosecutor friend of hers, Melissa Winters -- who tells Sara that she'll be dead soon. Winters was crippled when someone broke into her home, killed her husband and shot her. Sara talks with Doc Robbins about the upcoming operation, and doesn't like what she hears -- however, the operation is a success, and Sara gets the bullet recovered from Winters. Ballistics finds a match (Dawson doesn't quite believe her when she says that she has Grissom's permission to reopen the case), and Sara tracks it to a convict serving time. He claims he found the gun in Winter's house when he broke in to trash it. Sara is upset by the lack of evidence in the old case file, and is shocked when she discovers that Winters lied... she shot her husband, and he managed to shoot her before he died. Sara confronts Winters, and is almost in tears as she leaves the hospital room. Later in the CSI locker room, she tells Grissom about her older brother, and disappointments.
 

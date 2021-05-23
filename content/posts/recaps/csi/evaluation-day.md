@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 121
 
 Las Vegas Police discover a disembodied head in a truck driven by two scantily clad girls after a high-speed chase, and a seemingly related decapitated corpse turns up in the desert. But Grissom and Catehrine are puzzled when the head doesn't match the body -- a body that may not even be human. Warrick tries to help a young inmate who witnessed the murder of a gang member.
 
-## Sara Sidle Review
+## Character Review
 
 Sara gets all pumped up when she and Nick get the case of a body found 40 miles outside of town, but when they get to the corpse she's a little nauseated by it: a skinned, headless body, missing its hands and feet. Sara aids Nick now and again on the case (including searching the suspect's car which is actually Catherine's case), but mainly goes off on her own when it's discovered that the skinned corpse is actually a gorilla.
 
@@ -45,7 +45,6 @@ When she starts getting emotional watching videos on the computer, Grissom tells
 
 - - -
 
-**Dr. Miller** It's sad. Genetically we're 92.7% identical with gorillas.  
+**Dr. Miller** It's sad. Genetically, we're 92.7% identical with gorillas.  
 **Sidle:** It's hard to tell where the human ends and the animal begins.  
 **Dr. Miller** Well said.
-

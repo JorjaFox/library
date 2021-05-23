@@ -28,7 +28,7 @@ The case may also be just the thing to bring the team together and feeling like 
 
 That starts with the return of Fox, whose departure two seasons ago "felt like we lost our lead guitarist," Eads adds. So, as *CSI* tunes up for its 10th season, **TV GUIDE MAGAZINE** sat down with Fox and Helgenberger to ask them questions send in by fans on [http://tvguidemagazine.com tvguidemagazine.com], and found out how the team is getting its mojo back.
 
-* * *
+- - -
 
 **What would you like to see this year on *CSI* that hasn't already been done?**  
   

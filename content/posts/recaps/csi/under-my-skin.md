@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,8 @@ Cara and Lexi Nolan are in Vegas with their dad's credit card. When Pete Corday 
 
 Lexi is found dead in a dumpster, still in Vegas, killed from a rare scorpion sting which, when combined with the video she took on her phone, is tracked back to Kieran Clark. Clark had been stalking a woman who looked incredibly like Cara. Clark kidnapped her because she looked just like the woman he obsessed over.
 
-## Sara Sidle Review
+## Character Review
+
 Sara doesn't appreciate people who abuse women in any way. She's aggressive towards Axel but kinder to Tori when explaining the graphic photos found on Lexi's phone.
 
 ## Character Notes

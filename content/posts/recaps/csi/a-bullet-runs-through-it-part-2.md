@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,15 +16,17 @@ prodnum: 608
 
 ## Synopsis
 
+_This episode continues from [A Bullet Runs Through It (Part 1)](/library/recpas/csi/a-bullet-runs/through-it-part-1/)_
+
 In the conclusion of "A Bullet Runs Through It (Part 1)", the detectives and CSI follow the questions of who shot officer Bell, who shot the young boy on his bicycle, and why would a car open fire on a police squad car.
 
 The criminals opened fire on the cop car to distract them from the car the police had originally intended to pull over. Having seen a man strong-arm a pregnant woman into a car, the police had signaled them to pull over, not knowing they were really trafficking drugs. To get the heat off the drug mules, the other car opened fire and led the police away. One of the shooters died while waiting on an ambulance, while two others were killed at the scene. One died in an alley, having thrown his gun onto a roof, only to have it slide back down into his hand and thus appear armed to the police.
 
 One shooter got away, and did indeed kill the young boy for his bicycle to get away.
 
-The final answer is that Jim Brass shot officer Bell. During the fire fight, both men stood up. Bell was hit in the chest, but had on body armor. The shot turned him and Brass, who was shooting across Bell's car (in violation of protocol) accidently hit Bell.
+The final answer is that Jim Brass shot officer Bell. During the fire fight, both men stood up. Bell was hit in the chest, but had on body armor. The shot turned him and Brass, who was shooting across Bell's car (in violation of protocol) accidentally hit Bell.
 
-## Sara Sidle Review
+## Character Review
 
 Early in the episode, Sofia Curtis comes to unburden herself to Grissom, who repeatedly asks her not to tell him. Sofia is on administrative leave and shouldn't talk to anyone on the force, which is hard since most of her friends are cops, including her mother. As Sofia talks over Grissom's objections, Sara arrives and reinforces Grissom's statement of how Sofia shouldn't be there, talking to them. Sofia spits back that Sara doesn't have many friends outside the force, and Sara offers the name of a police psychologist.
 

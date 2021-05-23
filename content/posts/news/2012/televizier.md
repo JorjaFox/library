@@ -15,7 +15,7 @@ newsurl: http://www.televizier.nl/nieuws/achtergrond/sara-de-moederkloek-in-csi-
 ---
 
 *[Translated from Dutch by Google & Corrected by Volunteers.]*  
-"'In the new season of CSI, Russel has to save his granddaughter. Sara finds an important lead. If he hadn"t had herâ¦"'
+"'In the new season of CSI, Russel has to save his granddaughter. Sara finds an important lead. If he hadn"t had her..."'
 
 A corrupt officer of the LAPD appears to be working closely with the kidnappers. He leads CSI-investigator Finn (Elisabeth Shue) to where D.B. Russell"s (Ted Danson) granddaughter Katie is being held. The girl is allowed to call her grandfather to show she is still alive. The head of the laboratory gets very angry: who targets his family, targets him. The kidnappers demand a ransom of two million dollar. In the meantime, Nick Stokes starts drinking because he wants to quit and deputy sheriff Conrad Ecklie is in the hospital. He was shot in the season finale of the last season of the still popular crime show. Sara Sidle (Jorja Fox) finds evidence at the crime scene, Russell"s house that can possibly lead them to the kidnappers.
 

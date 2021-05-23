@@ -4,21 +4,18 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
-season: 1
-epnum: 18  
-date: 2001-03-29
-prodnum: 117  
+date: 2001-03-29 
 ---
 
 ## Synopsis
 
 A sudden rainstorm washes away the evidence Grissom, Warrick, Sara and Nick are collecting after an apparent car jacking that ended in a triple homicide. Meanwhile, Catherine investigates a collapse of a building that killed three senior citizens.
 
-## Sara Sidle Review
+## Character Review
 
 The case appears to be a carjacking/murder, but a sudden rain storm threatens to wash away the evidence. Despite what he told her earlier about getting a life outside the lab, Grissom calls Sara in on her day off. Sara runs around taking photos in a frenzy while the rest of the team collects what evidence that they can. Sara and Grissom question the witness, and Sara collects the witness' clothes.
 

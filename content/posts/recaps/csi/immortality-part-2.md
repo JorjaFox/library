@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -15,6 +15,8 @@ prodnum: 337
 ---
 
 ## Synopsis
+
+_The episode continues from [Immortality (Part 1)](/library/recaps/csi/immortality-part-1/)_
 
 Unlike the last time Grissom was mentioned in the lab , this time everyone is angry at Grissom because of Lady Heather. However they allow him in the room when Heather is interrogated.
 
@@ -36,7 +38,7 @@ As Sara leaves for San Diego, she leaves her director's badge for Catherine. In 
 
 **End of Series**
 
-## Sara Sidle Review
+## Character Review
 
 Sara is anything but happy to see Heather, and blows up at Grissom. She keeps it together until the interrogation, and has to leave then. Catherine calls her out on still being in love with Grissom, but admits she herself would like to kill Heather too. Heather asks Sara if she loves Grissom, and Sara admits she still does.
 
@@ -58,8 +60,7 @@ you, Sara.
 **Sara Sidle** Mrs. Sidle to you.  
 **Lady Heather** Ms. Sidle, isn't it?  
 
-* * *
+- - -
 
 **Lady Heather** Do you love him?  
 **Sara Sidle** I do.
-

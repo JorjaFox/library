@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 119
 
 An apparent vehicular-manslaughter case turns into a murder investigation when Grissom discovers that the victim, who was deaf, was actually killed before a car hit him. Also, a shoot-out at a coffee shop, which may have been a professional hit, leaves five people dead, including a local high roller.
 
-## Sara Sidle Review
+## Character Review
 
 A dead kid is in the street, apparently run over by a car, but Sara notes that the differences in tread marks shows that the victim was hit twice. At the post-mortem, it's noted that the victim is deaf, which leads Sara and Warrick to a local deaf school, where they manage to upset the school president by bringing in an interpreter (when one isn't needed) and then talking to the interpreter rather than directly to the president
 

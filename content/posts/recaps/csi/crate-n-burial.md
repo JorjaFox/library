@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 103
 
 When the wife of a well-to-do business man is kidnapped, Grissom, Sara and Nick investigate her disappearance, eventually saving her after she was buried underground, only to find the deceptions are deeper than they thought. Meanwhile, Warrick and Catherine investigate a hit-and-run.
 
-## Sara Sidle Review
+## Character Review
 
 Sara, Nick and Grissom investigate a kidnapping, once Grissom realizes (from evidence found at the scene that Sara doesn't think is much) that the victim is buried near a gold mine, Sara and Grissom check out gold mines with infrared via helicopter. Sara and Grissom find the buried victim and dig her up -- Sara is right on top of the situation, giving orders left and right. At the office, it's Lindsey's birthday (Catherine's daughter), and Catherine hacks on Sara a little when Sara asks about pitching in. Sara shows Grissom that the victim was a willing participant in the 'kidnapping'. Sara, Grissom and Nick confront the 'victim'. This episode shows the first hint that Sara and Grissom had a student / teacher relationship.
 

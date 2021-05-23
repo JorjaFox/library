@@ -15,9 +15,9 @@ newsurl: http://www.msnbc.msn.com/id/21777452/
 ---
 **Jorja Fox's character valuable to show, and she's a role model, readers say**
 
-It's not unusual for actors to leave a successful show after a long run to pursue other opportunities. George Clooney did so successfully. But whether or not Jorja Fox can pull off the same feat when she leaves âCSI's' Sara Sidle behind is of little worry for fans of the hit crime drama -- they're more concerned that the show will suffer without her.
+It's not unusual for actors to leave a successful show after a long run to pursue other opportunities. George Clooney did so successfully. But whether or not Jorja Fox can pull off the same feat when she leaves 'CSI's' Sara Sidle behind is of little worry for fans of the hit crime drama -- they're more concerned that the show will suffer without her.
 
-"The reason âCSI' is great is because of the cast. Any one of their departure would affect the strength of the show," explained Matt from Alameda, Calif. "Sara Sidle is vital to âCSI.' She brings humanity to the show, she always has. The cases in âCSI: Vegas,' âMiami,' âNew York' ... and oh so many crime shows are very similar, but âCSI: Vegas' as a show is different because they have a great chemistry among characters. A big chuck of it will be gone with Sara's loss."
+"The reason 'CSI' is great is because of the cast. Any one of their departure would affect the strength of the show," explained Matt from Alameda, Calif. "Sara Sidle is vital to 'CSI.' She brings humanity to the show, she always has. The cases in 'CSI: Vegas,' 'Miami,' 'New York' ... and oh so many crime shows are very similar, but 'CSI: Vegas' as a show is different because they have a great chemistry among characters. A big chuck of it will be gone with Sara's loss."
 
 "(The show) will be worse. She's the only one that seems like a genuine investigator or criminalist, apparently the romance between her and Grissom became their biggest ratings grabber (they're kinda cute anyway, so whatever, and we all know that when an important member of the cast leaves a show, the show is doomed, especially now that they've started lacking in the "case" department). And she's nice to look at, too," said Angel from Pembroke Pines, Fla.
 

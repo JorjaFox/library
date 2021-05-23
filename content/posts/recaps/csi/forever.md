@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,13 +20,13 @@ A murder aboard a luxurious 747 and the discovery of two formally attired teens 
 
 Meanwhile, in the Hell's Gate section of Death Valley, Sara and Warrick probe the apparent suicide of a 15-year-old boy found under a bedspread. The investigation intensifies when a girl's body turns up a half-mile away, and the CSIs suspect a ceremonial death.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Warrick work the case of the suicides in Death Valley, eventually finding a baby being cared for by the dead girl's mother.
 
 ## Character Notes
 
-* Sara knows the character of Madame DeFarge from Charles Dickens' [http://en.wikipedia.org/wiki/A\_Tale\_of\_Two\_Cities A Tale of Two Cities].  
+* Sara knows the character of Madame DeFarge from Charles Dickens' [A Tale of Two Cities](http://en.wikipedia.org/wiki/A_Tale_of_Two_Cities).
 * There is no reaction from Sara about the foster home situation, despite her own history  
 * Sara is not pleased that the baby will end up back with the grandmother.
 
@@ -38,9 +38,7 @@ Sara and Warrick work the case of the suicides in Death Valley, eventually findi
 - - -
 
 **Sidle:** Vanity, thy name is teenage girl.
-  
 
 - - -
 
 **Sidle:** I think our girl was a young Madame DeFarge. She made her own death shroud, but she didn't know her own measurements.
-

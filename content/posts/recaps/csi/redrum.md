@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,9 +16,9 @@ prodnum: 712
 
 ## Synopsis
 
-After the killer of Danilo Zamesca goes into hiding, Catherine, Keppler and Brass stage a fake crime scene to smoke him out. They send the other CSIs off on unrelated cases, however Sara's case is _actually_ related. Nick, **Sara**, and Warrick are suspicious of the faked case, and with Greg, form their own team to look into it. As they determine that the scene was faked, the killer (Thomas Simon) is found and arrested. The DA wants to throw out the case, because of the faked case, and Catherine must get the other CSIs to help pin a second murder on Simon.
+After the killer of Danilo Zamesca goes into hiding, Catherine, Keppler and Brass stage a fake crime scene to smoke him out. They send the other CSIs off on unrelated cases, however Sara's case is _actually_ related. Nick, Sara, and Warrick are suspicious of the faked case, and with Greg, form their own team to look into it. As they determine that the scene was faked, the killer (Thomas Simon) is found and arrested. The DA wants to throw out the case, because of the faked case, and Catherine must get the other CSIs to help pin a second murder on Simon.
 
-## Sara Sidle Review
+## Character Review
 
 Sara, Greg and Sofia work the 419 of Monique Carter, disbarred lawyer turned drug user. Monique lent her BMW to Simon, and was photographed doing lines of cocaine with Zamesca. Because she witnessed Simon killing Zamesca, Monique was killed.
 
@@ -39,10 +39,8 @@ Sara is unhappy, going behind people's backs, to solve the fake case, but collec
 - - -
 
 **Sidle:** You know, I hate deceiving people, because eventually you get what you give.
-  
 
 - - -
 
 **Willows:** Sara?  
 **Sidle:** If I have something to say to you, Catherine, I'll say it in private. _(pause)_ No offense.
-

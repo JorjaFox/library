@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -26,7 +26,7 @@ All three men were patients at a mental hospital, for paranoia, schizophrenia, a
 
 Art blames Kathy Veck for his wife's death and his financial destitution. He plants a bomb in his own team's car, trying to blow her up in the race, but missed. As the CSIs realize Art's still out there, he kidnaps Veck in her own truck, wires it up as a bomb, and drives it to the police station. The CSIs get Clive to talk Art out of killing Veck.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Morgan find evidence in the desert, and then works with Greg on the reconstruction based on the debris field and car damage. When Greg proves Sara's initial hypothesis incorrect and there was a bomb, she teases him but cheerfully tests his theory with him.
 
@@ -43,12 +43,12 @@ When Russell tells Sara about his cousin, who became a paranoid schizophrenic, s
 **Morgan Brody** I've had dates end that way. Argue, pull over, slam the door and sulk home to watch The Notebook  
 **Sara Sidle** The Notebook, really?  
 
-* * *
+- - -
 
 **Sanders:** Actually, I've been working the case. And I think we're doing it all wrong.  
 **Sidle:** Cite your source.  
 
-* * *
+- - -
 
 **Russell:** [My cousin was] a really good kid. But one summer he started telling me about this birdhouse that the neighbor had built across the street. He was convinced there was a camera inside it. [...] Got worse, too. Towards the end, he thought my glasses were cameras, and that I was recording his every move.  
 **Sidle:** What happened to him  

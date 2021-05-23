@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 118
 
 Grissom finds it difficult to control his emotions when he investigates the alleged kidnapping of the infant son of a Dot-Com Las Vegas millionaire family, especially when the evidence begins pointing to various family members who may be involved in the disappearance.
 
-## Sara Sidle Review
+## Character Review
 
 Sara arrives at the scene, and Grissom has her run the ransom note over to QD (Questionable Documents). Sara goes to QD and they determine the printers from the house don't match the note. Sara calls Grissom with the news, and he has her check the printers from the husband's office.
 

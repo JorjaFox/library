@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 505
 
 Grissom and Sara investigate the murder of a woman after a swap party. The married couples in the neighborhood meet and switch partners. With the help of a crime scene cleaner, Nick and Warrick find there was more to their crime scene than they first thought. Catherine wants a promotion to day shift supervisor.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works with Grissom on the 'swapping' case, and admits that she has trouble understanding that lifestyle.
 

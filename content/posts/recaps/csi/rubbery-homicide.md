@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,13 +22,10 @@ The outfit is based on a model from the 80s named Charlene, which is the same na
 
 Kern wasn't Charlene, however. He was a rival vulcanized vixen, Lexie, who broken into the home of the *real* Charlene's widower, Stan, to steal the outfit and the doll. But Stan didn't kill Kern. His daughter, April, did, in order to protect the image of her father, mother, and the company they created.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works the case, however there is little notable this episode. She's quick to come up with a slightly out-there theory again (like she did with spontaneous human combustion).
 
 ## Character Notes
 
 * Sara is quick to theorize about a rape gone wrong, identifying with the theoretical woman.
-
-## Quotes
-

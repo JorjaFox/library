@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ Keppler's past comes back to haunt him. Plagued by nightmares, Keppler's father 
 
 Grissom returns and after avoiding paperwork, settles in to help the CSI's bring in Keppler.
 
-## Sara Sidle Review
+## Character Review
 
 Sara returns from investigating a garbage dump and runs into Grissom at the lab. To a degree, they have traded places in their relationship, with Grissom now being forward and affectionate, but Sara is avoiding him somewhat, citing her smell from being at the dump. Grissom says Sara will be surprised to see what the cocoon hatches.
 

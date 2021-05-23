@@ -19,7 +19,7 @@ episode: 15
 
 Ray is shocked when he is told his ex-partner is being transferred into his department. Problem is she is female and rumours were rife that they were having an affair. Meanwhile a boy goes missing from party of schoolchildren on a museum tour.
 
-## Connie Karadzic Review
+## Character Review
 
 Connie works the case of a disoriented woman brought in by a cabbie with no wallet, purse or ID, claiming her name is Minerva Fitzhugh. Minerva is aware that she's lost and she can't remember anything. She's only one of a pair of little old ladies missing from a Gold Coast private residence. Apparently the girls were sisters and lived together, Minerva went off to look for her sister, Betty Carr. Due to a stroke, Minerva has trouble remembering what year it is, or even remembering who Connie or her doctor are. Betty has been caring for Minerva since the stroke.
 

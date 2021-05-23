@@ -20,17 +20,19 @@ rating: 3
 President Bartlet and his staff head to Los Angeles for a whirlwind visit and a celebrity fund raiser, and Bartlet meets his daughter Zoey's new Secret Service agent.
 
 ## Character Review
-A direct person, Gina takes the role of protecting &#8216;Bookbag' seriously.
+
+A direct person, Gina takes the role of protecting 'Bookbag' seriously.
 
 ## Character Notes
+
 * Gina was in the Army ROTC at U of Virginia (Criminology)  
 * She holds the rank of 2nd Lt. in MP  
 * Was the first person to sign up for the detail.
 
 ## Quotes
 
-**POTUS** It's not your job to tell me if she's cutting English Lit; it's not your job to tell me if she's dying her hair blue, or going to a strip club, or whatever she's doing with her friends. You know what your job is.  
-**Gina** Yes, Sir, Mr. President.  
-**POTUS** If she's cutting English Lit, I want to know about it.  
-**Gina** No deal, Mr. President.  
-**POTUS** Okay.
+**POTUS:** It's not your job to tell me if she's cutting English Lit; it's not your job to tell me if she's dying her hair blue, or going to a strip club, or whatever she's doing with her friends. You know what your job is.  
+**Gina:** Yes, Sir, Mr. President.  
+**POTUS:** If she's cutting English Lit, I want to know about it.  
+**Gina:** No deal, Mr. President.  
+**POTUS:** Okay.

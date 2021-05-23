@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -26,7 +26,7 @@ When Sara and Ray go to bring Julia in for further questioning, a bomb explodes 
 
 Sean and his cousin, Dennis the interpreter, set up a scam to get Sean into the college and get the half-million grant. The plan included seducing Julia, but the bomb and the plain itself was all Dennis.
 
-## Sara Sidle Review
+## Character Review
 
 Sara attends a gala celebration for a foundation for the deaf, of which her husband, Gil Grissom, is a member. Gil was supposed to come, but got stuck in Peru when 'another' mass grave was found. The phone call cuts out and Sara catches Julia (then unknown to her) coming out of a room where a man remains, looking like she was having sex with him moments before. Sara then finds her mother-in-law, Betty Grissom, who introduces her to Julia Holden, who is 'like a daughter' to Betty. Sara is comfortable with Betty's apparent preference to Julia, and later tells Catherine that she and Betty don't get along well.
 
@@ -34,7 +34,7 @@ After the murder, the CSIs are surprised to see Sara there, and more so to see h
 
 Once Julia reveals that she and Grissom were once intimate, Brass wants Sara off the case. The news doesn't seem to bother Sara all that much. Betty comes to talk to Sara about the case, upset that Julia was interrogated. Sara is annoyed at Betty for not telling her about Julia and Grissom's relationship before she interrogated Julia, and Betty lays the blame on the fact that Grissom and Sara don't live in the same city. She doesn't understand how Grissom and Sara can live so far apart.
 
-After solving the case, Sara and Betty share a Skype conversation with Grissom, who is in Peru on 'government business.' By way of apology, Betty brings Sara a plant, because Grissom tells her she likes plants: an african violet. 
+After solving the case, Sara and Betty share a Skype conversation with Grissom, who is in Peru on 'government business.' By way of apology, Betty brings Sara a plant, because Grissom tells her she likes plants: an african violet.
 
 ## Character Notes
 
@@ -48,34 +48,34 @@ After solving the case, Sara and Betty share a Skype conversation with Grissom, 
 **Sidle:** Grissom and I have great sex.  
 **Willows:** I'm sure you do.
 
-* * *:
+- - -
 
-**Gil Grissom** The graves were littered with pupae casings. It looked like someone dumped a ton of Rice Krispies on top of a bunch of halloween skeletons. It indicated that it wasn't a proper burial. During the Inca period, there was no greater punishment. We think it was meant as a warning. 'Don't mess with the Moche.'  
-**Sara Sidle** Ah ha.  
-**Gil Grissom** So anyway. How was your week? What'd you do?  
-**Sara Sidle** Well. I almost got blown up twice. I accused your ex-girlfriend of murder. And ... Oh, and I told off your mother.  
-**Gil Grissom** Oh good. You kept busy.  
-**Sara Sidle** Yes. You see what happens when you stand me up?  
-**Betty Grissom** _knocks on the doorway_  
-**Gil Grissom** Who's that?  
-**Sara Sidle** It's your mother.  
-**Gil Grissom** Hi, Mom.  
-**Betty Grissom** Hi!  
-**Gil Grissom** You never came to the office when I was working there. I heard you and Sara had an exciting week.  
-**Betty Grissom** I owe her a apology for that. _gives Sara an African Violet._  
-**Sara Sidle** African Violet. It's beautiful.  
-**Gil Grissom** I told her you like vegetation.  
-**Sara Sidle** Thank you ... I'm sorry too. Can we start over?  
-**Betty Grissom** nods I would like that.  
-**Gil Grissom** Hey when I come back, three of us will go out to dinner.  
-**Betty Grissom** When?  
-**Gil Grissom** Soon.  
-**Betty Grissom** I still think you two need get together more, sex is always important in marriage.  
-**Sara Sidle** Your mother is talking about our sex life.  
-**Gil Grissom** In Incan society, the Moche elders would pass down their knowledge of sexual pleasure to the younger generation. Their stories were documented on their pottery. Little ceramic jars called sex pots.  
-**Sara Sidle** Sex pots.  
-**Betty Grissom** You can still learn a lot from your elders.  
-**Gil Grissom** Sometimes too much. I love you both.  
-**Sara Sidle** I love you, too.  
-**Betty Grissom** I love you.  
-**Sara Sidle** Bye.
+**Gil Grissom:** The graves were littered with pupae casings. It looked like someone dumped a ton of Rice Krispies on top of a bunch of halloween skeletons. It indicated that it wasn't a proper burial. During the Inca period, there was no greater punishment. We think it was meant as a warning. 'Don't mess with the Moche.'  
+**Sidle:** Ah ha.  
+**Gil Grissom:** So anyway. How was your week? What'd you do?  
+**Sidle:** Well. I almost got blown up twice. I accused your ex-girlfriend of murder. And ... Oh, and I told off your mother.  
+**Gil Grissom:** Oh good. You kept busy.  
+**Sidle:** Yes. You see what happens when you stand me up?  
+**Betty Grissom:** _knocks on the doorway_  
+**Gil Grissom:** Who's that?  
+**Sidle:** It's your mother.  
+**Gil Grissom:** Hi, Mom.  
+**Betty Grissom:** Hi!  
+**Gil Grissom:** You never came to the office when I was working there. I heard you and Sara had an exciting week.  
+**Betty Grissom:** I owe her a apology for that. _gives Sara an African Violet._  
+**Sidle:** African Violet. It's beautiful.  
+**Gil Grissom:** I told her you like vegetation.  
+**Sidle:** Thank you ... I'm sorry too. Can we start over?  
+**Betty Grissom:** nods I would like that.  
+**Gil Grissom:** Hey when I come back, three of us will go out to dinner.  
+**Betty Grissom:** When?  
+**Gil Grissom:** Soon.  
+**Betty Grissom:** I still think you two need get together more, sex is always important in marriage.  
+**Sidle:** Your mother is talking about our sex life.  
+**Gil Grissom:** In Incan society, the Moche elders would pass down their knowledge of sexual pleasure to the younger generation. Their stories were documented on their pottery. Little ceramic jars called sex pots.  
+**Sidle:** Sex pots.  
+**Betty Grissom:** You can still learn a lot from your elders.  
+**Gil Grissom:** Sometimes too much. I love you both.  
+**Sidle:** I love you, too.  
+**Betty Grissom:** I love you.  
+**Sidle:** Bye.

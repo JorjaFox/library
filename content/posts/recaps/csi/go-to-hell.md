@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ As the weather breaks 110+ in Las Vegas, deaths are more common but less common 
 
 The couple in the hotel room were killed by their 12 year-old daughter, who they thought was possessed by a devil, and kept her locked in an attic room much of the time. After hiring a local minister who specialized in exorcism, the father had second thoughts and freed his daughter, who hooked up with an older man she'd met online. After having sex with him, she killed her parents and her younger sister. The minister, who earlier had been preaching to the poor masses of Las Vegas that they were in hell, finds the 12 year-old and throws her off a balcony, killing her and completing the exorcism.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works the case of the dead homeless man, who died after getting in a fight with another bum over a sandwich, and was briefly detained by the police. Sara questions the police officer involved, who says he didn't bring the man in because he thought it was a ploy by the homeless man to get some AC in the heat. Sadly, the man died of exposure.
 

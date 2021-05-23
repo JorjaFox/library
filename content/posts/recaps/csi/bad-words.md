@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 419
 
 Warrick, Catherine, and Nick try to determine the cause of a house fire that kills a teenage kill. The fire is in the same neighborhood as a similar arson fire. Grissom and Sara investigate a man found dead with letter tiles in his stomach. The man was a competitor in a word game tournament.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Grissom investigate the death of a man in a hotel bathroom, which leads them to a Logos tournament taking place there. She and Grissom interview the various players, and later she 'decodes' the victim's notes on the match.
 

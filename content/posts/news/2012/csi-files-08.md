@@ -18,7 +18,7 @@ newsurl: http://www.csifiles.com/content/2012/03/interview-elisabeth-shue/
 
 **CSI Files:** George Eads spoke with me about how he"d like to see a bit of a relationship between Nick and Finn.
 
-**Shue:** Nice, I like that! That would be fun; I think that would be great. They probably don"t like the characters on CSI to get too intimateâ¦ I don"t know why, but I don"t think they"ve ever--except for Jorja [Fox, Sara Sidle] and Billy Petersen"s [Gil Grissom] character. Have there been any other characters?
+**Shue:** Nice, I like that! That would be fun; I think that would be great. They probably don"t like the characters on CSI to get too intimate... I don"t know why, but I don"t think they"ve ever--except for Jorja [Fox, Sara Sidle] and Billy Petersen"s [Gil Grissom] character. Have there been any other characters?
 
 **CSI Files:** Catherine had a few, but they never quite worked out.
 

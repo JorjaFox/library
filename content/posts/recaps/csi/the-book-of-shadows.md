@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,9 +16,9 @@ prodnum: 321
 
 ## Synopsis
 
-The CSI team suspects foul play when a chemistry teacherâs science experiment goes horribly wrong.
+The CSI team suspects foul play when a chemistry teacher's science experiment goes horribly wrong.
 
-## Sara Sidle Review
+## Character Review
 
-**Sara Sidle** does not appear in this episode.
+_Sara Sidle does not appear in this episode._
 

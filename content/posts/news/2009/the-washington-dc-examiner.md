@@ -16,7 +16,7 @@ newsurl: http://www.dcexaminer.com/opinion/blogs/YeasandNays/Superhero_summit_at
 
 [...] 
 
-[...] Monday night, there they were at the Artists & Athletes Alliance party at CafÃ© Milano, bookending the room with their super ... er, celebrity ... powers.
+[...] Monday night, there they were at the Artists & Athletes Alliance party at Café Milano, bookending the room with their super ... er, celebrity ... powers.
 
 In the words of founder **Steve Ross**, the new organization &#8212; which also held a luncheon with a slew of ambassadors and celebs at the Decatur House on Monday &#8212; doesn't "have an agenda," but rather aims to inform celebs on the issues they care about and connect them to relevant policymakers. "They're so interested in learning about D.C. and becoming involved. It's a whole &#8216;nother level of talent that has been afraid to get involved."
 

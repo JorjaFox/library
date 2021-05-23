@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,13 +16,13 @@ prodnum: 804
 
 ## Synopsis
 
-Brian Towne was a young man who grew breasts, due to polluted water, which affected his genetics, as well as those of the carp in the lake. When Brian and his Hydrologist friend got close to the truth, that the water treatment plant was knowingly polluting the water, they died. Brian killed himself out of shame when girls mocked him for having the man-boobs. After he died, his mother found out what was going on and shot the hydrologist, thinking he'd poisioned her son, not that he was trying to save him.
+Brian Towne was a young man who grew breasts, due to polluted water, which affected his genetics, as well as those of the carp in the lake. When Brian and his Hydrologist friend got close to the truth, that the water treatment plant was knowingly polluting the water, they died. Brian killed himself out of shame when girls mocked him for having the man-boobs. After he died, his mother found out what was going on and shot the hydrologist, thinking he'd poisoned her son, not that he was trying to save him.
 
 Catherine and her mother are looking over the new casino that Sam was building, shortly before he died, when a dead body is found. The body is that of a reporter who was doing a piece on Vegas. He snuck into the casino, and Sam's bodyguard shot him. Either the reporter fell or was tossed, but no one will ever know.
 
-## Sara Sidle Review
+## Character Review
 
-Due to a conflict of interests, Sam being Catherine's father, Swing Shift takes over the case at the casino. Sara and Ronnie find a native american style bracelet, and for a while Sara thinks the site was a Native American burial ground.
+Due to a conflict of interests, Sam being Catherine's father, Swing Shift takes over the case at the casino. Sara and Ronnie find a Native American style bracelet, and for a while Sara thinks the site was a Native American burial ground.
 
 During the case, Sara meets Grissom by his beehives. After telling her all about bees and their life, he proposes. Sara, surprised, closes her hand around the bee crawling on it; the bee stings her and dies. However she tells Grissom yes, she accepts. They go in for a kiss, but are blocked by their bee bonnets.
 
@@ -38,11 +38,11 @@ During the case, Sara meets Grissom by his beehives. After telling her all about
 **Lake** Why did you pick Vegas?  
 **Sidle:** Well it, ah, kind of picked me.
 
-<hr width=50%>
+- - -
 
 **Sidle:** I was hoping just once, Vegas would have to honor its past.
 
-<hr width=50%>
+- - -
 
 **Grissom:** Wanna get married?  
 **Sidle:** Yes... let's do it.

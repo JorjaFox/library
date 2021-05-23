@@ -14,7 +14,7 @@ newsurl: http://celebritydogwatcher.com/
 
 ---
 
-"Los Angeles Confidential" magazine featured "CSI: Crime Scene Investigation**s Jorja Fox in the May issue, âGimmie Shelter' column.
+"Los Angeles Confidential" magazine featured "CSI: Crime Scene Investigation**s Jorja Fox in the May issue, 'Gimmie Shelter' column.
 
 Jorja talked about her ten-and-a-half-year-old Boxer Ali (yes, as in Muhammad Ali), a rescue dog from New York.
 

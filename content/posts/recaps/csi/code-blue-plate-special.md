@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,7 +16,7 @@ prodnum: 275
 
 ## Synopsis
 
-The staff and patrons of Frank's Diner are found dead, not long after the stalker of the waitress, Edie, is scared off by the cops. The only survivor is the owner's brother (Vincent), who locked himself in the walk in freezer. **Sara**, Nick and Greg happen upon the scene, coming by for a meal.
+The staff and patrons of Frank's Diner are found dead, not long after the stalker of the waitress, Edie, is scared off by the cops. The only survivor is the owner's brother (Vincent), who locked himself in the walk in freezer. Sara, Nick and Greg happen upon the scene, coming by for a meal.
 
 The cops who had seen the stalker, Ronald Basderic, admit they did nothing, since he was gone by the time he went outside. Of the dead, only two weren't regulars or employees. Finn finds something odd in the blood trails, in that three bodies were clearly moved and staged after being shot.
 
@@ -26,7 +26,7 @@ One of the victims, Alex Brenner, was in WitSec, and had agreed to testify again
 
 The guns are found, stashed in the newspaper machine, with Basderic's prints on the paper. The prints are coincidence, however. The real killer is Vincent, who shot his brother because Owen wouldn't agree to franchise the diner. He had hired Rios to do a fake robbery, killing only Owen, but when Owen pulled the mask off and shot everyone, Vincent had to move the bodies and finish off Edie.
 
-## Sara Sidle Review
+## Character Review
 
 Ronald Basderic was terrorizing Edie Graham, the waitress, for six months. Sara tried to help her get a restraining order.
 
@@ -41,8 +41,7 @@ Sara chases the rabbit trail of Basderic, assuming he had to have stalked someon
 
 **Sidle:** You're done, you son of a bitch.  
 
-* * *
+- - -
 
 **Basderic** You see. You were wrong. I didn't hurt her. I couldn't. I loved her.  
 **Sidle:** You loved her? Are you kidding me? You terrorized her. You kept her awake at night. You made her afraid to walk down the street. And you want to know what else your twisted love did? It killed her, Ronald. Edie was supposed to be off work at 4:00. She should have been gone when the shooting happened, it she was afraid to walk home because she was afraid that you were out there. It's because of you that she stayed, and now she's dead.
-

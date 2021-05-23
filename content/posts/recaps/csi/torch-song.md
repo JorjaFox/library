@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -26,7 +26,7 @@ Part of the reason the fire was so bad was that a car was blocking the door. Thi
 
 Baxton had been hired by the club owner, who hasn't able to keep the club afloat.
 
-## Sara Sidle Review
+## Character Review
 
 While Nick and Finn work the arson, Morgan and Sara work the deaths. 
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,7 +24,7 @@ Russell dropped a $5000 bet _against_ his son, the day Danny broke the course re
 
 Danny admits that he met his father there, to demonstrate that he was capable, but Russell proved to him about the juiced balls. Russell urged Danny to turn himself in, but Danny just walked away as his step-mother, Michelle, drove up and then away. In the end, the death was determined to be accidental. Russell had been banging the golf club on the ground, and the head snapped, bouncing and stabbing him in the neck, severing an artery.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works with recovering evidence from the golf cart with Ray and Nick, and is somewhat disparaging about golf in general. Later, she and Greg go to investigate the primary crime scene, and Greg questions, friendly-like, the validity of Sara's marriage to Grissom. In turn, Sara momentarily pretends that it was a joke.
 
@@ -38,7 +38,7 @@ Sara works with recovering evidence from the golf cart with Ray and Nick, and is
 **Stokes:** Each [golf ball] is unique.  
 **Sidle:** Awww. Just like a snowflake!
 
-* * *:
+- - -
 
 **Sanders:** Sometimes I wonder if you two are really married.  
 **Sidle:** Well ... Now that you mention it ... Just kidding!  

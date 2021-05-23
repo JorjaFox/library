@@ -17,7 +17,7 @@ newsurl: http://sharpheels.com/2014/02/jorjafoxlions/
 
 *Lion Ark* tells the story of Animal Defenders International recent Bolivian campaign to ban traveling circuses throughout the country. In the end, ADI helped relocate many of the animals to safe, forever homes, including airlifting 25 lions from Bolivia to a reserve in Colorado.
 
-Some might recognize Fox from her earlier television roles â she played Maggie Doyle on *ER* from 1996 to 1999, and a * West Wing* secret service agent in 2000. But it was her animal rights activism that persuaded Jan Creamer (president of ADI) to partner with Fox. As an ADI ambassador, the actress turned producer couldn't be more thrilled about the NAACP nomination.
+Some might recognize Fox from her earlier television roles - she played Maggie Doyle on *ER* from 1996 to 1999, and a * West Wing* secret service agent in 2000. But it was her animal rights activism that persuaded Jan Creamer (president of ADI) to partner with Fox. As an ADI ambassador, the actress turned producer couldn't be more thrilled about the NAACP nomination.
 
 **SharpHeels:** How did you get involved with *Lion Ark*?
 
@@ -39,7 +39,7 @@ I'm a very small-time producer, but my dream is to help people tell the stories 
 
 **JF:** Some years back I was part of Honeypot, a tiny avant-garde theater company in LA, with four other women. But we all started working so much that eventually we disbanded. My first foray into production was a play on Dusty Springfield, so it was an easy shift.
 
-I met the director for *How I Became an Elephant* at a party and â¦ I wanted to be him. I wanted to be a part of the film. Maybe that's what I look for because it was the same with *Lion Ark*.
+I met the director for *How I Became an Elephant* at a party and ... I wanted to be him. I wanted to be a part of the film. Maybe that's what I look for because it was the same with *Lion Ark*.
 
 **SH:** As a producer, how do you use the business aspect within Hollywood to help further your cause?
 
@@ -49,7 +49,7 @@ I met the director for *How I Became an Elephant* at a party and â¦ I wanted
 
 **JF:** The nomination alone garners all the [nominated] films attention and makes it so they will be watched. Especially with the press the films receive.
 
-With *Lion Ark* it's easy to think of it as a movie about lions, but people from all over the world came together for this cause. It was amazing to get the attention of the NAACP â they've done so much human rights work over the years. Really, there's almost no animal issue that isn't connected to the environment and human rights issues. For us, the greatest gift is to be nominated. We're the long shot, but we're incredibly excited to be here.
+With *Lion Ark* it's easy to think of it as a movie about lions, but people from all over the world came together for this cause. It was amazing to get the attention of the NAACP - they've done so much human rights work over the years. Really, there's almost no animal issue that isn't connected to the environment and human rights issues. For us, the greatest gift is to be nominated. We're the long shot, but we're incredibly excited to be here.
 
 **SH:** Being a woman do you ever feel like you have to worker harder to get your message and your work out there?
 
@@ -58,4 +58,3 @@ With *Lion Ark* it's easy to think of it as a movie about lions, but people from
 I do know that women/actresses still make less then men. Any great movie or television show has four to five roles for guys, and only one for women (and it's usually not as interesting). Fortunately, it's never held me back. As a producer I've worked with men and women and been respected and appreciated.
 
 I owe a lot of it to my parents and my father was an amazing male role model. They always told me I could do whatever I wanted when I grew up as long as I worked hard. As a producer I'm just getting started. I'm excited to see what the next five years will bring.
-

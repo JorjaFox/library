@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 311
 
 Grissom and Catherine investigate the grisly meat grinder murder at a slaughterhouse. Warrick and Sara look into the apparent suicide of a troubled young woman.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Warrick investigate an apparent suicide at an apartment complex. At the scene, Sara inadvertantly calls Hank 'baby' (she apologizes later) -- embarrassed, she ducks into the closet, where she finds still-wet stains on the victim's clothing. At the autopsy, she finds tinted glass in the victim's hair; later in Trace, she trades comments with the new tech, Hodges. Sara and Warrick match the glass to a recently-broken windshield at the apartment garage, and discover that the victim was always breaking things, depending on her mood. They discover that the victim was bipolar, and off her meds -- and that her boyfriend was bipolar as well. Discovering Valium in the victim's system, they confront the parents and find that the father slit his daughter's wrist, hoping to get her admitted to a psychiatric facility.
 
@@ -46,14 +46,11 @@ Sara and Warrick investigate an apparent suicide at an apartment complex. At the
 - - -
 
 **Sidle:** _(to Brown)_ You know, the more I see of this kind of stuff the less I picture you a gambler.
-  
 
 - - -
 
 **Sidle:** Bipolar girl meets a bipolar guy. Together, they cut out their medication. She ends up committing suicide.
-  
 
 - - -
 
 **Sidle:** Mr. And Mrs. Damen, there are five types of tears -- sorrow, regret, joy, fear and allergic reaction. The one thing that they have in common is DNA.
-

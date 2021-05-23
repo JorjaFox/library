@@ -31,9 +31,8 @@ So how could Jorja do this to us? I was surprised when she entered the El Rio Gr
 
 &#8216;WILL I go back? Well, I hope to do fu ture episodes, depending on the storyline. Contrary to rumor, I never could be sick of those people. But I wanted to come back to New York, where I'd worked in the beginning; I hadn't been here in two years.
 
-"Theater is one of my loves, so I'm open for that after 11Â½ years of working in prime-time TV, for &#8216;ER,' &#8216;The West Wing' and &#8216;CSI.' I've never been to college, and I think about that. But I kept putting it off, and I am also thinking about having a child, and that's really important. Also, I want to do a lot of traveling and surfing - two of my hobbies. Maybe the universe will get tired of me. I have a one-woman little play about Dusty Springfield opening Feb. 2 at the Renberg Theater in Hollywood. . . . My private life? Well, I have a boxer named **Ali**, and I couldn't get on without him - you can't live in Los Angeles without a dog."
+"Theater is one of my loves, so I'm open for that after 11½ years of working in prime-time TV, for &#8216;ER,' &#8216;The West Wing' and &#8216;CSI.' I've never been to college, and I think about that. But I kept putting it off, and I am also thinking about having a child, and that's really important. Also, I want to do a lot of traveling and surfing - two of my hobbies. Maybe the universe will get tired of me. I have a one-woman little play about Dusty Springfield opening Feb. 2 at the Renberg Theater in Hollywood. . . . My private life? Well, I have a boxer named **Ali**, and I couldn't get on without him - you can't live in Los Angeles without a dog."
 
 I "don't" think the universe will get tired of Jorja Fox, and we dyed-in-the-wool "CSI" fans (Las Vegas version) are really going to miss her.
 
 [...]
-

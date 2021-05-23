@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,7 +24,7 @@ But Dempsey was murdered, not a suicide. His wife had been having an affair with
 
 Of course, Pernin hadn't known that Dempsey and Clegg had a different plan. Dempsey had given Clegg his high school game football, in which he had stored syringes with drugs that Pernin had given him. It was Pernin who shot Dr. Eller following the brain swap, hoping to cover that up.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Nick go over Clegg's car and find a yellow residue, which Sara is later able to match at the mortuary where Lt. Seligson rested, thus linking the scenes and Clegg. Later she and Greg go over Cleeg's receipts and find surveillance footage of Clegg and Dr. Eller meeting. She and Brass confront Pernin about the drugs found on both Clegg and Dempsey.
 
@@ -36,7 +36,6 @@ Sara and Nick go over Clegg's car and find a yellow residue, which Sara is later
 
 **Sidle:** Well, he was definitely into medicine, but I wouldn't trust him to drive my brain around.
 
-* * *
+- - -
 
-**Sidle:** You know chicken nuggets donât really look like that?* * *
-
+**Sidle:** You know chicken nuggets don'tt really look like that?

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 312
 
 Some bird watchers find a raven with a human eyeball in its mouth. This eventually leads our CSIs to a divorced man and his 2 children but not much else. Warrick and Grissom look into the circumstances of David's unusual and first autopsy. This takes them to a car dealership where the man worked.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works with Catherine and Nick on the body found in the dump, and she is the one to find the bloodstains in the kitchen. Examining the victim's suitcase, Sara 'models' lingerie for Nick (holds it up in front of herself). Sara is, unsurprisingly, displeased when it appears that the father may be having sex with his daughter.
 

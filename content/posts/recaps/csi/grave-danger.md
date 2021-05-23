@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,6 +18,6 @@ prodnum: 524 and 525
 
 The CSI teams come together to save one of their own when they learn one team member has been kidnapped and buried alive, and now they must find him before he suffocates under 5 feet of dirt.
 
-## Sara Sidle Review
+## Character Review
 
 When Grissom determines that the insects on Nick are fire ants, and that they're only found in certain areas, Sara remembers that the suspect's daughter worked in a nursery and pin-points which one, allowing them to find Nick.

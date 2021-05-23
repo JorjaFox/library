@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 405
 
 During Vegas's latest Heat wave of triple digit temperatures, Gil and Catherine investigate a baby locked in a car. Warrick investigates a man dead of an apparent heat stroke in his house. Nick and Sarah investigate a woman's body found floating in the lake with a blow to the head.
 
-## Sara Sidle Review
+## Character Review
 
 Sara is suspicious of the boyfriend until he's found dead, having tried to rescue the girl. Later she takes Nick to task for telling the family that their son was a hero.
 

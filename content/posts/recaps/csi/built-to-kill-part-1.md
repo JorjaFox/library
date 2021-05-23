@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,11 +20,13 @@ Robert O'Brien commits suicide at a Sam Braun's  party, with alprazolam in his s
 
 A performer at Cirque du Soleil's KA finds a dead body just off backstage. Celia Noel was accidently killed when sneaking backstage to see behind the scenes, and she was struck in the head by a prop.
 
-Brass receives a medal of valor for being shot in "Way to Go". Unhappy about the public reminder of his stupidity, Brass hides it away and goes to get a tattoo of the date he was shot, just below the scar from the bullet. After dancing at a bar with Nick, Catherine is drugged and wakes up naked in a hotel room. 
+Brass receives a medal of valor for being shot in "Way to Go". Unhappy about the public reminder of his stupidity, Brass hides it away and goes to get a tattoo of the date he was shot, just below the scar from the bullet. After dancing at a bar with Nick, Catherine is drugged and wakes up naked in a hotel room.
 
 Grissom finds an exact miniature replica of the crime scene he's investigating, while at the crime scene.
 
-## Sara Sidle Review
+_This episode concludes in [Built to Kill (Part 2)](/library/recaps/csi/built-to-kill-part-2/)_
+
+## Character Review
 
 Sara works the O'Brien case, and inquires as to how David is doing with his in laws. Sara teases Grissom in his office later, quoting him for effect. The two are quite obviously still in a relationship. While Sara's working with Warrick over lunch, Grissom brings her food: a veggie burger.
 
@@ -41,4 +43,3 @@ Sara works the O'Brien case, and inquires as to how David is doing with his in l
 - - -
 
 **Sidle:** _(to Grissom)_ According to my supervisor, we're not really in the business of why.
-

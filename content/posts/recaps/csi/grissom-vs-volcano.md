@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 409
 
 The sheriff is under political pressure to find who killed a Air Marshal with a car bomb that the sheriff witnessed. Grissom, Catherine and Nick are pressured to produce results. Warrick and Sara try to find the murderer of the wife of a singer who headlines on the strip.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Warrick discover that the singer's wife committed suicide. During the investigation, Sara comments on the lonely lives of celebrities and the media exposure they face.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,6 @@ prodnum: 233
 
 Sqweegel, a serial killer who is punishing local heroes that harbor hidden secrets, is on the hunt in Las Vegas.
 
-## Sara Sidle Review
+## Character Review
 
-While in the main credits, Jorja does not appear in this episode.
-
+_Sara Sidle does not appear in this episode._

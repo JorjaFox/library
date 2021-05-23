@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,15 +18,6 @@ prodnum: 285
 
 The CSIs need to ace the case involving a rising tennis star. Meanwhile, the CSIs are surprised to hear Hodges is engaged to an Italian bombshell.
 
-## Sara Sidle Review
+## Character Review
 
-* Sara Sidle does not appear in this episode.*
-
-## Character Notes
-
-* *Coming Soon*
-
-## Quotes
-
-* Coming Soon*
-
+_Sara Sidle does not appear in this episode._

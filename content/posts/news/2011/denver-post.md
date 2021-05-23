@@ -14,7 +14,7 @@ newsurl: http://www.denverpost.com/breakingnews/ci_17405414
 
 ---
 
-DENVER â international airport U.S. agriculture and customs officials have completed their inspection and now crates carrying 25 lions rescued from small traveling circuses in Bolivia are being unloaded.
+DENVER - international airport U.S. agriculture and customs officials have completed their inspection and now crates carrying 25 lions rescued from small traveling circuses in Bolivia are being unloaded.
 
 The animals, ferried to Colorado by Animal Defenders International's Operation Lion Ark, are en route to the Wild Animal Sanctuary near Keensburg.
 

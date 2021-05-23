@@ -17,7 +17,7 @@ episode: 14
 
 Johnny and Connie look for two little boys who went missing on their way home from school, while Bobby has the mysterious disappearance of a woman he met on a recent case on his hands. Carlos, Anita, Ray and Barbara spend the whole episode worrying about baby Carlito Ray who is sick.
 
-## Connie Karadzic Review
+## Character Review
 
 Two boys, Joel and Ronnie, were playing along the railroad tracks, accidentally end up stuck in a grain car when the train pulls out of the depot. Both boys are huge basketball fans and were in a rush to get to school to meet the Chicago Bulls, who were coming for a special assembly after winning their third straight championship. Connie notices the train yard and suspects the boys cut through in their excitement. Upon searching the yard, they find the boys' bookbags.
 

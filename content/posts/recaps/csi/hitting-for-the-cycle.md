@@ -5,7 +5,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -25,7 +25,7 @@ Nick and Ray get Benjamin Fowler, house sitting, found dead and tied up in the p
 
 Meanwhile, Doc Robbins has a new assistant, Kevin, from LA, who is egotistic and misogynistic. And who dies of natural causes at the end of the night. Doc Robbins bet on David, who found the body, and won the bet.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works with Greg on his cases, first the office worker, then the gamer. Sara is aware of the gambling going on for the cycle, but seems to have no interest in joining it. Others seem to be betting on her to win, though.
 

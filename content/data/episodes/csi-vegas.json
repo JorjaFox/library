@@ -1,14 +1,15 @@
 {
-"show" : "csi-vegas",
-"episodes": [
+  "show" : "csi-vegas",
+  "episodes": [
     {
-        "epnum": "1",
         "season": "1",
+        "epnum": "1",
+        "prodnum": "",
         "title": "Legacy",
         "slug": "0101-legacy",
         "airdate": "2021-10-06T22:00:00.000Z",
         "rating": "5",
         "summary": "TBD"
     }
-]
+  ]
 }

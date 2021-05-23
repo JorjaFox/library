@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ After digging his way out of a shallow grave, Jimmy Turelli stumbled out of the 
 
 They manage to match DNA at the scene to the most unlikely suspect, Mary Haymond. Mary was the driver of the car that hit and killed Jimmy on the road. Mary had been working with Zoe and her blackmail scam on hustlers. When Mary tried to bring Jimmy in on the deal, he balked and she killed him. Twice.
 
-## Sara Sidle Review
+## Character Review
 
 Sara goes with Morgan Brody to the after hours club 'The Rails' and find blood and snakeskin matching that which was found on the scene.
 
@@ -34,9 +34,7 @@ Sara goes with Morgan Brody to the after hours club 'The Rails' and find blood a
 **Brody** Confirms the Hornet's trick shot.  
 **Sidle:** Somebody used it for a different sort of trick.  
 
-* * *
+- - -
 
 **Brody** You ready for another weird?  
 **Sidle:** It's what keeps me coming back.  
----
-

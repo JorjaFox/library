@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,9 +18,6 @@ prodnum: 268
 
 The CSIs are brought in to solve the case of a recently murdered student whose death photo ends up trending on the Internet
 
-## Sara Sidle Review
+## Character Review
 
-_Sara does not appear in this episode._
-
-## Quotes
-
+_Sara Sidle does not appear in this episode._

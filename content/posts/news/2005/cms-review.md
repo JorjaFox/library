@@ -19,7 +19,7 @@ However, a more tangible problem that reality television has caused is a heavy i
 
 Jorja Fox explained how many actors, crew members, and writers have lost their jobs. "Many reality shows for example can use non-union crews, eating away at jobs that have belonged to union members for a long time." Fox further described how many actors have had to take large pay cuts in order to keep their jobs.
 
-It is easy to see how producers and network executives favor reality programming â low coast and large short term profits. But the long term might not look good. As Fox said, "Reality shows do not repeat well, rarely go into syndication, and almost never show up in video stores."
+It is easy to see how producers and network executives favor reality programming - low coast and large short term profits. But the long term might not look good. As Fox said, "Reality shows do not repeat well, rarely go into syndication, and almost never show up in video stores."
 
 [...]
 

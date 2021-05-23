@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,15 +24,10 @@ While Tommy was out working odd jobs, Miranda was 'entertaining' boys, one of wh
 
 It was Dylan's father who hunted down and killed Carl out of homophobia.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Finn investigate the bunker together and find both the girl's room as well as guns and the girl, Miranda. She also worked on the video, finding the body dump, and found Carl's hand in the desert.
 
 ## Character Notes
 
-* Sara is pretty blase picking up Carl's hand.
-
-## Quotes
-
-* Coming Soon*
-
+* Sara is pretty blasé picking up Carl's hand.

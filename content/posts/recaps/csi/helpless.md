@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,13 +20,6 @@ The discovery of a bludgeoned, bloody corpse inside a 'human hamster ball' (a si
 
 Meanwhile, Sara and Morgan Brody team up with Dawn Banks (played by Sherry Stringfield) of swing shift to handle an unsolved, serial, rape case. Morgan realizes that the serial rape cases were actually all setups in order to rape the third victim, Amy Morse. In the middle of the case, Dawn goes missing after confronting their prime suspect, however it turns out she attempted suicide after receiving (incorrect) news her son was dead.
 
-## Sara Sidle Review
+## Character Review
 
 Sara goes over the case details with Morgan and D.B. Russell.
-
-## Character Notes
-
-* N/A -- Sara is only in one scene
-
-## Quotes
-

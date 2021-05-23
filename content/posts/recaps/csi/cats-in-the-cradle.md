@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -28,9 +28,7 @@ Grissom and Catherine investigate the stabbing death of an 80-year-old woman who
 - - -
 
 **Sidle:** Liar, liar car on fire.
-  
 
 - - -
 
 **Sidle:** Sometimes a shot in the dark hits anyway.
-

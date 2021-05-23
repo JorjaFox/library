@@ -15,7 +15,7 @@ newsurl: http://www.channelguidemagblog.com/index.php/2015/09/28/csi-series-fina
 
 [...]
 
-At some point in the episode, another woman blows herself up, this time, it's a Lady Heather doppleganger outside of the mistresses' house. When the lookalike's car explodes, Brass catches on fire, but once he's extinguished by a fast-acting Sara, he stands there like a total bad-ass, proving once again that the former captain's cajones are made of â¦ well, brass.
+At some point in the episode, another woman blows herself up, this time, it's a Lady Heather doppleganger outside of the mistresses' house. When the lookalike's car explodes, Brass catches on fire, but once he's extinguished by a fast-acting Sara, he stands there like a total bad-ass, proving once again that the former captain's cajones are made of ... well, brass.
 
 Gil's in Vegas, sees his ex-wife Sara (#Awkward), and runs into a chipper redhead who flummoxes him to no end. Gil acts like an old, confused man.
 

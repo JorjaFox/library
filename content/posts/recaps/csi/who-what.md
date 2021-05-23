@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ A boy and his babysitter are brutally murdered during a home invasion. FBI Speci
 
 The episode concluded on _Without a Trace._
 
-## Sara Sidle Review
+## Character Review
 
 Sara gets called into work early, but walks Grissom's dog, Hank, before coming in. Jack Malone may have caught on to the fact that Grissom and Sara are dating, despite Grissom's claim that Sara is only his dog walker.
 
@@ -37,7 +37,7 @@ Sara works a day case where a second woman is found covered up after being raped
 **Malone** [...] Hank your kid?  
 **Grissom:** My dog.
 
-<hr width=50%>
+- - -
 
 **Grissom:** Sara? You okay?
 **Sidle:** I don't know.

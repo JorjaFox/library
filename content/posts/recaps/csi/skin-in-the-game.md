@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 295
 
 As Russell and his team investigate a series of murders, one of their own confronts peril on a dangerous undercover mission to get close to the killer.
 
-## Sara Sidle Review
+## Character Review
 
-**Sara Sidle** does not appear in this episode.
+_Sara Sidle does not appear in this episode._
 

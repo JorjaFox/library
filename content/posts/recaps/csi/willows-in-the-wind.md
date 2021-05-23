@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ Catherine survives being shot , thanks to Doc Robbins and an old stripper friend
 
 Going back over the remains from the burnt car, they find that Agent McQuaid and Laura Gabriel faked their deaths and planned to blackmail Mark Gabriel. They turned the tables on Laura, getting her husband to buy the hitmen, and McQuaid was killed by his own men when he tried to save Catherine.
 
-## Sara Sidle Review
+## Character Review
 
 Sara catches Nick up on Laura Gabriel's death when they get the call of shots fired near Catherine's house. Sara correctly makes the connection that the shots are actually at Catherine's house.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ Grissom is confronted with new evidence while on the stand of a murder trial of 
 
 Note: Warrick states that swing shift starts at 4 (pm), meaning that Graveyard (Sara, Greg and Grissom) is from midnight to 8 am.
 
-## Sara Sidle Review
+## Character Review
 
 Sara remains on the night shift, with Grissom and Greg -- Ecklie moves those he considers 'safe' to Swing; as Sara has always stood up for Grissom, she stays on Graveyard.
 

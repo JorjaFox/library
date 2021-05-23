@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -26,7 +26,7 @@ When Ruiz is found and brought in, they find another girl, hiding in his hauler.
 
 Trace evidence left on Ruiz's shirt points to the father being the shooter. By the time they determine that, he had already removed Jacinta from the hospital. Still, they're able to track them down and arrest the father as he lights his trailer on fire with Jacinta still inside. Morgan rushes in to save her. Jacinta confirms that her mother was dead, and their father faked the kidnapping to abuse them, but Rosa tried to save her sister.
 
-## Sara Sidle Review
+## Character Review
 
 Working a sex crime case while celebrating her anniversary long distance does not a happy Sara make. She disagrees with Doc Robbins as if the dead girl is better off dead. He feels she is, because the girl would never be whole. Sara feels she should have had the chance to try.
 
@@ -37,9 +37,9 @@ Working a sex crime case while celebrating her anniversary long distance does no
 * Sara doesn't believe death is a 'better' place, because there's no chance to try to heal.
 
 ## Quotes
+
 **Grissom:** *[Voicemail]* This is Gil Grissom. I'm unable to take your call, please leave a message.  
 **Sidle:** *[To her phone]* Hello, Gilbert. Happy Anniversary. I hope you're out there celebrating. And it's official, time differences really suck. Look, I miss you. I'm going to try to call you back later. It's been a while, you know, since we really caught up. Love you.  
-**Russel** *[To his phone]* ... nah, I'm taking good care of myself. Matter of fact, I had leftover pizza for breakfast... I'm kidding honey! ... I know you're needed up there, but I need you down here, too... Love you too, sweatheart. Bye bye.  
+**Russel:** *[To his phone]* ... nah, I'm taking good care of myself. Matter of fact, I had leftover pizza for breakfast... I'm kidding honey! ... I know you're needed up there, but I need you down here, too... Love you too, sweetheart. Bye bye.  
 **Sidle:** Welcome to the joys of long distance relationships.  
-**Russel** I don't know how you do it...
-
+**Russel:** I don't know how you do it...

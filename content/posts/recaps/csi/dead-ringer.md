@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 420
 
 Grissom, Catherine and Nick investigate the death of a runner during a competition. Meanwhile Sara and Warrick investigate the death of couple in a hotel room, initially thought to be a murder-suicide. Both cases take place during this 'cop' competition , with more than 20.000 attendants (all of them cops). This gives the investigations an interesting turn, as almost all the suspects and all dead people are cops.
 
-## Sara Sidle Review
+## Character Review
 
 Sara takes part in the police relay marathon, and hugs Greg when she finishes her leg of the course. Sara and Warrick investigate the deaths of two visiting cops, found dead in a hotel room -- they discover that one of the victims was married, and having an affair. Sara gets a little confrontational when questioning the woman the cop was having an affair with. Later Sara confronts the wife, and eventually they discover that she's the killer.
 
@@ -41,12 +41,10 @@ Sara takes part in the police relay marathon, and hugs Greg when she finishes he
 - - -
 
 **Sidle:** That's it? _(Franco nods)_ Are you sure? _(Franco looks at Sara, surprised that she'd ask)_ I-I'm sorry. It just doesn't make any sense. The sex kits came back negative, and now this. I mean, that room reeked of musk.
-  
 
 - - -
 
 **Sidle:** I don't know. Isn't the prevailing male fantasy two on one?
-  
 
 - - -
 

@@ -16,4 +16,4 @@ newsurl: http://www.vivamagonline.com/in-the-know-this-week-with-viva-05-28-2012
 
 [...]
 
-"'Did You Knowâ¦"' 'CSI: Miami' is getting the boot from the Fall season line-up, but Jorja Fox of 'CSI' will be back in September. [...]  
+"'Did You Know..."' 'CSI: Miami' is getting the boot from the Fall season line-up, but Jorja Fox of 'CSI' will be back in September. [...]  

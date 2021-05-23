@@ -22,6 +22,6 @@ By the way, has CBS tightened the show"s budget? How come we never actually saw 
 
 Seeing Doug definitely threw Sara for a loop, but while she ignored a call from Grissom, she never crossed any lines. Even the hug she gave Doug before he left town was less about wanting to connect him with him and more about just wanting to hold someone since she couldn"t hold her husband. He brought up some great memories for her, but Sara is not a cheater, and had things gone any further, I probably wouldn"t be writing these reviews anymore.
 
-It begs the question, thoughâ¦how is this story going to end? And should we even get our hopes up for a Grissom cameo by the end of the year?
+It begs the question, though...how is this story going to end? And should we even get our hopes up for a Grissom cameo by the end of the year?
 
 [...]  

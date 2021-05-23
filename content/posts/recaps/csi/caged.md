@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ When the female book restorer is found dead and locked inside a 'cage' a tempera
 
 Meanwhile, Catherine and Sara are sent to comb through the wreckage of a collision between a train and an SUV and find out if it is a case of road rage or simply an accident.
 
-## Sara Sidle Review
+## Character Review
 
 At the scene, when Sara finds the dog running loose, she's concerned about getting it back to its owner. Later she and Catherine track down the victim's last stop from the dog biscuits found in the wreck, and then examine the suspect's car to determine if it was at the scene.
 

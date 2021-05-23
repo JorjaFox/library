@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ Ryan turns out to have been a sexual fiend, sleeping with much of the school's f
 
 Diane was obsessed with Ryan, photographing him to excess in life, but also in death. After Sheila and Charlie left, Diane hit Megan with her car, leaving her for dead, and took Ryan's body. Diane killed herself, after setting up her camera to photograph them together in death. Megan is left paralyzed, and unable to remember the events of that night -- though Nick wonders if her amnesia is selective.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works Ryan's car, and when Warrick finds multiple pairs of panties, Sara observes that one night in college, her boyfriend offered her a pair of panties that weren't hers. As they'd claimed to be monogamous, Sara's boyfriend said the panties were his sister's. Warrick says he hopes her taste in men have improved, and Sara's reply is a slight smile.
 

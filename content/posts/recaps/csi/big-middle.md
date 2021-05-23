@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,9 +16,9 @@ prodnum: 516
 
 ## Synopsis
 
-Catherine, Nick, and Warrick investigate a badly mutilated body in the woods. The cause of death was a shotgun blast. Nearby is a beaver dam made in part with cash. Grissom, **Sara**, and Greg try to determine how a man was killed in a hotel room. It leads them to a convention of big women.
+Catherine, Nick, and Warrick investigate a badly mutilated body in the woods. The cause of death was a shotgun blast. Nearby is a beaver dam made in part with cash. Grissom, Sara, and Greg try to determine how a man was killed in a hotel room. It leads them to a convention of big women.
 
-## Sara Sidle Review
+## Character Review
 
 There's not much for Sara in this episode. She reprimands the cops at the station when they make fat jokes. She and Greg check the hotel surveillance tapes to discover when the women left the suspect's room, and later interviews one of the suspects. She knows the suspect is lying about the cause of death, but isn't quite sure what to do about it since it is a confession. Later, Sara, Greg and Grissom experiment with a weighted dummy to prove the circumstances of the accidental death, and Sara reinterviews the suspect.
 

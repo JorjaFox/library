@@ -23,7 +23,7 @@ No need to follow the clues anymore, because the mystery (finally!) stops here: 
 
 **JORJA FOX:** It's my call  and a very, very difficult one, something I've been thinking about for a long, long time. It's one of the hardest decisions I've made in my life. It has nothing to do with my contract, nothing to do with money.... It could be the stupidest thing I've ever done in my life. Only time will tell. 
 
-**Okay, butâ¦why?**
+**Okay, but...why?**
 
 There are so many things I want to do! Some are personal. Some are professional. And I really need to do some of them before I get too old.... It's a really intense place to work. A lot of the stories [on the show] do end sadly and badly. That's been one of the things I've struggled with  the violence. I'm not saying I'll never do another violent [project], because I'm sure that I'll be back in that world someday, but it's really good for me to take a break from it.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ Hannah and Marlon West  return as the prime suspects in the death of a college g
 
 The two cases are just the final straws for Sara -- she leaves Las Vegas, and she leaves Grissom.
 
-## Sara Sidle Review
+## Character Review
 
 The episode revolves around Sara's decision to leave Las Vegas.
 

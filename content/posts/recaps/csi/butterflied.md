@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 412
 
 A woman found murdered in her home. Her resemblance to Sara causes Grissom to take a personal interest in the case and forces him to examine the decisions he has made in his life.
 
-## Sara Sidle Review
+## Character Review
 
 Interrogating the murder suspect, Grissom confesses that he chose his career over Sara, unaware that she and Jim Brass are listening outside. This scene is the reason that Brass later asks if Sara has a drinking problem in "Early Rollout."
 

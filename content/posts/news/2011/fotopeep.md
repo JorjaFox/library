@@ -20,7 +20,7 @@ And now they are in Washington, launching a bill called the Traveling Exotic Ani
 
 The bill would:
 
-"[â¦]restrict the use of exotic and wild animals in traveling circuses," [and end the] 'random cruelty and neglect' found in these circuses.
+"[...]restrict the use of exotic and wild animals in traveling circuses," [and end the] 'random cruelty and neglect' found in these circuses.
 
 About the bill, Bob Barker said:
 

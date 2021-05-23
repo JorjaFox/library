@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 106
 
 Catherine violates department protocol when she takes the case of a rape accusation against her ex-husband. Warrick and Sara search for the missing bullet that will either exonerate or indict a cop for murder. Grissom and Nick investigate when a female skeleton is found under a house buried in cement.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Warrick work the police shooting. At first, Sara is sympathetic towards the cop suspect, but later gets aggressive when questioning him when they discover that he has a round missing from his gun. When Warrick goes off against the cop, Sara doesn't jump in with him, but she doesn't pull him back, either.
 
@@ -40,11 +40,9 @@ Sara and Warrick work the police shooting. At first, Sara is sympathetic towards
 - - -
 
 **Sidle:** _(to Tyner)_ And with a record like yours we're supposed to just take you at your word?
-  
 
 - - -
 
 **Sidle:** You think the bullet's somewhere in the jeep.  
 **Brown:** It's not in the body. It's not at the crime scene. I like our odds.  
 **Sidle:** Let's do it.
-

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ Grissom, Sara and Warrick are called on to investigate an abandoned, blood-splat
 
 Meanwhile, Nick and Catherine are called to the site of a large fire and are confronted with the scuba diver found dead in the top of a tree near Lake Mead. Is it a murder or an urban legend turned fact?
 
-## Sara Sidle Review
+## Character Review
 
 At the initial scene, Sara is trying to figure out what made the blood spatter on the walls, and Grissom tells her not to get ahead of herself. Sara spots the vent grid at the apartment, and then the fly egg on the vent. Sara refuses to let go of her theory that the girlfriend is dead, despite Grissom's comments to the contrary.
 

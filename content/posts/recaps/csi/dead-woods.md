@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,7 +16,7 @@ prodnum: 329
 
 ## Synopsis
 
-Abby Fisher, the sole survivor of a mass murder when her father, Barry. killed the family on a camping trip, is involved in a robbery gone bad with her bad-boy-boyfriend, Slade. While **Sara**, who worked the case a decade ago, is upset (she hates Slade), she's stunned to learn that Abby now remembers details about the case. Abby remembers that someone picked her up and put her in the sleeping bag, not knowing she was still alive, but the man had a beard and a smell that was not her father's.
+Abby Fisher, the sole survivor of a mass murder when her father, Barry. killed the family on a camping trip, is involved in a robbery gone bad with her bad-boy-boyfriend, Slade. While Sara, who worked the case a decade ago, is upset (she hates Slade), she's stunned to learn that Abby now remembers details about the case. Abby remembers that someone picked her up and put her in the sleeping bag, not knowing she was still alive, but the man had a beard and a smell that was not her father's.
 
 An autopsy and blood test of the exhumed body of the father shows he'd been drugged with a knockout drug. It's enough to reopen the case, and fingerprints belonging to registered sex offender Garth Fogel are found in the tent. Fogel's also the biological father of Hannah, Abby's older sister. Cathy, the mom, had told everyone that Hannah's father died in a car accident.
 
@@ -24,7 +24,7 @@ Fogel claims innocence. He found in about Hannah while in prison and looked them
 
 Abby IDs a hunter, Donald Wraith, as the man who shot her parents, but when the CSIs go to arrest him, Donald is dead. Shot in the head the same way the Fishers had been. Randy Pruitt, president of Wraith's hunting club, had killed him, and his prints match the unknowns found in the Fishers' tent. Randy and Donald wanted to rape the wife, so the drugged the husband but she fought back and Donald killed her. He and Randy had done this before.
 
-## Sara Sidle Review
+## Character Review
 
 Sara does not initially believe Abby, but after looking at the evidence, starts digging into the case. This ruffles a lot of feather, including Doc Robbins and Ecklie.
 
@@ -43,18 +43,18 @@ Sara does not initially believe Abby, but after looking at the evidence, starts 
 **Sanders:** In all the years we've been friends, you've never really talked about what happened with your dad. And I don't mean to pry, but--  
 **Sidle:** You know what happened. They had a ... volatile relationship. And... *[Sara's phone rings, ending the conversation]*  
 
-* * *
+- - -
 
 **Pruit** We hunt animals. Not human beings.  
 **Sidle:** Yeah? Well ... Some people can't tell the difference.  
 
-* * *
+- - -
 
 **Sidle:** Oh. 1D's playing at the Hard Rock tomorrow night.  
 **Abby Fisher** One Direction? Are you kidding?  
 **Sidle:** Nah, it's Lourde. I'll pick you up at seven.  
 
-* * *
+- - -
 
 **Sanders:** You look like your dad.  
 **Sidle:** He used to read to me when I was a kid. *Charlotte's Web*, my favorite. Must have read it a hundred times.  

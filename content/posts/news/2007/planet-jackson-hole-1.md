@@ -67,7 +67,7 @@ It might sound kind of hokey, but things are happening, and if you're paying tax
 
 PJH: What trend or recurring theme do you see in a lot of these films that interests you?
 
-JF: I think the programming at this festival is really magnificent, and I think the organizers did a phenomenal job of bringing in different films â some of them very thought-provoking. I also think the action sports category is off-the-hook and exhilarating. There are some deep messages in that, but also you want the thrill of life.
+JF: I think the programming at this festival is really magnificent, and I think the organizers did a phenomenal job of bringing in different films - some of them very thought-provoking. I also think the action sports category is off-the-hook and exhilarating. There are some deep messages in that, but also you want the thrill of life.
 
 For me, the most exciting thing happening right now in a lot of independent film in general is the Internet and the accessibility of people all over the world to get a camera and make a movie. I mean, every film here is a miracle. It's really hard to make a documentary or a feature and find the funding and take two or three years out of your life and make it happen. That to me is the most awesome thing about being here: the miracle of every piece of film that is here and the fact that these people did it and the fact that we're going to get together and build a community for a couple of days and see the films and talk about them and get to meet each other and talk about projects. That's really cool.
 

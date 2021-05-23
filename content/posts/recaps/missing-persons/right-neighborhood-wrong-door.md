@@ -17,7 +17,7 @@ episode: 10
 
 Bobby helps his mother with a private matter when a member of her church goes missing. Connie looks into habitual runaway and train hopper, Joey Pender (age 8). Johnny looks into a missing rich Lake Shore Drive accountant.
 
-## Connie Karadzic Review
+## Character Review
 
 While Joey has hopped on busses and trains before, he always turns himself in at the Kedzie station. His father is a long-distance truck driver, and since his mother makes a big deal about when his father comes home, Joey decided the best way to get attention was to go away. This time he's been out all night. Connie tracks Joey down to the A-train line and canvasses all the stations, as well as searching his house.
 

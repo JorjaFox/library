@@ -72,7 +72,7 @@ tags:
 
 **Host 2:** Exactly.
 
-**Host:** Before we get caught up and talk about what happens tonight, and the return of season 10, thereâs no way anyone, in the beginning, thought that _CSI_ would turn into one of the biggest hits in the history of television. When you guys started, I mean, this was something new on network television. Your show came out, doing stuff different. But nobody expected the juggernaut that it became, right?
+**Host:** Before we get caught up and talk about what happens tonight, and the return of season 10, there's no way anyone, in the beginning, thought that _CSI_ would turn into one of the biggest hits in the history of television. When you guys started, I mean, this was something new on network television. Your show came out, doing stuff different. But nobody expected the juggernaut that it became, right?
 
 **Jorja:** I thought a show about death, on a Friday night, was gonna be a gigantic clunker. Really, terrible, horrible, clunker. But the story was so intriguing to me, I sort of fell under a trance from the moment I read the script. I was like "Alright, well I have to do this!"
 

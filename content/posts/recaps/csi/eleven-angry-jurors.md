@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 411
 
 The lone holdout on a jury is found dead in the jury room. The eleven jurors who were voting guilty and who hated the dead juror are the natural suspects. Nick reopens a four year old case when the sister of the victim comes forward with new evidence.
 
-## Sara Sidle Review
+## Character Review
 
 Sara is fairly nondescript in this -- a good, general workman-like job with nothing standing out. She works with Warrick and Grissom on the jury case -- she is the one that finds the peanut butter in the victim's chili, and later she discovers the carcass of the 'killer' bee.
 

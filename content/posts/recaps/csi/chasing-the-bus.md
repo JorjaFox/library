@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 218
 
 Grissom and the entire crew investigate a deadly tour-bus accident in this change-of-pace episode. A bus carrying 23 passengers from Los Angeles to Las Vegas crashes less than 40 miles from its destination, killing nine people. Before he dies, the driver recalls that, moments before the wreck, the steering wheel began vibrating like a jackhammer in his hands, making it impossible for him to control the speeding vehicle. When the bus finally did come to a stop, it was on its right side on top of a sports car that was following it. At the scene, the CSIs discover that a recent parolee was on the bus, but is now unaccounted for--and that there's evidence of foul play.
 
-## Sara Sidle Review
+## Character Review
 
 Sara gathers tread scraps from the scene. Later she painstakingly separates them according to which vehicle they came from, and discovers chloroform on the inside of the bus tire that blew, proving sabotage.
 
@@ -38,17 +38,14 @@ Sara gathers tread scraps from the scene. Later she painstakingly separates them
 - - -
 
 **Sidle:** Shreds of rubber everywhere. Between the crash, and all the other interstate traffic it might as well be the Indy 500. This stuff could be from any vehicle.
-  
 
 - - -
 
 **Sidle:** A bolt. How nice. I've got twenty of them.
-  
 
 - - -
 
 **Sidle:** Greg, you're really good at what you do.
-  
 
 - - -
 
@@ -59,4 +56,3 @@ Sara gathers tread scraps from the scene. Later she painstakingly separates them
 
 **Vincent** You ever heard the phrase 'pissing up a rope'?  
 **Sidle:** Not in a scientific sense, no.
-

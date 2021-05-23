@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -28,7 +28,7 @@ Mary has a rare blood disorder, and Justin joined Bixton to steal the formula fo
 
 The subplot is Hodges and Elisabetta. He distrusts her for being at the retreat with Santo, whom she claims is her brother. Meanwhile she worries about Hodges' relationship with Morgan Brody, who claims they're just friends. But Hodges has been having second thoughts.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works with Doc Robbins in autopsy and later talks to the wife. When she goes to talk to Hodges later, and he's wearing a blue swimming cap with a bright flower on it, she doesn't want to ask, even though he claims to have worn it for her. Sara also digs deeper into the evidence, finding that Mary has a strange disease, and Justin was making a cure for her.
 

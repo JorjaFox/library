@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -32,7 +32,7 @@ As the CSI's interrogate Paul's wife, Ryan manages to ditch his cop bodyguard an
 
 Trace on the baby's clothes comes back positive for Rifampin, a drug used to treat meningitis, and also one that Ryan was taking. Ryan was the mastermind, killing the other four in order to get the money to take care of his son. 
 
-## Sara Sidle Review
+## Character Review
 
 Sara arrives on the scene with Nick and David Phillips, just as surprised as they are to learn about the fake loot and the thief's condition.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,9 +16,9 @@ prodnum: 422
 
 ## Synopsis
 
-Sam Braun is at it again. Based on a real life case of a several MIT engineering students who, in the 1970s, figured how to beat roullette by using physics. The results of this tactic prove deadly. Catherine learned last year that he's her dad after comparing her DNA with his blood when he was a murder suspect, and unwittingly helped him beat that charge. He later gave her a hefty check, which she cashed. Now Sam is again wanted for homicide when a man caught cheating at one of his casinos ends up dead. Grissom immediately dismisses Catherine from the case, but she finds it hard to stay away. Also, Nick gets the promotion that Sara coveted, but the position is recinded due to budget cuts.
+Sam Braun is at it again. Based on a real life case of a several MIT engineering students who, in the 1970s, figured how to beat roulette by using physics. The results of this tactic prove deadly. Catherine learned last year that he's her dad after comparing her DNA with his blood when he was a murder suspect, and unwittingly helped him beat that charge. He later gave her a hefty check, which she cashed. Now Sam is again wanted for homicide when a man caught cheating at one of his casinos ends up dead. Grissom immediately dismisses Catherine from the case, but she finds it hard to stay away. Also, Nick gets the promotion that Sara coveted, but the position is rescinded due to budget cuts.
 
-## Sara Sidle Review
+## Character Review
 
 Sara is stunned when she learns that Grissom recommended Nick for the promotion instead of her. When she confronts Grissom about it, he says that he doesn't have a problem with her, but that he recommended Nick because he didn't want the position; Sara is unhappy and more than a little disappointed about that.
 
@@ -44,9 +44,7 @@ Sara is stunned when she learns that Grissom recommended Nick for the promotion 
 - - -
 
 **Sidle:** _(confrontational)_ You said you didn't have a problem with me.  
-**Grissom:** I don't.  
-:[...]  
-**Grissom:** I thought that Nick was the best candidate for the position.  
+**Grissom:** I don't. I thought that Nick was the best candidate for the position.  
 **Sidle:** Why?  
 **Grissom:** Because he didn't care whether he got the job or not.  
 **Sidle:** _(in a hurt tone)_ That's a stupid reason.

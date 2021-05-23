@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 110
 
 The investigators work a trio of diverse cases that involve a murder, a theft and a disappearance in this intriguing episode. Grissom investigates the shooting death of a young woman when her bloodied and bug-infested body is found on a nearby mountain. Most of the circumstantial evidence points to the woman's abusive husband as the likely killer. But Grissom's not so sure, since his analysis of the bugs indicates that the victim was killed three days prior--when the hubby was out of town. Elsewhere, a man claims that a thief stole a valuable painting from his house, and a missing woman is feared dead when blood is found in her abandoned car.
 
-## Sara Sidle Review
+## Character Review
 
 A woman's body is found dumped on a hillside, swarming with bugs. 'I hate bees' is Sara's reaction, then shows herself to be a little squeamish when dealing with a bug-infested corpse. Sara carries beef jerky, which Grissom 'borrows' to feed the beetles he recovers from the corpse. In the break room, Sara is joking around with Nick.
 
@@ -38,7 +38,7 @@ This prompts Grissom to re-investigate the bugs, and Sara keeps Grissom company 
 * Sara feels empathy for victims, especially battered wives.  
 * Sara pays close attention to Grissom, remembering almost everything he's said; she also feels companionable towards him.  
 * Sara is unafraid to confront a supervisor when she thinks he's wrong, but she's not much on apologies.  
-* This is the case that turns Sara vegetarian. 
+* This is the case that turns Sara vegetarian.
 
 ## Quotes
 
@@ -48,12 +48,10 @@ This prompts Grissom to re-investigate the bugs, and Sara keeps Grissom company 
 - - -
 
 **Sidle:** I got news for you, Scott. Bleach doesn't make blood go away. You just can't see it with the naked eye.
-  
 
 - - -
 
 **Sidle:** _(pissed off)_ I'm a woman, and I have a gun, and look how he treated me! I can only imagine how he treated his wife!
-  
 
 - - -
 

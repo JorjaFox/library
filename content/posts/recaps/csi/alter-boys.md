@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ As Grissom, Nick and Sara investigate the seemingly clear-cut murder case, Griss
 
 Meanwhile, Catherine and Warrick must determine if the woman found dead in the hotel spa was the victim of negligence, foul play or heat-induced natural causes.
 
-## Sara Sidle Review
+## Character Review
 
 Both Sara and Nick apologize to Grissom when they jump the gun with the evidence, presenting the case to the D.A. before all the facts are known. Later they find bloodstained clothing and the possible murder weapon at the suspect's trailer, but neither are usable as evidence.
 
@@ -39,7 +39,7 @@ Both Sara and Nick apologize to Grissom when they jump the gun with the evidence
 - - -
 
 **Sidle:** Pizza guy wasn't so smart. Dry cleaning bakes in blood.
-  
+
 - - -
 
 **Stokes:** Could be red sauce.  
@@ -49,4 +49,3 @@ Both Sara and Nick apologize to Grissom when they jump the gun with the evidence
 
 **Grissom:** He transported them. Show me the gun with Ben's prints on it. Gun shot residue, the ligature, the ...  
 **Sidle:** ... The holes in Christ's hands, Doubting Thomas?
-

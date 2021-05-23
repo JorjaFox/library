@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ A notorious serial slayer, brought to justice by Russell and Finn years ago, fac
 
 The Gig Harbor Killer, Jared Briscoe, murdered 7 college students and staged his last three crime scenes to look like CSI had already been there. 
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Nick process the primary crime scene, with Sara working the blood. Later she processes the missing PI's car and finds the intentionally left blood 'spatter' on the ceiling.
 

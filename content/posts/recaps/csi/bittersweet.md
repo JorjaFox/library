@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,7 +16,7 @@ prodnum: 254
 
 ## Synopsis
 
-Nick takes Doc Robbins' niece out on a date to a museum, where he runs into a crime scene. A piece of art is dripping decomposed human goo. The artist, Slade, claims he found it 'as is' so the CSIs go to his junkyard, and find more body parts encased in cement. This reminds Nick of an old case of **Sara**'s, where a husband and wife team kidnapped girls, killed them, dismembered them and encased them in cement. The wife, Gina Sinclair, is still alive and has been released from prison, having claimed it was all her husband's fault.
+Nick takes Doc Robbins' niece out on a date to a museum, where he runs into a crime scene. A piece of art is dripping decomposed human goo. The artist, Slade, claims he found it 'as is' so the CSIs go to his junkyard, and find more body parts encased in cement. This reminds Nick of an old case of Sara's, where a husband and wife team kidnapped girls, killed them, dismembered them and encased them in cement. The wife, Gina Sinclair, is still alive and has been released from prison, having claimed it was all her husband's fault.
 
 DB hands the case to Sara, who takes apart the concrete blocks with the body parts and finds a young girl with sexual trauma. Sara follows up on Gina Sinclair and takes her to task. Sara finds nothing in Gina's apartment, but the victim, Samantha Chase, has pomeranian dog hair in her fingernails -- the same type of dog that Gina Sinclair owns. Before they can prove anything, Colleen, the only living victim, goes missing, and Mr. Burrows has tied up and beaten Gina. They rescue Gina, but can't find Colleen or prove she killed Samantha.
 
@@ -24,7 +24,7 @@ When they find Samantha, it's Colleen who's kidnapped her and is torturing her, 
 
 Greg and Morgan find an overweight body dumped, with strange lividity, who had been drowned in a vat of chocolate. The man had once been a model for a chocolate company, but after gaining weight, he'd been fired and eventually drowned himself in chocolate.
 
-## Sara Sidle Review
+## Character Review
 
 Catherine warns DB not to let Sara get too close to this case, as this is the sort of thing that she will get too close to.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,6 +18,6 @@ prodnum: 257
 
 When a Jane Doe is found near the freakish attractions of a 19th-century-inspired traveling sideshow, the team investigates a cast of unusual characters.
 
-## Sara Sidle Review
+## Character Review
 
-Sara does not appear in this episode.
+_Sara Sidle does not appear in this episode._

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ Multiple bombs go off at the funeral of Officer Clark, killed by Dr. Jekyll at t
 
 The episode ends with a staged dumped body left boobytrapped with a bomb. "This isn't over," announces Catherine, knowing that the far right-wingers will still be attacking the LVPD.
 
-## Sara Sidle Review
+## Character Review
 
 Still at the hospital after checking on Nick , Sara is on hand when Ray is brought in, having been stabbed by Nate Haskell. Sara works with Catherine on the bomb site afterwards. The affect of the bombing on the families touches Sara deeply, making her wish she could hit someone. She later does, when attacked at the right-wing meeting. Sara visits Ray at the hospital, when she gets her hand bandaged, and discusses with him the possibility of a radio-controlled plane being used to set of the bomb.
 
@@ -34,7 +34,7 @@ We don't see Sara again still the end of the episode where she is clearly exhaus
 
 **Sidle:** Hey, bomber. We've got your number.
 
-* * *
+- - -
 
 **Sidle:** Just say no, huh?  
 **Langston:** Hear you pack a real mean right hook.  

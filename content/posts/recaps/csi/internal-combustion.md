@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -26,7 +26,7 @@ Unknown to his friends, Trevor had started to race his car at the police sanctio
 
 Renata got Cindy, her BFF, to 'borrow' Trevor's car so Renata could race it against her own car, driven by Gus, her uncle and guardian, in an illegal street race to prove that Trevor's car was better than Renata's. During the race, Gus accidentally hit, and killed, Cindy. Afterword, Renata and Gus take the car to the Demons, who part out the damaged parts and replace and repair.
 
-## Sara Sidle Review
+## Character Review
 
 Sara goes to the high school to find Trevor's girlfriend, Cindy, and works with Nick in processing Trevor's car. Later, working with Hodges, Sara determines how Cindy died, recognizing the injuries on her legs from previous experiences .
 
@@ -40,6 +40,3 @@ When investigating the race, Sara flirts with the boys, talking about cars, in o
 
 **Stokes:** Putting an electric motor in this [car] is sacrilegious.  
 **Sidle:** Not a polar bears.
-
-* * *
-

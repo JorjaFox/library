@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ Both Ray and Becky were having affairs -- Becky with her boss and Ray was being 
 
 Through it all, Ray insists he slept through it, but the CSIs are quite sure he and the daughter are covering for each other. But they can't prove it.
 
-## Sara Sidle Review
+## Character Review
 
 Sara drives Nick and Warrick to the scene; there, she processes the stairs and is the first one to realize that the victim didn't fall as was reported. Sara shares an interesting scene with Grissom in the wife's bedroom. They discuss the reasons a couple may sleep in separate rooms (Sara saying snoring and other mundane reasons). Grissom suggests that they were suffocating each other. Sara comments on sex and romance and gives Grissom a look. Grissom walks off without commenting and they go on to find evidence in the case and move on.
 

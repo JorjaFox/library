@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 122
 
 Grissom and his crew investigate when a young woman is strangled in her home, apparently the third victim of a serial killer. The crime scenes all have a common, mystifying element: this murderer really cleans them up, removing all traces of hair or fibers, and even plants misleading evidence. Just when things couldn't get any worse, Grissom learns that the sheriff has called in the FBI to take over the investigation. Grissom thinks the feds have the wrong guy, but his convictions get him thrown off the case. Working on their own time, however, Grissom and his colleagues pore over the forensic evidence in their quest to bring the real killer to justice. The FBI rile Grissom even more when he hears that they plan to use Sara as a decoy.
 
-## Sara Sidle Review
+## Character Review
 
 This is very much a Sara episode, even though she's only in part of it. A rape/homicide case, the third that's occurred recently -- Sara is more than a little pissed off when she sees the victim at the scene. The killer cleans up after himself, so little evidence is found and when the FBI arrives, Sara volunteers to be part of a decoy operation, to try and get the killer to grab her. Grissom protests strongly, but that doesn't stop Sara from going ahead with the FBI operation, which turns up nothing. After Grissom is kicked off the case by the Sheriff, Sara is part of the team that meets in his apartment to go over the case and their findings.
 

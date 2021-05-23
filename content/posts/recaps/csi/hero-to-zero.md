@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ While looking for more evidence, Morgan Brody and Greg stumble across two more h
 
 The killer turns out to be Seth, Brad's stepfather.
 
-## Sara Sidle Review
+## Character Review
 
 Sara makes sure the homeless man, Roger, is fed and clothed back at the station before talking to him.
 

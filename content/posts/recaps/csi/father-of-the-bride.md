@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 249
 
 Nick and Greg have a barn full of scattered body parts to piece together -- without names or heads to identify them. Langston's old nemesis, Nate Haskell, is back in action and playing his usual game of five-level chess against the LVPD.
 
-## Sara Sidle Review
+## Character Review
 
-**Sara Sidle** does not appear in this episode.
+_Sara Sidle does not appear in this episode._
 

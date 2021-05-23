@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ A roller coaster runs off track leaving 6 people dead. The CSI team must uncover
 
 _Note: This episode was originally titled 'A Turn of the Screws' and then 'A Screw Turned Loose' before being titled 'Turning of the Screw'. After going through so many titles, they decided to stick closer to the original and titled it 'Turn of the Screws'._
 
-## Sara Sidle Review
+## Character Review
 
 Sara, Nick and Greg arrive at the scene; Greg is carrying Sara's kit. Sara is a bit amused when Greg seems confused by Grissom's question about questions, but avoids directly answering him. Sara knows about the Henry James' novel 'A Turn of the Screw', but thinks of it as a mystery rather than a horror novel. Sara seems to enjoy working in close proximity with Grissom under the coaster loading platform, where she finds a greasy substance on the support frame; they requisition the maintenance guy's pipe wrench, and later Sara finds another pipe wrench in the park employee's car. Sara and Nick go through the coaster photos, and discover that the dead employee had sex on the coaster the night before; she and Grissom go and question 'Cleopatra', who confirms it -- Sara nods when Cleo explains that the employee was a hot guy who didn't notice her. Hodges identifies the greasy substance Sara found, and she discovers who had a prescription for that particular ointment, showing off to Grissom with a trivia question about the real Cleopatra. Sara and Brass talk to the suspect, and Sara grabs prints from his broom -- later she and Grissom question the suspect, and she realizes why he killed the park employee.
 
@@ -46,7 +46,6 @@ Sara, Nick and Greg arrive at the scene; Greg is carrying Sara's kit. Sara is a 
 - - -
 
 **Sidle:** Oh, roller coaster wacko at 12:00.
-  
 
 - - -
 

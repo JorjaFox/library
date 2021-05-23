@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ Ryan Lester is a porn producer, killed in the tub similarly to the Paul Millande
 
 Ray and Doc Robbins find a backlogged corpse with a surprise inside: his small intestine is died green and tied around his spleen. The man died of natural causes, and the body shows no sign of incisions. They suspect it was done laparoscopically but Ray finds it difficult to duplicate those results. Nicknaming the killer Dr. Jekyll, they determine he took the corpse' bow tie, and suspect they will see his handiwork again.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Nick are the first CSIs on the scene for Ryan Lester. While inspecting Craig Mason's room, Sara recognizes the horror mask made by Paul , as well as the fake hand. When Nick tells her Craig's full name, Sara connects him to the split personality serial killer. Sara attempts to connect with Craig, over their similarly traumatic past, but he hates all CSIs and refuses to cooperate.
 
@@ -36,16 +36,16 @@ Sara apologizes to Craig before they release him. Craig confesses that he never 
 
 **Sidle:** [deadpan] Jeepers creepers.
 
-* * *
+- - -
 
 **Sidle:** Dave! Hi. I missed your face.
-  
 **Phillips:** I missed you too.  
 **Sidle:** How's your wife?  
-**Phillips:** Good. What did you hear?* * *
+**Phillips:** Good. What did you hear?
+
+- - -
 
 **Brass:** [...] He hates CSIs. Even mentioned Grissom's name a few times.
-  
 **Sidle:** Well. Then I won't mention that I'm Mrs. Grissom.  
 **Brass:** You took his name?  
 **Sidle:** Uh, no.

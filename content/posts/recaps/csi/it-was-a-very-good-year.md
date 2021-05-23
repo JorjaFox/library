@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ Back in the sixties, a man named Tommy Grazetti killed Ledo Wright to get in wit
 
 Vinyl tracings found on Alison's body are traced back to a rare Sinatra record, which was purchased by a Sinatra impersonator at Tommy/Ledo's Rat Pack club. Alison had bought the record for Greg. The Frank Sinatra impersonator, a little off his rocker, killed her over it and dumped her in the piano, which was picked up for it's scheduled maintenance, and then dumped in the desert by the terrified driver.
 
-## Sara Sidle Review
+## Character Review
 
 Sara was mostly in the background this episode.
 

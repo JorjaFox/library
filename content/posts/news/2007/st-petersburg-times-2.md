@@ -23,7 +23,7 @@ Despite all the fan furor, Fox and CSI producers eventually admitted that Sidle 
 
 As you'll see in this review I wrote for today's paper, **I found watching CSI episodes comparable to getting random pokes from a tiny acupuncture needle;** jabs delivered every time something totally outlandish happens onscreen.
 
-Which meant watching this week's episode went down like this: I see Fox's Sara Sidle and another CSI tech are the first cops called to a crime scene by a nervous patrolman investigating a possible missing woman â no detectives or backup in sight. "**Jab!"**
+Which meant watching this week's episode went down like this: I see Fox's Sara Sidle and another CSI tech are the first cops called to a crime scene by a nervous patrolman investigating a possible missing woman - no detectives or backup in sight. "**Jab!"**
 
 After the abusive husband shows up and freaks out, the tech hanging with Sidle wonders "How are we going to handle this?...He's obviously abusing her," forgetting that, as a CSI tech, her job basically is to collect evidence. "**Poke!"**
 
@@ -37,7 +37,7 @@ Still, as an occasional viewer, it feels odd watching Fox's Sidle do so much: ma
 
 Considering that she recently survived a serial killer's attack, we're hardly surprised that an increasingly distant Sidle decides to walk away from the CSI unit to pull her life together.
 
-Fans tried sending CBS everything from airplane banners to cash-filled envelopes to stop it. **And the actress' departure is open-ended enough to allow a return** â presuming the Hollywood writers' strike and Fox's problems with CBS are resolved â which may leave diehard supporters feeling a little victorious.
+Fans tried sending CBS everything from airplane banners to cash-filled envelopes to stop it. **And the actress' departure is open-ended enough to allow a return** - presuming the Hollywood writers' strike and Fox's problems with CBS are resolved - which may leave diehard supporters feeling a little victorious.
 
 This casual viewer mostly felt disappointed. In the same way Sidle slips out of the CSI unit with little fanfare, producers eased Fox out of their rotation with an uninspired episode which most makes you happy this downer of a character is out the door.
 

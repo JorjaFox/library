@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 415
 
 The whole team is called in from off-duty to investigate a crime where a husband and his porn star wife were murdered execution style. Things get personal for Catherine when Grissom talks to her about her evaluation. Brass believes that Sara may have a drinking problem.
 
-## Sara Sidle Review
+## Character Review
 
 Brass notices that Sara is popping cough drops at the scene, and later confronts her about it, wondering if she has a drinking problem (as a result of what he witnessed in "Butterflied"). Sara assures him that she had a couple of beers after she got off work, and that's it. At the scene, Sara finds the cigarette butts and orange remains in the side yard. Later in the lab, she and Warrick document the money found on the killers.
 

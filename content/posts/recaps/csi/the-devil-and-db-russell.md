@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -28,7 +28,7 @@ Morgan survives, but claims to the CSIs that Matthew shot Morgan and Ellie kille
 
 In the present, the CSIs are at the funeral of Jim Brass' ex wife, and Ellie's mother, Nancy.
 
-## Sara Sidle Review
+## Character Review
 
 Initially Sara is still in San Francisco when Morgan initial goes missing, however she had returned around the time the SUV was discovered. When Ecklie called her in, Sara checked up on and verified Father Larson's claims about Oliver Tate's ties to some of the missing girls.
 

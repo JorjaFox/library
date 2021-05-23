@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,6 +22,6 @@ Meanwhile, a retired cop who used the psychic for help on a 15 year old case of 
 
 Grissom, who has steadfastly maintained that science will always crack the case in the end, shows Greg Sedona's 'death' book, in which she has written generic phrases to use when speaking of the dead. One of those phrases clued the retired cop into where he should be looking, but only by the power of suggestion..
 
-## Sara Sidle Review
+## Character Review
 
-Jorja Fox did not appear in this episode
+_Sara Sidle does not appear in this episode._

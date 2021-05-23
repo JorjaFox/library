@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,9 +22,6 @@ Meanwhile, back in Las Vegas, Greg and Sara work a case where a couple is buried
 
 Both women were having portraits done by the same artist. Ana's father had hired Keith Garner, Ana's art teacher, to do a portrait of her. Keith was also Claire's art teacher, 15 years ago. 
 
-## Character Notes
-
 ## Quotes
 
 **Sidle:** That's one hell of a body dump.
-

@@ -24,9 +24,9 @@ It was when she and that other cop went to Warrick's house to get him an outfit 
 
 I could actually imagine homicide police or whatever saying something like that, if not physically doing it. Female cops especially. 
 
-It was certainly more realistic than George Eads's theory about the wet towel . . . it was towards the end, and they're gearing up for the big chase after the dodgy cop-killing cop, and George â Nick in the show â swans in to the empty hotel room and spying a towel screwed up on the bed, picks it up, finds it's still damp, and announces they've just missed him. He's obviously never arrived home at the end of the day to find a mass of towel somewhere strange, still wet 10 hours after it's been used. 
+It was certainly more realistic than George Eads's theory about the wet towel . . . it was towards the end, and they're gearing up for the big chase after the dodgy cop-killing cop, and George - Nick in the show - swans in to the empty hotel room and spying a towel screwed up on the bed, picks it up, finds it's still damp, and announces they've just missed him. He's obviously never arrived home at the end of the day to find a mass of towel somewhere strange, still wet 10 hours after it's been used. 
 
-Sara would never have said that line. Maybe that's why she's no longer on the show. Although from those ads last week she must be in at least one more episode â it looked like she and Grissom were doing some naked post-something cuddling from where I was sitting. 
+Sara would never have said that line. Maybe that's why she's no longer on the show. Although from those ads last week she must be in at least one more episode - it looked like she and Grissom were doing some naked post-something cuddling from where I was sitting. 
 
 [...]
 

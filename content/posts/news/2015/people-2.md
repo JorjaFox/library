@@ -19,7 +19,7 @@ Beyond being entranced by the newly sophisticated level of high-tech forensic in
 
 "All we wanted to do was sort of have a real relationship that exists sometimes in the workplace where there's a little thing that happens," says Petersen. "And that becomes a little bit more of a thing. We never wanted to have a romance. We didn't want to stop the show for that. So what was fun was finding the little ways we could fall for each other." 
 
-"The fact that the audience who did love these stories and mysteries would actually care a little bit about the personal lives of these characters was an even more gigantic compliment," says Fox, 47, admitting the series "probably changed my life in every way conceivable â¦. The stuff I've gotten to do and the places I've gotten to go, and the dark places and the high places. I got to get married. Almost died, actually nine times. I was literally out of lives -- like, 'I'm a cat! I need to get off this show right now because I'm done!' It's been incredible." 
+"The fact that the audience who did love these stories and mysteries would actually care a little bit about the personal lives of these characters was an even more gigantic compliment," says Fox, 47, admitting the series "probably changed my life in every way conceivable .... The stuff I've gotten to do and the places I've gotten to go, and the dark places and the high places. I got to get married. Almost died, actually nine times. I was literally out of lives -- like, 'I'm a cat! I need to get off this show right now because I'm done!' It's been incredible." 
 
 [...]
 

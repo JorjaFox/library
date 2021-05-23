@@ -19,11 +19,11 @@ Disclaimer: Jorja Fox's is not a typical success story. The *CSI: Crime Scene In
 
 **You've been playing the role of Sara on *CSI* for 14 years. Do you ever think about the show coming to an end?**
 
-Every year we think about it a little bit. Most shows are picked up one season at a time, so there's always a moment where you think, âThis could be it.' And if it is, then wow, what an amazing ride we've had. *CSI* grounds me, and I'm so grateful for the work that Sara gets to do. Maybe if we went on for another 14 years I might get tired, but so far, so good! [Laughs] I'll be there.
+Every year we think about it a little bit. Most shows are picked up one season at a time, so there's always a moment where you think, 'This could be it.' And if it is, then wow, what an amazing ride we've had. *CSI* grounds me, and I'm so grateful for the work that Sara gets to do. Maybe if we went on for another 14 years I might get tired, but so far, so good! [Laughs] I'll be there.
 
 **You've starred on three of the most popular dramas in the history of TV--*ER*, *The West Wing* and *CSI*. Who's your favorite leading man from each show?**
 
-Uh-oh! [Laughs] I've been fortunate to work with so many amazing leading men. First is Noah Wyle from *ER*. He's amazingly charming, shy and an incredibly intelligent guy. On *The West Wing*, I'm going with DulÃ© Hill. He'd break into dance at any given time during filming. I really enjoyed that, and him! For *CSI*, I'll say Eric Szmanda, who plays Sanders. Eric was barely legal when he first started on the show.
+Uh-oh! [Laughs] I've been fortunate to work with so many amazing leading men. First is Noah Wyle from *ER*. He's amazingly charming, shy and an incredibly intelligent guy. On *The West Wing*, I'm going with Dulé Hill. He'd break into dance at any given time during filming. I really enjoyed that, and him! For *CSI*, I'll say Eric Szmanda, who plays Sanders. Eric was barely legal when he first started on the show.
 
 **You also appeared on the historic coming-out episode of Ellen. Did you realize the importance of that moment at the time?**
 

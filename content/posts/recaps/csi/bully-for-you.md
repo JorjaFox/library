@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ The student, who is also the top jock on campus, is found shot in the back in th
 
 Meanwhile, Sara and Nick investigate a case involving a severely decomposed body of an Army veteran found in a bag.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Nick work the case of a liquified corpse found in a bag, which was shoved down a hillside. During the recovery of the body, Sara and Nick meet EMT Hank Peddigrew, whom Sara seems attracted to. Hank hits on Sara, but is repulsed by the smell of decomposition clinging to her. They eventually identify the body as that of an ex Army officer who was down on his luck, and arrest the owner of a nightclub for the murder. After several comments from colleagues, Sara showers with lemons (Grissom's suggestion) to get rid of the smell.
 

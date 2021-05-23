@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ Meanwhile, the dead body was run of Fred Blanchard, ex-boyfriend of the deceased
 
 When the house is searched for Fred's murder weapon, a skeleton is found in the walls with papers. DNA confirms the body is Tony Perella, the father of Marla, but not Jimmy and Dwayne. The print on the knife that killed Fred matches Walter Hicks, who had been in prison for assault. He came back and killed Fred, just as he'd killed Tony for sleeping with Lois.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Nick talk about Nick's dating life as they come to the crime scene. When Sara goes back to the lab, she officially meets Finn. Back at the house, when the Hicks' siblings argue, Sara leans on the horn till they shut up.
 
@@ -37,7 +37,7 @@ In the end, the siblings fight again over the house and Finn threatens to take a
 
 **Sidle:** Siblings like that kinda make me glad I'm an only child.  
 
-* * *
+- - -
 
 **Sidle:** That's ... one killer house.
 

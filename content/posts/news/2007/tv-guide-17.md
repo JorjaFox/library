@@ -37,7 +37,7 @@ Now that Jorja Fox has officially confirmed the/ worst kept secret in the TV biz
 
 **There were reports that the original plan was to kill her off in the finale, but Jorja refused to show up to work and shoot her death scene. Is that true?**
 
-**Mendelsohn:** Noâ¦ I don't, as a fan or a writer, embrace killing off characters -- especially when you see this outpouring that we have gotten from the fans in support of keeping Jorja and Sara on the show; it has just been mind-boggling. [We] owe the fans so much and I don't think killing off Sara Sidle would have ever been a way to pay a satisfactory ending for Sara.
+**Mendelsohn:** No... I don't, as a fan or a writer, embrace killing off characters -- especially when you see this outpouring that we have gotten from the fans in support of keeping Jorja and Sara on the show; it has just been mind-boggling. [We] owe the fans so much and I don't think killing off Sara Sidle would have ever been a way to pay a satisfactory ending for Sara.
 
 **So what kind of send-off *are* you giving her?**
 

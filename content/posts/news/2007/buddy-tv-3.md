@@ -14,7 +14,7 @@ newsurl: http://www.buddytv.com/articles/csi/more-on-jorja-foxs-possible-ex-6214
 
 ---
 
-As we told you **last week**, speculation is running rampant about whether **Jorja Fox**, who plays Sara Sidle, will be leaving **CSI**. Now more possible details have emerged â but are they true? You be the judge. 
+As we told you **last week**, speculation is running rampant about whether **Jorja Fox**, who plays Sara Sidle, will be leaving **CSI**. Now more possible details have emerged - but are they true? You be the judge. 
 
 Beware of possible spoilers for the upcoming season finale, set to air May 17.
 

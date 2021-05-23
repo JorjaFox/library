@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 423
 
 A casino employee is beaten and raped on her way home from work, but she survives and identifies her attacker. Unfortunately, a DNA test sets him free and Grissom must wrestle with whether evidence can ever lie. Later, Grissom comes to the rescue of a coworker who ends up on the other side of the law.
 
-## Sara Sidle Review
+## Character Review
 
 After they discover that the promotion was cancelled, Sara, Nick and Warrick go out for a few drinks. Sara is later picked up for DUI, and Grissom -- as her supervisor -- is notified and takes her home.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -26,7 +26,7 @@ The accidental ringleader behind the evening's mayhem was Bobby Reed, son of a c
 
 The gun behind the killing was printed on a 3-D printer, owned by Roland Zaal, however trace of it was found on the hands of a, presumed, tourist witness, Anthony Paak. They trap Paak, but he won't turn on Zaal, and the printer can't be found. Chastity skips town before things get worse, but leaves Brass the ring.
 
-## Sara Sidle Review
+## Character Review
 
 Sara doesn't like working the street, and seems much more comfortable back in the lab.
 
@@ -38,7 +38,7 @@ The merry prankster calls her Detective Seagull, though Sara corrects him. When 
 **Sgt. Weiss** It is a little crazy. Full moon tonight.  
 **Sidle:** You know, not to discount the crazy, but no lunar affect on human behavior has ever been established.  
 
-* * *
+- - -
 
 **Sidle:** This grass ain't hay.
 

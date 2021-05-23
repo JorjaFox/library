@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -52,7 +52,7 @@ When Brass finally wakes up completely, he sees all the CSI's outside the room, 
 
 Grissom, in a bedroom, talks about how he'd like to know before he dies. He'd like the time to say goodbye and do the things he'd never been able to do before. As he talks, Sara comes out of the bathroom, with damp hair, in a bathrobe and says she's not ready to say goodbye yet. Grissom smiles.
 
-## Sara Sidle Review
+## Character Review
 
 Sara spends most of her time working on the corset angle of the Carson case. When Brass wakes up, Sara cries and hugs Warrick and Nick, who are standing beside her. As the episode ends, Grissom and Sara are shown togeather, in a bedroom, both wearing bathrobes and quite obviously in a relationship.
 

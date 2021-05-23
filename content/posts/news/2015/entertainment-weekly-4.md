@@ -27,17 +27,16 @@ No, but really, at a certain point in the second hour, 'Immortality' went full s
 :"'Sara"': 'You should. Do you?'  
 :"'Heather"': 'Do I what?'  
 :"'Sara"': 'Love him.'  
-:"'Heather"': 'â¦No.'
+:"'Heather"': '...No.'
 
 [...]
 
-Don't believe me? When it turned out the bad guy was Doug Hutchinson all along, he blamed all his actions on Grissom -- because Grissom stole Lady Heather's heart. I quote directly: ''You came along, and you turned her heart. "She quit role-playing because of you. SHE QUIT HER PRACTICE BECAUSE OF YOU. SHE QUIT MEâ¦ BECAUSE OF YOU!!!"'
+Don't believe me? When it turned out the bad guy was Doug Hutchinson all along, he blamed all his actions on Grissom -- because Grissom stole Lady Heather's heart. I quote directly: ''You came along, and you turned her heart. "She quit role-playing because of you. SHE QUIT HER PRACTICE BECAUSE OF YOU. SHE QUIT ME... BECAUSE OF YOU!!!"'
 
 This led Grissom to give a good long speech about the 52-Hertz Whale, a lovelorn semi-mythic mega-creature who sings a love song at a frequency far too low for a lady whale to ever hear him. Grissom was the whale, kind of -- for the finale of a show set in a landlocked desert town, there was a lot of ocean imagery in 'Immortality.'
 
 In the end, Willows declared that she wanted to come back to Las Vegas, to take care of her casino and some orphan children and her daughter, the rookie CSI. And Sara got to take over as director of the CSI program. 'Vegas is lucky to have you,' said Grissom. 'The oceans are lucky to have you,' said Sara.
 
-The show ended with Sara and Grissom together, boating off into the distance. 'Immortality' tied that finale into some larger notion of the show as Grissom's rehumanization. 'I'd lost my belief in humanityâ¦ she restores my faith in the human being.' Thus, all of "CSI" was the story of a man of science, learning to become a man of faith. Or something.
+The show ended with Sara and Grissom together, boating off into the distance. 'Immortality' tied that finale into some larger notion of the show as Grissom's rehumanization. 'I'd lost my belief in humanity... she restores my faith in the human being.' Thus, all of "CSI" was the story of a man of science, learning to become a man of faith. Or something.
 
 [...]
-

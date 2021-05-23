@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -26,7 +26,7 @@ The original plan was for Shea to lure Chevy to the supplier where Vitas worked,
 
 Ray works a case of a suicide in jail of a woman, Carla York, who claims she was innocent of killing her husband, James. Hodges assists him in proving that not only was Carla innocent, but her sister committed the crime. The sister confesses, but claims she did it to save Carla's daughter from James, who had multiple other children with other women, all of whom were 'messed up.'
 
-## Sara Sidle Review
+## Character Review
 
 Sara is one of the primaries on the case, collecting evidence and interviewing suspects. After the case is solved, she calls Ray to ask him to join them bowling. Sara is not a great bowler, but seems to enjoy herself.
 
@@ -38,10 +38,10 @@ Sara is one of the primaries on the case, collecting evidence and interviewing s
 
 **Sidle:** We're not even letting him wash his hands. You think we're gonna let you bowl?
 
-<hr width=50% />
+- - -
 
 **Sidle:** When did bowling become so serious? 
 
-<hr width=50% />
+- - -
 
 **Sidle:** Bag without a ball, head without a body. At least we know what we're looking for.

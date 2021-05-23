@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,9 +20,6 @@ Things get personal for the CSIs in the top-rated series' third-season finale, w
 
 Lockwood's death provides Grissom and his crew with added incentive to find the murderous culprits. But the case really hits home for Catherine when the evidence leads to casino owner Sam Braun, who is like a father to her. Also, Grissom's hearing gets progressively worse and he seeks out Dr. Robbins for help.
 
-## Character Notes
-
 ## Quotes
 
 **Sidle:** This [crime] was the epitome of precision.
-

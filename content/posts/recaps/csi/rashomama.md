@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,7 +24,7 @@ Much of the episode is told via flashbacks, and everyone's version of the event 
 
 At the end of the episode, Grissom states that it doesn't matter which one of them Internal Affairs speaks with first, as their stories will all be the same.
 
-## Sara Sidle Review
+## Character Review
 
 There is a duality to Sara in this episode -- she goes from pessimistic and negative (voicing her opposition to tradition, her commentary on marriage) to humorous and cheerful (the guy flirting with her, comments to Nick). She doesn't like people who blindly follow traditions -- demonstrating some 'Grissom-esque' recall on the subject of marriage -- but she also says that she's not anti-wedding. While waiting for IAB, she takes a nap in the locker room (face down on the bench), and is enthusiastic when Catherine wakes her to process the car. Despite the situation -- stolen evidence and an IAB investigation -- she doesn't let herself get frustrated.
 
@@ -46,12 +46,10 @@ There is a duality to Sara in this episode -- she goes from pessimistic and nega
 - - -
 
 **Sidle:** Ah tradition, like becoming property exchanged between your father and your husband.
-  
 
 - - -
 
 **Sidle:** _(voiceover)_ Can the love be real when the flowers aren't?
-  
 
 - - -
 

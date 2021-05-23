@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 221
 
 Grissom and Sara investigate when a man's body, which has been doused with lye, is found buried in a park; Nick tries to determine how a hiker apparently drowned in a desert.
 
-## Sara Sidle Review
+## Character Review
 
 Sara provides a solid job, working with Grissom on the body found in the park which becomes a hit-and-run/homicide. Sara appears irritated when the suspect keeps changing their story.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 210
 
 An undercover cop is killed by a possibly racist police officer under suspicious circumstances. The witnesses, who are primarily black, claim the white officer who shot the black cop did so when the deceased was already down, contradicting what the officer says. The evidence backs up the witnesses, and the rookie officer didn't see what happened. A second case at a school appears to be a gang execution of a snitch, but the cases intersect when the two victims turn out to have been talking regularly. The killing is proven to be coincidental, but the accused killer committed suicide before the CSI's can clear him.
 
-## Sara Sidle Review
+## Character Review
 
 Sara returns from visiting Grissom in Paris for a week. She joins Ecklie at the morgue to help identify the body and work with the autopsy, before heading to crime scene to work with Greg. At the autopsy, she recognizes that based on the color of the body fat, the dead police officer was a vegetarian, which makes his ordering burgers from a fast food meat restaurant very strange.
 
@@ -33,6 +33,6 @@ When the second case comes in, Sara picks it up. When Nick calls the phone of a 
 **Ecklie:** Sara, good to see you back from your week of in Paris.  
 **Sidle:** Ecklie. Dr. Grissom sends his regards.
 
-* * *
+- - -
 
 **Sidle:** If there's a bullet in his ass ... his ass is evidence.

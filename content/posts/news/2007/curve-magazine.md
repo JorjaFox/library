@@ -79,23 +79,23 @@ Wow, this has been very lucky for me. Like obviously if I had to pick something 
 
 **So jeans and a T-shirt and you're good.**  
   
-For the most part, yeah. It goes with the guitar and surfboard. The attention to beauty in Los Angeles, I think, is a really cool thing. It extends in everything: home dÃ©cor, the cars people drive â¦ everything, and certain neighbourhoods, down to the medians and how well they're manicured, and I think that's so rare. There's so many visual artists here, and they pay a lot of attention to making life more beautiful and pleasing. In restaurants, the design is really cool, so I love all that, but I also love being in Beverly Hills in my jeans and boots because it feels actually kind of scandalous. Oops, forgot my Prada today! I get a certain joy and satisfaction out of that.
+For the most part, yeah. It goes with the guitar and surfboard. The attention to beauty in Los Angeles, I think, is a really cool thing. It extends in everything: home décor, the cars people drive ... everything, and certain neighbourhoods, down to the medians and how well they're manicured, and I think that's so rare. There's so many visual artists here, and they pay a lot of attention to making life more beautiful and pleasing. In restaurants, the design is really cool, so I love all that, but I also love being in Beverly Hills in my jeans and boots because it feels actually kind of scandalous. Oops, forgot my Prada today! I get a certain joy and satisfaction out of that.
 
 **Do you like vintage looks?**  
   
-I'm a lot more likely to do that if I'm dressing up. You know what I also love? I love wearing business suits. That's something that just happened to me in the past year. I have never even owned a tailored shirt in my life, and I guess I figured I have my whole life to move into business suits. This year I've been lucky enough, especially sort of like charity events and stuff that are often business attire, so it's the first year that I've actually bought a couple of suits and some shirts. Off the rack, again I would go Theory at Fred Segal. They have really great stuff. And J. Crew makes great suits for ready-to-wear suits. â¦[T]here's a store called Clover in Silverlake and Pull My Daisy, and they don't have a huge selection of suits, but what they do have is really interesting and it's cut nicely and it sort of has a little flair to it, like something different, but still really nice stuff and well made. I go there a lot.
+I'm a lot more likely to do that if I'm dressing up. You know what I also love? I love wearing business suits. That's something that just happened to me in the past year. I have never even owned a tailored shirt in my life, and I guess I figured I have my whole life to move into business suits. This year I've been lucky enough, especially sort of like charity events and stuff that are often business attire, so it's the first year that I've actually bought a couple of suits and some shirts. Off the rack, again I would go Theory at Fred Segal. They have really great stuff. And J. Crew makes great suits for ready-to-wear suits. ...[T]here's a store called Clover in Silverlake and Pull My Daisy, and they don't have a huge selection of suits, but what they do have is really interesting and it's cut nicely and it sort of has a little flair to it, like something different, but still really nice stuff and well made. I go there a lot.
 
 **Do you wish you could change your hairstyle?**  
   
-I've been acting since I was like 20, so there were years that I wanted to have more punk rock or more rock ân' roll style. Every time I would dye my hair, I'd get a job, and three days later I'd be back in the place dyeing it back to my natural colour. For a while, it was almost like that thing, like actors have little tricks, like when they need a job, they plan a vacation, so [I would say to myself] if I colour my hair purple, I'll get work, and I kind of like that. There is still a part of me, [though] I think I'm getting a little too old for it. But a lot of those really rebellious hairstyles, I would love to do some of those. Like tiger stripes.
+I've been acting since I was like 20, so there were years that I wanted to have more punk rock or more rock 'n' roll style. Every time I would dye my hair, I'd get a job, and three days later I'd be back in the place dyeing it back to my natural colour. For a while, it was almost like that thing, like actors have little tricks, like when they need a job, they plan a vacation, so [I would say to myself] if I colour my hair purple, I'll get work, and I kind of like that. There is still a part of me, [though] I think I'm getting a little too old for it. But a lot of those really rebellious hairstyles, I would love to do some of those. Like tiger stripes.
 
 **You wore a vintage Chanel to the Emmys. Do you have a favourite red-carpet look?**  
   
 Oh my gosh, just barely presentable, really. Fashion is not my specialty, and especially like, black tie. It's really not my specialty. Like, I know what I like. There's weird things because it's specific, too. It's not like just kind of going to a regular party, as you know, so it's gotta be comfortable. It's gotta be like, nine-hour comfortable because, as you know, from the time you hit the red carpet until the time you get home, it's usually about nine or 10 hours.
 
-**And the shoes can be killersâ¦**  
+**And the shoes can be killers...**  
   
-That's the key. You learn these funny little things, you know, I've had to leave those kinds of events because I just couldn't walk anymore in my shoes. And I don't want that to happen anymore. I kind of feel like, I want to be able to stay to the end and not leave because I can't feel my legs â and have fun and be able to dance and eat and breathe. I'm a real stickler for that. I don't wear just any trains. I'm a clod, anyway. That's a bad combination for me.
+That's the key. You learn these funny little things, you know, I've had to leave those kinds of events because I just couldn't walk anymore in my shoes. And I don't want that to happen anymore. I kind of feel like, I want to be able to stay to the end and not leave because I can't feel my legs - and have fun and be able to dance and eat and breathe. I'm a real stickler for that. I don't wear just any trains. I'm a clod, anyway. That's a bad combination for me.
 
 **How do you describe your personal style?**  
   
@@ -115,7 +115,7 @@ I'm a natural products kind of person because I'm a freak, so I'm a big Aveda pe
 
 **At Aveda?**  
   
-No, not so much Aveda. There's a couple places in town. I usually go to Burke Williams all the time. Ona Spa, I go there. Usually I do something really non-invasive because there's the other thing, too, I don't go that much â¦ I'd like to go more, but again with my schedule, it's hard to commit, you know how sometimes facials can mess up your skin for a few days. Because we're shooting nine months out of the year, I don't really like to risk it, so I go for the very like, they have an Ayurvedic facial, I think it's at the Four Seasons, like all this Ayurvedic stuff, and it's really gentle stuff â¦ no peels or anything like that. I'm not big on that stuff.
+No, not so much Aveda. There's a couple places in town. I usually go to Burke Williams all the time. Ona Spa, I go there. Usually I do something really non-invasive because there's the other thing, too, I don't go that much ... I'd like to go more, but again with my schedule, it's hard to commit, you know how sometimes facials can mess up your skin for a few days. Because we're shooting nine months out of the year, I don't really like to risk it, so I go for the very like, they have an Ayurvedic facial, I think it's at the Four Seasons, like all this Ayurvedic stuff, and it's really gentle stuff ... no peels or anything like that. I'm not big on that stuff.
 
 **Do you wear perfumes on the set?**  
   
@@ -123,11 +123,11 @@ Again, because I'm kind of sensitive to chemicals, so I don't ever wear perfume,
 
 **Like Lavender?**  
   
-You know what? I love lavender, it's one of my favourite scents, but I think I read in some â¦ big magazine that lavender is a really great scent, but when people were tested on it, it sort of was a nurturing, mothering scent to most people, so I don't wear it all the time. I would never wear it on a date. I would never wear it if I was trying to, you know, sort of work my sensual side. Obviously if I'm hanging out with my grandmother or I'm going to the beach, I'll douse myself with the lavender because I love it.
+You know what? I love lavender, it's one of my favourite scents, but I think I read in some ... big magazine that lavender is a really great scent, but when people were tested on it, it sort of was a nurturing, mothering scent to most people, so I don't wear it all the time. I would never wear it on a date. I would never wear it if I was trying to, you know, sort of work my sensual side. Obviously if I'm hanging out with my grandmother or I'm going to the beach, I'll douse myself with the lavender because I love it.
 
 **Then what is a sexy scent? Musk?**  
   
-Yeah, the musks I think are really sexy, and the Body Shop has some really nice ones actually, and they do oils and they do perfumes. And I still like the muskier scents like patchouli and amber and â¦ even like citrus, sort of like an orange spice something.
+Yeah, the musks I think are really sexy, and the Body Shop has some really nice ones actually, and they do oils and they do perfumes. And I still like the muskier scents like patchouli and amber and ... even like citrus, sort of like an orange spice something.
 
 **A lot of perfumes smell a little too frou-frou.**  
   

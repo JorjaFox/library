@@ -3,6 +3,7 @@
 "episodes": [
   {
     "epnum": "1",
+    "prodnum": 100,
     "season": "1",
     "title": "Pilot",
     "slug": "pilot",
@@ -13,6 +14,7 @@
   },
   {
     "epnum": "2",
+    "prodnum": 101,
     "season": "1",
     "title": "Cool Change",
     "slug": "cool-change",
@@ -23,6 +25,7 @@
   },
   {
     "epnum": "3",
+    "prodnum": 103,
     "season": "1",
     "title": "Crate 'n Burial",
     "slug": "crate-n-burial",
@@ -33,6 +36,7 @@
   },
   {
     "epnum": "4",
+    "prodnum": 104,
     "season": "1",
     "title": "Pledging Mr. Johnson",
     "slug": "pledging-mr-johnson",
@@ -43,6 +47,7 @@
   },
   {
     "epnum": "5",
+    "prodnum": 105,
     "season": "1",
     "title": "Friends & Lovers",
     "slug": "friends-lovers",
@@ -53,6 +58,7 @@
   },
   {
     "epnum": "6",
+    "prodnum": 106,
     "season": "1",
     "title": "Who Are You?",
     "slug": "who-are-you?",
@@ -63,6 +69,7 @@
   },
   {
     "epnum": "7",
+    "prodnum": 107,
     "season": "1",
     "title": "Blood Drops",
     "slug": "blood-drops",
@@ -73,6 +80,7 @@
   },
   {
     "epnum": "8",
+    "prodnum": 108,
     "season": "1",
     "title": "Anonymous",
     "slug": "anonymous",
@@ -83,6 +91,7 @@
   },
   {
     "epnum": "9",
+    "prodnum": 109,
     "season": "1",
     "title": "Unfriendly Skies",
     "slug": "unfriendly-skies",
@@ -93,6 +102,7 @@
   },
   {
     "epnum": "10",
+    "prodnum": 110,
     "season": "1",
     "title": "Sex, Lies and Larvae",
     "slug": "sex-lies-and-larvae",
@@ -103,6 +113,7 @@
   },
   {
     "epnum": "11",
+    "prodnum": 102,
     "season": "1",
     "title": "I-15 Murders",
     "slug": "i-15-murders",
@@ -113,6 +124,7 @@
   },
   {
     "epnum": "12",
+    "prodnum": 111,
     "season": "1",
     "title": "Fahrenheit 932",
     "slug": "fahrenheit-932",
@@ -123,6 +135,7 @@
   },
   {
     "epnum": "13",
+    "prodnum": 112,
     "season": "1",
     "title": "Boom",
     "slug": "boom",
@@ -133,6 +146,7 @@
   },
   {
     "epnum": "14",
+    "prodnum": 113,
     "season": "1",
     "title": "To Halve and to Hold",
     "slug": "to-halve-and-to-hold",
@@ -143,6 +157,7 @@
   },
   {
     "epnum": "15",
+    "prodnum": 114,
     "season": "1",
     "title": "Table Stakes",
     "slug": "table-stakes",
@@ -153,6 +168,7 @@
   },
   {
     "epnum": "16",
+    "prodnum": 115,
     "season": "1",
     "title": "Too Tough To Die",
     "slug": "too-tough-to-die",
@@ -163,6 +179,7 @@
   },
   {
     "epnum": "17",
+    "prodnum": 116,
     "season": "1",
     "title": "Face Lift",
     "slug": "face-lift",
@@ -173,6 +190,7 @@
   },
   {
     "epnum": "18",
+    "prodnum": 117,
     "season": "1",
     "title": "$35K O.B.O.",
     "slug": "35k-obo",
@@ -183,6 +201,7 @@
   },
   {
     "epnum": "19",
+    "prodnum": 118,
     "season": "1",
     "title": "Gentle, Gentle",
     "slug": "gentle-gentle",
@@ -193,6 +212,7 @@
   },
   {
     "epnum": "20",
+    "prodnum": 119,
     "season": "1",
     "title": "Sounds of Silence",
     "slug": "sounds-of-silence",
@@ -203,6 +223,7 @@
   },
   {
     "epnum": "21",
+    "prodnum": 120,
     "season": "1",
     "title": "Justice is Served",
     "slug": "justice-is-served",
@@ -213,6 +234,7 @@
   },
   {
     "epnum": "22",
+    "prodnum": 121,
     "season": "1",
     "title": "Evaluation Day",
     "slug": "evaluation-day",
@@ -223,6 +245,7 @@
   },
   {
     "epnum": "23",
+    "prodnum": 122,
     "season": "1",
     "title": "The Strip Strangler",
     "slug": "the-strip-strangler",
@@ -233,6 +256,7 @@
   },
   {
     "epnum": "1",
+    "prodnum": 201,
     "season": "2",
     "title": "Burked",
     "slug": "burked",
@@ -243,6 +267,7 @@
   },
   {
     "epnum": "2",
+    "prodnum": 202,
     "season": "2",
     "title": "Chaos Theory",
     "slug": "chaos-theory",
@@ -253,6 +278,7 @@
   },
   {
     "epnum": "3",
+    "prodnum": 203,
     "season": "2",
     "title": "Overload",
     "slug": "overload",
@@ -263,6 +289,7 @@
   },
   {
     "epnum": "4",
+    "prodnum": 204,
     "season": "2",
     "title": "Bully for You",
     "slug": "bully-for-you",
@@ -273,6 +300,7 @@
   },
   {
     "epnum": "5",
+    "prodnum": 205,
     "season": "2",
     "title": "Scuba Doobie-Doo",
     "slug": "scuba-doobie-doo",
@@ -283,6 +311,7 @@
   },
   {
     "epnum": "6",
+    "prodnum": 206,
     "season": "2",
     "title": "Alter Boys",
     "slug": "alter-boys",
@@ -293,6 +322,7 @@
   },
   {
     "epnum": "7",
+    "prodnum": 207,
     "season": "2",
     "title": "Caged",
     "slug": "caged",
@@ -303,6 +333,7 @@
   },
   {
     "epnum": "8",
+    "prodnum": 208,
     "season": "2",
     "title": "Slaves of Las Vegas",
     "slug": "slaves-of-las-vegas",
@@ -313,6 +344,7 @@
   },
   {
     "epnum": "9",
+    "prodnum": 209,
     "season": "2",
     "title": "And Then There Were None",
     "slug": "and-then-there-were-none",
@@ -323,6 +355,7 @@
   },
   {
     "epnum": "10",
+    "prodnum": 210,
     "season": "2",
     "title": "Ellie",
     "slug": "ellie",
@@ -333,6 +366,7 @@
   },
   {
     "epnum": "11",
+    "prodnum": 211,
     "season": "2",
     "title": "Organ Grinder",
     "slug": "organ-grinder",
@@ -343,6 +377,7 @@
   },
   {
     "epnum": "12",
+    "prodnum": 212,
     "season": "2",
     "title": "You've Got Male",
     "slug": "youve-got-male",
@@ -353,6 +388,7 @@
   },
   {
     "epnum": "13",
+    "prodnum": 213,
     "season": "2",
     "title": "Identity Crisis",
     "slug": "identity-crisis",
@@ -363,6 +399,7 @@
   },
   {
     "epnum": "14",
+    "prodnum": 214,
     "season": "2",
     "title": "The Finger",
     "slug": "the-finger",
@@ -373,6 +410,7 @@
   },
   {
     "epnum": "15",
+    "prodnum": 215,
     "season": "2",
     "title": "Burden of Proof",
     "slug": "burden-of-proof",
@@ -383,6 +421,7 @@
   },
   {
     "epnum": "16",
+    "prodnum": 216,
     "season": "2",
     "title": "Primum Non Nocere",
     "slug": "primum-non-nocere",
@@ -393,6 +432,7 @@
   },
   {
     "epnum": "17",
+    "prodnum": 217,
     "season": "2",
     "title": "Felonious Monk",
     "slug": "felonious-monk",
@@ -403,6 +443,7 @@
   },
   {
     "epnum": "18",
+    "prodnum": 218,
     "season": "2",
     "title": "Chasing the Bus",
     "slug": "chasing-the-bus",
@@ -413,6 +454,7 @@
   },
   {
     "epnum": "19",
+    "prodnum": 219,
     "season": "2",
     "title": "Stalker",
     "slug": "stalker",
@@ -423,6 +465,7 @@
   },
   {
     "epnum": "20",
+    "prodnum": 220,
     "season": "2",
     "title": "Cats in the Cradle",
     "slug": "cats-in-the-cradle",
@@ -433,6 +476,7 @@
   },
   {
     "epnum": "21",
+    "prodnum": 221,
     "season": "2",
     "title": "Anatomy of a Lye",
     "slug": "anatomy-of-a-lye",
@@ -443,6 +487,7 @@
   },
   {
     "epnum": "22",
+    "prodnum": 222,
     "season": "2",
     "title": "Cross Jurisdictions",
     "slug": "cross-jurisdictions",
@@ -453,6 +498,7 @@
   },
   {
     "epnum": "23",
+    "prodnum": 223,
     "season": "2",
     "title": "The Hunger Artist",
     "slug": "the-hunger-artist",
@@ -463,6 +509,7 @@
   },
   {
     "epnum": "1",
+    "prodnum": 302,
     "season": "3",
     "title": "Revenge is Best Served Cold",
     "slug": "revenge-is-best-served-cold",
@@ -473,6 +520,7 @@
   },
   {
     "epnum": "2",
+    "prodnum": 301,
     "season": "3",
     "title": "The Accused is Entitled",
     "slug": "the-accused-is-entitled",
@@ -483,6 +531,7 @@
   },
   {
     "epnum": "3",
+    "prodnum": 303,
     "season": "3",
     "title": "Let the Seller Beware",
     "slug": "let-the-seller-beware",
@@ -493,6 +542,7 @@
   },
   {
     "epnum": "4",
+    "prodnum": 304,
     "season": "3",
     "title": "A Little Murder",
     "slug": "a-little-murder",
@@ -503,6 +553,7 @@
   },
   {
     "epnum": "5",
+    "prodnum": 305,
     "season": "3",
     "title": "Abra-Cadaver",
     "slug": "abra-cadaver",
@@ -513,6 +564,7 @@
   },
   {
     "epnum": "6",
+    "prodnum": 306,
     "season": "3",
     "title": "The Execution of Catherine Willows",
     "slug": "the-execution-of-catherine-willows",
@@ -523,6 +575,7 @@
   },
   {
     "epnum": "7",
+    "prodnum": 307,
     "season": "3",
     "title": "Fight Night",
     "slug": "fight-night",
@@ -533,6 +586,7 @@
   },
   {
     "epnum": "8",
+    "prodnum": 308,
     "season": "3",
     "title": "Snuff",
     "slug": "snuff",
@@ -543,6 +597,7 @@
   },
   {
     "epnum": "9",
+    "prodnum": 309,
     "season": "3",
     "title": "Blood Lust",
     "slug": "blood-lust",
@@ -553,6 +608,7 @@
   },
   {
     "epnum": "10",
+    "prodnum": 310,
     "season": "3",
     "title": "High and Low",
     "slug": "high-and-low",
@@ -563,6 +619,7 @@
   },
   {
     "epnum": "11",
+    "prodnum": 311,
     "season": "3",
     "title": "Recipe for Murder",
     "slug": "recipe-for-murder",
@@ -573,6 +630,7 @@
   },
   {
     "epnum": "12",
+    "prodnum": 312,
     "season": "3",
     "title": "Got Murder?",
     "slug": "got-murder",
@@ -583,6 +641,7 @@
   },
   {
     "epnum": "13",
+    "prodnum": 313,
     "season": "3",
     "title": "Random Acts of Violence",
     "slug": "random-acts-of-violence",
@@ -593,6 +652,7 @@
   },
   {
     "epnum": "14",
+    "prodnum": 314,
     "season": "3",
     "title": "One-hit Wonder",
     "slug": "one-hit-wonder",
@@ -603,6 +663,7 @@
   },
   {
     "epnum": "15",
+    "prodnum": 315,
     "season": "3",
     "title": "Lady Heather's Box",
     "slug": "lady-heathers-box",
@@ -613,6 +674,7 @@
   },
   {
     "epnum": "16",
+    "prodnum": 316,
     "season": "3",
     "title": "Lucky Strike",
     "slug": "lucky-strike",
@@ -623,6 +685,7 @@
   },
   {
     "epnum": "17",
+    "prodnum": 317,
     "season": "3",
     "title": "Crash & Burn",
     "slug": "crash-burn",
@@ -633,6 +696,7 @@
   },
   {
     "epnum": "18",
+    "prodnum": 318,
     "season": "3",
     "title": "Precious Metal",
     "slug": "precious-metal",
@@ -643,6 +707,7 @@
   },
   {
     "epnum": "19",
+    "prodnum": 319,
     "season": "3",
     "title": "A Night at the Movies",
     "slug": "a-night-at-the-movies",
@@ -653,6 +718,7 @@
   },
   {
     "epnum": "20",
+    "prodnum": 320,
     "season": "3",
     "title": "Last Laugh",
     "slug": "last-laugh",
@@ -663,6 +729,7 @@
   },
   {
     "epnum": "21",
+    "prodnum": 321,
     "season": "3",
     "title": "Forever",
     "slug": "forever",
@@ -673,6 +740,7 @@
   },
   {
     "epnum": "22",
+    "prodnum": 322,
     "season": "3",
     "title": "Play With Fire",
     "slug": "play-with-fire",
@@ -683,6 +751,7 @@
   },
   {
     "epnum": "23",
+    "prodnum": 323,
     "season": "3",
     "title": "Inside the Box",
     "slug": "inside-the-box",

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,11 +24,11 @@ Nick and Finn go to a Vore party where they find nothing but roleplayers, but Ga
 
 Between Gary and Owen's interviews, the CSIs trace the location of the Eater's 'dining room' to Bell Organic Pesticides, which closed in 2011. The knife is there, but no prints or DNA. The sketch is shared with the news, and a security guard claims to have arrested the guy. Only when he leaves the man alone in the car (handcuffed), he ... eats his way out.
 
-However the hand is not one that was recently chewed off. The security guard was a liar, Todd Burris claims the hand was given to him by the Eater, who sucked him in with his aura. And then Todd dies from cyanide poisoning, in interrogation. Among Todd's belongings are mementos from Brenda and Dennis. 
+However the hand is not one that was recently chewed off. The security guard was a liar, Todd Burris claims the hand was given to him by the Eater, who sucked him in with his aura. And then Todd dies from cyanide poisoning, in interrogation. Among Todd's belongings are mementos from Brenda and Dennis.
 
 Gary swears that Todd was not the Eater, but the CSIs are split. Todd, perhaps, was the Eater, killing himself to let his legend live on. Or perhaps he was not. We'll never know.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works first the video angel, then Brenda's home, and finally Bell Organic Pesticides' location.
 
@@ -40,5 +40,4 @@ Sara, the vegetarian, noticed that Brenda ate a jelly donut wrapped around a ham
 
 ## Quotes
 
-**Sidle_: The tale of the cannibal who eats through his own wrist just to escape. That's boogeyman level stuff.
-
+**Sidle**: The tale of the cannibal who eats through his own wrist just to escape. That's boogeyman level stuff.

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ Lawyer Malcom Turner and his staff are all murdered by people armed with FN-P90.
 
 She's rescued by D.B., who shows up just in time to drive her away, however Catherine has been shot. Her fate is left unknown until the next episode, "Willows In The Wind".
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Morgan investigate the lawyers offices, where the victims were killed, but initially find no evidence. In fact the place is too clean, prompting Sara to mention Natalie Davis: the janitor who was a killer. It's also Sara who takes apart a birthday card sent to Catherine's mother, but labeled for Catherine. The card is signed by Laura's father (who's been dead 20 years) and only handled by Laura. When Sara takes it apart, she finds a hidden memory chip with photos.
 
@@ -31,6 +31,3 @@ Sara and Morgan investigate the lawyers offices, where the victims were killed, 
 ## Quotes
 
 **Sidle:** You know, the only janitor I knew who cleaned this throughly turned out to be a serial killer.
-
-* * *
-

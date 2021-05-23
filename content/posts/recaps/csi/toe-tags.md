@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,12 +18,12 @@ prodnum: 701
 
 This episode is told partly from the perspective of the dead, as five bodies in the morgue 'come to life' in the afterlife. Meanwhile, Grissom teaches a class to the students from UNLV, showing them around the CSI labs and morgues.
 
-#An escort (who was also a cop) is killed by a high-roller for causing him bad luck.  
-#A woman is killed by her husband for being too attractive.  
-#A soldier is knifed to death by a man who had inhaled a toxic substance.  
-#Two men are killed in a freak chainsaw accident.
+* An escort (who was also a cop) is killed by a high-roller for causing him bad luck.  
+* A woman is killed by her husband for being too attractive.  
+* A soldier is knifed to death by a man who had inhaled a toxic substance.  
+* Two men are killed in a freak chainsaw accident.
 
-## Sara Sidle Review
+## Character Review
 
 Grissom, Sara and Brass work a case where two men died from a chainsaw accident. The door was kicked in, making it appear as an attack from someone outside the room. However the evidence shows it was an accident, caused by one mans ineptitude at using the right-handed chainsaw with his left hand.
 
@@ -38,4 +38,3 @@ Sara clearly remembers when she first met Grissom and what he said in the lectur
 **Sidle:** You know what this reminds me of? The time we first met. San Francisco. Your lecture. Double murder in a garage. I'd heard you were a little dull as a speaker, but you can't rely on your first blush. That was, uh, the subject of your talk.  
 **Grissom:** I believe that I said first opinions are crucial, but if the evidence changes, so must the theory.  
 **Sidle:** Exactly.
-

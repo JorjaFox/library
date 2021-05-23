@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,6 @@ prodnum: 240
 
 The CSIs question the validity of an online picture depicting a murdered call girl until they find the same woman strangled to death in the dumpster that appears in the photo.
 
-## Sara Sidle Review
+## Character Review
 
-* Jorja Fox did not appear in this episode.*
-
+_Sara Sidle does not appear in this episode._

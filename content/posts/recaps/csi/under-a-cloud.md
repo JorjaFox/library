@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -26,7 +26,7 @@ The USB drive Sara and Morgan Brody found in the hotel room, which is filled wit
 
 Meanwhile, Greg is served regarding a case from 2006, for which new evidence came to light, exonerating the convicted. However Greg is accused of planting evidence. Finn works with the defense criminalist to clear his name.
 
-## Sara Sidle Review
+## Character Review
 
 While Greg is on his way back from his case, Sara calls and asks him to pick up a veggie burger from AJs for herself and Morgan Brody. Sadly, before Greg arrives, she heads off on her case.
 
@@ -48,7 +48,7 @@ When Sara finds out Greg is under review, she comes to talk to him and see how h
 **Bomb Tech** Keep up the sense of humor.  
 **Sidle:** I wasn't kidding.
 
-* * *
+- - -
 
 **Brass:** How you doing, Sara?  
 **Sidle:** A little shaky. Nothing like staring into the abyss for twenty minutes to decide what's important in life.  

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,7 +24,7 @@ They finally find Max at the grave of Alice's mother, hoping to find Alice. When
 
 At long last, they find Alice. Having returned to the campus, Alice went to Dr. Aden's old lab and is alive and well. She hallucinated seeing her mother, and felt better, totally unaware of the death of Kurt and Max.
 
-## Sara Sidle Review
+## Character Review
 
 Sara processes the alley where the second body walks away. She and Ray go to talk to Dr. Aden, bringing him back to the lab. Later, Sara and Catherine investigate Alice's house. Sara's very friendly with and amused by Dr. Aden.
 
@@ -38,9 +38,9 @@ Sara processes the alley where the second body walks away. She and Ray go to tal
 
 **Sidle:** Doctor, are you saying you conducted re-animation experiments at Stonewall?  
 **Dr. Aden** What's your clearance, soldier?  
-**Sidle:** Uh, about 5'9&#8243;?
+**Sidle:** Uh, about 5'9"?
 
-* * *:
+- - -
 
 **Langston:** You ever see the movie *Altered States*?  
 **Sidle:** Oh yeah. My mom took me. She found it therapeutic, calming. Tells you everything, huh?

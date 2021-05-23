@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 322
 
 A woman's body is discovered in a small press box at a high-school football field, apparently the victim of strangulation. The evidence leads investigators to two convicts, one of whom is still in prison. At the crime lab, an explosion destroys key evidence and leaves Greg and Sara injured.
 
-## Sara Sidle Review
+## Character Review
 
 Sara follows Grissom around the lab, curious, which results in her being caught in the explosion. Sitting outside on the curb, in shock from the explosion, Sara wants to begin clean up on the lab until Grissom forces medical attention on her. Later, she pulls her gun on a suspect, leading Brass to chew her out. At the end of the episode, she asks Grissom out.
 

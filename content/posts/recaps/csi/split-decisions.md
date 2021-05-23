@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -30,7 +30,7 @@ Weirder still, the brothers all won their trips from Dr. Kiel. He'd been keeping
 
 Avery didn't kill his father over money, but because he found the truth about his birth. While he managed to create a perfect crime, the evidence only damns him and the deceased Kevin. His other brothers will get off Scott free.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Brass talk to the dead man's son, Avery, with Sara promising to come check on him later. She comes back later to explain that Avery will have to go live with family in Wisconson. When he reacts badly, Sara takes him out for ice cream, clearly sympathizing.
 
@@ -44,7 +44,7 @@ Sara and Brass talk to the dead man's son, Avery, with Sara promising to come ch
 **Sidle:** Are you into twins?  
 **Marks** Isn't everybody?  
 
-* * *
+- - -
 
 **Sidle:** It must be hard, wanting a child so much. The struggle to conceive. And then a miracle occurs.
 

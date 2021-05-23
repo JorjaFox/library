@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,15 +22,12 @@ Sara and Finn talk to Carlo and his brother, Aron, who own a collection of class
 
 The find the car in a storage unit rented by Eva, along with Aron who tracked the car down. The brothers blame each other for the murder but it's Eva's mother, Ruth, who is a suspect. She was attempting to buy the Caddy from Carlo for a man from Dubai, while Aron refused to sell, so she asked Eva to help her steal it. Except Ruth's boyfriend, Duncan Ridell, is the son of the man who killed Alfonso and was, oddly enough, not her buyer.
 
-But the killer was the car appraiser, Ken Bixler, who was also the real killer of Alfonso. He was there to kill Vera, Alfonso's mistress and Ken's fiancÃ©e. Eva asked Ken to help her steal the car, knowing him from her drug days, and Ken stole the headrest to cover his murder of Vera and Alfonso. Eva stumbled on him and he killed her.
+But the killer was the car appraiser, Ken Bixler, who was also the real killer of Alfonso. He was there to kill Vera, Alfonso's mistress and Ken's fiancée. Eva asked Ken to help her steal the car, knowing him from her drug days, and Ken stole the headrest to cover his murder of Vera and Alfonso. Eva stumbled on him and he killed her.
 
-## Sara Sidle Review
+## Character Review
 
 Sara gives the death notification to Eva's parents and goes with Finn to find the cars. When Carlo's a bit of a dick and tries to ignore them, she bumps his expensive car and sets off the alarm.
 
 ## Character Notes
 
 * Sara hates when people lie to her
-
-## Quotes
-

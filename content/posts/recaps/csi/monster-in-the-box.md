@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ Grissom finally opens a packaged delivered shortly after he left for sabbatical,
 
 Ernie Dell had a son, born in 1983, Lionel Dell, who renamed himself Mitchell Douglas and spent time in a halfway house, which Dr. Tallman worked at for a while. Lionel reveals that his parents had fostered a good number of foster children, all from before Lionel was born. With at least thirteen foster kids and few names, the CSIs have their work cut out for them.
 
-## Sara Sidle Review
+## Character Review
 
 Sara introduces Warrick and Nick to the particulars of the miniature cases. She is suspicious of Ernie Dell not having any relatives, and goes through his home movies to learn more about him. Sara finds Dell's son and determines he never got along well with his father.
 

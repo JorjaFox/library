@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,6 @@ prodnum: 271
 
 When Nick learns that a man he helped put in prison is going to have his conviction overturned, the CSI team needs to prove the killer is guilty again or he will be released.
 
-## Sara Sidle Review
+## Character Review
 
-Sara Sidle does not appear in this episode._
-
+_Sara Sidle does not appear in this episode._

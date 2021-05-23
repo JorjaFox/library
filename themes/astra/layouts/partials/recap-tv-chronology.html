@@ -1,4 +1,5 @@
 {{ $showslug := .Params.showslug }}
+{{ $showname := .Params.showname }}
 {{ $eptitle  := .Title }}
 {{ $episodes := (index .Site.Data.episodes .Params.showslug).episodes }}
 {{ $ep_array := slice }}
@@ -14,26 +15,34 @@
 {{ end }}
 
 {{ if or ($this_ep) (eq $this_ep 0) }}
-	<ul class="list-group list-group-horizontal list-group-flush">
-	{{ if ne $this_ep 0 }}
-		{{ $previousep := (sub $this_ep 1) }}
-		{{ $prev_name := index ($ep_array) $previousep }}
-		{{ range $episodes }}
-			{{ if eq $prev_name .title }}
-				<li class="list-group-item flex-fill">&larr;&nbsp;<a href="/library/recaps/{{ $showslug }}/{{ .slug }}/">{{ $prev_name }}</a></li>
+	<div class="card-footer"><center>
+		<strong>Episode Chronology</strong>
+	</center></div>
+	<div class="card-body">
+		{{ if and (ne $this_ep 0) (ge $this_ep $i) }}
+			<ul class="list-group list-group-horizontal list-group-flush">
+			{{ if ne $this_ep 0 }}
+				{{ $previousep := (sub $this_ep 1) }}
+				{{ $prev_name := index ($ep_array) $previousep }}
+				{{ range $episodes }}
+					{{ if eq $prev_name .title }}
+						<li class="list-group-item flex-fill">&larr;&nbsp;<a href="/library/recaps/{{ $showslug }}/{{ .slug }}/">{{ $prev_name }}</a></li>
+					{{ end }}
+				{{ end }}
+			{{ else }}
+				<li class="list-group-item flex-fill">&nbsp</li>
 			{{ end }}
-		{{ end }}
-	{{ else }}
-		<li class="list-group-item flex-fill">&nbsp</li>
-	{{ end }}
-	{{ if ne $this_ep $i }}
-		{{ $nextep     := (add $this_ep 1) }}
-		{{ $next_name  := index ($ep_array) $nextep }}
-		{{ range $episodes }}
-			{{ if eq $next_name .title }}
-				<li class="list-group-item flex-fill"><a href="/library/recaps/{{ $showslug }}/{{ .slug }}/">{{ $next_name }}</a>&nbsp;&rarr;</li>
+			{{ if ge $this_ep $i }}
+				{{ $nextep     := (add $this_ep 1) }}
+				{{ $next_name  := index ($ep_array) $nextep }}
+				{{ range $episodes }}
+					{{ if eq $next_name .title }}
+						<li class="list-group-item flex-fill"><a href="/library/recaps/{{ $showslug }}/{{ .slug }}/">{{ $next_name }}</a>&nbsp;&rarr;</li>
+					{{ end }}
+				{{ end }}
 			{{ end }}
+			</ul>
 		{{ end }}
-	{{ end }}
-	</ul>
+		<small><a href="/library/actor/{{ $showslug }}-episodes/">Complete list of <em>{{ $showname }}</em> episodes</a></small>
+	</div>
 {{ end }}

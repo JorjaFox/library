@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 104
 
 When Grissom and Catherine investigate when a leg is found severed from a body in a lake, they suspect the husband and boyfriend. Meanwhile Sara and Nick investigate a fraternity pledging that ended in the death of a pledge.
 
-## Sara Sidle Review
+## Character Review
 
 A bit of flirtatious chatter in the locker room between Sara and Nick. Sara and Nick investigate a hanging in a fraternity; they question the fraternity president. Sara and Nick at the autopsy for the victim -- ink is found on the victim's penis, which Sara teases Nick about. Sara and Nick question the fraternity president again, during which Sara goes off just a little, but Nick backs her up. Sara and Nick question the fraternity president at the station, getting more information about the hazing incident -- Sara is a bit aggressive in her questioning. Sara and Nick question the girl who signed the pledge's privates, discovering that she's the fraternity president's girlfriend. Sara and Nick examine the dorm room and find the murder weapon. Sara and Nick confront the fraternity pledge master and get the truth, finally.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 304
 
 Grissom suspects murder when the body of a dwarf is found hanging from a rope high above a stage in a casino hotel where a convention of little people is being held. Across town, Catherine is attacked at a crime scene where a man was murdered during what appears to have been a home robbery.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Nick help Grissom on the little people murder, discovering how the victim was killed. They check out the victim's hotel room -- already taped off as a crime scene -- and find his fiancee (who is not a dwarf) in there. Sara checks the victim's computer, and finds emails from an online girlfriend -- which started the same day as the victim got call blocking against another woman. When they discover that the photo of the victim's Internet girlfriend is a fake, and is actually a feminization of the victim himself, Grissom defines attraction as narcissism. In the end they discover that the fiancee's father killed the victim because he didn't want his normal-sized daughter dating a dwarf and possibly having a dwarf child.
 

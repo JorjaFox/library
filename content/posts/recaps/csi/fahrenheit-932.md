@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,9 +18,9 @@ prodnum: 111
 
 A man convicted of arson and the murder of his wife and child seeks assistance from Grissom (aided by Warrick and Sara) to help prove his innocence. Meanwhile, Catherine and Nick investigate the underground world of sports gambling when a teenager is murdered at close range.
 
-_Note: This was the first episode to air on Thursday night.
+_This was the first episode to air on Thursday night._
 
-## Sara Sidle Review
+## Character Review
 
 Sara is laughing at Nick's jokes when Grissom asks her and Warrick to work on a re-opened arson case. At the burned out house, Sara finds waterproof matches in the kid's camping gear. Sara also finds an unknown material burned on to the doorknob.
 
@@ -32,4 +32,3 @@ When Grissom is experimenting with gasoline in the lab, Sara pulls Warrick back,
 ## Quotes
 
 **Sidle:** How did [the suspect] find you? 1-800-GRISSOM?
-

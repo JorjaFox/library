@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ Grissom and his team investigate a casino heist during which innocent victims we
 
 The evidence found at both crime scenes -- the crowded local casino and the isolated desert convenience store where a clerk was murdered -- has the CSI team drawing a correlation between the two crimes. Featuring the return of Tammy Felton.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Catherine check out a convenience store robbery / murder in far away Cal Nev Ari (they get lost driving out there). At the scene, Sara questions the waiting State Trooper as to whether he touched anything, then apologizes to him for asking (she regrets the apology later when they discover the Trooper's prints all over the 'Closed' sign in the store window). When Catherine starts complaining about being sent to a distant scene when she's got seniority, Sara hands her a candy bar to shut her up. Waiting for the Coroner to arrive, Sara borrows a mirror from Catherine to check out the vic's face; she lifts shoe prints from the counter and decides to use a flourescent green print powder just because she's never used it before. Later they discover that to store victim is actually the final member of a casino robbery gang, killed by his accomplices, and that the State Trooper they met is responsible for murdering the final robber.
 

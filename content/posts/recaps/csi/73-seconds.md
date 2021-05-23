@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ Out in Brim County, Sara and Greg look into an old body with a new head, stabbed
 
 Doc Robbins and Jim Brass talk about Ray Langston, briefly, and how he's been railroaded out of CSI by IA, but it's saved his life. He's doing fine. However the fallout resulted in Catherine being demoted, and all the CSIs having to follow the book, which doesn't sit well with everyone.
 
-## Sara Sidle Review
+## Character Review
 
 Sara takes photographs of the tram killing crime scene until the call from Brim County comes in. Sara and Greg discuss the new supervisor, and how his ways are weird, but they work.
 

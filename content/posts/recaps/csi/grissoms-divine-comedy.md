@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,9 +18,9 @@ prodnum: 812
 
 Grissom is called while he has walking pneumonia, in order to solve a gang case after the grand jury's witness is murdered.
 
-## Sara Sidle Review
+## Character Review
 
-**Sara Sidle** does not appear in this episode.
+_Sara Sidle does not appear in this episode._
 
 In a deleted scene, Catherine comes over to prep Grissom for the court visitation. While there, she snoops through his apartment, greeting Hank the Dog by name. Catherine finds a photograph of the CSI team, all in their vests, but also one of much younger Grissom and Sara on the refrigerator. Perhaps surprised by the age of the photograph, she asks Grissom how long they've been together. He does not answer.
 
@@ -30,8 +30,8 @@ In a deleted scene, Catherine comes over to prep Grissom for the court visitatio
 
 ## Quotes
 
-:_From a deleted scene_  
+_From a deleted scene_
+
 **Catherine** How long have you and Sara been together?  
 **Grissom:** ... I gotta go, thanks.  
 **Catherine** And to think, all these years I thought you were a lonely workaholic.
-

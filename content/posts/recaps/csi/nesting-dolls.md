@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 513
 
 Two female bodies, buried together and covered in tar, are discovered by construction workers out in the desert. The investigation reveals that both victims' fingertips have been cut off and that they were apparently buried years apart. Later, Sara treats one suspect with such distain that it jeopardizes her job and she reveals to Grissom a dark family secret that is at the root of her recurring personal problems.
 
-## Sara Sidle Review
+## Character Review
 
 This is very powerful Sara episode, one which gives us a bit of insight into her character. Sara comes from an abusive family, and that her mother, Laura Sidle, killed Sara's father; this dumped Sara into the foster care system.
 

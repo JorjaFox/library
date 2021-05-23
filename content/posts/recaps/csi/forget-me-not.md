@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,9 +16,9 @@ prodnum: 288
 
 ## Synopsis
 
-Sara is accused of murder of her aquantaince Taylor Wynard, with whom she had celebrated her birthday. Taylor's murder was part of an elaborate plot created by Ronald Basderic to discredit Sara and pave the way for her own murder. Basderic planned the murder for months and in the end is tripped up by the CSIs working together.
+Sara is accused of murder of her acquaintance Taylor Wynard, with whom she had celebrated her birthday. Taylor's murder was part of an elaborate plot created by Ronald Basderic to discredit Sara and pave the way for her own murder. Basderic planned the murder for months and in the end is tripped up by the CSIs working together.
 
-## Sara Sidle Review
+## Character Review
 
 Celebrating her birthday alone at a hotel, Sara is approached by Taylor Wynard, who buys her a mini-cake. After dinner she went with Taylor to his room and the next morning, while checking out, learned Taylor was dead -- stabbed seven times. Right away, Sara talks to D.B. Russell about how she knows Taylor, however she states nothing happened. Yes, she went to his room and they had a little more wine, but she went back to her room alone shortly after Grissom texted her birthday wishes. The phone records claim that she called Taylor at 2am, and the room key records say she came back into her room around 3am. Sara has no memory of this, as she'd taken a sleeping pill.
 
@@ -65,4 +65,3 @@ With the case closed, Nick and Greg come to Sara if she wants to talk. She tells
 **Stokes:** And you'll always have us.  
 **Sanders:** Like it or not.  
 **Sidle:** Thank you. Thank you for not giving up on me.
-

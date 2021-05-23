@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -26,7 +26,7 @@ Alisia, the middle child, is found still in the house, walled up behind boxes of
 
 After mother and son lawyer up, they go back to the red ribbon and are able to create a timeline of the murders. After they find the ribbon and arsenic, they determine Alisia was seducing the boys from her brother's halfway home and killing them. She blames her mother for her insanity.
 
-## Sara Sidle Review
+## Character Review
 
 Nick and Sara answer the call and are the first to enter the house. When Nick steps in body goo, Sara teases him. They also argue like siblings about interpretations of the evidence and the causes of Level 5 hoarding. Sara is very sympathetic where Nick is not, and Sara leaves the crime scene to process Mrs. Santiago. Sara tells Greg that she feels like Nick doesn't get that this hoarding was caused by a trauma.
 
@@ -44,13 +44,13 @@ In the end, she tells Julian about her mother's schizophrenia, and that you can 
 **Stokes:** How could someone live like this?  
 **Sidle:** Well. It smells like someone died like this.  
 
-* * *
+- - -
 
 **Stokes:** What is it about this case that makes you so blind?  
 **Sidle:** What is it about this case that makes you act like an ass?  
 **Stokes:** Oh! I'm an ass, now!?  
 
-* * *
+- - -
 
 **Sidle:** My mother was schizophrenic. On night, she got a butcher knife out of a drawer. She walked into the bedroom and while my father was sleeping, she stabbed him in the heart. Again and again. To say that my childhood was screwed up is an understatement. But. I survived it. Just like you did. You and your sister grew up together in that house, and you took two completely different paths. Sometimes when we're faced with crimes that are so incomprehensible, we want answers. We want to believe that there's some order to things. Sometimes there just isn't.
 

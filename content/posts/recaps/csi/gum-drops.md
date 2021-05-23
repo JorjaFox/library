@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ Told with the whispery voice-over of a little girl, Nick, Sara, Warrick and Greg
 
 The CSIs investigate the house, which has been ripped apart but nothing appeared to be stolen. In the basement, they find an indoor marijuana farm. Much of the dried pot was stolen. They also learn that the son was another entrepreneur, selling essays to the other kids in his grade. One of the prints matches a kid in ROTC, who turns out to have the pot in his car's trunk. The son told his classmates about the pot in order to be thought of as cool, but when they came over, his parents were still there. The three teenage boys shot the son and the father, and then the mother when she came down stairs.
 
-One of the boys was sent to drug the daughter, but she poured the cough syrup into her shoe and faked it, dropping 'cubes' of [http://www.bubblicious.com/ Bubblicious] gum as a Gum Drop trail. The boys then took the family out on a boat and dumped them in the middle of the nearby lake. One of the boys didn't want to dump Cassie, as she wasn't dead, and another boy slit her throat.
+One of the boys was sent to drug the daughter, but she poured the cough syrup into her shoe and faked it, dropping 'cubes' of [Bubblicious](http://www.bubblicious.com/) gum as a Gum Drop trail. The boys then took the family out on a boat and dumped them in the middle of the nearby lake. One of the boys didn't want to dump Cassie, as she wasn't dead, and another boy slit her throat.
 
 Cassie, however, was alive and managed to swim to shore, where she was found by Nick and thus able to speak (in whispers) and give us the voice-over for the episode.
 
@@ -28,7 +28,7 @@ Cassie, however, was alive and managed to swim to shore, where she was found by 
 
 As originally written, the team was supposed to spend the night at a hotel since they were so far out of town; during the night Gil Grissom (unable to sleep because of Greg's snoring) goes to Sara's room, and she lets him in. Three scenes were originally written for this, and the first had been filmed when Billy Petersen's nephew died and he had to leave the set for a week. The script was re-written, and the scenes were deleted. Several weeks after the episode aired, Your Tax Dollars at Work (YTDAW) posted what they purported to be the original scenes. In a TV Guide interview in February of 2006, Jorja confirmed the setup (if not these specific scenes), saying that in the fifth episode ('Gum Drops'), Sara was supposed to sleep with Grissom.
 
-## Sara Sidle Review
+## Character Review
 
 Sara is the voice of reason and reality in this episode. When Nick blows up at a suspect, Sara gently calms him down and tells him she's worried about him. When Nick is too obsessive that the little girl is still alive, she reminds him of the odds.
 

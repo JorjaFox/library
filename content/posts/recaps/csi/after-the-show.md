@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 408
 
 A suspect's infatuation with Catherine results in her taking over a high profile case. The case is a missing woman who aspired to be a showgirl. Sara and Nick are angered since it takes the career making case away from them.
 
-## Sara Sidle Review
+## Character Review
 
 Sara shows no real emotion when the suspect says he'll only talk to ...the pretty one_ (Catherine), not to her or Brass. Sara and Nick had the original missing persons case, but since the suspect has a fascination for Catherine, Grissom gives the case to her. While Nick remains fairly calm about that decision, it pisses Sara off (it's a career-making case, and both she and Nick are up for promotion), making her abrupt and snippy towards Catherine during much of the case. Sara and Nick discover that there may have been another victim. When Sara and Catherine are going through the victim's effects, Sara is hesitant in her reply when Catherine asks if her father ever called her pretty, but agrees right away that her father called her 'smart'.
 

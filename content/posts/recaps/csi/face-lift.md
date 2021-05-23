@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 116
 
 Grissom investigates the murder of a man who was apparently killed while robbing a store; Catherine searches for a girl who was kidnapped 16 years earlier; Warrick and Sara probe the strange death of a woman who was reduced to ashes while sitting in her house.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Warrick get the case of a woman who burned to death while sitting in a chair -- Sara thinks that it might be spontaneous human combustion, a theory which Warrick poo-poos as science fiction, while Sara claims to be open to the possibility. While Sara and Warrick are in the morgue, investigating the remains, David Phillips flirts with Sara -- which she doesn't seem to mind.
 

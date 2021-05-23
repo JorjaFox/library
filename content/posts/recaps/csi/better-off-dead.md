@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,7 +24,7 @@ When Sam woke up, not dead, he wrapped the injured Carrie in a quilt and drove h
 
 Sara is unable to talk him out of jumping, but she managed to stall enough for the emergency rescue team to fill an airbag and save Sam's life.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Catherine work the initial body dump scene and investigate the car when it's found. As the two cases become interrelated, Sara works with Greg and Bobby as they match the guns. She interviews Carrie's neighbor, John Rakow, with Brass, and confirms his innocence with Ray. Ray and Sara go to search their Sam's, house, where they find the photos and letters, confirming Sam and Carrie's relationship.
 

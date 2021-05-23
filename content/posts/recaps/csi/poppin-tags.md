@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,12 +22,10 @@ The video was then sent to Hi-Def's right-hand woman, J-Lady, who possibly let i
 
 The driver of the car confessed to running over one of the kids, and fingered the shooter, Morris. Dante was also in the car at the time of the murders, and confessed to having set Dollar up.
 
-## Sara Sidle Review
+## Character Review
 
 Sara's time is mostly spent going over the car used for the drive by, and going with Sofia and Nick to talk to Hi-Def.
 
 ## Character Notes
 
 * Sara inspects the car, showing a consistent theme with her and vehicles.
-
-## Quotes

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,15 +18,10 @@ prodnum: 279
 
 The coach of the WLVU basketball team is murdered not long after he has an argument with DB's son, Charlie, who happens to be on the team. Making matters worse, Charlie's new girlfriend is a hooker who is also sleeping with the coach. As the case unfolds, the murders were committed by a prominent booster, upset with the team.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works with Finn on the blood spatter, Hodges on recreation of evidence and trace, and Nick.
-
-## Character Notes
-
-* *Coming Soon*
 
 ## Quotes
 
 **Sidle:** Simple maths get complicated sometimes, when passions are involved.
-

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -14,8 +14,6 @@ date: 2010-09-30
 prodnum: 231  
 ---
 
-* Note: This is Liz Vassey's final episode as Wendy Simms.*
-
 ## Synopsis
 
 Hysteria ensues when a shark attacks a woman, Desiree McQuire, in the pool at a Las Vegas casino 'day club' and the CSIs must determine if the killer is human or shark. At the scene of the crime, Catherine runs into one of her father's old friends Earnest Boozell (played by Elliot Gould), and she has to forcibly remove him from the scene. He harasses Catherine about running casinos through much of the episode. At the autopsy, Ray and Doc Robbins find an injection site on the dead woman's back, and that she was dead before the shark attacked her body. The tox screen comes back and indicates she was injected with heroin, and it was a first time use.
@@ -24,20 +22,20 @@ When they determine the shark doesn't come from Boozell's tank, the prime suspec
 
 Conveniently, Holloway is found dead in the shark tank at Boozell's, his oxygen tank tampered with and filled with car exhaust. The chemical ratios found in the tank matches those spewed from Boozell's car. The surveillance cameras show that a valet parker at Macklin's restaurant, Carne, used the exhaust from Boozell's car, while the two were making peace.
 
-## Sara Sidle Review
+## Character Review
 
 When Boozell pesters Catherine, Sara steps in to support Catherine and their work as CSIs.
 
 ## Character Notes
 
-* Sara's hand is still bandaged from her fight recently. 
+* Sara's hand is still bandaged from her fight recently.
 
 ## Quotes
 
 **Dr. Holloway** Now they're [the sharks] in Show Business  
 **Sidle:** Well that's one way to make a living.
 
-* * *:
+- - -
 
 **Stokes:** [He's] awfully fired up about taking a picture with fish.  
 **Sidle:** Well, you know, fish are beautiful.  

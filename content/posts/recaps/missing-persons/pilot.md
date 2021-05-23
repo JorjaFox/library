@@ -19,7 +19,7 @@ In the two hour premiere of Missing Persons, we meet the detectives of Chicago's
 
 Det. Johnny Sandowski searches for a four year-old Polish girl who vanished after being separated from her mother on an &#8220;El&#8221; train. Det. Bobby Davison is assigned a missing University of Chicago co-ed. Det. Sgt. Carlos Marrone tracks a patient who has possibly wandered off from the convalescence home where she lived. Carlos' wife goes into labor, so Lt. Ray McCauliffe takes over this case himself. When the wife of a National Guardsman comes in to report that her husband did not, Det. Dan Manaher sends her to Det. Connie Karadzic for help.
 
-## Connie Karadzic Review
+## Character Review
 
 Detective Connie Karadzic is met when she answers the phone for her unit. She's trying hard to get field work, but Lieutenant Ray McAuliffe claims he needs her in the office, organizing reports and gathering information for the various cases. She offers to take one of Carlos' cases, but the Lieutenant won't allow it, frustrating Connie. Ray does rely on Connie to help him research cases, but she wants more.
 

@@ -15,7 +15,7 @@ tags:
 
 **Jorja Fox:** Hi Michael. First of all, thank you so much for having me. I'm a big fan, I'm a little nervous. So what I finally did [for my song selections] is stick a little bit to a piano/keyboard theme. I kind of had to try and find something to sort of narrow it down. The first song I picked is "Jet", which was written by Paul McCartney and done by Paul McCartney and Wings. I was at the Coachella Music Festival -- Coachella '09 -- Paul McCartney headlined on Friday night, and I knew by the second verse of this first song that it was going to be one of the best concerts I had ever been to in my entire life. And he opened with "Jet", so I figured I would open with "Jet".
 
-**JF:** You know, obviously, I could talk about The Beatles probably for about two weeks straight and not even come up for air. It was very hard to pick one song. I grew up with The Beatles. My brother was 12 years older than me, and when he went to college my mom got him an eight track, so he left me all of his albums and his 45âs, and I scored this giant Beatles collection.
+**JF:** You know, obviously, I could talk about The Beatles probably for about two weeks straight and not even come up for air. It was very hard to pick one song. I grew up with The Beatles. My brother was 12 years older than me, and when he went to college my mom got him an eight track, so he left me all of his albums and his 45's, and I scored this giant Beatles collection.
 
 **MB:** You just heard a sample from Paul McCartney and Wings. The song is "Jet", picked by Jorja Fox, who is our guest here for KCRW's Guest DJ Project. What do you have next for us?
 

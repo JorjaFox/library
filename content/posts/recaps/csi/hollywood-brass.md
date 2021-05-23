@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,6 +18,6 @@ prodnum: 521
 
 Brass travels to Hollywood, California to try to track down his estranged daughter's friend, meanwhile trying to rekindle some kind of relationship with her.
 
-## Sara Sidle Review
+## Character Review
 
-Sara does not appear in this episode.
+_Sara Sidle does not appear in this episode._

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -26,7 +26,7 @@ The case was all about a series of warehouse fires in the furniture district fro
 
 It's not until after the CSIs engage in a game, to see who could kill Theresa, that they peg it on the producer, Fred Paulson. He had been doing favors to friends who helped him with the arson years ago, which he'd done to make his name in news. When Theresa found out, he killed her.
 
-## Sara Sidle Review
+## Character Review
 
 While working on the case and chasing rabbits, Sara puts off calls from Grissom, avoiding him because she doesn't want to talk. And he 'needs to talk.' She avoids the call once while heading down to Theresa's autopsy, looking troubled. When DB calls her while she's in autopsy, she hesitates, worried it's Grissom again.
 
@@ -42,23 +42,23 @@ Both Russell and Finn notice Sara's a little off, Finn when Sara ignores another
 
 ## Quotes
 
-**David Phillips:** When we disceted frogs, when I was in high school biology, you'd pith it, by sticking a pin right here. The frog would get all _makes a face_. None of the girls in class wanted to do it, so they asked me to. I became known as the 'designated pither.'  
+**David Phillips:** When we dissected frogs, when I was in high school biology, you'd pith it, by sticking a pin right here. The frog would get all _makes a face_. None of the girls in class wanted to do it, so they asked me to. I became known as the 'designated pither.'  
 **Sidle:** I would have gone with 'relief pither.'  
 **Phillips:** That's better.
 
-* * *
+- - -
 
 **Russell:** Looks like it pays more to report on crime that it does to solve crime.  
 **Sidle:** You could say that about any job. Except crime. I heard it doesn't pay.  
 **Russell:** Heh heh.
 
-* * *
+- - -
 
 **Sidle:** I know when I bring work home, it usually finds its way into the bedroom.  
 **Russell:** Yeah but you're not single, you're married.  
 **Sidle:** _pause_ Yeah I am. But ... My place? Often looks a lot like this.
 
-* * *
+- - -
 
 **Finn** You must be running on fumes. You should go home!  
 **Sidle:** Home is where the coded notebook is. _sees call from Grissom, sends to voicemail_  
@@ -73,9 +73,9 @@ Both Russell and Finn notice Sara's a little off, Finn when Sara ignores another
 **Finn** This is fun! I'm really good at crosswords.  
 **Sidle:** Yeah. Okay.
 
-* * *
+- - -
 
-**Sidle:** So we're looking at a locked room mystery, tucked into an enigma, wrapped in dyamite paper.  
+**Sidle:** So we're looking at a locked room mystery, tucked into an enigma, wrapped in dynamite paper.  
 **Russell:** You can say that again.... Hey, Sara, let me ask you something. You doing alright?  
 **Sidle:** I'm fine.  
 **Russell:** You just seemed a little bit ... down. When we were at Theresa's place.  
@@ -85,10 +85,9 @@ Both Russell and Finn notice Sara's a little off, Finn when Sara ignores another
 **Russell:** I know I'm supposed to be your boss, separation of church and state--  
 **Sidle:** No no no! Hit pause with the remote and back it up a little bit.
 
-* * *
+- - -
 
 **Sidle:** Hello  
 **Grissom:** You've been hard to get a hold of.  
 **Sidle:** Yeah. Um. I'm so sorry. How are you?  
 **Grissom:** I'm okay. Is, uh, now a good time?
-

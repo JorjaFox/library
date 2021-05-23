@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 406
 
 The team is introduced to the 'Furry' side of Vegas when a man is found dead on the side of the road, dressed in a raccoon suit. Elsewhere in Vegas, a gunshot victim is found in a deep-freezer, frozen solid.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Nick investigate the freezer shooting. They find blood spatter, and eventually they find the shooter. They share several 'you've got to be kidding' moments during the case when they discover that the suspect used granite glue to repair his rifle, and used house paint on his car.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 113
 
 Grissom and Catherine piece together clues while assembling parts of a skeleton that was apparently cut up with a saw and then scattered on a mountain; Warrick and Sara investigate the death of a male stripper who died shortly after performing at a bachelorette party.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Warrick get the case of a dead man in a hotel room -- the one with the 'weird pool', as Sara puts it. The room has been the scene of a party, as well as a possible struggle, as Sara notes from the broken lamp on the floor before she dusts for prints. They track down Lynn Henry, who rented the room for a bachelorette party, but the women claim the victim (a male dancer) was alive when they left at 3 am. Sara notices bruises on Lynn's wrists.
 

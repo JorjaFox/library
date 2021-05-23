@@ -8,7 +8,7 @@ categories: [News, Articles]
 tags: ["2011"]
 
 newstitle: "Bob Barker, Jorja Fox Fight to Stop Circus Animal Cruelty  "
-newsauthor: Michael SÃ¶ze  
+newsauthor: Michael Söze  
 newssource: Inquisitr  
 newsurl: http://www.inquisitr.com/156384/bob-barker-traveling-exotic-animal-protection-act/  
 
@@ -22,7 +22,7 @@ Barker, the long-time animal rights romantic who late from the TV pricing divers
 
 Fox, Barker's luminary co-host, echoed the call for environment up some-more permanent residences for playground animals, as well as receiving them off the road.
 
-> "Our kids demeanour to us for what is right as well as the kids demeanour to us for what is fun. â¦ If the kids knew how vicious as well as aroused these events were, we consider they'd essentially be really unhappy in us, for [going] to these places," Fox said.
+> "Our kids demeanour to us for what is right as well as the kids demeanour to us for what is fun. ... If the kids knew how vicious as well as aroused these events were, we consider they'd essentially be really unhappy in us, for [going] to these places," Fox said.
 
 Supporters of the Traveling Exotic Animal Protection Act(TEAPA), indicate out which twenty countries -- enclosed Austria, Belgium, Czech Republic, Peru, Portugal, Denmark, Sweden as well as India between others -- have already upheld identical legislation, as well as supplement which some-more than the half-dozen countries have been shortly expected to follow suit.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 112
 
 Grissom, Warrick and Sara investigate a bombing that occurred in the lobby of a Las Vegas business building; Nick spends the night with a prostitute who is later found murdered in her house and he becomes the chief suspect, and only Catherine can exonerate him.
 
-## Sara Sidle Review
+## Character Review
 
 At the bomb scene, Sara is wrapped up against the cold. Sara and Catherine examine the bomb debris at the lab, then Grissom has Sara check out an orange substance melted on to the clock gear of the timing device. Grissom is experimenting with alarm clocks, trying to find out what type was used in the bomb when Sara walks in with information pulled from the bomb database, listing what the most popular brand of clock is for timing devices.
 

@@ -14,11 +14,11 @@ newsurl: http://www.tvline.com/2011/04/csi-preview-lady-heather-melinda-clarke/
 
 ---
 
-Lady Heather rears her <del>ugly</del> gorgeous head on CSI this Thursday (CBS, 9/8c), but why the unexpected encore? The vexing vixen â played by Nikita's Melinda Clarke â is back for two reasons: to solve a strange crime, and to provide insider knowledge on that "evil" DNA gene that Langston (Laurence Fishburne) shares with MIA murderer Nate Haskell (returning guest star Bill Irwin).
+Lady Heather rears her <del>ugly</del> gorgeous head on CSI this Thursday (CBS, 9/8c), but why the unexpected encore? The vexing vixen - played by Nikita's Melinda Clarke - is back for two reasons: to solve a strange crime, and to provide insider knowledge on that "evil" DNA gene that Langston (Laurence Fishburne) shares with MIA murderer Nate Haskell (returning guest star Bill Irwin).
 
 Of course, we already knew that Haskell's season-ending reappearance is right around the corner, but here's the twist: It's Clarke's sixth CSI guest spot that actually kick-starts this intense, killer arc.
 
-Former team leader Grissom's sexually charged lady friend â who now goes by "Dr. Kessler" and is the proud recipient of a Ph.D. -- shows up to help Sara and the Vegas CSIs solve an unusual case involving "human pets" (a real thing!). But as Jorja Fox puts it, "Lady Heather manages to get Langston â who she hadn't previously met -- under her thumb in four words or less. She hooks into him, seeing him as a new someone she can take on."
+Former team leader Grissom's sexually charged lady friend - who now goes by "Dr. Kessler" and is the proud recipient of a Ph.D. -- shows up to help Sara and the Vegas CSIs solve an unusual case involving "human pets" (a real thing!). But as Jorja Fox puts it, "Lady Heather manages to get Langston - who she hadn't previously met -- under her thumb in four words or less. She hooks into him, seeing him as a new someone she can take on."
 
 And make no mistake, Sara knows all too well of this woman's specific wiles.
 

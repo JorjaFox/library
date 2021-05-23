@@ -18,6 +18,6 @@ newsurl: http://www.peta.org/b/thepetafiles/archive/2011/11/08/csi-star-investig
 
 She even got things cooking in the kitchen, helping the chefs with the evening's delicious cruelty-free feast.
 
-Jorja went vegetarian years agoâhalfway through a sandwich. "I was having a meatball sub one day in Brooklyn, and it just clicked," she explains. "I was in the middle of that sandwich, and I put it down, and I never had meat again."
+Jorja went vegetarian years ago-halfway through a sandwich. "I was having a meatball sub one day in Brooklyn, and it just clicked," she explains. "I was in the middle of that sandwich, and I put it down, and I never had meat again."
 
 "CSI" fans: Follow Jorja's advice and do some sleuthing into the [http://www.meat.org/ meat industry by clicking here].  

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -16,11 +16,13 @@ prodnum: 703
 
 ## Synopsis
 
+_This episode continues from [Built to Kill (Part 1)](/library/recaps/csi/built-to-kill-part-1/)_
+
 Catherine's father, Sam Braun , is killed in an act of revenge for being the percieved cause of another investors suicide. Before Sam's death, his killers make Catherine believe she's been raped, and hold her daughter for ransom. Sam's killer is, in turn, killed by Sam's bodyguards.
 
 Rock star Izzy Delancy has been killed by a blow to the head, and an identical miniature of the crime scene has been left behind. While everyone in the family wants to blame each other, neither Izzy's wife, ex-wife, son or nanny committed the crime. The case is unsolved, and Grissom stays in his office, inspecting the miniature.
 
-## Sara Sidle Review
+## Character Review
 
 While Grissom and Sara are alone at the Delancy crime scene, there's considerable banter between the two, continuing the level of intimacy demonstrated in the last two episodes. Even after Sara leaves the case to help Catherine, she returns to talk with Grissom on the case.
 
@@ -40,4 +42,3 @@ Conrad Ecklie asks them about releasing information on the miniature to the medi
 **Sidle:** I've never heard of him.  
 **Grissom:** Probably before your time.  
 **Sidle:** I'll download it.
-

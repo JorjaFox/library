@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 718
 
 Six showgirls, who are also roommates, are all found murdered in their home. All six were tied up and five died from having their throats cut. One of the girls was raped. The killer was recently released from a California prison, and Sara is able to match his DNA to a wine bottle.
 
-## Sara Sidle Review
+## Character Review
 
 After her date is canceled, Sara arrives to help with the scene. She is attacked by the last victim, who is hiding under the bed, but then asked to help her. Sara spends much of the episode assuring her teammates that she's alright after the attack, and trying to decipher Cammie's dying words. Initially, Sara presumes the words are 'Pour wine', but she finally determines them to be 'port wine,' and reference a birthmark on the killer.
 
@@ -46,7 +46,7 @@ The killer confesses; however Sara admits she lost her perspective and got too c
 
 - - -
 
-**Sidle:** Hi, this is **Sara**. Leave a message after the tone. _(message on her answering machine)_
+**Sidle:** Hi, this is Sara. Leave a message after the tone. _(message on her answering machine)_
   
 
 - - -

@@ -14,7 +14,7 @@ newsurl: http://sveketmotminkarna.se/kampanjen/nyheter/jorja-fox-till-fredrik-re
 
 ---
 
-Den amerikanska skÃ¥despelerskan Jorja Fox, kÃ¤nd frÃ¥n bland annat CSI dÃ¤r hon spelar kriminalteknikern Sara Sidle som lÃ¶ser mystiska brott, ger sig nu in i debatten om svenska minkfarmer. Hon gÃ¶r vad hon kan fÃ¶r att stoppa de lagbrott som pÃ¥gÃ¥tt sedan 1988 genom att skriva ett Ã¶ppet brev till stadsminister Fredrik Reinfeldt, dÃ¤r hon vÃ¤djar om att minkfarmerna ska fÃ¶rbjudas.
+Den amerikanska skÃ¥despelerskan Jorja Fox, kÃ¤nd frÃ¥n bland annat CSI dÃ¤r hon spelar kriminalteknikern Sara Sidle som löser mystiska brott, ger sig nu in i debatten om svenska minkfarmer. Hon gör vad hon kan för att stoppa de lagbrott som pÃ¥gÃ¥tt sedan 1988 genom att skriva ett öppet brev till stadsminister Fredrik Reinfeldt, dÃ¤r hon vÃ¤djar om att minkfarmerna ska förbjudas.
 
 ** OPEN LETTER TO THE PRIME MINISTER OF SWEDEN - AUGUST 17, 2010**
 

@@ -26,7 +26,7 @@ newsurl: http://www.csifiles.com/content/2011/09/interview-jorja-fox/
 
 **CSI Files**: I've seen the first two episodes of the season and they're really fantastic. What do you think of the scripts so far?
 
-**Fox**: I think the scripts are spectacular; really spectacular stuff so far. Grosser than ever. You know every time I think that they can't out-gross themselves anymore, they do. **Melissa** [**Byer**, Co-Executive Producer] and **Treena** [**Hancock**, Co-Executive Producer], watch out for those two. They have two of the darkest minds that I've ever met. [Laughs.] They're really unassuming, sweetâ¦ like you would never in a million years think these two ladies were writing for *CSI* and writing some of our darkest stuff.
+**Fox**: I think the scripts are spectacular; really spectacular stuff so far. Grosser than ever. You know every time I think that they can't out-gross themselves anymore, they do. **Melissa** [**Byer**, Co-Executive Producer] and **Treena** [**Hancock**, Co-Executive Producer], watch out for those two. They have two of the darkest minds that I've ever met. [Laughs.] They're really unassuming, sweet... like you would never in a million years think these two ladies were writing for *CSI* and writing some of our darkest stuff.
 
 **CSI Files**: One of my favorite moments of the season so far is Sara teasing Morgan (**Elisabeth Harnois**) about her driving in episode two. The smirk you two exchange is worth a million bucks!
 
@@ -42,7 +42,7 @@ newsurl: http://www.csifiles.com/content/2011/09/interview-jorja-fox/
 
 **CSI Files**: What's coming up for Sara as the season progresses?
 
-**Fox**: Saraâ¦ she's kind of like a rolling cart right now. I will say there are some exciting love trysts forming this season on the show. Sara's completely clueless about those because she's happily married and very much in love with her husband. I think one of the trickier parts for Sara is quietly making this long-distance relationship work. For me I've been so blessed; I've always had some sort of love interest on the show almost since the beginning. Now I've got this really amazing love interest who is far away, so that's hard. I miss **Billy** [**Petersen**, Gil Grissom] and Sara misses Grissom. So she's there primarily so far supporting the other storylines. Sara has a big arc in episode three where she goes head to head with some really nasty characters and that was a lot of fun for me to do.
+**Fox**: Sara... she's kind of like a rolling cart right now. I will say there are some exciting love trysts forming this season on the show. Sara's completely clueless about those because she's happily married and very much in love with her husband. I think one of the trickier parts for Sara is quietly making this long-distance relationship work. For me I've been so blessed; I've always had some sort of love interest on the show almost since the beginning. Now I've got this really amazing love interest who is far away, so that's hard. I miss **Billy** [**Petersen**, Gil Grissom] and Sara misses Grissom. So she's there primarily so far supporting the other storylines. Sara has a big arc in episode three where she goes head to head with some really nasty characters and that was a lot of fun for me to do.
 
 **CSI Files**: One of the great things about *CSI* is how you guys always get great actors, and this year you're getting to work with **Ted Danson** (DB Russell). How's your experience so far working with him?
 
@@ -60,7 +60,7 @@ Honestly, I gotta say that I was absolutely heartbroken when **Laurence** [**Fis
 
 **CSI Files**: Every now and then there's talk about meeting Sara's mother. Is there someone you'd like to see play Laura Sidle?
 
-**Fox**: Gosh, a whole bunch of people come to mind and probably a bunch of them are actually too young to be my mother. **Susan Sarandon** would be amazing. **Mary Tyler Moore** would be amazing. Let me think hereâ¦ **Kathy Bates** would be amazing, but she's pretty busy and has her own show now. That's one other thing that's so great is that there's always something to look forward to. We've been talking about Sara's mother since season four or five and so just knowing that this storyline is out there in the ethers may happen is something to look forward to. I would imagine the intensity of stuff between those two women would be pretty insane in an entertaining way.
+**Fox**: Gosh, a whole bunch of people come to mind and probably a bunch of them are actually too young to be my mother. **Susan Sarandon** would be amazing. **Mary Tyler Moore** would be amazing. Let me think here... **Kathy Bates** would be amazing, but she's pretty busy and has her own show now. That's one other thing that's so great is that there's always something to look forward to. We've been talking about Sara's mother since season four or five and so just knowing that this storyline is out there in the ethers may happen is something to look forward to. I would imagine the intensity of stuff between those two women would be pretty insane in an entertaining way.
 
 **CSI Files**: You've said in the past how you'd like to write an episode of the show. Is that something you're still chasing after?
 

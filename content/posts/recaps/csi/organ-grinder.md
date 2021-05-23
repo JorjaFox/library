@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -40,11 +40,9 @@ When the body of Bob Fairmont, the real estate developer, is found, the team dis
 - - -
 
 **Sidle:** _(places her hand on Greg's chest)_ I could really, really, kiss you right now. _(Greg turns his head away to present his cheek, and Sara leaves the room)_
-  
 
 - - -
 
 **Sidle:** What are we doing? Digging up graves, chasing prints...if it's no good in court, if the killers win --  
 **Grissom:** It isn't a competition. We don't 'win.' The courts are like dice. They have no memory; what works one week won't work the next.  
 **Sidle:** I know that. I do. I know that. That's why I'm mad.
-

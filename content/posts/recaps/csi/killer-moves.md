@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,10 +20,9 @@ The CSIs investigate the murders of an Elvis impersonator and a bird that are st
 
 The killer turns out to be the woman running the chess tour, murdering out of hatred of the misogyny of the chess world.
 
-## Sara Sidle Review
-Sara works the case as Greg's second, and while initially she thinks he might be a little stretching it for the chess connection, declares him a genius when it's true. At the end of the episode, Sara offers to play chess with Greg, in order to cheer him up.
+## Character Review
 
-## Character Notes
+Sara works the case as Greg's second, and while initially she thinks he might be a little stretching it for the chess connection, declares him a genius when it's true. At the end of the episode, Sara offers to play chess with Greg, in order to cheer him up.
 
 ## Quotes
 
@@ -31,4 +30,3 @@ Sara works the case as Greg's second, and while initially she thinks he might be
 **Sidle:** Well then he needs to brush up on his birds. This isn't a raven it's a rook. See the white skin around it's beak?  
 **Sanders:** A rook.  
 **Sidle:** The weird thing is rooks are indigenous to central Europe and Asia. What's one doing in southern Nevada?
-

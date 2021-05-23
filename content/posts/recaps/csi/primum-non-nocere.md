@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -34,7 +34,6 @@ When Terry Rivers barrels into the opposing team's goalie, a fight breaks out an
 - - -
 
 **Sidle:** 120 minutes for a tooth, the whole tooth, and nothing but the tooth.
-  
 
 - - -
 
@@ -44,7 +43,6 @@ When Terry Rivers barrels into the opposing team's goalie, a fight breaks out an
 - - -
 
 **Sidle:** With all the sex these people are having, maybe I should take up hockey.
-  
 
 - - -
 
@@ -55,4 +53,3 @@ When Terry Rivers barrels into the opposing team's goalie, a fight breaks out an
 **Sidle:** Uh, I think sports are physical, by definition.  
 **Sanders:** Well sex is physical, is that a sport?  
 **Sidle:** Not to me.
-

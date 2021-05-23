@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -30,7 +30,7 @@ Sara, Greg and Warrick discuss possibilities for the murder of ex boxer and pett
 
 When Brass and Grissom go to check on Lois about the mater, they find her dead, shot in her own bed. Lois was already dying of tumors, and Bob confesses the rest. Lois had tried to cover up Tim's death. She'd hired him to plan this last bash and then kill her, so she could die pretty at the party, instead of a dried up old bag in the hospital. But Tim had tried to steal from her, and she shot him with Tony's gun, the same gun he'd used to steal from Pan-Am years ago. With Tim dead, Lois asked Bob to kill her so she could die with a little dignity.
 
-## Sara Sidle Review
+## Character Review
 
 Sara is highly amused by Greg's obsession with Lois and her history. She's only spot on the mark, picking out the ring after she and Catherine find the dress is missing.
 

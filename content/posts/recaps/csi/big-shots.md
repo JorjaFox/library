@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 719
 
 After a man is killed in his limousine, Greg finds that the murder victim has ties to the man he had to kill in self-defense.  The team finds that the brother is involved in this investigation and has to deal with him and his hostile mother.
 
-## Sara Sidle Review
+## Character Review
 
 Sara joins the rest of the CSIs in going over the cases when the evidence links the two. Grissom and Sara go over the limo together and verify the crimes are connected. Sara is also with Greg when the hostile mother confronts him, and places herself between the mother and Greg.
 

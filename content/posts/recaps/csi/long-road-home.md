@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ A woman is found dead in a tour bus, after a night with a band, and another woma
 
 Tangerine (real name Angela Glenn) turns out to be Lex's daughter. The killer was another member of Lex's band, jealous of Lex's success.
 
-## Sara Sidle Review
+## Character Review
 
 Sara is first on the scene, taking photos of the dead woman when D.B. Russell arrives. She and Nick investigate the owner of the fantasy camp (Marty Kirch, played by "Food for the Heart" alum Michael DesBarres).
 
@@ -29,5 +29,4 @@ Sara is first on the scene, taking photos of the dead woman when D.B. Russell ar
 ## Quotes
 
 **Sidle:** No matter who they are, the song remains the same.  
-**Russell:_ We're gonna find 'em.
-
+**Russell:** We're gonna find 'em.

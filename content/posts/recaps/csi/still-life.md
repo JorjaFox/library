@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -26,7 +26,7 @@ The CSIs find traces of a body, but not the body itself, in the backyard, and co
 
 Regardless of this, Karen is undeniably insane. While she is guilty of filicide, it is unlikely Karen will face trial. As the episode ends, Karen imagines she sees her son, running to her.
 
-## Sara Sidle Review
+## Character Review
 
 Very subdued in this episode, Sara plays more of a support role.
 

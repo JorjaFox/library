@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ A young boy, Harper Reardon, is stolen from his home, and his nanny, Shelby Bure
 
 Shelby turns out to be the birth mother of Harper, with whom TJ was having an affair while married to another woman, Natalie, who died five years ago. TC had a seance for his dead wife, with his ex-mother-in-law, Patricia Lydecker, and Shelby, to try and contact Natalie. The medium, Karen, has been helping them talk to Natalie.
 
-## Sara Sidle Review
+## Character Review
 
 At the autopsy, Sara is delighted when David the coroner's assistant makes light in the morgue using luminol.
 
@@ -28,6 +28,3 @@ At the autopsy, Sara is delighted when David the coroner's assistant makes light
 
 * Sara and David (aka Super Dave) still flirt as friends.  
 * Sara and Nick confess to being out of practice reviewing prints by eye and not computer.
-
-## Quotes
-

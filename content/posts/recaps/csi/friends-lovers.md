@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 105
 
 Grissom and Warrick investigate a case of an apparently terrorized teen found dead in the desert; Sara examines the circumstances surrounding the body of a woman who was buried the week before and is found in a garbage dumpster; Nick and Catherine look into the claim by a teacher that she killed the dean of the school in self-defense.
 
-## Sara Sidle Review
+## Character Review
 
 Sara investigates a dumped body in Henderson, dumpster dives and realizes the corpse has been embalmed. When David Phillips (Assistant Coroner) stumblingly hits on her while she's checking the database, she gives him some tips for 'pulling chicks', including giving him a 'C for cute'. Sara discovers the corpse was buried a week ago; and excavates the grave only to find no casket in the grave (ruling out the funeral director's claim of grave robbing). Sara checks out caskets for sale at the funeral home and discovers they've been re-used. Sara confronts the mortuary director.
 
@@ -48,10 +48,8 @@ Sara investigates a dumped body in Henderson, dumpster dives and realizes the co
 - - -
 
 **Sidle:** There's no way I'm going to end up in a dumpster, wrapped in plastic. I'm gonna be cremated. Dust in the wind, you know. I don't want any part of these things [re. caskets].
-  
 
 - - -
 
 **Mortician** I see the world in a totally different perspective from most people.  
 **Sidle:** Yeah, I know. You see dead people. So do I. And when they turn up in dumpsters, I like to see they get back where they belong.
-

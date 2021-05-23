@@ -20,7 +20,7 @@ Well, Sara Sidle is back. Unfortunately Grissom (played by William Petersen) wil
 
 Yup, Jorja Fox aka Sara Sidle will no longer guest-star in the next season of CSI: Crime Scene Investigation. She will again be a full-fledged regular character on the show's 12th season.
 
-Fox actually spent the show's first seven seasons as a regular before leaving to 'pursue other career options' while making guest appearances every now and then â for the next four seasons.
+Fox actually spent the show's first seven seasons as a regular before leaving to 'pursue other career options' while making guest appearances every now and then - for the next four seasons.
 
 With Gil Grissom out, I can only speculate on how Sara Sidle will make a re-appearance. Maybe, it will be Grissom's turn to pop-up every now and then.
 

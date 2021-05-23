@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ When an 'Alice in Wonderland' wedding ends in a robbery and a murder, the CSIs m
 
 The robbers stole the rings for the gold, as well as bracelets and car decals, to melt them down. But their partnership gets complicated. Hodges and his mother accidentally stumble on the robbers at the jewelry store where the wife works (the husband is an EMT) and are held hostage. Hodges outwits them and the CSIs are able to catch the robbers.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works on the 'Alice in Wonderland' case. When the 'minister,' Alan Widcom, asks if she's married, Sara says she is and agrees that it's special. She also expresses some frustration at Grissom living abroad so much.
 
@@ -37,14 +37,14 @@ At the end of the episode, Sara finds a plant sent to the office, from Grissom.
 **Alan Widcom** Elvis is a big cliche these days.  
 **Sidle:** And Liberace is all the rage.  
 
-* * *
+- - -
 
 **Widcom** Are you married?  
 **Sidle:** I am.  
 **Widcom** It's ... special, isn't it?  
 **Sidle:** Yes. It is.  
 
-* * *
+- - -
 
 **Ecklie:** ... Fredrick Ladd. Runs a cash-for-gold store in a some strip mall.  
 **Sidle:** Yeah! Like the ads! 'Market Crash! Cold Hard Cash!'  

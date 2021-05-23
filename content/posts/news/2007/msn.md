@@ -22,7 +22,7 @@ In a repeat performance of 2004, Jorja Fox refused to show up on the set of CSI 
 
 The New York Post is reporting that Fox's character, Sara Sidle, was being written off the forensics drama because show execs weren't happy with her contract demands, one of which was a "major raise" from her $100,000 US per episode. 
 
-But when it came time to film Sara's death scene, Fox refused to show up on set. That forced the series to film an alternate ending â and a script rewrite â with co-star Marg Helgenberger. The shoot was a costly one. 
+But when it came time to film Sara's death scene, Fox refused to show up on set. That forced the series to film an alternate ending - and a script rewrite - with co-star Marg Helgenberger. The shoot was a costly one. 
 
 Back in 2004, Fox and George Eads were fired by CBS after refusing to report to the set over another contract dispute. They were re-hired. 
 

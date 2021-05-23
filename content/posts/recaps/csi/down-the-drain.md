@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 502
 
 Heavy rains in Vegas wash up a body in the storm drains. As the team investigates, they find bones from another murder.
 
-## Sara Sidle Review
+## Character Review
 
 Sara risks her life (and Warrick's) to remove a door from a closet loaded with pipe bombs.
 

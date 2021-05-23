@@ -14,7 +14,7 @@ newsurl: http://www.politico.com/blogs/anneschroeder/1108/Theres_a_new_group_in_
 
 ---
 
-The Obama campaign is going to do wonders for the gang running Artists & Athletes, the nonprofit that has found its niche within the confines of Hollywood's interest in and naivetÃ© about Washington.
+The Obama campaign is going to do wonders for the gang running Artists & Athletes, the nonprofit that has found its niche within the confines of Hollywood's interest in and naiveté about Washington.
 
 Last night the ballroom at the Four Seasons in L.A. was filled with 140 agents, publicists, managers, writers, producers, directors and actors who filed in to listen to Mark Halperin moderate a panel discussion about what to expect from Washington.
 

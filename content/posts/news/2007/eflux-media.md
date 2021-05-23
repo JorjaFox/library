@@ -15,7 +15,7 @@ newsurl: http://www.efluxmedia.com/news\_Jorja\_Fox\_Leaves\_CSI_10711.html
 ---
 "Goodbye and Good Luck" was Jorja Fox's last appearance on the popular CBS series "CSI," after a seven-year tenure on the show.
 
-Forensic scientist Sara Sidle, the character Fox had portrayed since 2000, was very popular with fans â so much so that, when the actress was fired in 2004. It was a temporary dismissal, as the public reacted strongly, demanding that she return.
+Forensic scientist Sara Sidle, the character Fox had portrayed since 2000, was very popular with fans - so much so that, when the actress was fired in 2004. It was a temporary dismissal, as the public reacted strongly, demanding that she return.
 
 Thursday night's episode was the last Fox filmed as Sara Sidle and a worthy farewell for a notable character. Haunted by a suspect from a past case, the CSI ultimately decides to leave her harrowing job behind and sort out her emotional problems away from ever-present crime scenes.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,7 +24,7 @@ While Sara and Greg are in medical lockdown, Nick and Morgan go over the evidenc
 
 Jack was obsessed with the virus and its outbreaks for years. Heather Lanning, who worked with Jack at Rynelab, let Jack in to visit. While there he stole a sample. The CSI uses microbial profile to prove that not Jack but Rudy, the lawyer, stole the sample and finds that Rynelab caused an outbreak in Bolivia years ago. Rudy admits he did this because Jack and Rynelab caused his entire family to die.
 
-## Sara Sidle Review
+## Character Review
 
 The whole episode is about Greg and Sara. Greg immediately starts to panic, but Sara reminds him that they've been through something similar before. As time goes by, Sara starts to worry that the previous day was the last normal day ever, and an epidemic has started. Greg suggests they stop putting off things they want to do and call his grandmother, but Sara looks thoughtful and sad about.
 

@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -30,7 +30,7 @@ Using Warrick's wife's niece, he Nick and Sara test the crime and determine it's
 
 The DA goes ahead with prosecuting Marlon, as Nick and Ecklie think he did it, and only Sara thinks it was Hannah. Marlon is found not guilty, and when he's checked out of jail, Hannah and Sara talk. Sara's worried about what will happen to Hannah, and Hannah says that no one cares about Marlon and how she can write a book about all this. Then she marvels at how people can see things that were never there, and confides to Sara: 'I didn't kill Stacy, Marlon did.'
 
-## Sara Sidle Review
+## Character Review
 
 Sara, a smart girl and the odd one out at her school, sympathizes with Hannah, and in the end, is played by the child genius.
 

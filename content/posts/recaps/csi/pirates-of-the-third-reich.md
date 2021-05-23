@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,7 +18,7 @@ prodnum: 615
 
 Ina complicated and disturbing episode, Lady Heather returns when her daughter, Zoe Kessler, is found dead in the desert wearing only a bra and panties. Zoe is emaciated, branded with the number 19, her hair has been shaved off and her right hand chewed off.
 
-At the autopsy, they determine one of her eyes was severed at the optic nerve, and Zoe had necrotizing faciitis, which had been injected into her blood stream causing her to rot from the inside out. Zoe had also been injected with a variety of drugs normally given to mental patients, and her severed eye belonged to a convited sex offender named Jack Londers. When found, Captain Jack appears to be less than sane, though he agrees to come to the ER, where the doctor says he was lobotomized via his empty eye socket.
+At the autopsy, they determine one of her eyes was severed at the optic nerve, and Zoe had necrotizing faciitis, which had been injected into her blood stream causing her to rot from the inside out. Zoe had also been injected with a variety of drugs normally given to mental patients, and her severed eye belonged to a convicted sex offender named Jack Londers. When found, Captain Jack appears to be less than sane, though he agrees to come to the ER, where the doctor says he was lobotomized via his empty eye socket.
 
 Only after seeing her daughter's picture on the news does Lady Heather herself come and ID the body. She request anonymity from Brass, who keeps the information from the press, but tells Grissom. They go check out Zoe's apartment and find that she's still interested in psychology. Zoe had also been to the Betz Clinic, who said she was there for chronic insomnia. Both Zoe and Capt. Jack were in the same test group, and both left the study part way through the night.
 
@@ -34,7 +34,7 @@ The dirt/mulch at Wolfwitz's house had the DNA of almost 20 different people, in
 
 The CSIs are unable to find Sneller until Grissom notices Lady heather's necklace under a couch. He drives out to where Zoe's body was found, and comes across Lady Heather and Sneller. She tied him to the front of his car and whipped him over and over again. Grissom stops her and Lady Heather breaks down sobbing.
 
-## Sara Sidle Review
+## Character Review
 
 Another low end episode from Sara, she all but vanishes at the half-way mark.
 

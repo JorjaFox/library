@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,15 +20,10 @@ The CSI team investigates serial killer Nate Haskell in Los Angeles. Langston be
 
 Catherine sends Nick to find Ray, while she and Sara work on the case. While Nick finds Ray, he doesn't bring him in right away, causing a worse problem when Haskell shoots an LAPD officer. Finally they send Ray back to Vegas, where he works on the case, even though he's suspended. Ray determines where Gloria is alive, and goes to rescue her, only to find Haskell is waiting for him.
 
-## Sara Sidle Review
+## Character Review
 
 Sara goes to LA after Langston admits he can't handle the case, to help with the investigation, and meets Conrad Ecklie's daughter, Morgan Brody.
-
-## Character Notes
-
-N/A
 
 ## Quotes
 
 **Sidle:**: So ... no free airfare then?
-

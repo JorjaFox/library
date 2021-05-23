@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -22,7 +22,7 @@ Nick comes over to Langston's house and finds his wall of weird, dedicated to Je
 
 However. Jekyll has been trailing Langston. And the serial killer Grissom and Langston put behind bars, Nate Haskell, claims to know who Jekyll is.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Greg find the body of Heidi Custer, and Sara finds the first evidence, linking her to Langston, and later find the car used to transport the body.
 

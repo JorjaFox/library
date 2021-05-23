@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -24,7 +24,7 @@ Janet Riggins' ID turns out to be fake, and her phone a throw-away burner. After
 
 The ID was made at a company that Nalley's janitorial service cleaned for on Fridays, which allows the CSIs to track down all the purchases to Jefferson Nalley. The stoner kids ID Nalley's van, placing him at the body dump site. Nalley confesses there was no 'wolf.' It was all him, and when he told Heather, she freaked out. He hit her to try and calm her down, which sent her into a rage and she attacked them. In the struggle, he shoved her from the car.
 
-## Sara Sidle Review
+## Character Review
 
 Sara and Nick work the murder case together. When two stoned punks with laser pointers target Nick, Sara is quick to shove him down and draw her weapon to protect him.
 
@@ -40,7 +40,7 @@ When Nalley is dismissive regarding Heather's pleas for help, both Sara and Nick
 **Greg Sanders** But I did meet 'The Goat'. Guy will eat anything for a dollar.  
 ** Sara Sidle** Beard? Pierced ear? I had to get evidence _out_ of him one night.
 
-* * *
+- - -
 
 **Jefferson Nalley** I loved her.  
 **Sara Sidle** No you didn't. If you did, Jefferson, you would have pulled over.

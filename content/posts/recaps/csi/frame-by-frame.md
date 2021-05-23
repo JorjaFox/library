@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -32,7 +32,7 @@ Finally Witten admits he *did* know Darcy. He'd met her at NA -- Narcotics Anony
 
 Sara is not as pleased about the confession as one might expect. The bullet used to kill Gear was not a match to Witten's gun. Greg manages to restore the film more, and finds that it was shot two months *after* Darcy's death. Darcy faked her death to get away from her father, who may have abused her.
 
-## Sara Sidle Review
+## Character Review
 
 Fourteen years ago, Sara and Catherine worked the case where Jack Witten was accused of murdering Darcy Blaine, an eighteen year-old he met at a bar and who was never seen again after leaving with Witten. When they were unable to come up with enough evidence, Conrad Ecklie (then only the dayshift lead) took the case from them. With Grissom away at a conference, there was nothing Catherine or Sara could do to prevent the case from being filed away as a cold case, unsolved until now.
 
@@ -49,15 +49,15 @@ However, when faced with Darcy, Sara stays true to justice. Instead of relying o
 **Russell:** Sara, got something?  
 **Sidle:** A piece of the past.
 
-* * *
+- - -
 
 **Sidle:** Terrible, unspeakable things happen to all of us. But that doesn't give us the right to destroy someone's life. Whatever happened to you, whatever the truth is, for fourteen years you let an innocent man believe that he killed the one thing that he cared about. The one person in his screwed up universe that he genuinely loved like a daughter. You took his desire to protect and save you and you perverted it. You twisted it. I *know* you. I know who you are. You haven't changed, Darcy. You never will.
 
-* * *
+- - -
 
 **Russell:** That thing I said to you? About pushing too hard? Thank god you did.
 
-* * *
+- - -
 
 **Sidle:** All this evidence, all these years ... you ever think you've had enough?  
 **Sanders:** You kidding? I'm just getting started.

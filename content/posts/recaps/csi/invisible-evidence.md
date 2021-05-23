@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -14,13 +14,13 @@ date: 2003-11-13
 prodnum: 404  
 ---
 
+_Note: This episode was pre-empted on October 16th because of a US Presidential Address in some cities, and re-aired November 13th._
+
 ## Synopsis
 
 Warrick's appearance at the preliminary hearing on a rape and murder case goes terribly wrong when the only piece of evidence is thrown out on a technicality. Grissom and the team have 24 hours to make the case with new evidence or the killer will go free.
 
-_Note: This episode was pre-empted on October 16th because of a US Presidental Address in some cities, and re-aired November 13th._
-
-## Sara Sidle Review
+## Character Review
 
 A high-priority, drop-everything case comes along -- Sara protests that she's in the middle of her own murder investigation, and Grissom slaps her down, telling her she doesn't have a choice; Catherine later tells Grissom that he should have been even firmer with her. While waiting for the suspect's car to be brought in from impound, Sara talks to Nick about why she hates certain cases taking priority over others; he already knows that 'lots of things' piss her off. Sara's frustration shows when the suspect's car arrives -- flat as a pancake. Sara and Nick unflatten the car, and discover a parking permit inside. Sara has Grissom pin her against the victim's sheet (which she apparently enjoys) to demonstrate her theory of the crime, then tries to talk to him about the promotion she's put in for, wondering if their relationship will affect her chances at getting the position. Grissom says nothing, Sara stumbles over her words, then stops and walks off.
 

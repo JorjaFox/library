@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,9 +18,9 @@ prodnum: 215
 
 A body hidden in the Western Las Vegas Anthropology Department leads the CSI team to a disturbing case of child abuse. The CSI team is called to investigate an apparent gun shot victim found hidden in a 'body farm' -- a controlled environment where human decomposition is studied by scientists. The investigation leads them back to the victim's home where they discover a disturbing piece of evidence-- a photograph of a naked 12-year-old girl. A seemingly typical homicide investigation takes an unpredictable turn to a disconcerting case of child abuse when the girl turns out to be the daughter of the dead man's girlfriend. Also, Grissom's leadership is questioned by some members of his staff.
 
-## Sara Sidle Review
+## Character Review
 
-Sara always wanted to go to the body farm, and is excited to hear about it. When Grissom perfoms experiments with raw beef, he asks Sara to clean it up, apparently unaware she is a vegetarian and has been since the pig experiment. 
+Sara always wanted to go to the body farm, and is excited to hear about it. When Grissom performs experiments with raw beef, he asks Sara to clean it up, apparently unaware she is a vegetarian and has been since the pig experiment.
 
 Feeling she is unnoticed and not respected by Grissom, she puts in for a leave of absence. When Sara tries to talk about it with Grissom, he further compounds the matter with a noticeable lack of attention; she is disappointed when he says that the lab needs her -- she was hoping that he did. Grissom sends her a plant as an apology, because Sara likes living things, which seems to inspire Sara to stay.
 
@@ -61,4 +61,3 @@ Feeling she is unnoticed and not respected by Grissom, she puts in for a leave o
 **Sidle:** _(she turns around)_  
 **Grissom:** The lab needs you here.  
 **Sidle:** _(disappointed)_ Great.
-

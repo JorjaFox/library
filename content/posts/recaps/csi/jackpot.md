@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -18,6 +18,6 @@ prodnum: 407
 
 A severed head is shipped to Dr. Robbins from Jackpot, Nevada. Grissom goes to Jackpot to find the rest of the body and gets very little cooperation from the locals. Catherine gets an unexpected gift from her father.
 
-## Sara Sidle Review
+## Character Review
 
-Sara does not appear in this episode.
+_Sara Sidle does not appear in this episode._

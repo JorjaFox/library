@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -20,7 +20,7 @@ A faked death turns into a case of body-part trafficking, when a Jewish body tur
 
 Margo Darton is found, killed in her home, beaten by a champagne bottle. She'd been seeing a 'Host' at the Over/Under Club, who acted as a pretend relationship, named Jesse. Margo had brought Jesse home to show him that she was actually his mother, and in a fit of anger, he killed her.
 
-## Sara Sidle Review
+## Character Review
 
 Sara works the Dorton case, and 'bids' on a stripper's panties with her CSI ID, while looking to find where Margo died. She places an 'order' for Jesse and discusses Margo with him.
 

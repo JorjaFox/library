@@ -4,7 +4,7 @@ author: Mika A. Epstein
 layout: recap-tv
 permalink: /recaps/csi/:title/
 categories: ["Recaps"]
-tags: ["CSI"]
+tags: ["CSI: Crime Scene Investigation"]
 station: CBS
 showname: "CSI: Crime Scene Investigation"
 showslug: csi
@@ -19,16 +19,16 @@ gallerylink: https://jorjafox.net/gallery/tv/csi/season01/coolchange/
 
 A man is killed after winning a fortune and then dumping his girlfriend; Grissom and Nick investigate this one. Holly Gribbs is in the hospital and Warrick is up for suspension for leaving her at the crime scene by herself. Newcomer to the CSI team, Sara, investigates Warrick's actions. When Holly later dies in the hospital, Sara and Catherine track down the killer with some innovative pager work; Grissom refuses to suspend Warrick.
 
-## Sara Sidle Review
+## Character Review
 
-Introducing **Sara**, a CSI III from San Francisco whom Grissom calls in to investigate Warrick Brown. After introducing herself to Catherine (with a cute little bit of interaction about the pager), Sara confronts Warrick, whom she found in a casino. Sara and Catherine don't hit it off immediately. Other than investigating Warrick, Sara follows Catherine around as they solve the Gribbs' murder, though she doesn't actually participate in the case.
+This episode introduces Sara Sidle, a CSI III from San Francisco whom Grissom calls in to investigate Warrick Brown. After meeting Catherine (with a cute little bit of interaction about the pager), Sara confronts Warrick, whom she found in a casino. Sara and Catherine don't hit it off immediately. Other than investigating Warrick, Sara follows Catherine around as they solve the Gribbs' murder, though she doesn't actually participate in the case.
 
 ## Character Notes
 
 * Sara and Grissom have worked together previously.  
 * Sara and Grissom apparently had some kind of relationship in San Francisco, which he abandoned to come to Las Vegas. (this is partially confirmed in Toe Tags.  
 * First sign of Sara's sarcastic sense of humor (her initial meeting with Grissom, then her conversation with Catherine about the pager.  
-* Sara is trying to quit smoking (she offers a piece of Nicorette to Catherine, who says she has her own.  
+* Sara is trying to quit smoking (she offers a piece of nicorette to Catherine, who says she has her own.  
 * While Sara doesn't officially aid Catherine in her investigation, she does tag along.  
 * This is the beginning of the period where Sara doesn't trust Warrick because of his gambling problem.
 
