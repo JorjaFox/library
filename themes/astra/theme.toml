@@ -4,7 +4,7 @@ licenselink = "http://www.gnu.org/licenses/gpl-2.0.html"
 description = "A responsive website with a sleek, modern design."
 tags = ["website", "starter", "responsive"]
 features = ["posts", "shortcodes"]
-min_version = 0.14
+min_version = 0.15
 
 [author]
     name = "Mika Epstein"
