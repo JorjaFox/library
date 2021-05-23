@@ -1,5 +1,5 @@
 {
-"show" : "mp",
+"show" : "missing-persons",
 "episodes": [
   {
     "epnum": "1x01",
@@ -7,7 +7,9 @@
     "title": "Pilot",
     "slug": "pilot",
     "airdate": "1993-08-30T20:00:00.000Z",
-    "rating": "4"
+    "rating": "4",
+    "summary": "Lt. Ray McAuliffe is the head of a diverse team of Chicago police officers specializing in missing persons.",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/pilot/"
   },
   {
     "epnum": "1x02",
@@ -15,7 +17,9 @@
     "title": "Cabe?... What kind of name is that?",
     "slug": "cabe-what-kind-of-name-is-that",
     "airdate": "1993-09-23T20:00:00.000Z",
-    "rating": "3"
+    "rating": "3",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/cabe/"
   },
   {
     "epnum": "1x03",
@@ -23,7 +27,9 @@
     "title": "People Don't Talk to Cops, People Lie to Cops",
     "slug": "people-dont-talk-to-cops-people-lie-to-cops",
     "airdate": "1993-09-30T20:00:00.000Z",
-    "rating": "3"
+    "rating": "3",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/people/"
   },
   {
     "epnum": "1x04",
@@ -31,7 +37,9 @@
     "title": "I Can't Even Imagine",
     "slug": "i-cant-even-imagine",
     "airdate": "1993-10-07T20:00:00.000Z",
-    "rating": "4"
+    "rating": "4",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/imagine/"
   },
   {
     "epnum": "1x05",
@@ -39,7 +47,9 @@
     "title": "That's My Sister Pal",
     "slug": "thats-my-sister-pal",
     "airdate": "1993-10-14T20:00:00.000Z",
-    "rating": "4"
+    "rating": "4",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/sister/"
   },
   {
     "epnum": "1x06",
@@ -47,7 +57,9 @@
     "title": "The Man's an Emotional Termite",
     "slug": "the-mans-an-emotional-termite",
     "airdate": "1993-10-28T20:00:00.000Z",
-    "rating": "3"
+    "rating": "3",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/termite/"
   },
   {
     "epnum": "1x07",
@@ -55,7 +67,9 @@
     "title": "Some People's Priorities",
     "slug": "some-peoples-priorities",
     "airdate": "1993-11-04T20:00:00.000Z",
-    "rating": "4"
+    "rating": "4",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/priorities/"
   },
   {
     "epnum": "1x08",
@@ -63,7 +77,9 @@
     "title": "I'm Gonna Miss Him Too",
     "slug": "im-gonna-miss-him-too",
     "airdate": "1993-11-11T20:00:00.000Z",
-    "rating": "3"
+    "rating": "3",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/misshim/"
   },
   {
     "epnum": "1x09",
@@ -71,7 +87,9 @@
     "title": "Sometimes You Can't Help Getting Involved",
     "slug": "sometimes-you-cant-help-getting-involved",
     "airdate": "1993-11-25T20:00:00.000Z",
-    "rating": "3"
+    "rating": "3",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/sometimes/"
   },
   {
     "epnum": "1x10",
@@ -79,7 +97,9 @@
     "title": "Right Neighborhood ... Wrong Door",
     "slug": "right-neighborhood-wrong-door",
     "airdate": "1993-12-02T20:00:00.000Z",
-    "rating": "3"
+    "rating": "3",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/rightdoor/"
   },
   {
     "epnum": "1x11",
@@ -87,7 +107,9 @@
     "title": "How Hard Is It Just to Get Off at the Next Exit?",
     "slug": "how-hard-is-it-just-to-get-off-at-the-next-exit",
     "airdate": "1993-12-16T20:00:00.000Z",
-    "rating": "2"
+    "rating": "2",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/nextexit/"
   },
   {
     "epnum": "1x12",
@@ -95,7 +117,9 @@
     "title": "If You Could Pick Your Own Parents",
     "slug": "if-you-could-pick-your-own-parents",
     "airdate": "1994-01-06T20:00:00.000Z",
-    "rating": "2"
+    "rating": "2",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/parents/"
   },
   {
     "epnum": "1x13",
@@ -103,7 +127,9 @@
     "title": "I've Got a Siren",
     "slug": "ive-got-a-siren",
     "airdate": "1994-01-13T20:00:00.000Z",
-    "rating": "3"
+    "rating": "3",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/siren/"
   },
   {
     "epnum": "1x14",
@@ -111,7 +137,9 @@
     "title": "My Beautiful Son is Okay",
     "slug": "my-beautiful-son-is-okay",
     "airdate": "1994-01-20T20:00:00.000Z",
-    "rating": "4"
+    "rating": "4",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/beautifulson/"
   },
   {
     "epnum": "1x15",
@@ -119,7 +147,9 @@
     "title": "All They Had to Do Was Ask...",
     "slug": "all-they-had-to-do-was-ask",
     "airdate": "1994-02-03T20:00:00.000Z",
-    "rating": "4"
+    "rating": "4",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/alltheyhadtodo/"
   },
   {
     "epnum": "1x16",
@@ -127,7 +157,9 @@
     "title": "Tell Me You Didn't Do It ... I'll Go to the Wall for You",
     "slug": "tell-me-you-didnt-do-it-ill-go-to-the-wall-for-you",
     "airdate": "1994-02-10T20:00:00.000Z",
-    "rating": "4"
+    "rating": "4",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/tellme/"
   },
   {
     "epnum": "1x17",
@@ -135,6 +167,8 @@
     "title": "What Do You Want, a Signed Confession ... ?",
     "slug": "what-do-you-want-a-signed-confession",
     "airdate": "1994-02-17T20:00:00.000Z",
-    "rating": "2"
+    "rating": "2",
+    "summary": "",
+    "gallerylink": "https://jorjafox.net/gallery/tv/missingpersons/signed/"
   }
 ]}

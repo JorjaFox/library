@@ -1,5 +1,6 @@
 {{ $season := .Get "season" }}
 {{ $show := $.Page.Params.show }}
+{{ $episodes := (index .Site.Data.episodes $.Page.Params.show).episodes }}
 
 <table class="table table-bordered">
 	<thead class="thead-light">
@@ -12,22 +13,17 @@
 	</thead>
 
 	<tbody>
-	{{ range $.Page.Site.Data.episodes }}
-		{{ if eq .show $show }}
-			{{ range where .episodes "season" "==" $season }}
-				{{ $goldstar := len (seq .rating) }}
-				<tr class="table-success">
-					<th scope="row">{{ .epnum }}</th>
-					<th scope="row">"<a href="/library/recaps/{{ $show }}/{{ .slug }}/">{{ .title }}</a>"</th>
-					<th scope="row">{{ .airdate | dateFormat "Jan 2, 2006" }}</th>
-					<th scope="row"><center>{{ partial "rating-episodelist.html" (dict "context" . "goldstar" $goldstar "rating" .rating) }}</center></th>
-				</tr>
-
-				<tr>
-					<td colspan="4">{{ if .summary }}{{ .summary }}{{ else }}<em>TBD<em>{{ end }}</td>
-				</tr>
-			{{end}}
-		{{ end }}
+	{{ range where $episodes "season" "==" $season }}
+		{{ $goldstar := len (seq .rating) }}
+		<tr class="table-success">
+			<th scope="row">{{ .epnum }}</th>
+			<th scope="row">"<a href="/library/recaps/{{ $show }}/{{ .slug }}/">{{ .title }}</a>"</th>
+			<th scope="row">{{ .airdate | dateFormat "Jan 2, 2006" }}</th>
+			<th scope="row"><center>{{ partial "rating-episodelist.html" (dict "context" . "goldstar" $goldstar "rating" .rating) }}</center></th>
+		</tr>
+		<tr>
+			<td colspan="4">{{ if .summary }}{{ .summary }}{{ else }}<em>TBD.<em>{{ end }}</td>
+		</tr>
 	{{ end }}
 	</tbody>
 </table>

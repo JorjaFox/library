@@ -4,7 +4,7 @@ author: "Mika A. Epstein"
 layout: single
 categories: ["missing persons"]
 tags: ["Television"]
-show: mp
+show: missing-persons
 seasons: [1]
 ---
 

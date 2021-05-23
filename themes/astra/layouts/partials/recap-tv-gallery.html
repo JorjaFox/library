@@ -1,0 +1,11 @@
+{{ $showslug := .Params.showslug }}
+{{ $eptitle  := .Title }}
+{{ $episodes := (index .Site.Data.episodes .Params.showslug).episodes }}
+
+{{ range $episodes }}
+	{{ if eq .title $eptitle }}
+		{{ if and ( .gallerylink ) ( ne .gallerylink "" ) }}
+			<br /><a href="{{ .gallerylink }}" target="_blank">Screenshots</a>
+		{{ end }}
+	{{ end }}
+{{ end }}

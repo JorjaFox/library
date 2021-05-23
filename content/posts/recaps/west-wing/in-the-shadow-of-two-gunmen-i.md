@@ -13,9 +13,10 @@ epnum: One
 prodnum: 226201    
 date: 2000-10-04
 rating: 3  
+gallerylink: https://jorjafox.net/gallery/tv/westwing/season02/shadow1/
 ---
 
-## Summary 
+## Summary
 
 Part One: An assassination attempt yields casualties; a military crisis looms in Iraq.
 
@@ -42,4 +43,3 @@ While the staff awaits news regarding the injuries to Jed and Josh, they recall 
 **Gina** [nodding] And Union Station. We've got troopers on the bridges and 300 field agents working Rossland but &#8230; I can't tell them what they're looking for.  
 **Leo** [comforting] You got the girl in the car, Gina.  
 **Gina** It's right in front of my face.
-

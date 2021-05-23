@@ -6,7 +6,7 @@ permalink: /recaps/csi/:title/
 categories: ["Recaps"]
 tags: ["CSI"]
 station: CBS
-showname: "CSI"
+showname: "CSI: Crime Scene Investigation"
 showslug: csi
 season: 7
 epnum: 4

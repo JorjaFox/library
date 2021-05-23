@@ -1,0 +1,39 @@
+{{ $showslug := .Params.showslug }}
+{{ $eptitle  := .Title }}
+{{ $episodes := (index .Site.Data.episodes .Params.showslug).episodes }}
+{{ $ep_array := slice }}
+{{ $i        := 0 }}
+{{ $this_ep  := 0 }}
+
+{{ range $episodes }}
+	{{ $ep_array = $ep_array | append .title }}
+	{{ if eq .title $eptitle }}
+		{{ $this_ep = $i }}
+	{{ end }}
+	{{ $i = (add $i 1) }}
+{{ end }}
+
+{{ if or ($this_ep) (eq $this_ep 0) }}
+	<ul class="list-group list-group-horizontal list-group-flush">
+	{{ if ne $this_ep 0 }}
+		{{ $previousep := (sub $this_ep 1) }}
+		{{ $prev_name := index ($ep_array) $previousep }}
+		{{ range $episodes }}
+			{{ if eq $prev_name .title }}
+				<li class="list-group-item flex-fill">&larr;&nbsp;<a href="/library/recaps/{{ $showslug }}/{{ .slug }}/">{{ $prev_name }}</a></li>
+			{{ end }}
+		{{ end }}
+	{{ else }}
+		<li class="list-group-item flex-fill">&nbsp</li>
+	{{ end }}
+	{{ if ne $this_ep $i }}
+		{{ $nextep     := (add $this_ep 1) }}
+		{{ $next_name  := index ($ep_array) $nextep }}
+		{{ range $episodes }}
+			{{ if eq $next_name .title }}
+				<li class="list-group-item flex-fill"><a href="/library/recaps/{{ $showslug }}/{{ .slug }}/">{{ $next_name }}</a>&nbsp;&rarr;</li>
+			{{ end }}
+		{{ end }}
+	{{ end }}
+	</ul>
+{{ end }}

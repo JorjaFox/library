@@ -1,5 +1,5 @@
 ---
-title: "CSI: Vegas Episodes"
+title: "'CSI: Vegas' Episodes"
 author: "Mika A. Epstein"
 redirectto: "/actor/csi-vegas-episodes/"
 layout: single

@@ -6,7 +6,7 @@ permalink: /recaps/csi/:title/
 categories: ["Recaps"]
 tags: ["CSI"]
 station: CBS
-showname: "CSI"
+showname: "CSI: Crime Scene Investigation"
 showslug: csi
 season: 12  
 epnum: 9  
@@ -38,4 +38,3 @@ She later works with Doc Robbins when the body comes in, and determines a way to
 
 **Sidle:** The thing about tattoos, they're forever. Doc, can I take this part to go?  
 **Robbins** Not yet, but we deliver.
-

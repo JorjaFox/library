@@ -1,4 +1,13 @@
 /* Card */
+
+div.episode-card table, tr, td, th {
+    border: 0px!important;
+}
+
+div.episode-card .card-header {
+    text-align: center;
+}
+
 .card {
   position: relative;
   display: -ms-flexbox;
@@ -2038,4 +2047,8 @@ a.text-dark:hover, a.text-dark:focus {
   .float-xl-none {
     float: none !important;
   }
+}
+
+.list-group-flush > .list-group-item {
+    border: 0px;important
 }

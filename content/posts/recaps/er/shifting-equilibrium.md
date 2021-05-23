@@ -18,9 +18,9 @@ rating: 0
 Note: Jorja Fox does not appear in this episode.
 
 ## Summary  
-  
+
 It's Neela's last day and everyone in the ER seems to have forgotten that she is leaving. Neela proves she is ready to be an attending when she and Dr. Dubenko argue about the treatment of two surgical cases. Meanwhile, Brenner has an epiphany about his troubled past.
 
 ## Character Review  
-  
+
 Doyle's name is seen when Neela puts her nameplate on the wall of departed doctors.

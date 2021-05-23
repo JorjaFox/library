@@ -8,15 +8,16 @@ tags: ["The West Wing"]
 station: NBC  
 showname: "The West Wing"
 showslug: west-wing  
-season : One  
-epnum: Sixteen  
-prodnum: 225915  
+season : One
+epnum: Sixteen
+prodnum: 225915
 date: 2000-02-23
-rating: 3  
+rating: 3
 ---
 
-## Summary 
-The President and his staff head to Los Angeles for a whirlwind visit and a celebrity fund raiser, and Bartlet meets his daughter Zoey's new Secret Service agent.
+## Summary
+
+President Bartlet and his staff head to Los Angeles for a whirlwind visit and a celebrity fund raiser, and Bartlet meets his daughter Zoey's new Secret Service agent.
 
 ## Character Review
 A direct person, Gina takes the role of protecting &#8216;Bookbag' seriously.

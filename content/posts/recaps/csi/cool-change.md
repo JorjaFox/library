@@ -6,12 +6,13 @@ permalink: /recaps/csi/:title/
 categories: ["Recaps"]
 tags: ["CSI"]
 station: CBS
-showname: "CSI"
+showname: "CSI: Crime Scene Investigation"
 showslug: csi
 season: 1
 epnum: 2
 date: 2000-10-13
-prodnum: 101  
+prodnum: 101
+gallerylink: https://jorjafox.net/gallery/tv/csi/season01/coolchange/
 ---
 
 ## Synopsis
@@ -75,4 +76,3 @@ Introducing **Sara**, a CSI III from San Francisco whom Grissom calls in to inve
 
 **Sidle:** Nicorette?  
 **Willows:** Got my own. _(smiles, showing the gum through her teeth)_
-
