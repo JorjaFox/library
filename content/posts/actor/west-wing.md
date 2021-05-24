@@ -16,6 +16,8 @@ excerpt: "<strong>The West Wing</strong> was a popular and widely acclaimed Amer
 imdb: https://www.imdb.com/title/tt0200276/
 gallery: https://jorjafox.net/gallery/tv/westwing/
 image: images/actor/west-wing.jpg
+episodelist: true
+show: west-wing
 ---
 
 ## Character

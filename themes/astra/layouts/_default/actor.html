@@ -48,7 +48,10 @@
 							{{ end }}
 							</li>
 						{{ end }}
-						{{ if .Params.gallery }}<li class="list-group-item"><a href="{{.Params.gallery}}">Gallery</a></li>{{ end }}
+						<li class="list-group-item">
+						{{ if .Params.gallery }}<a href="{{.Params.gallery}}">Gallery</a>{{ if .Params.episodelist }}  &bull; {{end}}{{ end }}
+						{{ if .Params.episodelist }}<a href="/library/actor/{{ .File.TranslationBaseName }}-episodes/">List of Episodes</a>{{ end }}
+						</li>
 					</ul>
 				</div>
 			</div>

@@ -3,7 +3,6 @@ layout: actor
 title: "Missing Persons"
 categories: ["Filmography"]
 tags: ["Television"]
-show: mp
 station: ABC
 rating: 4
 seasons: 1
@@ -15,6 +14,7 @@ excerpt: "<strong>Missing Persons</strong> was a television show about missing p
 imdb: https://www.imdb.com/title/tt0106067/
 gallery: https://jorjafox.net/gallery/tv/missingpersons/
 image: images/actor/missingpersons.png
+episodelist: true
 ---
 
 The show aired from August 1993 through February 1994 on ABC at 8 p.m., apart from the feature-length pilot episode, which was broadcast as the Monday Night Movie from 9 p.m.-11 p.m. ET.
@@ -36,7 +36,3 @@ Divorced, Connie still wears her wedding ring in order to avoid being hit on at 
 Johnny Sandowski learns Connie's divorced, but honors her request not to tell anyone, making him her slave. Connie also tells the Lieutenant later on, confiding in him her cancer scare as well. She works with the Lieutenant's wife to plan a surprise party for his birthday.
 
 By the end of the series, Connie is dating again and has a new boyfriend.
-
-## See Also
-
-* [Missing Persons Episodes](/library/actor/missing-persons-episodes/)
