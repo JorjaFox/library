@@ -27,7 +27,7 @@ A dying Patrick Brazil is brought in by his caregiver, who explains to Jeanie an
 
 ## Character Notes  
 
-*Jeanie and Doyle are becoming friends at this point, which will become relevant later.
+* Jeanie and Doyle are becoming friends at this point, which will become relevant later.
 
 ## Quotes  
 
