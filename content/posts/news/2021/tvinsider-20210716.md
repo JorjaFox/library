@@ -1,31 +1,25 @@
 ---
-title: "TV Line"
-date: 2021-03-31
+title: "TV Insider"
+date: 2021-06-16
 author: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
 categories: ["Articles", "News"]
-newstitle: "_CSI_ Sequel Series Formally Greenlit at CBS; Wallace Langham Returning Alongside William Petersen, Jorja Fox"
-newsauthor: "Michael Ausiello"
-newssource: "TV Line"
-newsurl: https://tvline.com/2021/03/31/_CSI_-vegas-reboot-series-order-wallace-langham-hodges/
+newstitle: "‘CSI: Vegas,’ ‘NCIS: Hawaii’ & More Spinoffs of Your Fave Procedurals Coming This Fall"
+newsauthor: "TV Insider Staff"
+newssource: "TV Insider"
+newsurl: https://www.tvinsider.com/1001781/fall-2021-tv-preview-law-order-for-the-defense-csi-vegas-ncis-hawaii-fbi-international/
 
 ---
 
-CBS’ is officially embarking on a new crime spree, handing a formal series order to a new iteration of _CSI_ that is equal parts reboot and revival.
+[...]
 
-As previously reported, the sequel series — titled _CSI: Vegas_ — will pick up six years after the OG series’ 2015 finale and find franchise vets William Petersen‘s Gil and Jorja Fox‘s Sara surrounded by a new crop of Sin City-based <em>CSI</em>s played by Matt Lauria (_Friday Night Lights_, _Kingdom_), Paula Newsome (_Chicago Med_, _Barry_), Mel Rodriguez (_Last Man on Earth_) and Mandeep Dhillon (_After Life_).
+## CSI: Vegas (CBS)
 
-Additionally, TVLine can now confirm that Wallace Langham — who played lab tech David Hodges for much of _CSI_‘s original run — will also be back as a series regular.
+For a decade, _CSI: Crime Scene Investigation_ (2000–15) was one of the most watched dramas in the world. The grisly, neon-tinged exploits of a Sin City forensic team captivated viewers with its cutting-edge science, cinematic production values (Quentin Tarantino directed!) and winning ensemble led by William Petersen as “The Bug Man” Gil Grissom. After spawning three spinoffs (_Miami_, _NY_ and _Cyber_), the franchise returns to where it all began for this sequel, which finds the Vegas Crime Lab’s new head (Paula Newsome) calling in reinforcements in a crisis.
 
-The official logline for _CSI: Vegas_, which will debut this fall on CBS, is as follows: “Facing an existential threat that could bring down the Crime Lab, a brilliant new team of forensic investigators must welcome back old friends and deploy new techniques to preserve and serve justice in Sin City.”
+### Why We’re Excited
 
-The new _CSI_ — which is being viewed as a potential ongoing series vs. a limited one — was initially slated to premiere last fall, coinciding with the 20th anniversary of the original _CSI_‘s 2000 launch. The coronavirus pandemic, however, delayed those plans.
+That cavalry includes Petersen, as well as fellow original series costars Wallace Langham, Paul Guilfoyle and Jorja Fox. That means we’ll learn the status of Gil and Sara Sidle’s relationship along with just how much the high-tech world of criminal forensics has changed in six years. By mixing old blood with the new (including Matt Lauria, Mel Rodriguez and Mandeep Dhillon), CBS should hit the jackpot. _—Damian Holbrook_
 
-Elementary vet Jason Tracey will serve as showrunner/EP.
-
-Fueled by the phenomenal success of the mothership (in its heyday it averaged north of 25 million viewers), CBS went on to launch spinoffs _CSI: Miami_ (starring David Caruso), _CSI: NY_ (starring Gary Sinise) and _CSI: Cyber_ (starring Patricia Arquette).
-
-“Twenty-one years ago, we launched _CSI_ and watched in awe as this new cinematic series launched an entire genre and became a groundbreaking juggernaut that still has global resonance today,” said CBS President Kelly Kahl in a statement. “We are thrilled to welcome the next generation of forensic criminalists to the _CSI_ brand and unite them with the legendary characters from the past who we still love, including the extraordinary Billy Petersen and Jorja Fox.
-
-“Crimefighting technology has advanced dramatically over the last several years,” Kahl added, “and combined with classic _CSI_ storytelling, we can’t wait to watch this new team do what they do best: follow the evidence.”
+[...]
