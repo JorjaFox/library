@@ -164,10 +164,10 @@
 									<div class="entry-meta">
 										{{ if ne .Params.layout "index" }}
 											<span class="cat-links">
-												<a href="/library/">Library</a>
 												{{ if ne .Params.layout "search" }}
-													{{ range (.GetTerms "tags") }} / <a href="{{ .Permalink }}" rel="category tag">{{ .LinkTitle }}</a>{{ end }}
-													{{ range (.GetTerms "categories") }} / <a href="{{ .Permalink }}" rel="category tag">{{ .LinkTitle }}</a>{{ end }}
+													{{ partial "breadcrumbs.html" . }}
+												{{ else }}
+													<a href="/library/">Library</a>
 												{{ end }}
 											</span>
 										{{ end }}

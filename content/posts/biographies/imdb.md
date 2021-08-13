@@ -1,7 +1,7 @@
 ---
 title: IMDb Biography
 author: "Mika A. Epstein"
-layout: single
+layout: biography
 permalink: /biographies/imdb/
 categories: ["Biographies"]
 tags: ["Internet"]

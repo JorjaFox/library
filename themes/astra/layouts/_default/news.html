@@ -1,24 +1,22 @@
 {{ partial "header.html" . }}
 
-	<div class="card">
-		{{ if .Params.newsurl }}
-		<div class="card-header">
-			<strong>{{.Params.newstitle}}</strong><br />{{ .Date.Format "January 02, 2006" }}
-		</div>
-		{{ end }}
-		<div class="card-body">
-			{{ .Content }}
-		</div>
-
-		{{ if .Params.newsurl }}
-		<div class="card-footer">
-			<b>By:</b> {{.Params.newsauthor}} | <b>Source:</b> <a href="{{.Params.newsurl}}" target="_blank">{{.Params.newssource}}</a>
-		</div>
-		{{ end }}
+<div class="card">
+	{{ if .Params.newsurl }}
+	<div class="card-header">
+		<strong>{{.Params.newstitle}}</strong><br />{{ .Date.Format "January 02, 2006" }}
+	</div>
+	{{ end }}
+	<div class="card-body">
+		{{ .Content }}
 	</div>
 
-	<p>&nbsp;</p>
+	{{ if .Params.newsurl }}
+	<div class="card-footer">
+		<b>By:</b> {{.Params.newsauthor}} | <b>Source:</b> <a href="{{.Params.newsurl}}" target="_blank">{{.Params.newssource}}</a>
+	</div>
+	{{ end }}
+</div>
 
-	{{ partial "news-footer.html" . }}
+{{ partial "news-footer.html" . }}
 
 {{ partial "footer.html" . }}

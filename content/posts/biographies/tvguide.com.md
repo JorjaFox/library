@@ -1,7 +1,7 @@
 ---
 title: TVGuide.com Biography
 author: "Mika A. Epstein"
-layout: single
+layout: biography
 permalink: /biographies/tvguide/
 categories: ["Biographies"]
 tags: ["Internet"]

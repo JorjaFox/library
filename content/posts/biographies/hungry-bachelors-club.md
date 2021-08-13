@@ -1,7 +1,7 @@
 ---
 title: Hungry Bachelors Club Biography
 author: "Mika A. Epstein"
-layout: single
+layout: biography
 permalink: /biographies/hungry-bachelors-club/
 categories: ["Biographies"]
 tags: ["Movies"]

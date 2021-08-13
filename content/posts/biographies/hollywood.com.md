@@ -1,7 +1,7 @@
 ---
 title: Hollywood.com Biography
 author: "Mika A. Epstein"
-layout: single
+layout: biography
 permalink: /biographies/hollywood-com/
 categories: ["Biographies"]
 tags: ["Internet"]

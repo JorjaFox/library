@@ -1,7 +1,7 @@
 ---
 title: Official Biography
 author: "Mika A. Epstein"
-layout: single
+layout: biography
 permalink: /biographies/official/
 categories: ["Biographies"]
 tags: ["Official"]
