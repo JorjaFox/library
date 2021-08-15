@@ -1,0 +1,8 @@
+<div class="col">
+	<div class="card h-100">
+		<div class="card-body">
+			<h5 class="card-title">{{ with .Get "link" }}<a href="{{ . }}">{{ end }}{{ .Get "title" }}{{ if .Get "link" }}</a>{{ end }}</h5>
+			{{ if .Get "content" }}<p class="card-text">{{ .Get "content" }}</p>{{ end }}
+		</div>
+	</div>
+</div>

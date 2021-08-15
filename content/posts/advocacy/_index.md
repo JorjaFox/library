@@ -12,7 +12,9 @@ tags: ["index"]
 
 ## See Also
 
-* [Politics](/library/politics)
+{{< list/ol >}}
+	{{< list/li link="/library/politics/" title="Politics" >}}
+{{< list/end >}}
 
 ## Supported Groups
 

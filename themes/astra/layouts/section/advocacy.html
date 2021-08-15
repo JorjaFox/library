@@ -2,12 +2,12 @@
 
 {{ .Content }}
 
-	<ul>
-	{{ range .Data.Pages.ByTitle }}
-		{{ if ne .Type "index" }}
-			<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-		{{ end }}
+<ul class="list-group">
+{{ range .Data.Pages.ByTitle }}
+	{{ if ne .Type "index" }}
+		<li class="list-group-item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 	{{ end }}
-	</ul>
+{{ end }}
+</ul>
 
 {{ partial "footer.html" . }}

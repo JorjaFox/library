@@ -12,8 +12,10 @@ Television show recaps have been made available after hours and years of watchin
 
 The follow shows are currently recapped here:
 
-* [Missing Persons](/library/actor/missing-persons-episodes/)
-* [ER](/library/actor/er-episodes/)
-* [The West Wing](/library/actor/west-wing-episodes/)
-* [CSI: Crime Scene Investigation](/library/actor/csi-episodes/)
-* [CSI: Vegas](/library/actor/csi-vegas-episodes/)
+{{< list/ol >}}
+	{{< list/li link="/library/actor/missing-persons-episodes/" title="Missing Persons" showslug="missing-persons" >}}
+	{{< list/li link="/library/actor/er-episodes/" title="ER" showslug="er" >}}
+	{{< list/li link="/library/actor/west-wing-episodes/" title="The West Wing" showslug="west-wing" >}}
+	{{< list/li link="/library/actor/csi-episodes/" title="CSI: Crime Scene Investigation" showslug="csi" >}}
+	{{< list/li link="/library/actor/csi-vegas-episodes/" title="CSI: Vegas" showslug="csi-vegas" >}}
+{{< list/end >}}
