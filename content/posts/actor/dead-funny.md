@@ -3,12 +3,7 @@ layout: actor
 title: "Dead Funny"
 categories: ["Filmography"]
 tags: ["movies"]
-excerpt: "<strong>Dead Funny</strong> is about Viv (Elizabeth Pena), and Reggie (Andrew McCarthy) who live in separate New York apartments. Their relationship is based on sex and sick practical jokes. They used to think it was dead funny. Now Reggie's just dead."
-character: "Fate 3"
-chartype: supporting
-rating: 2
-year: 1994
-genre: "Dark Comedy"
+slug: "dead-funny"
 gallery: https://jorjafox.net/gallery/movies/deadfunny/
 imdb: https://www.imdb.com/title/tt0109566/
 image: images/actor/dead-funny.jpg

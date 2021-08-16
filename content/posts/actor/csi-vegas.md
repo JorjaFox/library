@@ -3,15 +3,7 @@ title: "CSI: Vegas"
 categories: ["Filmography", "CSI: Vegas"]
 tags: ["Television"]
 layout: actor
-show: csi-vegas
-station: CBS
-rating: 5
-seasons: 1
-chartype: main
-character: "Sara Sidle"
-year: 2021
-genre: "Crime Drama"
-excerpt: "<strong>CSI: Vegas</strong> opens a brand new chapter in Las Vegas, the city where it all began."
+slug: csi-vegas
 imdb: http://www.imdb.com/title/tt12887536/
 website: https://www.cbs.com/shows/csi-vegas/
 gallery: https://jorjafox.net/gallery/tv/csi-vegas/

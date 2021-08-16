@@ -4,15 +4,7 @@ author: "Mika A. Epstein"
 layout: actor
 categories: ["Filmography"]
 tags: ["Television"]
-show: chiefs
-station: CBS
-rating: na
-episodes: 1
-chartype: main
-genre: Drama
-year: 2018
-character: "Vicky"
-excerpt: "In Los Angeles County, three female police chiefs work together to catch a serial killer."
+slug: chiefs
 gallery: https://jorjafox.net/gallery/tv/chiefs/
 imdb: https://www.imdb.com/title/tt7731700/
 image: images/actor/chiefs.jpg

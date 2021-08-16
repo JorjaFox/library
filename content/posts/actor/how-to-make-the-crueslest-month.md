@@ -3,12 +3,7 @@ layout: actor
 title: "How to Make the Cruelest Month"
 categories: ["Filmography"]
 tags: ["movies"]
-excerpt: "<strong>How to Make the Cruelest Month</strong> set in a small college town, about neurotic Bell Bryant who explains her problems directly to the camera."
-character: "Sarah Bryant"
-chartype: supporting
-rating:
-year: 1998
-genre: Comedy
+slug: "how-to-make-the-cruelest-month"
 imdb: https://www.imdb.com/title/tt0138501/
 gallery: https://jorjafox.net/gallery/movies/cruelest/
 image: images/actor/htmtcm.jpg

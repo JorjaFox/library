@@ -1,14 +1,9 @@
 ---
 layout: actor
-title: "Dead Drunk: The Kevin Tunell Story"
+title: "Lifestories: Families in Crisis"
 categories: ["Filmography"]
 tags: ["movies"]
-excerpt: "<strong>Dead Drunk: The Kevin Tunell Story</strong> is about the true story of a man who kills a girl while drunk driving."
-character: Josie
-chartype: supporting
-rating: 2
-year: 1996
-genre: "Drama"
+slug: "dead-drunk"
 imdb: https://www.imdb.com/title/tt0139780/
 gallery: https://jorjafox.net/gallery/tv/movies/deaddrunk
 image: images/actor/deaddrunk.jpg

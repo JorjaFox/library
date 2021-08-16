@@ -1,6 +1,42 @@
 {{ partial "header.html" . }}
 
-	{{ if .Params.excerpt }}<p>{{ .Params.excerpt | safeHTML }}</p>{{ end }}
+
+	{{ $showslug  := .Params.slug }}
+	{{ $showtitle := .Params.title }}
+
+	{{ $showdata := newScratch }}
+
+	{{ range $.Page.Site.Data.filmography }}
+		{{ if and (eq $showslug .slug) (eq $showtitle .title) }}
+
+			{{ if eq .unverified true }}
+				<div class="alert alert-danger" role="warning"><em>Jorja Fox's appearance in this is unverified. If you have information than can confirm, please <strong><a href="https://jorjafox.net/contact/">contact us</a></strong>, and be sure to cite your source.</em></div>
+			{{ end }}
+
+			{{ if .excerpt }}<p>{{ .excerpt | safeHTML }}</p>{{ end }}
+			{{ $showdata.Set "character" .character }}
+			{{ $showdata.Set "chartype" .chartype }}
+			{{ $showdata.Set "rating" .rating }}
+			{{ $showdata.Set "year" .dates }}
+			{{ $showdata.Set "genre" .genre }}
+			{{ $showdata.Set "station" .station }}
+			{{ $showdata.Set "seasons" .seasons }}
+			{{ $showdata.Set "episodes" .episodes }}
+			{{ $showdata.Set "notes" .notes }}
+			{{ $showdata.Set "jorjan" .jorjan }}
+		{{ end }}
+	{{ end }}
+
+	{{ $character := $showdata.Get "character" }}
+	{{ $chartype := $showdata.Get "chartype" }}
+	{{ $rating := $showdata.Get "rating" }}
+	{{ $year := $showdata.Get "year" }}
+	{{ $genre := $showdata.Get "genre" }}
+	{{ $station := $showdata.Get "station" }}
+	{{ $seasons := $showdata.Get "seasons" }}
+	{{ $episodes := $showdata.Get "episodes" }}
+	{{ $notes := $showdata.Get "notes" }}
+	{{ $jorjan := $showdata.Get "jorjan" }}
 
 	<!-- Excerpt/Details -->
 
@@ -9,10 +45,10 @@
 			<div class="col-md-12">
 				<div class="card-header">
 					<h5 class="card-title">
-						{{ if .Params.character }}{{.Params.character}} {{ if .Params.chartype }}<small> ({{ .Params.chartype }} character){{ end }}</small>{{ end }}
-						{{ if .Params.rating }}
+						{{ if $character }}{{ $character }} {{ if $chartype }}<small> ({{ $chartype }} character){{ end }}</small>{{ end }}
+						{{ if and ($rating) (ne $rating "fake") }}
 							<div class="float-right">
-							{{ .Page.Scratch.Set "goldstar" .Params.rating }}
+							{{ .Page.Scratch.Set "goldstar" $rating }}
 							{{ partial "rating.html" . }}
 							</div>
 						{{ end }}
@@ -23,35 +59,26 @@
 		<div class="row no-gutters">
 			<div class="col-md-6">
 				<div class="card-body">
-					{{ if .Params.image }}<img src="{{ .Params.image | absURL }}" alt="{{ .Params.character }}" width="300px" class="img-thumbnail">{{ end }}
+					<img src="{{ .Params.image | default "images/placeholder.png" | absURL }}" alt="{{ .Params.character }}" width="300px" class="img-thumbnail">
 				</div>
 			</div>
 			<div class="col-md-6">
 				<div class="card-body">
 					<ul class="list-group list-group-flush actor-list-group">
-						{{ if .Params.year }}<li class="list-group-item">{{.Params.year}}{{ if .Params.genre }} &bull; {{ .Params.genre }}{{ end }}</li>{{ end }}
-						{{ if .Params.station }}<li class="list-group-item">{{ .Params.station }}</li>{{ end }}
-
-						<!-- Links -->
-						<li class="list-group-item">
-							{{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">Official Website</a>{{ end }}
-							{{ if .Params.imdb }}{{ if .Params.website }} &bull; {{ end }}<a href="{{ .Params.imdb }}" target="_blank">IMDb</a>{{ end }}
-						</li>
-						{{ if or .Params.seasons .Params.episodes }}
-							<li class="list-group-item">
-							{{ if .Params.seasons }}for {{.Params.seasons}} season{{ if gt .Params.seasons "1" }}s{{end}}{{ end }}
-							{{ if .Params.episodes }}for {{.Params.episodes}} episode{{ if gt .Params.episodes "1" }}s{{end}}{{ end }}
-							{{ $character := .Params.character }}
-							{{ $show := .Params.show }}
-							{{ range .Site.Data.filmography }}
-								{{ if and (eq .character $character) (eq .slug $show) ( .notes ) }}<br /><small>{{ .notes | safeHTML }}</small>{{ end }}
-							{{ end }}
-							</li>
-						{{ end }}
-						<li class="list-group-item">
+						{{ if $year }}<li class="list-group-item">{{ $year }}{{ if $genre }} &bull; {{ $genre }}{{ end }}</li>{{ end }}
+						{{ if $station }}<li class="list-group-item">{{ $station }}</li>{{ end }}
+						{{ if or .Params.website .Params.imdb }}<li class="list-group-item">
+							{{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">Official Website</a>{{ end }}{{ if .Params.imdb }}{{ if .Params.website }} &bull; {{ end }}<a href="{{ .Params.imdb }}" target="_blank">IMDb</a>{{ end }}
+						</li>{{ end }}
+						{{ if or $seasons $episodes $notes $jorjan }}<li class="list-group-item">
+							{{ if $seasons }}for {{$seasons}} season{{ if gt $seasons "1" }}s{{end}}{{ end }}{{ if $episodes }}for {{$episodes}} episode{{ if gt $episodes "1" }}s{{end}}{{ end }}
+							{{ if $jorjan }} <small>[Credited as Jorjan Fox]</small>{{ end }}
+							{{ if $notes }}<br /><small>{{ $notes | safeHTML }}</small>{{ end }}
+						</li>{{ end }}
+						{{ if or .Params.gallery .Params.episodelist }}<li class="list-group-item">
 						{{ if .Params.gallery }}<a href="{{.Params.gallery}}">Gallery</a>{{ if .Params.episodelist }}  &bull; {{end}}{{ end }}
 						{{ if .Params.episodelist }}<a href="/library/actor/{{ .File.TranslationBaseName }}-episodes/">List of Episodes</a>{{ end }}
-						</li>
+						</li>{{ end }}
 					</ul>
 				</div>
 			</div>

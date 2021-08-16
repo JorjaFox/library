@@ -1,5 +1,6 @@
 {
   "show" : "csi-vegas",
+  "showname": "CSI: Vegas",
   "episodes": [
     {
         "season": "1",
@@ -9,7 +10,8 @@
         "slug": "0101-legacy",
         "airdate": "2021-10-06T22:00:00.000Z",
         "rating": "na",
-        "summary": "TBD"
+        "summary": "TBD",
+        "gallerylink": null
     }
   ]
 }

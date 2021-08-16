@@ -12,13 +12,19 @@ Seafox Productions is an independent film, television and theatre company based 
 
 ## Staff
 
-* Jorja Fox - President
-* Renee Threatte - Chief Operating Officer
+{{< list/ol >}}
+	{{< list/li title="Jorja Fox - President" >}}
+	{{< list/li title="Renee Threatte - Chief Operating Officer" >}}
+{{< list/end >}}
+
 
 ## Projects
 
 {{< filmography company="Seafox Productions" >}}
 
 ## See Also
-* [Seafox Productions](http://www.seafoxproductions.com/)
-* [Honeypot Productions](/library/honeypot/)
+
+{{< list/ol >}}
+	{{< list/li link="https://www.seafoxproductions.com/" title="Seafox Productions" >}}
+	{{< list/li link="/library/honeypot/" title="Honeypot Productions" >}}
+{{< list/end >}}

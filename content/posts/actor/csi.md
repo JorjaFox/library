@@ -3,15 +3,7 @@ title: "CSI: Crime Scene Investigation"
 categories: ["Filmography", "CSI"]
 tags: ["Television"]
 layout: actor
-show: csi
-station: CBS
-rating: 4
-seasons: 16
-chartype: main
-character: "Sara Sidle"
-year: 2000-2015
-genre: "Crime Drama"
-excerpt: "<strong>CSI: Crime Scene Investigation</strong> (commonly referred to as CSI) was a popular, Emmy Award-winning CBS television series that trails the investigations of a team of Las Vegas forensic scientists as they unveil the circumstances behind mysterious and unusual deaths and crimes committed.</p><p>CSI aired for 15 seasons, from 2000-15, and concluded with a 2 hour movie in the 2015-16 season."
+slug: csi
 imdb: http://www.imdb.com/title/tt0247082/
 website: https://www.cbs.com/shows/csi/
 gallery: https://jorjafox.net/gallery/tv/csi/

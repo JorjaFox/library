@@ -1,14 +1,9 @@
 ---
 layout: actor
 title: "The Map of Tiny Perfect Things"
+slug: map-of-tiny-perfect-things
 categories: ["Filmography"]
 tags: ["movies"]
-excerpt: "Two teens live the same day repeatedly, enabling them to create the titular map."
-character: "Greta"
-chartype: supporting
-rating: 3
-year: 2021
-genre: "Fantasy / Drama"
 imdb: https://www.imdb.com/title/tt11080108/
 gallery: https://jorjafox.net/gallery/movies/tiny-perfect/
 image: images/actor/map-tpt.jpg

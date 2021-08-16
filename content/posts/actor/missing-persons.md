@@ -3,14 +3,7 @@ layout: actor
 title: "Missing Persons"
 categories: ["Filmography"]
 tags: ["Television"]
-station: ABC
-rating: 4
-seasons: 1
-chartype: main
-genre: Drama
-year: 1993
-character: "Constance Karadzic"
-excerpt: "<strong>Missing Persons</strong> was a television show about missing people, and the detectives who tried to track them down while putting their own lives back together."
+slug: "missing-persons"
 imdb: https://www.imdb.com/title/tt0106067/
 gallery: https://jorjafox.net/gallery/tv/missingpersons/
 image: images/actor/missingpersons.png

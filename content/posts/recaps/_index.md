@@ -8,9 +8,9 @@ tags: [Index]
 type: index
 ---
 
-Television show recaps have been made available after hours and years of watching.
+Television show recaps are available to help you decide what shows and episodes are best to watch.
 
-The follow shows are currently recapped here:
+The following shows are currently recapped here:
 
 {{< list/ol >}}
 	{{< list/li link="/library/actor/missing-persons-episodes/" title="Missing Persons" showslug="missing-persons" >}}

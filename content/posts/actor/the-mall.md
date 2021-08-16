@@ -1,18 +1,10 @@
 ---
-title: "Summer Stories: The Mall"
+title: "ABC Afterschool Specials"
 author: "Mika A. Epstein"
 layout: actor
 categories: ["Filmography"]
 tags: ["Television"]
-show: afterschool-specials
-station: ABC
-rating: 4
-episodes: 3
-chartype: guest
-genre: Drama
-year: 1993
-character: "Diane Dravecki"
-excerpt: "<strong>Summer Stories: The Mall</strong> was an ABC miniseries, much in the vein of their after school specials."
+slug: the-mall
 gallery: https://jorjafox.net/gallery/tv/movies/summerstories/
 imdb: https://www.imdb.com/title/tt0202179/
 image: images/actor/the-mall.jpg
@@ -21,8 +13,6 @@ image: images/actor/the-mall.jpg
 Experience summer at the mall with Sarah, Spinner, Marla, Diane (Jorja Fox), Teresa, Kwan, and their friends.
 
 ## Episodes
-
-* Aired Summer 1993
 
 As these brand-new high school graduates prepare to head in new directions, poised between the past and the future, they learn a few of each other's secrets...and a lot more about themselves. Some of the stories in the first program, First Impressions, continue in the second program, Second Chances, as well as in the third program, Temptations. While the episodes are interrelated, each can be viewed and enjoyed by itself.
 

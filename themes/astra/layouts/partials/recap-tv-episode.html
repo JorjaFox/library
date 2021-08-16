@@ -1,11 +1,10 @@
 {{ $showslug := .Params.showslug }}
-{{ $showname := .Params.showname }}
 {{ $eptitle  := .Title }}
+{{ $showname := (index .Site.Data.episodes .Params.showslug).showname }}
 {{ $episodes := (index .Site.Data.episodes .Params.showslug).episodes }}
 
 {{ range $episodes }}
 	{{ if eq .title $eptitle }}
-
 		<center><strong><small><em><a href="/library/actor/{{ $showslug }}/">{{ $showname }}</a></em> Episode</small></strong></center>
 
 		<table class="table table-sm table-borderless">

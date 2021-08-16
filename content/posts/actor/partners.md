@@ -4,17 +4,8 @@ author: "Mika A. Epstein"
 layout: actor
 categories: ["Filmography"]
 tags: ["Television"]
-show: partners
-station: CBS
-rating: 
-episodes: 1
-chartype: 
-genre: Drama
-year: 1999
-character: Alex
-excerpt: "<strong>Partners</strong> was about a drifter who finds himself caught in the middle of an international crime caper after stealing a briefcase."
+slug: partners
+imdb: https://www.imdb.com/title/tt0191718/
 ---
 
-_Jorja Fox's appearance in this is unverified. If you have information than can confirm, please [contact us](https://jorjafox.net/contact/), and be sure to cite your source._
-
-Jorja Fox played "Alex" in episode 3 "My Sister, My Enemy"
+"Partners" is billed as a unique take on a cop drama. While most cop shows focus about 80 percent on the work life of cops and 20 percent on family, "Partners" reverses that. The family lives of cops can be volatile with high divorce rates and spouses and children who often live in fear.

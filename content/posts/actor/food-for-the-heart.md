@@ -3,12 +3,7 @@ layout: actor
 title: "Food for the Heart"
 categories: ["Filmography"]
 tags: ["movies"]
-excerpt: "<strong>Food For the Heart</strong> (originally 'The Hungry Bachelors Club') is the spicy story of best friends Delmar Youngblood and Hortense, two single women who share their love of food and friendship with an eccentric circle of half-baked family and friends at the Hungry Bachelors Club."
-character: "Delmar Youngblood"
-chartype: main
-rating: 4
-year: 1999
-genre: Comedy
+slug: "food-for-the-heart"
 imdb: https://www.imdb.com/title/tt0197570/
 gallery: https://jorjafox.net/gallery/movies/food/
 image: images/actor/food-for-the-heart.jpg

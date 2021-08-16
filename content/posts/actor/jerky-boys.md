@@ -3,12 +3,7 @@ layout: actor
 title: "The Jerky Boys"
 categories: ["Filmography"]
 tags: ["movies"]
-excerpt: "<strong>The Jerky Boys</strong> is about two 30-something losers who make prank phone calls and anger a mob boss."
-character: "Lazarro's Young Lady"
-chartype: supporting
-rating: 1
-year: 1994
-genre: "Comedy"
+slug: "jerky-boys"
 gallery: https://jorjafox.net/gallery/movies/jerky/
 imdb: https://www.imdb.com/title/tt0110189/
 image: images/actor/jerky-boys.jpg

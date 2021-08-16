@@ -14,43 +14,43 @@ Grades are given on a loose scale of 0 to 5 stars, with a rough guideline as fol
 
 ## Red Stars
 
-{{< star color="red-star" >}}{{< star color="red-star" >}}{{< star color="red-star" >}}{{< star color="red-star" >}}{{< star color="red-star" >}} - Has not been viewed.
+{{< star color="red-star" count="5">}} - Has not been viewed.
 
 Example: Anything that has not yet aired or been seen.
 
-## No Gold Stars
+## 0 Gold Stars
 
-{{< star color="grey-star" >}}{{< star color="grey-star" >}}{{< star color="grey-star" >}}{{< star color="grey-star" >}}{{< star color="grey-star" >}} - Credited but does not appear.
+{{< star color="grey-star" count="5" >}} - Credited but does not appear.
 
 Example: The _CSI: Crime Scene Investigation_ episode "Pilot".
 
-## One Gold Stars
+## 1 Gold Stars
 
-{{< star color="gold-star" >}}{{< star color="grey-star" >}}{{< star color="grey-star" >}}{{< star color="grey-star" >}}{{< star color="grey-star" >}} - Very brief scene or two, no more than 2 minutes total. Often as a guest actor.
+{{< star color="gold-star" count="1" >}}{{< star color="grey-star" count="4" >}} - Very brief scene or two, no more than 2 minutes total. Often as a guest actor.
 
 Example: The _CSI: Crime Scene Investigation_ episode "High and Low" or the movie [The Jerky Boys](/library/actor/jerky-boys).
 
 
-## Two Gold Stars
+## 2 Gold Stars
 
-{{< star color="gold-star" >}}{{< star color="gold-star" >}}{{< star color="grey-star" >}}{{< star color="grey-star" >}}{{< star color="grey-star" >}} - Some dialogue, acting as a supporting character.
+{{< star color="gold-star" count="2" >}}{{< star color="grey-star" count="3" >}} - Some dialogue, acting as a supporting character.
 
 Example: The movie [Memento](/library/actor/memento/) or the _CSI: Crime Scene Investigation_ episode "Burked".
 
-## Three Gold Stars
+## 3 Gold Stars
 
-{{< star color="gold-star" >}}{{< star color="gold-star" >}}{{< star color="gold-star" >}}{{< star color="grey-star" >}}{{< star color="grey-star" >}} - Multiple scenes of varying degrees of importance, not the main character, but carries a subplot. On camera for a third of the running time and/or some new information about her character is revealed.
+{{< star color="gold-star" count="3" >}}{{< star color="grey-star" count="2" >}} - Multiple scenes of varying degrees of importance, not the main character, but carries a subplot. On camera for a third of the running time and/or some new information about her character is revealed.
 
 Example: The movie [Velocity Trap](/library/actor/velocity-trap/) or the _CSI: Crime Scene Investigation_ episode "Friends and Lovers".
 
-## Four Gold Stars
+## 4 Gold Stars
 
-{{< star color="gold-star" >}}{{< star color="gold-star" >}}{{< star color="gold-star" >}}{{< star color="gold-star" >}}{{< star color="grey-star" >}} - One of the primary characters, but not necessarily the main character. Her character likely has noticeable development and information about her character is revealed.
+{{< star color="gold-star" count="4" >}}{{< star color="grey-star" count="1" >}} - One of the primary characters, but not necessarily the main character. Her character likely has noticeable development and information about her character is revealed.
 
 Example: The _CSI: Crime Scene Investigation_ episodes "Snuff" or "Gum Drops", or the movie [Food for the Heart](/library/actor/food-for-the-heart/).
 
-## Five Gold Stars
+## 5 Gold Stars
 
-{{< star color="gold-star" >}}{{< star color="gold-star" >}}{{< star color="gold-star" >}}{{< star color="gold-star" >}}{{< star color="gold-star" >}} - The main character and/or is central to the plot, or if her character has significant development. If you want to watch a movie/episode for Jorja, this is the one.
+{{< star color="gold-star" count="5" >}} - The main character and/or is central to the plot, or if her character has significant development. If you want to watch a movie/episode for Jorja, this is the one.
 
 Example: The _CSI: Crime Scene Investigation_ episodes "Empty Eyes", "Nesting Dolls", Committed", "Living Doll."

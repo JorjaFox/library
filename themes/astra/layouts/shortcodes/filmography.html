@@ -2,17 +2,18 @@
 {{ $company := .Get "company" }}
 
 {{ if .Get "company" }}
-
-	<ul>
+&nbsp;
+	<ol class="list-group">
 		{{ range $.Page.Site.Data.filmography }}
 			{{ if eq $company .company }}
-				<li><a href="/library/{{ .role }}/{{ .slug }}">{{ .title }}</a></li>
+				<div class="fw-bold">
+					<li class="list-group-item"><a href="/library/{{ .role }}/{{ .slug }}">{{ .title }}</a></li>
+				</div>
 			{{ end }}
 		{{ end }}
-	</ul>
-
+	</ol>
+&nbsp;
 {{ else }}
-
 	<table class="table table-striped" width="100%"><tbody>
 	<tr>
 		<th> Title </th>

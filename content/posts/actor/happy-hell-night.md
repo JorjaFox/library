@@ -3,12 +3,7 @@ layout: actor
 title: "Happy Hell Night"
 categories: ["Filmography"]
 tags: ["movies"]
-excerpt: "<strong>Happy Hell Night</strong> is about the devil's henchman who escapes from an asylum and stops at a fraternity house he visited 25 years before."
-character: "Kappa Sig Girl"
-chartype: supporting
-rating: 2
-year: 1992
-genre: "Slasher/Thriller"
+slug: "happy-hell-night"
 imdb: https://www.imdb.com/title/tt0236283/
 gallery: https://jorjafox.net/gallery/movies/happyhell/
 image: images/actor/happy-hell-night.jpg

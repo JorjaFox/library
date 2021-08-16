@@ -4,21 +4,13 @@ author: "Mika A. Epstein"
 layout: actor
 categories: ["Filmography"]
 tags: ["Television"]
-show: ellen
-station: ABC
-rating: 3
-episodes: 1
-chartype: guest
-genre: Comedy
-year: 1997
-character: "Attractive Woman"
-excerpt: "<strong>Ellen</strong> was a comedy TV series about Ellen and her friends, staring Ellen DeGeneres."
+slug: ellen
 gallery: https://jorjafox.net/gallery/tv/guest/ellen-puppy/
 imdb: https://www.imdb.com/title/tt0570077/
 image: images/actor/ellen.jpg
 ---
 
-## Episode: "The Puppy Episode (2)"
+## "The Puppy Episode (2)"
 
 * Aired 30 April 1997
 * Season 4, Episode 23

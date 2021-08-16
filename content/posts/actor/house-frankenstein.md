@@ -3,12 +3,7 @@ layout: actor
 title: "House of Frankenstein 1997"
 categories: ["Filmography"]
 tags: ["movies"]
-excerpt: "<strong>House of Frankenstein 1997</strong> was a TV Movie putting a modern spin on the ancient horrors."
-character: Felicity
-chartype: supporting
-rating: 2
-year: 1998
-genre: "Horror"
+slug: "house-frankenstein"
 imdb: https://www.imdb.com/title/tt0127378/?ref_=nm_flmg_act_18
 gallery: https://jorjafox.net/gallery/tv/movies/hof1997/
 image: images/actor/hof-1997.jpg

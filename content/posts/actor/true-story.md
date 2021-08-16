@@ -4,15 +4,7 @@ author: "Mika A. Epstein"
 layout: actor
 categories: ["Filmography"]
 tags: ["Television"]
-show: true-story
-station: UPN
-rating:
-episodes: 1
-chartype: main
-genre: Drama
-year: 1999
-character: McGann
-excerpt: "<strong>The True Story</strong> was a TV pilot about a surgical intern and her brother, a rookie cop, getting on with their life, now that their father was in jail for killing their mother when they were young children."
+slug: true-story
 gallery: https://jorjafox.net/gallery/tv/guest/the-true-story/
 image: images/actor/true-story.jpg
 ---

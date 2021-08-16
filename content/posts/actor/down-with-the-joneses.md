@@ -1,13 +1,9 @@
 ---
 layout: actor
-title: "Down With The Joneses"
+title: "Down with the Joneses"
 categories: ["Filmography"]
 tags: ["movies"]
-excerpt: "<strong>Down with the Jonses</strong> is a dark comedy."
-character: Bev Jones
-chartype: main
-year: 2003
-genre: Dark Comedy
+slug: "down-with-the-joneses"
 imdb: https://www.imdb.com/title/tt0292496/
 ---
 

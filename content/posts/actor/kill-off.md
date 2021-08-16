@@ -3,12 +3,7 @@ layout: actor
 title: "The Kill-Off"
 categories: ["Filmography"]
 tags: ["movies"]
-excerpt: "<strong>Alchemy</strong> is about a man, his girlfriend, and his neighbors. He decides to kill his gossipy wife, whom everyone hates..."
-character: "Myra Pavlov"
-chartype: main
-rating: 4
-year: 1989
-genre: "Drama"
+slug: "kill-off"
 gallery: https://jorjafox.net/gallery/movies/kill-off/
 imdb: https://www.imdb.com/title/tt0097665/
 image: images/actor/the-kill-off.jpg

@@ -2052,3 +2052,7 @@ a.text-dark:hover, a.text-dark:focus {
 .list-group-flush > .list-group-item {
     border: 0px;important
 }
+
+ul.list-group, ol.list-group {
+    margin: 0!important
+}

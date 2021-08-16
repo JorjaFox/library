@@ -3,14 +3,9 @@ layout: actor
 title: "Velocity Trap"
 categories: ["Filmography"]
 tags: ["movies"]
-excerpt: "<strong>Velocity Trap</strong> is about a police officer trying to protect a federal banking ship from being robbed."
-character: "Alice Pallas"
-chartype: supporting
-rating: 3
-year: 1998
+slug: "velocity-trap"
 imdb: https://www.imdb.com/title/tt0120435/
 gallery: https://jorjafox.net/gallery/movies/velocity/
-genre: "Sci-Fi"
 image: images/actor/velocity-trap.jpg
 ---
 

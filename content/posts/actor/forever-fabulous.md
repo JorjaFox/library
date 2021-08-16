@@ -3,12 +3,7 @@ layout: actor
 title: "Forever Fabulous"
 categories: ["Filmography"]
 tags: ["movies"]
-excerpt: "<strong>Forever Fabulous</strong> (originally 'Tiara Tango') is the story of pageant organizer and Former Miss Texas Gal 1969, trying to recapture her glory."
-character: "Liz Guild"
-chartype: supporting
-rating: 3
-year: 2000 (1998)
-genre: "Dark Comedy"
+slug: "forever-fabulous"
 imdb: https://www.imdb.com/title/tt0176234/
 gallery: https://jorjafox.net/gallery/movies/fabulous/
 image: images/actor/forever-fabulous.jpg

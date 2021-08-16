@@ -2,18 +2,9 @@
 title: 'Drop Dead Diva'
 author: "Mika A. Epstein"
 layout: actor
-date: 2009-08-16
 categories: ["Filmography"]
 tags: ["Television"]
-show: drop-dead-diva
-station: Lifetime
-rating: 4
-episodes: 1
-chartype: guest
-genre: Comedy
-year: 2009-2014
-character: "MaryAnn Neely/Fay Greene"
-excerpt: "<strong>Drop Dead Diva</strong> was about Jane, a plus-size lawyer whose body is inhabited by the soul of a dead fashion model."
+slug: drop-dead-diva
 imdb: https://www.imdb.com/title/tt1471519/
 gallery: https://jorjafox.net/gallery/tv/guest/drop-dead-diva/
 image: images/actor/drop-dead-diva.jpg

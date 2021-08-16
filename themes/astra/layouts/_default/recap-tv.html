@@ -1,5 +1,16 @@
 {{ partial "header.html" . }}
 
+{{ $eptitle   := .Title }}
+{{ $episodes  := (index .Site.Data.episodes .Params.showslug).episodes }}
+
+{{ range $episodes }}
+	{{ if eq .title $eptitle }}
+		{{ .Page.Scratch.Set "goldstar" .rating }}
+	{{ end }}
+{{ end }}
+
+{{ $goldstar := .Page.Scratch.Get "goldstar" }}
+
 <div class="episode-card">
 	<div class="card" style="width: 20rem;">
 		<h5 class="card-header">"{{ title .Title }}"</h5>
