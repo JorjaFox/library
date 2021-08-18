@@ -8,7 +8,7 @@ dataDir: "content/data"
 staticDir: "content/static"
 pluralizelisttitles: "false"
 params:
-    Version: "1.0.5"
+    Version: "2.0"
     Subtitle: "The goal of the Fans of LeFox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."
     StaticURL: "https://jorjafox.net/static"
     HomeURL: "https://jorjafox.net"
