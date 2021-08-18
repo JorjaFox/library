@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ partial "_header.html" . }}
 
 {{ $eptitle   := .Title }}
 {{ $episodes  := (index .Site.Data.episodes .Params.showslug).episodes }}
@@ -27,4 +27,4 @@
 
 {{ .Content }}
 
-{{ partial "footer.html" . }}
+{{ partial "_footer.html" . }}

@@ -1,8 +1,8 @@
-{{ partial "header.html" . }}
+{{ partial "_header.html" . }}
 
 	{{ if not .Params.notoc }}
 		{{ .TableOfContents }}
 	{{ end }}
 	{{ .Content }}
 
-{{ partial "footer.html" . }}
+{{ partial "_footer.html" . }}

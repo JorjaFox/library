@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ partial "_header.html" . }}
 
 	{{ if not .Params.notoc }}
 		<div class="accordion table-of-contents" id="accordionTOC">
@@ -18,4 +18,4 @@
 	{{ end }}
 	{{ .Content }}
 
-{{ partial "footer.html" . }}
+{{ partial "_footer.html" . }}

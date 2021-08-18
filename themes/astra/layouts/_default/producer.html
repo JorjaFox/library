@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ partial "_header.html" . }}
 
 	{{ with .Params.excerpt }} <p>{{ . | safeHTML }}</p>{{ end }}
 
@@ -27,4 +27,4 @@
 
 	{{ .Content }}
 
-{{ partial "footer.html" . }}
+{{ partial "_footer.html" . }}
