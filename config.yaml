@@ -7,6 +7,7 @@ contentDir: "content/posts"
 dataDir: "content/data"
 staticDir: "content/static"
 pluralizelisttitles: "false"
+buildFuture: "true"
 params:
     Version: "2.1"
     Subtitle: "The goal of the Fans of LeFox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."

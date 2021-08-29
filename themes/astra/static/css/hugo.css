@@ -96,3 +96,7 @@ h3.accordion-header {
 .search-form label, #search-query {
     width: 90%;
 }
+
+.news-footer button {
+    margin: 5px;
+}
