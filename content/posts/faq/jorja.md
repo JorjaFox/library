@@ -8,6 +8,8 @@ layout: single
 
 Questions here are about Jorja Fox's personal life and, in broad terms, her career, including how to get in touch with her.
 
+For more questions about her career, please read the **[FAQ about Jorja's career](/library/faq/career/)**.
+
 ### Who is Jorja Fox?
 
 Jorja Fox is an actor, producer, activist and musician.
@@ -18,9 +20,13 @@ She has also been seen in movies and award shows, and is an environmentalist and
 
 ### What's the deal with her name?
 
-This question arises since Jorja Fox was listed as 'Jorjan Fox' in her first few movies, on Missing Persons, and on her first few episodes of _ER_. After a few episodes, her listing changed to 'Jorja Fox'. The confusion was compounded by the following rumor "When [Jorja] joined the cast of _ER_, her name was shortened back to Jorja after a couple episodes, hence the confusion. In an interview she said that one day she woke up and wanted her name back."
+This question arises since Jorja Fox was listed as 'Jorjan Fox' in her first few movies, on Missing Persons, and on her first few episodes of _ER_. After a few episodes, her listing changed to 'Jorja Fox'. The confusion was compounded by the following rumor:
 
-The rumor is arguable, and not verifiable. The truth of the matter is that her birth name is 'Jorja-An' and Jorja is a shortening. Jorjan was bastardization of Jorja-An that was done when she was on Missing Persons.
+>When [Jorja] joined the cast of _ER_, her name was shortened back to Jorja after a couple episodes, hence the confusion. In an interview she said that one day she woke up and wanted her name back.
+
+The rumor is arguable, and not verifiable.
+
+Her birth name is 'Jorja-An' and Jorja is a shortening. Jorjan was bastardization of Jorja-An that was done when she was on _Missing Persons_.
 
 Today, both personally and professionally, she is known as 'Jorja Fox'.
 
@@ -32,7 +38,7 @@ She was born July 7, 1968.
 
 Jorja is pronounced just like the US state or the Eurasian country 'Georgia.'
 
-### Where does Jorja live?
+### Where does she live?
 
 Jorja lives around the Los Angeles area in California.
 
@@ -40,9 +46,9 @@ Jorja lives around the Los Angeles area in California.
 
 Her official fan mail contact is as follows:
 
-Studio Fan Mail  
-1048 Irvine Ave #624  
-Newport Beach, CA 92660  
+Studio Fan Mail
+1048 Irvine Ave #624
+Newport Beach, CA 92660
 
 ### How do I get an autographed picture of her?
 
@@ -56,7 +62,7 @@ I would if I could, but as I can't, please don't email personal letters to me. I
 
 [jorjafox.com](http://jorjafox.com)
 
-### Does Jorja have a Twitter/Myspace/Facebook account?
+### Does Jorja have social media?
 
 Yes.
 
@@ -65,45 +71,43 @@ Yes.
 
 ### What movies and TV shows has she been in?
 
-Jorja Fox most recently starred in the CBS drama _CSI_. For more information, please check her filmography.
+Jorja Fox most recently starred in the CBS drama _CSI: Crime Scene Investigation_. For more information, please check her [filmography](/library/filmography/).
 
-### Is Jorja Fox gay, bisexual or straight?
+### Is she single? Is she dating?
 
-I don't know, and until Jorja herself states her sexuality, it's not a topic open for discussion. Please respect her privacy as much as you value your own.
+She was dating someone back in 2001, however as of 2003 they'd broken up. Historically Jorja has been very protective of her personal life, and we respect that.
 
-### Is Jorja Fox single? Is she dating?
+### What's her sexuality?
 
-In 2001, Jorja told USA Today she was seeing someone: "Involved, but not married. I'm not allowed to talk about it at all. I've been sworn to secrecy -- the whole theory that it's more special. I'm very happy and living under a shroud until further notice."
+Jorja has not publicly stated her sexuality.
 
-However in a 2003 interview with People Magazine, she was reported as being single, and that was why she took her brother to the Emmys that year.
-
-### Is Jorja Fox pregnant?
+### Is/Was she pregnant?
 
 No. Regardless of what you read online elsewhere and hear in rumors, she is not, and has never been, pregnant.
 
-### Does Jorja have any children? Does she want any?
+### Does Jorja have any children?
 
-Jorja has no children, but she has cats and dogs. I don't know if she wants any children (though she did mention it when talking about why she left _CSI_).
+Jorja has no children, but she has cats and dogs.
 
-### Is Jorja Fox a smoker?
+### Is she a smoker?
 
 Yes and no. She has smoked, and has tried to quit many times. As of February 2010, she still smoked.
 
 ### Is she a vegetarian?
 
-Jorja Fox became a vegetarian at the age of 19, sometime around her modelling days, and discovered PETA in New York City at about the same time. Jorja told the PETA spokesperson that she took part in a few protests, and enjoyed their "confrontational" attitude. She describes herself as an aspiring vegan.
+Jorja became a vegetarian at the age of 19, sometime around her modelling days, and discovered PETA in New York City at about the same time. Jorja told the PETA spokesperson that she took part in a few protests, and enjoyed their "confrontational" attitude. She describes herself as an aspiring vegan.
 
-### What political party is Jorja affiliated with?
+### What political party is she affiliated with?
 
 Emphatically not Republican. She's done work with Libertarians and Democrats, but most recently she attended the 2008 Democratic National Convention and supported Barak Obama.
 
 ### Does she wear corrective lenses?
 
-Jorja wore glasses in a Support SAG PSA in 2008, and in bonus material on _CSI_ DVDs, she wore glasses while re-doing lines in a recording studio. It's likely she just needs reading lenses.
+Jorja wore glasses in a Support SAG PSA in 2008, and in bonus material on _CSI: Crime Scene Investigation_ DVDs, she wore glasses while re-doing lines in a recording studio. It's likely she just needs reading lenses.
 
 ### Does she have any tattoos?
 
-Yes. She has a flower on her left ankle (seen in the _CSI_ season five episode 4x4 and in various award show and charity photographs).
+Yes. She has a flower on her left ankle (seen in the _CSI: Crime Scene Investigation_ season five episode 4x4 and in various award show and charity photographs).
 
 A temporary/henna tattoo was spotted on "The Early Show" for April 28, 2006. On that show, she had what looked like a stylized turtle tattoo high up on her right shoulder. This has not been seen since.
 
@@ -121,23 +125,23 @@ Everything. As she said in a Yahoo! Chat "Soul, rock n roll and jazz are probabl
 
 ### What kind of TV does Jorja watch?
 
-She watched the first season of Survivor, and she also is a fan of Lost.
+She watched the first season of _Survivor_, and she also is a fan of _Lost_.
 
 ### Does she play music?
 
-While Jorja is disparaging about her musical talents, she sings and plays the guitar. _CSI_ co-star Gary Dourdan says she plays well. You can hear her sing in the _CSI_ episode Too Tough To Die and also in the movie Food for the Heart. Jorja also wrote and performed a song for the short movie, Traveling Companions, as well as some songs written with the _CSI_ cast and crew. She has performed her music at the several wrap parties for _CSI_, including after season Four and Season Five. At various times she has had songs that she has written and played on her personal web site.
+While Jorja is disparaging about her musical talents, she sings and plays the guitar. _CSI: Crime Scene Investigation_ co-star Gary Dourdan says she plays well. You can hear her sing in the _CSI: Crime Scene Investigation_ episode "Too Tough To Die" and also in the movie _Food for the Heart_. Jorja also wrote and performed a song for the short movie, _Traveling Companions_, as well as some songs written with the _CSI: Crime Scene Investigation_ cast and crew. She has performed her music at the several wrap parties for _CSI: Crime Scene Investigation_, including after seasons four and five. At various times she has had songs that she has written and played on her personal web site.
 
 In 2005 she reportedly acquired a drum set and was learning to play, and according to an L.A. Times article, she often takes part in a 'drum circle' at Malibu Beach.
 
 ### Does Jorja play sports?
 
-Yes. Jorja and fellow _CSI_ cast member Eric Szmanda were members of the "Royal Blue Balls", which is a team in the Adult Kickball League. To stay in shape she jogs, and for personal enjoyment she plays tennis, surfs, swims, hikes, kayaks and goes camping.
+Yes. Jorja and fellow _CSI: Crime Scene Investigation_ cast member Eric Szmanda were members of the "Royal Blue Balls", which is a team in the Adult Kickball League. To stay in shape she jogs, and for personal enjoyment she plays tennis, surfs, swims, hikes, kayaks and goes camping.
 
 ### Does Jorja really surf?
 
-Jorja has been surfing since she was little and was a self-professed 'surfer girl' in high school. She's surfed in Florida and California, and during the Christmas break in 2006 she went surfing in Puerto Rico. After leaving _CSI_, Jorja mentioned wanting to surf in South America.
+Jorja has been surfing since she was little and was a self-professed 'surfer girl' in high school. She's surfed in Florida and California, and during the Christmas break in 2006 she went surfing in Puerto Rico. After leaving _CSI: Crime Scene Investigation_, Jorja mentioned wanting to surf in South America.
 
-Once _CSI_ ended, she started surfing more often.
+Once _CSI: Crime Scene Investigation_ ended, she started surfing more often.
 
 ### What kind of car does Jorja drive?
 

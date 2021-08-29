@@ -6,5 +6,5 @@ pkg/
 *~
 .bundle/
 .DS_Store
-site/public/*
 public/*
+node_modules/*

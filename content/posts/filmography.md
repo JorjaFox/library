@@ -35,5 +35,5 @@ Jorja is credited as Jorja Fox unless otherwise noted.
 ## See Also
 
 * [IMDb](http://www.imdb.com/name/nm0289080/)
-* [Honeypot Productions]( /library/honeypot/ )
-* [Seafox Productions]( /library/seafox/ )
+* [Honeypot Productions](/library/honeypot/)
+* [Seafox Productions](/library/seafox/)

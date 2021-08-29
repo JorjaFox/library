@@ -6,9 +6,15 @@ tags: ["jorja fox", "career"]
 layout: single
 ---
 
+The following questions pertain to Jorja's career on TV and in movies.
+
+For more questions about her personal life and advocacy, please read the **[FAQ about Jorja](/library/faq/jorja/)**.
+
 ### What movies and TV shows has she been in?
 
-Jorja Fox most recently starred in the CBS drama _[CSI](/library/actor/csi/)_. For a complete list of all her roles, please check her [filmography](/library/filmography/).
+Jorja currently stars in the CBS drama _[CSI: Vegas](/library/actor/csi-vegas/)_, a sequel to _[CSI: Crime Scene Investigation](/library/actor/csi/)_.
+
+For a complete list of all her roles, please check her [filmography](/library/filmography/).
 
 ### What was her first role?
 
@@ -34,17 +40,13 @@ While credited on _[CSI: Crime Scene Investigation](/library/actor/csi/)_ from t
 
 Off camera they're all friends, though Jorja's probably closer with Eric Szmanda, Gary Dourdan and George Eads, as they're nearer to her age. By all reports, Jorja's friendly with everyone on the set, including William Peteresen and Marg Helgenberger.
 
-### Jorja Fox made all these cute innuendos in interviews with her _CSI_ co-stars. Do they mean anything?
-
-Probably not, she's just good friends with her co-stars. Go re-read the answer to 'Is Jorja dating anyone?' She's not dating Gary Dourdan, George Eads, or Eric Szmanda.
-
 ### Was Jorja really fired from _CSI_?
 
 Yes she was, for 'breach of contract' on July 16, 2004. Basically, CBS sent her a letter, asking her to sign it, that stated she wouldn't form a sick-out to bargain for the raise she asked for. Jorja sent the letter back via registered mail, while everyone else used a Fax. CBS claimed not to have received the letter, however the sign-for date on the registered mail supports otherwise. Jorja was hired back once this was resolved, however refused to return until CBS also re-hired George Eads, who had been fired at the same time.
 
 Of note, Jorja also did not agree to sign the contract extension (to remain on the show past season seven), which caused her not to receive a raise, like the rest of her co-workers. This may be related to why she chose to leave the show in season eight.
 
-As of July 23, 2004 Jorja was officially rehired on _CSI_. If you want to follow the fun, go check the 2004 news section. There's a lot to read.
+As of July 23, 2004 Jorja was officially rehired on _CSI: Crime Scene Investigation_. If you want to follow the fun, go check the 2004 news section. There's a lot to read.
 
 ### Why did Jorja leave _CSI_?
 
@@ -58,14 +60,18 @@ In season nine, Jorja came back to give William Petersen a great send off when h
 
 In season ten, she came back because CBS asked if she'd be interested in coming back part-time, and she said yes. She stuck around for season eleven as a part time main cast member, returning to the credits, and stayed till the end.
 
+### Why did she come back for _CSI: Vegas_?
+
+They made a compelling offer with a script she liked. Also she got to work with William Petersen again.
+
 ### Has she been nominated for any awards?
 
-She was in the first round of nominations for the 2007 primetime Emmys in the category "Supporting Actress, Drama" (for her work in the _CSI_ episode Empty Eyes). However, she was removed from subsequent rounds of the nomination process. _CSI_ has been nominated (and has won) several times.
+She was in the first round of nominations for the 2007 primetime Emmys in the category "Supporting Actress, Drama" (for her work in the _CSI: Crime Scene Investigation_ episode Empty Eyes). However, she was removed from subsequent rounds of the nomination process. _CSI: Crime Scene Investigation_ has been nominated (and has won) several times.
 
 ### Where can I find her movies and TV shows?
 
-The TV shows _ER_, _The West Wing_ and _CSI_ have all been released on DVD. You can also find the movie _Memento_ on DVD, however many of her other films are difficult to find on DVD or VHS. Her guest appearances on _Ellen_ and _Law & Order_ are both available on DVD.
+The TV shows _ER_, _The West Wing_ and _CSI: Crime Scene Investigation_ have all been released on DVD. You can also find the movie _Memento_ on DVD, however many of her other films are difficult to find on DVD or VHS. Her guest appearances on _Ellen_ and _Law & Order_ are both available on DVD.
 
-### Is it true she did a movie for free?
+### Did she make a movie for free?
 
 The independent film _Next Exit_ was looking to cast no-name actors for the small budget movie. Jorja knew the director and offered to play the role for no pay. The film aired at a Los Angeles area film festival in January 2005.

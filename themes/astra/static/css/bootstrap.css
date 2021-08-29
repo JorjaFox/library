@@ -1,17 +1,6 @@
 /* Card */
 
-div.episode-card table, tr, td, th {
-    border: 0px!important;
-}
 
-div.episode-card .card-header {
-    text-align: center;
-}
-
-div.h-100 svg {
-    width: 100px;
-    margin: 10px;
-}
 
 .card {
   position: relative;

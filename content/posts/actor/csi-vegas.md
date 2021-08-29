@@ -1,6 +1,6 @@
 ---
 title: "CSI: Vegas"
-categories: ["Filmography", "CSI: Vegas"]
+categories: ["Filmography", "CSI Vegas"]
 tags: ["Television"]
 layout: actor
 slug: csi-vegas

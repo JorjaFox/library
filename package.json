@@ -1,0 +1,21 @@
+{
+  "name": "jorjafox-library",
+  "version": "1.0.0",
+  "description": "Fans of LeFox Library",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node ./node_scripts/postinstall.js"
+  },
+  "author": "Fans of LeFox",
+  "license": "GPL-2.0",
+  "repository": "https://github.com/jorjafox/library/",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "copyfiles": "^2.4.1",
+    "fuse.js": "^6.4.6",
+    "jquery": "^3.6.0",
+    "jquery-migrate": "^3.3.2",
+    "jquery-ui-dist": "^1.12.1",
+    "mark.js": "^8.11.1"
+  }
+}

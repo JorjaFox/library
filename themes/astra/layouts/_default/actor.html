@@ -45,13 +45,13 @@
 			<div class="col-md-12">
 				<div class="card-header">
 					<h5 class="card-title">
-						{{ if $character }}{{ $character }} {{ if $chartype }}<small> ({{ $chartype }} character){{ end }}</small>{{ end }}
 						{{ if and ($rating) (ne $rating "fake") }}
-							<div class="float-right">
+							<div class="float-end">
 							{{ .Page.Scratch.Set "goldstar" $rating }}
 							{{ partial "rating.html" . }}
 							</div>
 						{{ end }}
+						{{ if $character }}{{ $character }} {{ if $chartype }}<small> ({{ $chartype }} character){{ end }}</small>{{ end }}
 					</h5>
 				</div>
 			</div>

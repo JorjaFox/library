@@ -1,5 +1,4 @@
 {{ $rating := "na" }}
-{{ $grade := print $rating "-gold" }}
 
 {{ if .Params.rating }}
 	{{ $rating = .Params.rating}}
@@ -7,10 +6,11 @@
 	{{ $rating = .Page.Scratch.Get "goldstar" }}
 {{ end }}
 
+{{ $grade := print $rating "-gold" }}
+
 {{ if eq $rating "na" }}
 	{{ $grade = "red" }}
 {{ end }}
-
 <div class="star-rating"><a href="/library/faq/grading/#{{ $grade }}-stars" title="Star Rating: {{ $rating }}">
 	{{ if eq $rating "na" }}
 		{{ $star := 0 }}

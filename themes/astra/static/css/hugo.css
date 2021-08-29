@@ -1,34 +1,8 @@
+/* Excerpts... */
 .excerpt::after {
   content: "";
   clear: both;
   display: table;
-}
-
-/* Table of Contents */
-
-h1, h2, h3, h4, h5, h6 {
-    clear: none;
-}
-
-div.accordion.table-of-contents {
-    min-width: 250px;
-    max-width: 250px;
-    float: right;
-    margin: 5px;
-}
-
-div.accordion.table-of-contents button.btn-link:focus,
-div.accordion.table-of-contents button.btn-link.focus,
-div.accordion.table-of-contents button.btn-link:hover {
-    background-color: inherit!important;
-    border: none!important;
-    text-decoration: none!important;
-}
-
-nav#TableOfContents li, nav#TableOfContents ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0 0 0 3%;
 }
 
 /* Stars */
@@ -38,7 +12,7 @@ nav#TableOfContents li, nav#TableOfContents ul {
 }
 
 .star-rating {
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 .star-rating object {
@@ -84,19 +58,39 @@ div.episode-card ul {
     margin: 5px;
 }
 
-h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
-  margin-top: 1rem!important;
-  margin-bottom: 1rem!important;
-}
-
-h3.accordion-header {
-    margin-top: 0!important;
-}
-
 .search-form label, #search-query {
     width: 90%;
 }
 
 .news-footer button {
     margin: 5px;
+}
+
+/* Search */
+
+div.card.search-results mark {
+    background-color: yellow;
+    color: inherit!important;
+}
+
+/* Bootstrap Adjustments */
+div.episode-card table, tr, td, th {
+    border: 0px!important;
+}
+
+div.episode-card .card-header {
+    text-align: center;
+}
+
+div.h-100 svg {
+    width: 100px;
+    margin: 10px;
+}
+
+h1.card-header, h2.card-header, h3.card-header, h4.card-header, h5.card-header, h3.accordion-header {
+    margin-top: none!important;
+}
+
+div.TableOfContents {
+    margin: 0.5rem;
 }

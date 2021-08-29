@@ -1,8 +1,12 @@
 ## JorjaFox.Net Library
 
-This replaced the old Wiki. It's written in [Hugo](http://gohugo.io), which is a bajillion times faster than Jekyll was.
+This replaced the old Wiki. It's written in [Hugo](http://gohugo.io), which is a bajillion times faster than other tools have been.
 
-## Update Content
+The theme is forked from whatever WordPress theme the blog is running.
+
+## Updating
+
+### Content
 
 All content lives in `content`
 
@@ -12,22 +16,44 @@ All content lives in `content`
     - episodes/* - All the eps for the TV shows.
 * Static content (like images) are in `static`
 
+### Libraries
+
+* Bootstrap
+* [Fuse.js](https://fusejs.io)
+* jQuery (core, migrate, UI)
+* [Mark.js](https://markjs.io)
+
+All third party libraries are added to npm, so they are updated via npm:
+
+```
+$ npm update
+$ npm install
+```
+
 ## Testing
 
-In the folder, run the Hugo build command: `hugo serve`
+In the folder, run the Hugo build command: `$ hugo serve`
 
-It should take about 10 seconds, max.
+The output looks like this:
 
 ```
-0 draft content
-0 future content
-1487 pages created
-0 paginator pages created
-66 tags created
-16 categories created
-in 10442 ms
+Start building sites …
+hugo v0.87.0+extended darwin/arm64 BuildDate=unknown
+
+                   |  EN
+-------------------+-------
+  Pages            | 1762
+  Paginator pages  |    0
+  Non-page files   |    0
+  Static files     |   92
+  Processed images |    0
+  Aliases          |    2
+  Sitemaps         |    1
+  Cleaned          |    0
+
+Built in 1562 ms
 ```
 
-## Pushing to Production
+## Publishing
 
 This is pushed via rysnc, which is automated: `$ deployme jorjafox library`
