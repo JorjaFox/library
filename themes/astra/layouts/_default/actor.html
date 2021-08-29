@@ -10,14 +10,14 @@
 		{{ if and (eq $showslug .slug) (eq $showtitle .title) }}
 
 			{{ if eq .unverified true }}
-				<div class="alert alert-danger" role="warning"><em>Jorja Fox's appearance in this is unverified. If you have information than can confirm, please <strong><a href="https://jorjafox.net/contact/">contact us</a></strong>, and be sure to cite your source.</em></div>
+				<div class="alert alert-danger" role="warning"><em>Jorja Fox's appearance in this is unverified. If you have information that can confirm, please <strong><a href="https://jorjafox.net/contact/">contact us</a></strong>, and be sure to cite your source.</em></div>
 			{{ end }}
 
 			{{ if .excerpt }}<p>{{ .excerpt | safeHTML }}</p>{{ end }}
 			{{ $showdata.Set "character" .character }}
+			{{ $showdata.Set "year" .dates }}
 			{{ $showdata.Set "chartype" .chartype }}
 			{{ $showdata.Set "rating" .rating }}
-			{{ $showdata.Set "year" .dates }}
 			{{ $showdata.Set "genre" .genre }}
 			{{ $showdata.Set "station" .station }}
 			{{ $showdata.Set "seasons" .seasons }}

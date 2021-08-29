@@ -5,7 +5,9 @@
 	<ul class="list-group">
 	{{ range .Data.Pages.ByTitle }}
 		{{ if ne .Type "index" }}
-			<li class="list-group-item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+			<li class="list-group-item">
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
+			</li>
 		{{ end }}
 	{{ end }}
 	</ul>

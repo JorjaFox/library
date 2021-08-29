@@ -1,5 +1,15 @@
 {{ partial "_header.html" . }}
 
-{{ .Content }}
+<div class="card">
+	<div class="card-body">
+		{{ .Content }}
+	</div>
+
+	{{ if .Params.sourceurl }}
+	<div class="card-footer">
+		Source: <a href="{{ .Params.sourceurl }}">{{ .Title }}</a>
+	</div>
+	{{ end }}
+</div>
 
 {{ partial "_footer.html" . }}

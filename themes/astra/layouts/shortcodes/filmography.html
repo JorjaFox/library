@@ -25,7 +25,7 @@
 		{{ if eq $role .role }}
 
 			<tr>
-				<td><strong>{{ if .slug }}<a href="/library/{{ $role }}/{{ .slug }}/">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</strong> ({{ .type }})
+				<td><strong>{{ if .slug }}<a href="/library/{{ $role }}/{{ .slug }}/">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</strong> ({{ .type }}) {{ if .onair }}<span class="badge bg-info text-dark">On Air</span>{{ end }}
 					{{ if .character }}<br /><strong>{{ .character }}</strong> {{ if .jorjan }}<small>[Credited as Jorjan Fox]</small>{{ end }}{{ end }}
 					{{ if .notes }}<br /><small>{{ .notes | safeHTML }}</small>{{ end }}
 				</td>
@@ -38,4 +38,8 @@
 
 	</tbody></table>
 
+{{ end }}
+
+{{ if not .Params.notoc }}
+<a class="btn btn-success" href="#toc">Return to Top</a>
 {{ end }}

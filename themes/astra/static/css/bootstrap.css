@@ -8,6 +8,11 @@ div.episode-card .card-header {
     text-align: center;
 }
 
+div.h-100 svg {
+    width: 100px;
+    margin: 10px;
+}
+
 .card {
   position: relative;
   display: -ms-flexbox;

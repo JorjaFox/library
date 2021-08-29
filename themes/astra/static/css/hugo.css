@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 div.accordion.table-of-contents {
-    min-width: 200px;
+    min-width: 250px;
     max-width: 250px;
     float: right;
     margin: 5px;
@@ -75,4 +75,24 @@ div.episode-card {
 
 div.episode-card ul {
     margin-left: 0!important;
+}
+
+/* SVG */
+.faq-svg svg,
+.list-svg svg {
+    width: 25px;
+    margin: 5px;
+}
+
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+  margin-top: 1rem!important;
+  margin-bottom: 1rem!important;
+}
+
+h3.accordion-header {
+    margin-top: 0!important;
+}
+
+.search-form label, #search-query {
+    width: 90%;
 }

@@ -1,11 +1,11 @@
 ---
-title: Gist TV Biography
+title: Gist TV
 author: "Mika A. Epstein"
 layout: biography
 permalink: /biographies/gist/
 categories: ["Biographies"]
 tags: ["Internet"]
-
+date: "2000-08-20"
 ---
 
 * Birthplace: Melbourne Beach, Florida

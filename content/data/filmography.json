@@ -12,7 +12,8 @@
       "seasons": 1,
       "chartype": "main",
       "genre": "Crime Drama",
-      "excerpt": "<strong>CSI: Vegas</strong> opens a brand new chapter in Las Vegas, the city where it all began."
+      "excerpt": "<strong>CSI: Vegas</strong> opens a brand new chapter in Las Vegas, the city where it all began.",
+      "onair": true
     },
     {
       "role": "actor",

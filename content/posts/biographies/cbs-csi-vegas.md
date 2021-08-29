@@ -1,11 +1,12 @@
 ---
-title: "CBS Biography (CSI: Vegas)"
+title: "CBS (CSI: Vegas)"
 author: "Mika A. Epstein"
 layout: biography
 permalink: /biographies/cbs-csi-vegas/
 categories: ["Biographies"]
 tags: ["Internet"]
-
+date: "2021-08-20"
+sourceurl: "https://www.cbs.com/shows/csi-vegas/"
 ---
 
 In CSI: VEGAS, Jorja Fox is reprising her role as forensic scientist ‘Sara Sidle,’ which she portrayed for 15 years on “CSI: Crime Scene Investigation,” on the Network. Most recently, Fox appeared in the coming-of-age film “The Map of Tiny Perfect Things” on Amazon, and the John Suits sci fi indie film “3022.”

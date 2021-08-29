@@ -1,11 +1,11 @@
 ---
-title: Velocity Trap Biography
+title: Velocity Trap
 author: "Mika A. Epstein"
 layout: biography
 permalink: /biographies/velocity-trap/
 categories: ["Biographies"]
 tags: ["Movies"]
-
+date: "1996-05-01"
 ---
 
 Jorja was born in New York City to French Canadian immigrant parents. When she was three, the family relocated to a small costal town in Florida. Raised on a narrow barrier island, Jorja has a deep affinity for all things oceanic, big skies, and Jimmy Buffet. Jorja began her acting career at the age of five, when she landed the coveted role of the &#8216;Rooster' in the children's classic "Chicken Little."
