@@ -69,8 +69,15 @@ div.episode-card ul {
 /* Search */
 
 div.card.search-results mark {
-    background-color: yellow;
+    background-color: #ffff66;
     color: inherit!important;
+}
+
+/* SVGs in Cards */
+
+.card-svg svg, div.h-100 svg  {
+    max-height: 125px;
+    margin: .5rem;
 }
 
 /* Bootstrap Adjustments */
@@ -80,11 +87,6 @@ div.episode-card table, tr, td, th {
 
 div.episode-card .card-header {
     text-align: center;
-}
-
-div.h-100 svg {
-    width: 100px;
-    margin: 10px;
 }
 
 h1.card-header, h2.card-header, h3.card-header, h4.card-header, h5.card-header, h3.accordion-header {
