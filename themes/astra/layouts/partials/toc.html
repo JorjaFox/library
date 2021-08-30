@@ -3,7 +3,7 @@
 {{ $toc := replaceRE "<nav([^>]*)>\\s*<ul>\\s*<li>([\\s\\S]+)</li>\\s*</ul>\\s*</nav>" "$2" . | safeHTML }}
 {{ $toc = replaceRE "<a href=" "<a class='dropdown-item' href=" $toc | safeHTML }}
 
-<div class="dropdown float-end TableOfContents">
+<div class="dropdown float-end TableOfContents" id="toc">
 	<button class="btn btn-success btn-lg dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
 		Table of Contents
 	</button>
