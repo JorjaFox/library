@@ -4,6 +4,7 @@ date: 2001-07-01
 author: David Masters
 layout: transcript
 interviewurl: http://www.cbs.com
+sourcename: "CSI DVD Extras"
 permalink: /transcript/2001/:title/
 categories: ["Transcripts"]
 tags: [Transcript, 2001, DVD]
