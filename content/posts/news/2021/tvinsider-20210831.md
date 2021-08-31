@@ -1,6 +1,6 @@
 ---
 title: "TV Insider"
-date: 2021-08-25
+date: 2021-08-31
 author: "Mika A. Epstein"
 layout: news
 tags: ["2021"]
