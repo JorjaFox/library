@@ -18,6 +18,6 @@ prodnum: 407
 
 A severed head is shipped to Dr. Robbins from Jackpot, Nevada. Grissom goes to Jackpot to find the rest of the body and gets very little cooperation from the locals. Catherine gets an unexpected gift from her father.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._

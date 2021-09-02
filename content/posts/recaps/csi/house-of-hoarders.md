@@ -26,7 +26,7 @@ Alisia, the middle child, is found still in the house, walled up behind boxes of
 
 After mother and son lawyer up, they go back to the red ribbon and are able to create a timeline of the murders. After they find the ribbon and arsenic, they determine Alisia was seducing the boys from her brother's halfway home and killing them. She blames her mother for her insanity.
 
-## Character Review
+## Review
 
 Nick and Sara answer the call and are the first to enter the house. When Nick steps in body goo, Sara teases him. They also argue like siblings about interpretations of the evidence and the causes of Level 5 hoarding. Sara is very sympathetic where Nick is not, and Sara leaves the crime scene to process Mrs. Santiago. Sara tells Greg that she feels like Nick doesn't get that this hoarding was caused by a trauma.
 
@@ -34,7 +34,7 @@ Nick and Sara argue more about who's at fault: the son or the mother. Nick blame
 
 In the end, she tells Julian about her mother's schizophrenia, and that you can move on.
 
-## Character Notes
+## Notes
 
 * Sara handles crazy people really well  
 * Sara is very kind and sympathetic to Mrs. Santiago

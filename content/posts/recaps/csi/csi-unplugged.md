@@ -20,11 +20,11 @@ A young boy, Harper Reardon, is stolen from his home, and his nanny, Shelby Bure
 
 Shelby turns out to be the birth mother of Harper, with whom TJ was having an affair while married to another woman, Natalie, who died five years ago. TC had a seance for his dead wife, with his ex-mother-in-law, Patricia Lydecker, and Shelby, to try and contact Natalie. The medium, Karen, has been helping them talk to Natalie.
 
-## Character Review
+## Review
 
 At the autopsy, Sara is delighted when David the coroner's assistant makes light in the morgue using luminol.
 
-## Character Notes
+## Notes
 
 * Sara and David (aka Super Dave) still flirt as friends.  
 * Sara and Nick confess to being out of practice reviewing prints by eye and not computer.

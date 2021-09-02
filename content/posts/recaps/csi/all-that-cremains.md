@@ -22,11 +22,11 @@ Trace ashes from the dead body at the thrift store imply that the body was at a 
 
 The evidence doesn't add up until they find 'audition' tapes in a safe. Ron was using a friend in the music industry to tape potential girlfriends, telling the girls they were trying out for a movie. Sydney found out and left Ron. The killer was Ron's daughter, Cameron, who killed her father because she actually liked Sydney and didn't like all the other girls in his life.
 
-## Character Review
+## Review
 
 Nick and Sara meet Detective Frankie Reed (Katee Sackhoff) at a thrift store when the head and foot of a dead man are found in boxes from a charity donation pickup.
 
-## Character Notes
+## Notes
 
 * Sara shops at thrift stores.
 

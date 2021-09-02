@@ -18,11 +18,11 @@ prodnum: 505
 
 Grissom and Sara investigate the murder of a woman after a swap party. The married couples in the neighborhood meet and switch partners. With the help of a crime scene cleaner, Nick and Warrick find there was more to their crime scene than they first thought. Catherine wants a promotion to day shift supervisor.
 
-## Character Review
+## Review
 
 Sara works with Grissom on the 'swapping' case, and admits that she has trouble understanding that lifestyle.
 
-## Character Notes
+## Notes
 
 * Sara is not a fan of high heels.  
 * Sara doesn't think that couples should go outside the marriage for sex.  

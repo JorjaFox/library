@@ -18,6 +18,6 @@ prodnum: 292
 
 When the CSIs investigate a triple homicide, Russell has to find a way to connect with a 6-year-old girl who was the sole survivor and witness.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._

@@ -18,7 +18,7 @@ prodnum: 237
 
 A large explosion at a gas company gives the CSI team further evidence in their investigation into the murders of two men who were about to accuse the company of poisoning the water in a farming town.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._
 

@@ -18,13 +18,13 @@ prodnum: 722
 
 A group of cultists who believe that alien reptiles are breeding with humans in a vast government conspiracy fall prey to their own neuroses and start to kill each other. Chyna De Vere is killed by Shannon Turner and her boyfriend, Hank Conners, the latter of whom commits suicide as the police raid his house, for being a Reptillian. There they find Chyna's head, mounted like a hunting trophy, and her body buried with both rings. Her husband, Preston, had left her the day she was killed and was missing. Preston is found in the desert, naked, claiming to have been abducted by aliens. Preston says that Clarissa Niles, with whom he was having an affair, kidnapped his wife.
 
-## Character Review
+## Review
 
 Everyone works on the cult case, Sara providing a support role.
 
 Grissom and Sara watch a Godzilla movie together at Grissom's home, with his dog. Sara finds the letter Grissom never sent on his night-stand, and reads it while he's out of the room.
 
-## Character Notes
+## Notes
 
 * Sara confirms she's still a vegetarian.  
 * Sara feels sorry for the movie monster Mothra.  

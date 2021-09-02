@@ -26,7 +26,7 @@ One shooter got away, and did indeed kill the young boy for his bicycle to get a
 
 The final answer is that Jim Brass shot officer Bell. During the fire fight, both men stood up. Bell was hit in the chest, but had on body armor. The shot turned him and Brass, who was shooting across Bell's car (in violation of protocol) accidentally hit Bell.
 
-## Character Review
+## Review
 
 Early in the episode, Sofia Curtis comes to unburden herself to Grissom, who repeatedly asks her not to tell him. Sofia is on administrative leave and shouldn't talk to anyone on the force, which is hard since most of her friends are cops, including her mother. As Sofia talks over Grissom's objections, Sara arrives and reinforces Grissom's statement of how Sofia shouldn't be there, talking to them. Sofia spits back that Sara doesn't have many friends outside the force, and Sara offers the name of a police psychologist.
 
@@ -34,7 +34,7 @@ While hunting for the bullet that killed Bell in the alley, Grissom swoops by an
 
 Finally, Sara and Nick assist Grissom in reconstructing the shooting of Bell, using lasers and dummies. Sara, taking Sofia's position, easily determines the cars would have made it unable for Sofia to have killed Bell. The bullet she found in the candle in the previous episode was the deadly bullet, and only a shot from Brass' position would have caused such a shot.
 
-## Character Notes
+## Notes
 
 * Sara seems rather curt with Sofia when she finds her talking with Grissom after she's been suspended.
 

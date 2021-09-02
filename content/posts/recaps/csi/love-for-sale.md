@@ -18,6 +18,6 @@ prodnum: 310
 
 Nick and Greg investigate the death of a 16-year-old girl with ties to a brothel.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._

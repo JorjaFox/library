@@ -18,11 +18,11 @@ prodnum: 502
 
 Heavy rains in Vegas wash up a body in the storm drains. As the team investigates, they find bones from another murder.
 
-## Character Review
+## Review
 
 Sara risks her life (and Warrick's) to remove a door from a closet loaded with pipe bombs.
 
-## Character Notes
+## Notes
 
 * Stubborn Sara surfaces again.  
 * Sara assures Grissom that she doesn't have a drinking problem (re. "Bloodlines" and that she doesn't have a death wish.

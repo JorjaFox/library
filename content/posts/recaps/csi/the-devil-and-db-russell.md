@@ -28,7 +28,7 @@ Morgan survives, but claims to the CSIs that Matthew shot Morgan and Ellie kille
 
 In the present, the CSIs are at the funeral of Jim Brass' ex wife, and Ellie's mother, Nancy.
 
-## Character Review
+## Review
 
 Initially Sara is still in San Francisco when Morgan initial goes missing, however she had returned around the time the SUV was discovered. When Ecklie called her in, Sara checked up on and verified Father Larson's claims about Oliver Tate's ties to some of the missing girls.
 
@@ -36,7 +36,7 @@ In the lab, Sara works on processing and decrypting the dowels found in a boat i
 
 After the girls are rescued, Sara processes the gun and finds inconstancies between Ellie's story and the GSR evidence. It's Sara who makes the connection between Ellie and Matthew, finding photographs proving the two had prior knowledge.
 
-## Character Notes
+## Notes
 
 * Sara returns from San Francisco  
 * Sara believes the evidence more than Ellie, which is abnormal for her (perhaps because she's met Ellie before).

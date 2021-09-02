@@ -18,6 +18,6 @@ prodnum: 507
 
 Grissom is called to a murder of a 17-year-old in a casino penthouse. Sofia Curtis joins him in his research, she normally works in the day-shift. The entire team gets involved when its discovered that a kiddnapping took place along with the murder.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._

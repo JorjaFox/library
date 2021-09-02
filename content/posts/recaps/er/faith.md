@@ -19,11 +19,11 @@ rating: 3
   
 Mark examines his prejudices when he's accused of neglecting a black gunshot victim, Kenny Law, in favor of a white victim. Jeanie discovers Peter's impending parenthood when Carla comes into the ER. Carter spends the entire day treating a hopeless case. Kerry tries to persuade a disabled junkie to enter a rehab program. Carol treats a college student who was drugged with roofies. After Jenn's mother has a stroke, Rachel comes to stay with Mark for a while.
 
-## Character Review  
+## Review  
   
 Drs. Greene and Doyle treat a patient in need for a heart transplant, but has been denied because she has Downs Syndrome. While Doyle brings her brother over to keep the patient comfortable, the mother explains she doesn't want the surgery because after she dies, her daughter will end up in a home, all alone.
 
-## Character Notes  
+## Notes  
   
 * Doyle's brother with Downs is named Jimmy.
 

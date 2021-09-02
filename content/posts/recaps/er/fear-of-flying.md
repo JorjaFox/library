@@ -21,11 +21,11 @@ _Note: Jorja Fox credited as Jorjan Fox_
 
 Mark and Susan take to the air for helicopter flight rotation, which brings to the ER an entire family injured in an accident. Benton's overconfidence during Keaton's absence results in a dire mistake. Carol deals with a 'floater' nurse who can't cope with the speed of the ER. Jeanie and Maggie are given the task of keeping a dead man on ice in anticipation of cryogenic storage.
 
-## Character Review  
+## Review  
 
 A dying Patrick Brazil is brought in by his caregiver, who explains to Jeanie and Doyle that he wants to cryogenically frozen so he can be with his wife, frozen eight years before. Mr. Brazil dies, and Jeanie and Doyle are asked to keep his body cold until the rep from 'California Cryogenics' arrives. When the doctor arrives, the two suspect his credentials, even though he has the correct ID.
 
-## Character Notes  
+## Notes  
 
 * Jeanie and Doyle are becoming friends at this point, which will become relevant later.
 

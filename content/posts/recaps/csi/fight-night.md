@@ -18,11 +18,11 @@ prodnum: 307
 
 'Fight Night' in Las Vegas: busy, busy, busy. A boxing champ dies in the ring after taking a brutal beating from his nemesis, but Grissom finds evidence that points to murder. Outside, in a nearby parking lot, Catherine works a crime scene where a Los Angeles gang member was gunned down, apparently by a rival gang. Also, Nick investigates a jewelry-store robbery.
 
-## Character Review
+## Review
 
 Sara processes the boxing ring with Warrick, showing one of her only aversions: saliva. She doesn't know much about boxing, and is _not_ impressed with the sport. There's a Sara and Hank moment, as he shows her the 'wraps' taken off the boxer on the way to the hospital. She admires Warrick as he demonstrates the difference between normal gloves and weighted gloves.
 
-## Character Notes
+## Notes
 
 * Sara has an aversion to saliva.  
 * Sara doesn't know much about boxing, and doesn't like it as a sport.

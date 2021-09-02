@@ -20,11 +20,11 @@ Grissom, Sofia, Sara and Greg investigate the disappearance of a woman coming ho
 
 _Note: this episode of CSI was the winner of a Genesis Award ([Humane Society](http://www.hsus.org/)) for its portrayal of canned hunts._
 
-## Character Review
+## Review
 
 Sara, Greg, Grissom and Sofia check out a body dump. During the case she finds Grissom talking alone with Sofia, and hesitantly interrupts them. Greg asks her what happened with Ecklie, and while she doesn't tell him about it, she does appreciate his asking. After they solve the case, Greg discovers the motive and lets both Sara and Sofia know -- when he comments about Sofia fitting in, Sara doesn't say anything and walks away.
 
-## Character Notes
+## Notes
 
 * Sara appreciates Greg inquiring about her blow-up with Ecklie, though she doesn't tell him anything.  
 * Sara does not express a high opinion of Sofia.  

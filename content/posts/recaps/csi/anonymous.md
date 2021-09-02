@@ -18,7 +18,7 @@ prodnum: 108
 
 When a man is found dead in a setting disturbingly similar to a previous case (in the Pilot episode), Grissom realizes that a serial killer is on the loose. The Killer begins leaving clues to taunt Grissom, while Sara and Catherine work with Grissom. Warrick and Nick clash when they investigate a peculiar car accident.
 
-## Character Notes
+## Notes
 
 * While Sara loves the hotel bathroom here, in later episodes she displays a phobia of germs in public places.
 

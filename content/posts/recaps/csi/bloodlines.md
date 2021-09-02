@@ -18,11 +18,11 @@ prodnum: 423
 
 A casino employee is beaten and raped on her way home from work, but she survives and identifies her attacker. Unfortunately, a DNA test sets him free and Grissom must wrestle with whether evidence can ever lie. Later, Grissom comes to the rescue of a coworker who ends up on the other side of the law.
 
-## Character Review
+## Review
 
 After they discover that the promotion was cancelled, Sara, Nick and Warrick go out for a few drinks. Sara is later picked up for DUI, and Grissom -- as her supervisor -- is notified and takes her home.
 
-## Character Notes
+## Notes
 
 * In an unusual turn of events, Sara isn't that involved in the rape case, and doesn't stick around the hospital to wait for the result of the SART exam.  
 * After going out drinking with Nick and Warrick, Sara gets picked up for DUI (barely over the limit -- Grissom, as her supervisor, is notified, and takes her home.

@@ -20,7 +20,7 @@ Three separate cases are all committed by the same revenge-seeking retired polic
 
 Kevin Fetzer, a well-off entrepreneur who created Joystick Jungle, an arcade for adults, is beaten to death with an arcade ball (aka skeeball), which Kevin himself once used in a fight with a younger boy, Mikey Moran, killing him. In another case, Ramon Castillo is found burnt to a crisp inside tires in gang territory. His arch enemy, Diego Barra, claims he had nothing to do with it, but suggests Marta Arterro, Barra's ex-girlfriend came back from the dead to do it, as she was murdered by Castillo in a similar fashion. In the third case, Darlene Crocker, kills herself while hopped up on PCP, which was used to kill Crocker's daughter years ago.
 
-## Character Review
+## Review
 
 Sara and Nick work the Castillo case until it merges with the others.
 

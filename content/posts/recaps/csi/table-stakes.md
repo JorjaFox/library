@@ -18,7 +18,7 @@ prodnum: 114
 
 An elite fund-raising party at a legendary showgirl's elegant Las Vegas mansion turns deadly in a twist-filled episode. Grissom, Catherine, Sara and Nick investigate when the body of a leggy brunette is discovered floating in the mansion's pool. Their suspicions soon focus on the brash couple, Patrick and Amanda Haynes, who hosted the party and are house-sitting for the absent owner. They claim the former entertainer, now a wealthy older woman, is vacationing in Europe and can't be reached, but the CSI team isn't so sure. Also, Warrick combs for clues when a man is gunned down, possibly by a hit man, in a glass hotel elevator.
 
-## Character Review
+## Review
 
 Sara gets woken up on her day off (her first in three weeks) and gets called in. Sara's just a bit cranky and tired, evidencing this with a large yawn. Sara and Nick give instructions to Greg (she 'hates' him because he's awake).
 
@@ -28,7 +28,7 @@ Sara, Nick and Catherine are discussing the case (and dating in general), Nick e
 
 Sara, Nick, Catherine and Brass have lunch in a restaurant as they discuss the case. Sara and Nick 'go Dutch' on their part of the check (referencing their earlier conversation about dating).
 
-## Character Notes
+## Notes
 
 * Sara is _not_ a happy camper when she's woken on her day off.  
 * Sara has a 'chickenscratch' signature.  

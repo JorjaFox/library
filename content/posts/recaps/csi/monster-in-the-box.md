@@ -20,11 +20,11 @@ Grissom finally opens a packaged delivered shortly after he left for sabbatical,
 
 Ernie Dell had a son, born in 1983, Lionel Dell, who renamed himself Mitchell Douglas and spent time in a halfway house, which Dr. Tallman worked at for a while. Lionel reveals that his parents had fostered a good number of foster children, all from before Lionel was born. With at least thirteen foster kids and few names, the CSIs have their work cut out for them.
 
-## Character Review
+## Review
 
 Sara introduces Warrick and Nick to the particulars of the miniature cases. She is suspicious of Ernie Dell not having any relatives, and goes through his home movies to learn more about him. Sara finds Dell's son and determines he never got along well with his father.
 
-## Character Notes
+## Notes
 
 * Sara is incensed about how the chicken slaughter factory treats animals, while providing benefits to its employees.  
 * Sara reacts to the mention of the foster situation, a reminder of her own history.

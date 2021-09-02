@@ -20,7 +20,7 @@ The ghost of Mickey Dunn, a famous Vegas mob boss from the 70s, seemingly return
 
 Assuming that the bullet would kill him if removed, Mickey staged his revenge planning on dying soon after. The CSIs have the bullet removed safely, however, and Mickey is forced to serve life for five homicides.
 
-## Character Review
+## Review
 
 Sara works the murder of Mason, who is strangled by Dunn, in the guise of Pamela Vorhees.
 

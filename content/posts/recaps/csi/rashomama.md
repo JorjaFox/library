@@ -24,11 +24,11 @@ Much of the episode is told via flashbacks, and everyone's version of the event 
 
 At the end of the episode, Grissom states that it doesn't matter which one of them Internal Affairs speaks with first, as their stories will all be the same.
 
-## Character Review
+## Review
 
 There is a duality to Sara in this episode -- she goes from pessimistic and negative (voicing her opposition to tradition, her commentary on marriage) to humorous and cheerful (the guy flirting with her, comments to Nick). She doesn't like people who blindly follow traditions -- demonstrating some 'Grissom-esque' recall on the subject of marriage -- but she also says that she's not anti-wedding. While waiting for IAB, she takes a nap in the locker room (face down on the bench), and is enthusiastic when Catherine wakes her to process the car. Despite the situation -- stolen evidence and an IAB investigation -- she doesn't let herself get frustrated.
 
-## Character Notes
+## Notes
 
 * Sara (and Greg) maxed out on overtime.  
 * Sara is not anti-wedding, but anti-stupid. She dislikes people following traditions merely for the sake of tradition.  

@@ -5,6 +5,11 @@
   display: table;
 }
 
+/* Heading */
+h1, h2, h3, h4, h5, h6 {
+  clear: none;
+}
+
 /* Stars */
 
 .rating {
@@ -43,7 +48,6 @@ ul.actor-list-group li.list-group-item {
 
 div.episode-card {
     max-width: 300px;
-    float: right;
     margin: 5px;
 }
 
@@ -81,10 +85,6 @@ div.card.search-results mark {
 }
 
 /* Bootstrap Adjustments */
-div.episode-card table, tr, td, th {
-    border: 0px!important;
-}
-
 div.episode-card .card-header {
     text-align: center;
 }
@@ -96,3 +96,20 @@ h1.card-header, h2.card-header, h3.card-header, h4.card-header, h5.card-header, 
 div.TableOfContents {
     margin: 0.5rem;
 }
+
+.table-borderless th,
+.table-borderless td,
+.table-borderless thead th,
+.table-borderless tbody + tbody {
+  border: 0!important;
+}
+
+div.flf-episode-list table.table-borderless {
+    border: 1px solid!important;
+}
+
+div.flf-episode-list thead {
+    background-color: #f8f9fa;
+}
+
+li.borderless { border: 0 none; }

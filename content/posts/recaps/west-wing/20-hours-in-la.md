@@ -19,11 +19,11 @@ rating: 3
 
 President Bartlet and his staff head to Los Angeles for a whirlwind visit and a celebrity fund raiser, and Bartlet meets his daughter Zoey's new Secret Service agent.
 
-## Character Review
+## Review
 
 A direct person, Gina takes the role of protecting 'Bookbag' seriously.
 
-## Character Notes
+## Notes
 
 * Gina was in the Army ROTC at U of Virginia (Criminology)  
 * She holds the rank of 2nd Lt. in MP  

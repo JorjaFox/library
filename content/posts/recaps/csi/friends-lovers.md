@@ -18,11 +18,11 @@ prodnum: 105
 
 Grissom and Warrick investigate a case of an apparently terrorized teen found dead in the desert; Sara examines the circumstances surrounding the body of a woman who was buried the week before and is found in a garbage dumpster; Nick and Catherine look into the claim by a teacher that she killed the dean of the school in self-defense.
 
-## Character Review
+## Review
 
 Sara investigates a dumped body in Henderson, dumpster dives and realizes the corpse has been embalmed. When David Phillips (Assistant Coroner) stumblingly hits on her while she's checking the database, she gives him some tips for 'pulling chicks', including giving him a 'C for cute'. Sara discovers the corpse was buried a week ago; and excavates the grave only to find no casket in the grave (ruling out the funeral director's claim of grave robbing). Sara checks out caskets for sale at the funeral home and discovers they've been re-used. Sara confronts the mortuary director.
 
-## Character Notes
+## Notes
 
 * Sara wants to be cremated when she dies rather than be buried with the worms.  
 * Sara is apparently comfortable with guys hitting on her -- or at least comfortable with David Phillips hitting on her.  

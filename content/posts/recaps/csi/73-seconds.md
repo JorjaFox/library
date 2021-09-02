@@ -22,11 +22,11 @@ Out in Brim County, Sara and Greg look into an old body with a new head, stabbed
 
 Doc Robbins and Jim Brass talk about Ray Langston, briefly, and how he's been railroaded out of CSI by IA, but it's saved his life. He's doing fine. However the fallout resulted in Catherine being demoted, and all the CSIs having to follow the book, which doesn't sit well with everyone.
 
-## Character Review
+## Review
 
 Sara takes photographs of the tram killing crime scene until the call from Brim County comes in. Sara and Greg discuss the new supervisor, and how his ways are weird, but they work.
 
-## Character Notes
+## Notes
 
 * Sara is impressed by D.B.'s work.  
 * Sara's grandfather's name is Pete.

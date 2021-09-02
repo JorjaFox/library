@@ -18,7 +18,7 @@ prodnum: 508
 
 A woman who was pulled over by police is found murdered two miles up the road from the stop. It's not long before Doc Robbins determines that the woman is, genetically speaking, not a woman.
 
-## Character Notes
+## Notes
 
 * Sara doesn't have any problems dealing with transgendered or transsexual people.
 

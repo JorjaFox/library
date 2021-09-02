@@ -20,11 +20,11 @@ Grissom, Catherine and Nick investigate a woman who is kidnapped from a grocery 
 
 _Note: This episode was originally filmed to air third (after "Cool Change" and before "Crate 'n Burial"), explaining Sara's attitude towards Warrick.
 
-## Character Review
+## Review
 
 Sara works the apartment murder by herself until Warrick is assigned to help her -- something she is not happy about. She confronts Grissom, but doesn't get an answer that satisfies her. She rides Warrick the entire episode with an antagonistic attitude -- and then at the end she discovers that he was in the casino to collect a debt, not to gamble.
 
-## Character Notes
+## Notes
 
 * Sara still doesn't like Warrick because of his gambling, but she grudgingly works with him.  
 * Once Warrick explains what he was doing, Sara doesn't defend herself -- Grissom asked her to investigate Warrick.  

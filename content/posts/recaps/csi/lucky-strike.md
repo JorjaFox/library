@@ -18,7 +18,7 @@ prodnum: 316
 
 The 5-year-old son of a professional basketball player is kidnapped while his father is at a casino, and a $5 million ransom is demanded. Elsewhere, Grissom and Nick investigate when a man with a wooden stake lodged in the back of his head stumbles out of his car and dies.
 
-## Character Notes
+## Notes
 
 * Sara knows the smell of menthol cigarettes.
 

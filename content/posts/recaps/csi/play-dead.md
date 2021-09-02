@@ -18,6 +18,6 @@ prodnum: 278
 
 A police officer is killed, and the only living witness is his dog; a predatory divorce attorney is murdered, and the world seems just a little sweeter.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._

@@ -18,7 +18,7 @@ prodnum: 212
 
 The CSIs discover that two seemingly unrelated crimes are actually part of a revenge plot.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode_
 

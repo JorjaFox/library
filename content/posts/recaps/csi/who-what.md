@@ -20,13 +20,13 @@ A boy and his babysitter are brutally murdered during a home invasion. FBI Speci
 
 The episode concluded on _Without a Trace._
 
-## Character Review
+## Review
 
 Sara gets called into work early, but walks Grissom's dog, Hank, before coming in. Jack Malone may have caught on to the fact that Grissom and Sara are dating, despite Grissom's claim that Sara is only his dog walker.
 
 Sara works a day case where a second woman is found covered up after being raped and murdered, but her husband survived long enough to be found. The sheer randomness of the case affects Sara strongly -- if it can happen to them, it can happen to anybody, and Grissom shows some concern, though he doesn't try to talk to her or comfort her.
 
-## Character Notes
+## Notes
 
 * Sara walks Grissom's dog Hank and takes him to the sitter.  
 * Sara is upset by the fact that ordinary people living ordinary lives are caught up in the gruesome crime.

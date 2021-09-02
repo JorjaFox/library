@@ -25,11 +25,11 @@ Nick and Ray get Benjamin Fowler, house sitting, found dead and tied up in the p
 
 Meanwhile, Doc Robbins has a new assistant, Kevin, from LA, who is egotistic and misogynistic. And who dies of natural causes at the end of the night. Doc Robbins bet on David, who found the body, and won the bet.
 
-## Character Review
+## Review
 
 Sara works with Greg on his cases, first the office worker, then the gamer. Sara is aware of the gambling going on for the cycle, but seems to have no interest in joining it. Others seem to be betting on her to win, though.
 
-## Character Notes
+## Notes
 
 * Sara is offended at Kevin's misogynistic ways.  
 * Sara got flowers from a dayshift guy, wishing _her_ luck on the cycle.

@@ -18,7 +18,7 @@ prodnum: 413
 
 A robbery at a grocery store results in a shootout leaving five dead. The police officer at the scene believes Grissom has a grudge against him. The entire team has to process the enormous amount of evidence at the scene.
 
-## Character Review
+## Review
 
 Grissom appears to be avoiding Sara at the crime scene, a result of the events in "Butterflied".
 

@@ -18,6 +18,6 @@ prodnum: 301
 
 After a homeless man picks up a quick $350,000 at the blackjack tables, he's found dead in an alley and the money is missing -- but it's not a simple mugging.
 
-## Character Review
+## Review
 
 Sara appears in one scene and overlooks the crime scene photos with Morgan Brody. In doing so, she spots inconsistencies with the current theory, and gives Morgan an idea that perhaps they've arrested the wrong man.

@@ -18,7 +18,7 @@ prodnum: 110
 
 The investigators work a trio of diverse cases that involve a murder, a theft and a disappearance in this intriguing episode. Grissom investigates the shooting death of a young woman when her bloodied and bug-infested body is found on a nearby mountain. Most of the circumstantial evidence points to the woman's abusive husband as the likely killer. But Grissom's not so sure, since his analysis of the bugs indicates that the victim was killed three days prior--when the hubby was out of town. Elsewhere, a man claims that a thief stole a valuable painting from his house, and a missing woman is feared dead when blood is found in her abandoned car.
 
-## Character Review
+## Review
 
 A woman's body is found dumped on a hillside, swarming with bugs. 'I hate bees' is Sara's reaction, then shows herself to be a little squeamish when dealing with a bug-infested corpse. Sara carries beef jerky, which Grissom 'borrows' to feed the beetles he recovers from the corpse. In the break room, Sara is joking around with Nick.
 
@@ -30,7 +30,7 @@ Later on, Sara is asleep in the break room -- Grissom asks her to investigate Wa
 
 This prompts Grissom to re-investigate the bugs, and Sara keeps Grissom company while he checks the decomposition rate (and bug arrival rate) with a dead pig, bringing him coffee and a blanket, which she wraps around his shoulders. Sara confronts Grissom about moving on from the case -- then discovers that he's called for a second autopsy of Kaye Shelton. Blue powder around the gunshot wound, which Sara matches with the husband's ammo. Sara says goodbye to the victim in the morgue, then tells Grissom she tracked Warrick to a casino.
 
-## Character Notes
+## Notes
 
 * Sara is a little squeamish around decomposing bodies, or possibly just insect-infested bodies.  
 * Sara carries around beef jerky to snack on.  

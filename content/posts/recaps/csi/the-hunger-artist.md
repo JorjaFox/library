@@ -18,7 +18,7 @@ prodnum: 223
 
 Season Finale. The CSIs investigate when the body of an unidentified young woman is discovered stuffed in an overturned shopping cart near a freeway underpass. Her horribly disfigured and partially decomposed face is a nightmare of blood, scabs and scars, as if she'd been shoved into a fan. A huge circular hole dominates her left cheek. Someone not only wanted her dead, Grissom reasons, but 'they wanted her ugly.' Adding to the mystery are the cart's other contents: an expensive handbag, fashion magazines and a leather day planner with notes written in code.
 
-## Character Notes
+## Notes
 
 * Sara is good with codes and puzzles.  
 * Once again Sara shows her obsession with a case, taking all night to crack the code in the day planner.

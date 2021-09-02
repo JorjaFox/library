@@ -34,11 +34,11 @@ The dirt/mulch at Wolfwitz's house had the DNA of almost 20 different people, in
 
 The CSIs are unable to find Sneller until Grissom notices Lady heather's necklace under a couch. He drives out to where Zoe's body was found, and comes across Lady Heather and Sneller. She tied him to the front of his car and whipped him over and over again. Grissom stops her and Lady Heather breaks down sobbing.
 
-## Character Review
+## Review
 
 Another low end episode from Sara, she all but vanishes at the half-way mark.
 
-## Character Notes
+## Notes
 
 * In perhaps a reference to the situation in "Committed", Sara doesn't go and see Capt. Jack without someone else from the CSIs with her.
 

@@ -18,7 +18,7 @@ prodnum: 281
 
 When five bodies are found in what appears to be a meteor site in the middle of the desert, CSI Finlay recognizes one of the casualties, prompting her to revisit her past.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._
 

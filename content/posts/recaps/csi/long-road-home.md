@@ -20,11 +20,11 @@ A woman is found dead in a tour bus, after a night with a band, and another woma
 
 Tangerine (real name Angela Glenn) turns out to be Lex's daughter. The killer was another member of Lex's band, jealous of Lex's success.
 
-## Character Review
+## Review
 
 Sara is first on the scene, taking photos of the dead woman when D.B. Russell arrives. She and Nick investigate the owner of the fantasy camp (Marty Kirch, played by "Food for the Heart" alum Michael DesBarres).
 
-## Character Notes
+## Notes
 
 ## Quotes
 

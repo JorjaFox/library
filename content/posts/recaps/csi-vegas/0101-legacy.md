@@ -12,11 +12,11 @@ showslug: csi-vegas
 
 TBD
 
-## Character Review
+## Review
 
 TBD
 
-## Character Notes
+## Notes
 
 * TBD
 

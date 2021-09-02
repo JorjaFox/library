@@ -18,11 +18,11 @@ prodnum: 214
 
 When a man withdraws one million dollars cash from his bank, and he's got blood on his hands, he draws attention from the police, and soon Catherine ends up an unwitting participant in a kidnapping gone awry in which the only lead to the victim is a severed finger. Catherine is ordered by a kidnapper to accompany a man who is to deliver $1 million in ransom to him or else he will kill the man's mistress.
 
-## Character Review
+## Review
 
 Sara was on a date with Hank this episode, and had told Warrick where she was going. Warrick, in turn, told everyone at work.
 
-## Character Notes
+## Notes
 
 * In a sign of her social ineptitude, Sara talks work on her date.
 

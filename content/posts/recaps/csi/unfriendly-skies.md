@@ -18,11 +18,11 @@ prodnum: 109
 
 The whole team works to solve the case of a man who was murdered in an airplane while in flight.
 
-## Character Review
+## Review
 
 Sara and Grissom process the plane, discovering who sat where and what they did. During their investigation, they discover 'biologicals' in the bathroom, which leads Sara to recount her own 'sex in the skies' experience. During the recreation, Sara plays the role of the flight attendant. At the end, when they're discussing the case, Sara says that she could never kill anyone.
 
-## Character Notes
+## Notes
 
 * Sara is a member of the Mile High Club, though she notes that it was with a BMOC (big man on campus) who was 'overrated in every aspect'.  
 * Sara says she could never kill anyone.  

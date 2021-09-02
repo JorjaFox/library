@@ -18,7 +18,7 @@ prodnum: 512
 
 The swing shift has a busy time. Warrick looks into the murder of man by someone who apparently needs a wheelchair. Nick looks into the murder of woman in the subculture of the narcocorrido, songs about drug murders. The night shift is slow and lends help to Catherine's team.
 
-## Character Notes
+## Notes
 
 * Even though Sara told Ecklie it was already done in "Mea Culpa", she only now has her post PEAP talk with Grissom.  
 * Sara moved to Vegas because of Grissom.  

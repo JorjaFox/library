@@ -24,10 +24,10 @@ The find the car in a storage unit rented by Eva, along with Aron who tracked th
 
 But the killer was the car appraiser, Ken Bixler, who was also the real killer of Alfonso. He was there to kill Vera, Alfonso's mistress and Ken's fiancée. Eva asked Ken to help her steal the car, knowing him from her drug days, and Ken stole the headrest to cover his murder of Vera and Alfonso. Eva stumbled on him and he killed her.
 
-## Character Review
+## Review
 
 Sara gives the death notification to Eva's parents and goes with Finn to find the cars. When Carlo's a bit of a dick and tries to ignore them, she bumps his expensive car and sets off the alarm.
 
-## Character Notes
+## Notes
 
 * Sara hates when people lie to her

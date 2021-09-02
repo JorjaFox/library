@@ -18,7 +18,7 @@ prodnum: 718
 
 Six showgirls, who are also roommates, are all found murdered in their home. All six were tied up and five died from having their throats cut. One of the girls was raped. The killer was recently released from a California prison, and Sara is able to match his DNA to a wine bottle.
 
-## Character Review
+## Review
 
 After her date is canceled, Sara arrives to help with the scene. She is attacked by the last victim, who is hiding under the bed, but then asked to help her. Sara spends much of the episode assuring her teammates that she's alright after the attack, and trying to decipher Cammie's dying words. Initially, Sara presumes the words are 'Pour wine', but she finally determines them to be 'port wine,' and reference a birthmark on the killer.
 
@@ -26,7 +26,7 @@ As she solves the case, and throughout the episode, Sara flashes back to being w
 
 The killer confesses; however Sara admits she lost her perspective and got too close the case. By taking Cammie's death personally, she in turn attaches herself to the next presumed victim. While, in the end, this proves crucial to solving the case, Sara is angry that she felt for the killer, back when she'd thought him to be another victim. Grissom wipes a tear from her face as they watch the news of the killer's confession, and they leave together, Grissom's arm around her waist.
 
-## Character Notes
+## Notes
 
 * Sara was on a date before being called into the case.  
 * This is the second time that Sara has been attacked by a killer.   

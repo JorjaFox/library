@@ -20,7 +20,7 @@ While investigating the murder of a convicted ex-cop, the CSIs stumble upon a li
 
 The surprising truth is that the wife faked her own death and framed her husband. After she kills her sister, the CSIs are able to track her down and arrest her.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._
 

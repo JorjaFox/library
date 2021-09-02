@@ -20,13 +20,13 @@ An 18-year-old girl bolts from her suburban Las Vegas house screaming for help. 
 
 _Note: This episode originally aired with the title 'If This Walls Could Talk'_
 
-## Character Review
+## Review
 
 Sara arrives at the scene and relieves the about-to-be-sick rookie cop who was taking Grissom's notes; she heard the call on her scanner and decided to come in. Sara is a little disquieted by the blood dripping from the mother's corpse, mentions that she feels the soul still in the room. At Grissom's orders, Sara returns to the lab to get the photos processed. When the entire team arrives, Grissom details Sara to escort the little girl to police headquarters despite Sara's protests that she should be at the scene. Brass tells Sara to escort the little girl to the hospital, though Sara protests that she's not good with kids.
 
 At the hospital, Sara refuses to leave the little girl alone while they wait for her psych evaluation, despite the social worker telling her she can leave. Everybody is in the break room at the lab, reviewing the case -- Sara reports on the kid's psych evaluation and makes a few jokes (with a completely straight face) at Grissom's expense about leaving the kid in the car with the windows cracked. Sara takes UV photos of the little girl and discovers signs of abuse, which doesn't make her happy. Sara remains at the hospital with the little girl, keeping her company.
 
-## Character Notes
+## Notes
 
 * Sara listens to a police scanner at home.  
 * Sara comes in to work on her days off if she hears about a good case.  

@@ -18,11 +18,11 @@ prodnum: 503
 
 A child is abducted. As the Amber Alert goes out, the entire team investigates in a race against time. Lindsay Willows is found hitchhiking to the alarm of Catherine.
 
-## Character Review
+## Review
 
 Sara and Grissom work the angle of the missing child, and her personal possessions; Sara discovers the child's diary and her web browsing.
 
-## Character Notes
+## Notes
 
 * The quote below is only the second time that Grissom has ever complimented Sara, which sheds some light on their relationship.
 

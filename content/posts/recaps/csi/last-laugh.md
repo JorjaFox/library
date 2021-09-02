@@ -20,7 +20,7 @@ Grissom and Catherine investigate the murder of a despised comic who died on sta
 
 Also: Brass reopens a woman's accidental-death case after spotting the deceased's husband in a flashy new car with a trophy date on his arm.
 
-## Character Notes
+## Notes
 
 * Sara gets a big kick out of setting off the car alarm in order to get the husband to let them in.  
 * Sara's stubbornness is once again displayed when she refuses to quit trying to tear the towel bar off the wall.

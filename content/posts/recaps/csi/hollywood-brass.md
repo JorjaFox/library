@@ -18,6 +18,6 @@ prodnum: 521
 
 Brass travels to Hollywood, California to try to track down his estranged daughter's friend, meanwhile trying to rekindle some kind of relationship with her.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._

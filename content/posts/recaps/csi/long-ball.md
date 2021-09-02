@@ -24,11 +24,11 @@ Russell dropped a $5000 bet _against_ his son, the day Danny broke the course re
 
 Danny admits that he met his father there, to demonstrate that he was capable, but Russell proved to him about the juiced balls. Russell urged Danny to turn himself in, but Danny just walked away as his step-mother, Michelle, drove up and then away. In the end, the death was determined to be accidental. Russell had been banging the golf club on the ground, and the head snapped, bouncing and stabbing him in the neck, severing an artery.
 
-## Character Review
+## Review
 
 Sara works with recovering evidence from the golf cart with Ray and Nick, and is somewhat disparaging about golf in general. Later, she and Greg go to investigate the primary crime scene, and Greg questions, friendly-like, the validity of Sara's marriage to Grissom. In turn, Sara momentarily pretends that it was a joke.
 
-## Character Notes
+## Notes
 
 * Sara isn't a fan of golf.  
 * Sara and Greg are still sibling-comfortable around each other.

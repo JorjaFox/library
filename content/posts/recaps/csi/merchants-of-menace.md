@@ -22,10 +22,10 @@ Damon was found dead in the car of Lucas Reem, the killer who'd killed Nora Wate
 
 It turns out one of the young kids at the convention was the killer.
 
-## Character Review
+## Review
 
 Sara interviews Nora Waters and goes with Nick to try and catch Bruce Waters before he's able to buy Lucas Reems' bones.
 
-## Character Notes
+## Notes
 
 * One of the models from the Miniature Crime Scene killer is used by Nick to gain entry in a memorabilia back alley meeting.

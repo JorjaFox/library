@@ -18,7 +18,7 @@ prodnum: 295
 
 As Russell and his team investigate a series of murders, one of their own confronts peril on a dangerous undercover mission to get close to the killer.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._
 

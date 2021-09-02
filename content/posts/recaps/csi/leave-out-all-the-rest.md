@@ -18,13 +18,13 @@ prodnum: 905
 
 After receiving a video message from Sara, Grissom is distracted at work, and Catherine has to help cover for him. When the case involves the world of S&M, Grissom pays a visit to Lady Heather, looking for answers in both his professional and personal life. Heather is now a licensed therapist, specializing in sex therapy.
 
-## Character Review
+## Review
 
 Sara Sidle appear in a video message to Grissom in this episode.
 
 After leaving Las Vegas, Sara goes to sea on the Sea Shepherd. While she can't call him, she is able to email him a video message. She's been at sea for over a month and thinks of Grissom, however she has decided not to wait on him to make a decision about their relationship anymore, and is taking his lack of decision as his answer.
 
-## Character Notes
+## Notes
 
 * Sara emails a video while south of the equator, near Porto Ayrota.  
 * Sara has chosen to move forward in her life, even if that costs her Grissom.

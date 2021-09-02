@@ -18,6 +18,6 @@ prodnum: 240
 
 The CSIs question the validity of an online picture depicting a murdered call girl until they find the same woman strangled to death in the dumpster that appears in the photo.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._

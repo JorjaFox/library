@@ -18,7 +18,7 @@ prodnum: 235
 
 When a college student ends up dead after a 'Walking with Dinosaurs' show, the CSIs must determine if his death was murder or accidental.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._
 

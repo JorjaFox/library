@@ -38,7 +38,7 @@ As Sara leaves for San Diego, she leaves her director's badge for Catherine. In 
 
 **End of Series**
 
-## Character Review
+## Review
 
 Sara is anything but happy to see Heather, and blows up at Grissom. She keeps it together until the interrogation, and has to leave then. Catherine calls her out on still being in love with Grissom, but admits she herself would like to kill Heather too. Heather asks Sara if she loves Grissom, and Sara admits she still does.
 
@@ -48,7 +48,7 @@ In the end, Sara gets the position she wants but refuses to say goodbye to Griss
 
 And she gives it all up for Grissom, sailing off into the ocean with him.
 
-## Character Notes
+## Notes
 
 * Sara is promoted to Lab Director (the role Grissom had in season one)  
 * Sara chooses Grissom in the end.

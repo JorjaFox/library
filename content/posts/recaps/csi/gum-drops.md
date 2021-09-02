@@ -28,7 +28,7 @@ Cassie, however, was alive and managed to swim to shore, where she was found by 
 
 As originally written, the team was supposed to spend the night at a hotel since they were so far out of town; during the night Gil Grissom (unable to sleep because of Greg's snoring) goes to Sara's room, and she lets him in. Three scenes were originally written for this, and the first had been filmed when Billy Petersen's nephew died and he had to leave the set for a week. The script was re-written, and the scenes were deleted. Several weeks after the episode aired, Your Tax Dollars at Work (YTDAW) posted what they purported to be the original scenes. In a TV Guide interview in February of 2006, Jorja confirmed the setup (if not these specific scenes), saying that in the fifth episode ('Gum Drops'), Sara was supposed to sleep with Grissom.
 
-## Character Review
+## Review
 
 Sara is the voice of reason and reality in this episode. When Nick blows up at a suspect, Sara gently calms him down and tells him she's worried about him. When Nick is too obsessive that the little girl is still alive, she reminds him of the odds.
 
@@ -36,7 +36,7 @@ In the beginning, Sara is called by Grissom (who's giving a lecture) to provide 
 
 Through the whole episode, Sara is solid and a good criminalist, on her top form. She tells Nick that in their job, it may not be best to hope that they find people alive. She also says that when it's your time to die, it's just your time. She remains cool and controlled throughout the case.
 
-## Character Notes
+## Notes
 
 * Sara is very accepting of the fact that children die, which possibly reflects on her mother having killed her father.
 * Sara appears non-committal when talking with Greg about gold stars and childhood, but then finds the marijuana in the basement.

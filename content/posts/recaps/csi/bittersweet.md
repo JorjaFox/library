@@ -24,7 +24,7 @@ When they find Samantha, it's Colleen who's kidnapped her and is torturing her, 
 
 Greg and Morgan find an overweight body dumped, with strange lividity, who had been drowned in a vat of chocolate. The man had once been a model for a chocolate company, but after gaining weight, he'd been fired and eventually drowned himself in chocolate.
 
-## Character Review
+## Review
 
 Catherine warns DB not to let Sara get too close to this case, as this is the sort of thing that she will get too close to.
 
@@ -34,6 +34,6 @@ When Gina is, herself, kidnapped and tied up by the father of one of the victims
 
 After the case, DB sits with Sara and asks her out to dinner, as friends.
 
-## Character Notes
+## Notes
 
 * Sara still wants to protect children.

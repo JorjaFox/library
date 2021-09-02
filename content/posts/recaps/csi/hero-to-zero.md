@@ -22,11 +22,11 @@ While looking for more evidence, Morgan Brody and Greg stumble across two more h
 
 The killer turns out to be Seth, Brad's stepfather.
 
-## Character Review
+## Review
 
 Sara makes sure the homeless man, Roger, is fed and clothed back at the station before talking to him.
 
-## Character Notes
+## Notes
 
 * Sara's escape as a child was science and math.
 

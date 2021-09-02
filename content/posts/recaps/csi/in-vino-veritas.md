@@ -24,11 +24,11 @@ It turns out Davari had been mass producing fakes of expensive wines, with the h
 
 Meanwhile, Mac Taylor visits from New York to surprise his girlfriend, in Vegas on business, only to find her mising, her hotel room tossed, and blood trace left everywhere.
 
-## Character Review
+## Review
 
 Sara and Greg work the primary case of the wine.
 
-## Character Notes
+## Notes
 
 * Sara is still wearing her wedding ring, regardless of her talk with Grissom.   
 * Normally Sara is a soft touch for sob stories, but this time had no sympathy for Samantha.

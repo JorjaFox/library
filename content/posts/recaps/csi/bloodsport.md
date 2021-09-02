@@ -22,11 +22,11 @@ The secondary case is of a car found in Lake Mead. Paige Hammer, a 19 year-old f
 
 However it was Calvin who killed the coach, upset at having let Coach Miller talk him into staying another year (which he only did because the coach could blackmail him for drinking, doing drugs and whoring around the night Paige died). After the Coach stopped playing Calvin, he got upset and finally snapped.
 
-## Character Review
+## Review
 
 Greg and Sara work the sunken car case. Sara remarks on how hard it is to break out of a car, and demonstrates her old skill set with finding evidence in the vehicle. She also shows good eyesight, spotting Jimenez's jacket, hidden in the brush.
 
-## Character Notes
+## Notes
 
 * Sara comments on how hard it is to break a car window.
 

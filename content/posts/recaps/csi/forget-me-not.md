@@ -18,7 +18,7 @@ prodnum: 288
 
 Sara is accused of murder of her acquaintance Taylor Wynard, with whom she had celebrated her birthday. Taylor's murder was part of an elaborate plot created by Ronald Basderic to discredit Sara and pave the way for her own murder. Basderic planned the murder for months and in the end is tripped up by the CSIs working together.
 
-## Character Review
+## Review
 
 Celebrating her birthday alone at a hotel, Sara is approached by Taylor Wynard, who buys her a mini-cake. After dinner she went with Taylor to his room and the next morning, while checking out, learned Taylor was dead -- stabbed seven times. Right away, Sara talks to D.B. Russell about how she knows Taylor, however she states nothing happened. Yes, she went to his room and they had a little more wine, but she went back to her room alone shortly after Grissom texted her birthday wishes. The phone records claim that she called Taylor at 2am, and the room key records say she came back into her room around 3am. Sara has no memory of this, as she'd taken a sleeping pill.
 
@@ -40,7 +40,7 @@ Basderic tells Sara he was, indeed, behind everything. He'd hacked her email, fo
 
 With the case closed, Nick and Greg come to Sara if she wants to talk. She tells them she had hoped Grissom would come for her birthday anyway, and thanks them for not giving up on her.
 
-## Character Notes
+## Notes
 
 * Sara is still wearing her wedding ring.  
 * Sara has been having trouble sleeping.  

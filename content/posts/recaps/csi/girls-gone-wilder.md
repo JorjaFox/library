@@ -23,11 +23,11 @@ Meanwhile, the boys back at the lab are working the case of a liquified body of 
 
 After the scene is cleared, the CSIs find a second killer who is targeting, among other people, Sara.
 
-## Character Review
+## Review
 
 Sara and Jane were criminalists in San Francisco before Jane switched teams to become an expert defense witness. Jane skewered one of Sara's trainees on the stand, engendering animosity between the two. During the shooting, Sara keeps her sanity and spots the shooter and his gun. She also refuses to evacuate, staying on site to help process the scene since the hotel is on lockdown
 
-## Character Notes
+## Notes
 
 * _Crime Time in Primetime_ may be a shoutout to _Women Of Primetime Crime_, a show Jorja was on representing CSI back in in 2001.  
 * Sara still believes in love and 'the one' (though possibly not marriage).  

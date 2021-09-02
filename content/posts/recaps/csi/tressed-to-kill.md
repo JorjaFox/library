@@ -24,13 +24,13 @@ Jeffery Fitzgerald is brought in, his studio searched, and evidence is found: ha
 
 Hairs at the scene and a photo of a young Mrs. Kemp lead the CSIs to look at her son, Adam, however it's Lucinda Kemp's doctor, whose mother looked much like Mrs. Kemp, who was the killer. His mother also had cancer.
 
-## Character Review
+## Review
 
 Sara works the case with D.B., cracking morbid jokes with Morgan while processing the apartment of the dead girl. She is also friendly with Hodges, ribbing him in the lab. Working closely with D.B., she hypothesizes on what the killer's motives may be. Sara also convinces a doctor to break doctor/patient confidentiality and get the CSI's information on the killer's 'inspiration.'
 
 When arrested, Jeffery stares at Sara's hair, creeping her out. She gets too latched on to the idea of Jeffery being the killer and appologizes to D.B. for chasing the wrong rabbits.
 
-## Character Notes
+## Notes
 
 * Sara likes Daniel Craig.  
 * When faced with a psycho attacking women, Sara leans towards her 'Ted Bundy' place.

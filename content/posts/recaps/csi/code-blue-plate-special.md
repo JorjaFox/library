@@ -26,13 +26,13 @@ One of the victims, Alex Brenner, was in WitSec, and had agreed to testify again
 
 The guns are found, stashed in the newspaper machine, with Basderic's prints on the paper. The prints are coincidence, however. The real killer is Vincent, who shot his brother because Owen wouldn't agree to franchise the diner. He had hired Rios to do a fake robbery, killing only Owen, but when Owen pulled the mask off and shot everyone, Vincent had to move the bodies and finish off Edie.
 
-## Character Review
+## Review
 
 Ronald Basderic was terrorizing Edie Graham, the waitress, for six months. Sara tried to help her get a restraining order.
 
 Sara chases the rabbit trail of Basderic, assuming he had to have stalked someone before. Greg helps her out and finds that Basderic, who claims to hate guns, had shot a man in 'self defense' and was awarded $200k by the judge for it. Sara hates him for it, and for stalking Edie.
 
-## Character Notes
+## Notes
 
 * Sara still reacts strongly to women in abusive situations.  
 * Sara chases rabbits, spending time hunting down Basderic, even though he's not the killer.

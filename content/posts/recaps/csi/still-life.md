@@ -26,11 +26,11 @@ The CSIs find traces of a body, but not the body itself, in the backyard, and co
 
 Regardless of this, Karen is undeniably insane. While she is guilty of filicide, it is unlikely Karen will face trial. As the episode ends, Karen imagines she sees her son, running to her.
 
-## Character Review
+## Review
 
 Very subdued in this episode, Sara plays more of a support role.
 
-## Character Notes
+## Notes
 
 * Sara understands the dichotomy of filicide
 

@@ -23,13 +23,13 @@ This episode is told partly from the perspective of the dead, as five bodies in 
 * A soldier is knifed to death by a man who had inhaled a toxic substance.  
 * Two men are killed in a freak chainsaw accident.
 
-## Character Review
+## Review
 
 Grissom, Sara and Brass work a case where two men died from a chainsaw accident. The door was kicked in, making it appear as an attack from someone outside the room. However the evidence shows it was an accident, caused by one mans ineptitude at using the right-handed chainsaw with his left hand.
 
 Sara clearly remembers when she first met Grissom and what he said in the lecture in San Francisco.
 
-## Character Notes
+## Notes
 
 * Sara and Grissom met at a lecture in San Francisco.
 

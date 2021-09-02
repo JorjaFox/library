@@ -18,11 +18,11 @@ prodnum: 416
 
 Catherine and Sara deal with the death of what at first seems to be a transvestite. Later during autopsy they find out that the make-up he seemed to be wearing was actually facepaint, he was a clown. Grissom, Nick, and Warrick deal with the death of a man in a homeless area. They found out he worked in a recovery center for drug users.
 
-## Character Review
+## Review
 
 During the autopsy it's discovered that what they thought was makeup is actually face paint: the victim is a clown. A nasty voicemail on the clown's answering machine leads the pair to a rival mime, and from there to the party where the clown performed last. They discover evidence -- including the clown's costume -- which shows that the wife had a sexual fixation on clowns, and that her husband murdered the clown when he caught them together.
 
-## Character Notes
+## Notes
 
 * Sara appears unfazed by the setting of 'Trannytown', or by what goes on there, showing a lack of prejudice concerning 'alternative' sexualities and sexual practices.
 

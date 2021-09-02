@@ -18,11 +18,11 @@ prodnum: 322
 
 A woman's body is discovered in a small press box at a high-school football field, apparently the victim of strangulation. The evidence leads investigators to two convicts, one of whom is still in prison. At the crime lab, an explosion destroys key evidence and leaves Greg and Sara injured.
 
-## Character Review
+## Review
 
 Sara follows Grissom around the lab, curious, which results in her being caught in the explosion. Sitting outside on the curb, in shock from the explosion, Sara wants to begin clean up on the lab until Grissom forces medical attention on her. Later, she pulls her gun on a suspect, leading Brass to chew her out. At the end of the episode, she asks Grissom out.
 
-## Character Notes
+## Notes
 
 * The intimation of mortality caused by the lab explosion makes Sara feel as if she has a new lease on life; she disregards protocol and tries to arrest a suspect, and later asks Grissom out on a date.  
 * This is the beginning of Sara's overt pursuit of Grissom, which finally culminates in Way to Go.  

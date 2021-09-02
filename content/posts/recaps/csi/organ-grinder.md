@@ -20,7 +20,7 @@ The CSI team is called in when a famous real estate entrepreneur is found dead i
 
 When the body of Bob Fairmont, the real estate developer, is found, the team discovers that the crime scene has been tampered with and that the victim has been re-dressed. After tracing the cause of death to a lethal poison, the team is shocked to discover that Fairmont's organs have already been removed and donated, making the case a bit more difficult to solve.
 
-## Character Notes
+## Notes
 
 * Sara has a bit of a germ phobia, at least when it comes to hotel rooms. This will be expanded in later episodes to cover all public places.  
 * Sara tries to bluff that she knows what 'Murder Central' means, when applied to a hotel room, but neither she nor Nick know.  

@@ -20,11 +20,11 @@ After digging his way out of a shallow grave, Jimmy Turelli stumbled out of the 
 
 They manage to match DNA at the scene to the most unlikely suspect, Mary Haymond. Mary was the driver of the car that hit and killed Jimmy on the road. Mary had been working with Zoe and her blackmail scam on hustlers. When Mary tried to bring Jimmy in on the deal, he balked and she killed him. Twice.
 
-## Character Review
+## Review
 
 Sara goes with Morgan Brody to the after hours club 'The Rails' and find blood and snakeskin matching that which was found on the scene.
 
-## Character Notes
+## Notes
 
 * Sara learns not to play pool with Morgan.
 

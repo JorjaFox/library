@@ -20,13 +20,13 @@ Ryan Lester is a porn producer, killed in the tub similarly to the Paul Millande
 
 Ray and Doc Robbins find a backlogged corpse with a surprise inside: his small intestine is died green and tied around his spleen. The man died of natural causes, and the body shows no sign of incisions. They suspect it was done laparoscopically but Ray finds it difficult to duplicate those results. Nicknaming the killer Dr. Jekyll, they determine he took the corpse' bow tie, and suspect they will see his handiwork again.
 
-## Character Review
+## Review
 
 Sara and Nick are the first CSIs on the scene for Ryan Lester. While inspecting Craig Mason's room, Sara recognizes the horror mask made by Paul , as well as the fake hand. When Nick tells her Craig's full name, Sara connects him to the split personality serial killer. Sara attempts to connect with Craig, over their similarly traumatic past, but he hates all CSIs and refuses to cooperate.
 
 Sara apologizes to Craig before they release him. Craig confesses that he never knew Paul Millander, as his father would take him to Hollowierd and told him that Mr. Millander owned it. He loved the idea of Paul Millander, never knowing that Paul was his father. When Craig is released, his mother doesn't come to pick him up, so Sara takes him home.
 
-## Character Notes
+## Notes
 
 * Sara refers to herself as 'Mrs. Grissom', in jest, and denies that she's taken his name.  
 * Sara is happy to see David Phillips, the coroner.  

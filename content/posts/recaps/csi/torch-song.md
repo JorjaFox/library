@@ -26,11 +26,11 @@ Part of the reason the fire was so bad was that a car was blocking the door. Thi
 
 Baxton had been hired by the club owner, who hasn't able to keep the club afloat.
 
-## Character Review
+## Review
 
 While Nick and Finn work the arson, Morgan and Sara work the deaths. 
 
-## Character Notes
+## Notes
 
 * Sara has a strong aversion to death caused by trampling.
 

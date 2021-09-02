@@ -22,11 +22,11 @@ The investigation of the construction site murder reveals that the victims were 
 
 Meanwhile, Catherine and Nick begin to doubt seriously that the body found in the woods was the victim of a hunting accident.
 
-## Character Review
+## Review
 
 Sara sees the similarities between herself and one of the sisters. As she questions the ex-con, Sara's comments seem to be more self-reflective than about the dead woman. At the end of this episode, Sara purges her apartment of mail-order magazines and food delivery menus -- all things that make her similar to the dead woman. After that, she calls up someone (interviews with the show's producers claim this is Hank) and asks him out.
 
-## Character Notes
+## Notes
 
 * Sara doesn't cook, and doesn't socialize much.  
 * Sara recognizes Grissom's basic misanthropic nature.

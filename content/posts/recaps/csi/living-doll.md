@@ -22,11 +22,11 @@ Natalie's story is told with many flashbacks to how she got the job cleaning the
 
 She leaves a miniature of Sara, trapped under a car, but still moving, in Grissom's office. After Natalie is brought in for questioning, she refuses to tell Grissom where Sara is.
 
-## Character Review
+## Review
 
 Sara works the Trevor Dell case, helping Grissom connect it to the miniature crime-scenes. She is attacked and tazered by Natalie outside her car and abducted. The episode ends with Sara trapped under a wrecked car out in the desert, with one hand reaching into the muddy ground.
 
-## Character Notes
+## Notes
 
 * Sara is comfortable about being called 'my dear'  
 * The team discover that Grissom and Sara are involved in a relationship

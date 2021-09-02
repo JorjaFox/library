@@ -22,6 +22,6 @@ Capt. Holland had taken an experimental suit without full permission from the R&
 
 Holland was having an affair with his CO, who killed him to cover up their homosexual relationship. He killed the other pilot because he thought Holland told him.
 
-## Character Review
+## Review
 
 Sara talks to Morgan about her initial theory involving a Columbian cartel.

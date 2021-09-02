@@ -19,6 +19,6 @@ rating: 1
   
 Greene assists paramedics in treating injured children at a school bus accident. En route, Doug and Jeanie survive their own accident. Kerry stops Doug from treating Jeanie--or any other patient. Doug decides to resign and leave Chicago for the Northwest and asks Carol to come with him. She decides against it, but he leaves anyway. Carol steps down from running the clinic so that Anspaugh will keep it open. Jeanie discovers she may have contracted hepatitis. Hospital janitor Mobalage's wife is stabbed.
 
-## Character Review  
+## Review  
   
 Doyle can be seen, briefly, in this episode, working on a trauma patient.

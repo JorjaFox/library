@@ -20,13 +20,13 @@ Brian Towne was a young man who grew breasts, due to polluted water, which affec
 
 Catherine and her mother are looking over the new casino that Sam was building, shortly before he died, when a dead body is found. The body is that of a reporter who was doing a piece on Vegas. He snuck into the casino, and Sam's bodyguard shot him. Either the reporter fell or was tossed, but no one will ever know.
 
-## Character Review
+## Review
 
 Due to a conflict of interests, Sam being Catherine's father, Swing Shift takes over the case at the casino. Sara and Ronnie find a Native American style bracelet, and for a while Sara thinks the site was a Native American burial ground.
 
 During the case, Sara meets Grissom by his beehives. After telling her all about bees and their life, he proposes. Sara, surprised, closes her hand around the bee crawling on it; the bee stings her and dies. However she tells Grissom yes, she accepts. They go in for a kiss, but are blocked by their bee bonnets.
 
-## Character Notes
+## Notes
 
 * Sara is sympathetic towards Native Americans  
 * Sara is only wearing a wrist brace, a holdover from her injuries.  

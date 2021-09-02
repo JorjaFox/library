@@ -18,7 +18,7 @@ prodnum: 279
 
 The coach of the WLVU basketball team is murdered not long after he has an argument with DB's son, Charlie, who happens to be on the team. Making matters worse, Charlie's new girlfriend is a hooker who is also sleeping with the coach. As the case unfolds, the murders were committed by a prominent booster, upset with the team.
 
-## Character Review
+## Review
 
 Sara works with Finn on the blood spatter, Hodges on recreation of evidence and trace, and Nick.
 

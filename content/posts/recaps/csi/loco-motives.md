@@ -20,11 +20,11 @@ A man is found, waist deep in cement, after having tried to toss a body to sink 
 
 Another man is found dead at a poultry plant, and a miniature crime scene is found nearby. Sara and Grissom go over the model and find a third picture of a dead doll. The owner of the plant was the target of an anti-cruelty campaign by Izzy Delancy. After tracking some of the miniature parts, the CSIs determine Ernie Dell, a worker at the plant, is a miniature railroad aficionado. At his home, they find a variety of miniatures, many including depictions of murders. While Ernie's miniature molds connect him to the crimes, he sells them and is thus let go. Later, a cell phone is tied to Ernie, and as the police go to arrest him, he kills himself on a live video feed, watched by Grissom, having sent an email confessing to the crimes.
 
-## Character Review
+## Review
 
 Sara works with Grissom and uncovers Izzy Delancy's anti-cruelty video. Her relationship with Grissom has progressed to where they can openly tease each other. She manages to track the cellphone number in common with both Izzy Delancy and Penny Garden, which had recently had minutes added to it by Ernie Dell.
 
-## Character Notes
+## Notes
 
 * Sara is still a vegetarian. 
 

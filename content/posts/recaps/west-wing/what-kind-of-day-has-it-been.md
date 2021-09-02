@@ -21,7 +21,7 @@ The president prepares for a town-hall meeting with college students, while the 
 
 The staff deals with an American pilot who was shot down in Iraq; Toby's brother is in danger on a space shuttle whose doors won't close; Bartlet and the senior staff walk into a hail of bullets as they leave a town meeting.
 
-## Character Review
+## Review
 
 Gina sees the shooter, but makes sure to protect Zoey first.
 

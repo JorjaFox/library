@@ -18,11 +18,11 @@ prodnum: 506
 
 The killer from "The Execution of Catherine Willows" returns with deadly results. The entire team is engaged in a race against time to stop this sadistic killer from succeeding again. Grissom is additionally distraugh by the idea that this killer is smarter than he is.
 
-## Character Review
+## Review
 
 Sara is tasked to decipher the psychological clues in the bondage comic book. Later she realizes that the last 'victims' name is actually an anagram for 'Miss October'.
 
-## Character Notes
+## Notes
 
 * Once again Sara's code-breaking / puzzle skills come into play when she anagrams the supposed victim's name.
 

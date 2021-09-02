@@ -30,11 +30,11 @@ Weirder still, the brothers all won their trips from Dr. Kiel. He'd been keeping
 
 Avery didn't kill his father over money, but because he found the truth about his birth. While he managed to create a perfect crime, the evidence only damns him and the deceased Kevin. His other brothers will get off Scott free.
 
-## Character Review
+## Review
 
 Sara and Brass talk to the dead man's son, Avery, with Sara promising to come check on him later. She comes back later to explain that Avery will have to go live with family in Wisconson. When he reacts badly, Sara takes him out for ice cream, clearly sympathizing.
 
-## Character Notes
+## Notes
 
 * Sara sympathizes with Avery when he seems fearful of going into foster care.  
 * Instead of allowing herself to be played, like she was with Hannah, Sara is able to keep perspective.

@@ -26,11 +26,11 @@ Grissom finds an exact miniature replica of the crime scene he's investigating, 
 
 _This episode concludes in [Built to Kill (Part 2)](/library/recaps/csi/built-to-kill-part-2/)_
 
-## Character Review
+## Review
 
 Sara works the O'Brien case, and inquires as to how David is doing with his in laws. Sara teases Grissom in his office later, quoting him for effect. The two are quite obviously still in a relationship. While Sara's working with Warrick over lunch, Grissom brings her food: a veggie burger.
 
-## Character Notes
+## Notes
 
 * Sara is still a vegetarian.  
 * Sara and Grissom are still dating.  

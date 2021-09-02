@@ -18,7 +18,7 @@ prodnum: 216
 
 When Terry Rivers barrels into the opposing team's goalie, a fight breaks out and Terry ends up at the bottom of a huge pile of bodies. After the players are separated, he is found dead...with a deep, bloody gash across his neck. Grissom, Catherine and Sara are called in to investigate. Across town, Warrick and Nick look into the apparent drug-related death of a sax player at a casino. While working on the case, Warrick finds himself drawn to a rising young singer who worked with the dead musician.
 
-## Character Notes
+## Notes
 
 * This is the first time that Grissom has ever complimented Sara on camera.
 

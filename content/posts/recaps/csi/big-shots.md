@@ -18,10 +18,10 @@ prodnum: 719
 
 After a man is killed in his limousine, Greg finds that the murder victim has ties to the man he had to kill in self-defense.  The team finds that the brother is involved in this investigation and has to deal with him and his hostile mother.
 
-## Character Review
+## Review
 
 Sara joins the rest of the CSIs in going over the cases when the evidence links the two. Grissom and Sara go over the limo together and verify the crimes are connected. Sara is also with Greg when the hostile mother confronts him, and places herself between the mother and Greg.
 
-## Character Notes
+## Notes
 
 * Sara continues to help Greg out in the lab, acting on information he gives her.

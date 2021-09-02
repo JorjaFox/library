@@ -24,7 +24,7 @@ The other case is a complicated and convolution relationship of three men from L
 
 In the end, rich man and poor man are in the morgue together, their lives ending the same way.
 
-## Character Review
+## Review
 
 Sara didn't do a whole lot this episode. She worked efficiently and well. She discovered evidence and looked through the case thoroughly.
 

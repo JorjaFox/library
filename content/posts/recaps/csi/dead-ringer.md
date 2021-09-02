@@ -18,11 +18,11 @@ prodnum: 420
 
 Grissom, Catherine and Nick investigate the death of a runner during a competition. Meanwhile Sara and Warrick investigate the death of couple in a hotel room, initially thought to be a murder-suicide. Both cases take place during this 'cop' competition , with more than 20.000 attendants (all of them cops). This gives the investigations an interesting turn, as almost all the suspects and all dead people are cops.
 
-## Character Review
+## Review
 
 Sara takes part in the police relay marathon, and hugs Greg when she finishes her leg of the course. Sara and Warrick investigate the deaths of two visiting cops, found dead in a hotel room -- they discover that one of the victims was married, and having an affair. Sara gets a little confrontational when questioning the woman the cop was having an affair with. Later Sara confronts the wife, and eventually they discover that she's the killer.
 
-## Character Notes
+## Notes
 
 * Sara is aware of some types of male sexual fantasy.  
 * Sara comments negatively on the lingerie found.

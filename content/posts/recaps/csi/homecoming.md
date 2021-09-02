@@ -34,7 +34,7 @@ Nick decides Catherine was right and that he's out of CSI.
 
 When Ecklie's shot, Sara calls DB, but DB's granddaughter has already been kidnapped.
 
-## Character Review
+## Review
 
 Sara works in the lab for the episode, helping with evidence.
 

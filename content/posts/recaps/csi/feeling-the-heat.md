@@ -18,11 +18,11 @@ prodnum: 405
 
 During Vegas's latest Heat wave of triple digit temperatures, Gil and Catherine investigate a baby locked in a car. Warrick investigates a man dead of an apparent heat stroke in his house. Nick and Sarah investigate a woman's body found floating in the lake with a blow to the head.
 
-## Character Review
+## Review
 
 Sara is suspicious of the boyfriend until he's found dead, having tried to rescue the girl. Later she takes Nick to task for telling the family that their son was a hero.
 
-## Character Notes
+## Notes
 
 * Sara shows a bias, assuming that the boy killed the girl, and seems disappointed when he shows up dead.
 

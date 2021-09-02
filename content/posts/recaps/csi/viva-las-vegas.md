@@ -18,11 +18,11 @@ prodnum: 501
 
 A feverish night in Las Vegas results in one dead male in an alien suit, one more dead male in a bathtub, one dead female with two suspicious men at the scene, and another dead male with a polaroid of yet another dead male, but on the other hand, we get to meet Greg's replacement DNA person.
 
-## Character Review
+## Review
 
 Greg is the only one to inquire about Sara's summer (she took some vacation time), but Grissom is apparently the only one who knows she saw a PEAP (Police Employees Assistance Program) counselor -- sessions that were mandatory as a result of her drunk driving arrest the previous season. Sara is sitting in the locker room, rehearsing her speech to Grissom -- a supervisory review is mandatory after the PEAP visits -- but is interrupted by Greg, who introduces her to the new DNA tech. Sara and Nick investigate the case of an 'alien' buried in the desert near the infamous Area 51. Their search leads them to various quickie marriage chapels in Vegas, where the victim -- dressed as an alien -- was an marriage official, and a feud between two different chapels. Both Sara and Nick seem a little amused -- and a little flustered -- when the preacher at the first chapel assumes they are there to get married.
 
-## Character Notes
+## Notes
 
 * Sara flashes the Star Trek 'Live Long and Prosper' at the preacher in the quickie chapel.  
 * During the summer Sara saw a PEAP counsellor, as a result of her drunk driving arrest at the end of the 4th season.  

@@ -18,7 +18,7 @@ prodnum: 249
 
 Nick and Greg have a barn full of scattered body parts to piece together -- without names or heads to identify them. Langston's old nemesis, Nate Haskell, is back in action and playing his usual game of five-level chess against the LVPD.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._
 

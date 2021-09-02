@@ -18,6 +18,6 @@ prodnum: 257
 
 When a Jane Doe is found near the freakish attractions of a 19th-century-inspired traveling sideshow, the team investigates a cast of unusual characters.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._

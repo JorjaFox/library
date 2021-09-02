@@ -22,10 +22,10 @@ Part Two: All the President's men and women scramble in the chaotic wake of an a
 
 With the accomplice in custody, it's revealed that the intended target was Charlie, not Bartlet. The staff still awaits news about Josh, and recalls how C.J. and Donna came to join the Bartlet campaign.
 
-## Character Review
+## Review
 
 Gina is seen walking in the background during the opening credits.
 
-## Character Notes
+## Notes
 
 * This is the last appearance of Gina Toscano on The West Wing.

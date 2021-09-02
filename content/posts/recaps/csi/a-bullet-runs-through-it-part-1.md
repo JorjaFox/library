@@ -30,11 +30,11 @@ While all this rankles the police, the evidence does not lie, and matters will o
 
 _This episode continues in [A Bullet Runs Through It (Part 2)](/library/recpas/csi/a-bullet-runs/through-it-part-2/)_
 
-## Character Review
+## Review
 
 Seen primarily in the scene with the Spanish speaking mother, Sara is obviously shaken and uneasy when asked to explain how something like this could happen. She has no answer when the daughter translates, asking why someone shot their house. No translation is needed when the mother cries and hugs her children, wanting answers that have no questions. While Sara continues to work on the case, she obviously takes the question hard.
 
-## Character Notes
+## Notes
 
 * Sara doesn't speak Spanish
 

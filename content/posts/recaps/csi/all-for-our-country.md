@@ -20,11 +20,11 @@ When the lead suspects in Grissom's serial killer case are murdered, Grissom sus
 
 _Note This episode is continued from "[Assume Nothing](/library/recaps/csi/assume-nothing/)"_
 
-## Character Review
+## Review
 
 Sara and Catherine get pulled off the serial killer case, and are given the chore of investigating a bloated body found in a bathtub. When they first arrive at the scene, Catherine says that the entire team could live cheaply in a place like it; Sara says she wouldn't want to live with Grissom. Sara discovers grease paint on the inside of the victim's shirt, but doesn't understand how it got there, even after Catherine explains it to her. They discover that the victim's death was facilitated by a sucker punch to the back of the head by a rival sports fan. After taking some lip from the prime suspect, Sara gets a little vindictive at the end when she quotes the suspect's words right back at him.
 
-## Character Notes
+## Notes
 
 * Sara wouldn't want to share a house with Grissom.  
 * Sara doesn't know (or understand why sports fans paint their chests.  

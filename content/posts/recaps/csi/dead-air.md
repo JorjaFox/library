@@ -26,7 +26,7 @@ The case was all about a series of warehouse fires in the furniture district fro
 
 It's not until after the CSIs engage in a game, to see who could kill Theresa, that they peg it on the producer, Fred Paulson. He had been doing favors to friends who helped him with the arson years ago, which he'd done to make his name in news. When Theresa found out, he killed her.
 
-## Character Review
+## Review
 
 While working on the case and chasing rabbits, Sara puts off calls from Grissom, avoiding him because she doesn't want to talk. And he 'needs to talk.' She avoids the call once while heading down to Theresa's autopsy, looking troubled. When DB calls her while she's in autopsy, she hesitates, worried it's Grissom again.
 
@@ -34,7 +34,7 @@ At Theresa's house, Sara mentions that her place looks similar when she brings w
 
 Both Russell and Finn notice Sara's a little off, Finn when Sara ignores another call from Grissom, and gently ask her about it, though she rebuffs their inquiries. The third time Grissom calls, Sara is with DB in his office, and he leaves to give her the privacy to answer.
 
-## Character Notes
+## Notes
 
 * Sara still knows quite a bit about baseball (likely from her marriage).  
 * Sara brings work home with her, when she goes home and doesn't stay up all night chasing rabbits.  

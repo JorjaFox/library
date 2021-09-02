@@ -24,6 +24,6 @@ Back at home, Karl shaves his beard and tries to keep it secret from his wife, J
 
 As for the CSIs, they appear to play catch-up for much of the case. They have little evidence, and it's not until they find matching fibers on Ally and Nash that they're able to link the cases and determine the killer. The car leads them to a used car lot where a blurry photocopy of Karl is their only lead. Checking the bus routes, they find the bus driver who recognizes Karl, and gives the stop he boarded the bus from. That stop turns out to be on an ATV route, where the CSIs find a burnt pile of clothes, including the gloves which left fibers at Ally and Nash's crime scene. The ATV tracks are particular enough to lead the CSIs to Janice. Also, the palm print Karl left on Ally's car links them to him, and the same last name between Janice and Karl is enough for a warrant, especially since Karl's record lists Janice, under her maiden name, as a visitor in prison.
 
-## Character Review
+## Review
 
 There is very little character development in this episode, as the majority of the story is told from Karl's perspective. Sara's best work comes when she tracks the bus routes that may have taken Karl to where he bought the car, which turns up a very attentive bus driver.

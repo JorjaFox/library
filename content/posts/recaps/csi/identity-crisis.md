@@ -24,11 +24,11 @@ Grissom realizes that Millander could be after him next. Tracing speeding ticket
 
 Grissom and Catherine also track down Isabelle Millander and discover a hand print belonging to Paul Millander's deceased father. They then begin to suspect that Paul could be using his father's prints to cover his tracks.
 
-## Character Review
+## Review
 
 The entire team works the Paula / Paul Millander case. Again showing her mechanical talents, Sara goes over the car with Warrick.
 
-## Character Notes
+## Notes
 
 ## Quotes
 

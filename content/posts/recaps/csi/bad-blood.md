@@ -24,7 +24,7 @@ While Sara and Greg are in medical lockdown, Nick and Morgan go over the evidenc
 
 Jack was obsessed with the virus and its outbreaks for years. Heather Lanning, who worked with Jack at Rynelab, let Jack in to visit. While there he stole a sample. The CSI uses microbial profile to prove that not Jack but Rudy, the lawyer, stole the sample and finds that Rynelab caused an outbreak in Bolivia years ago. Rudy admits he did this because Jack and Rynelab caused his entire family to die.
 
-## Character Review
+## Review
 
 The whole episode is about Greg and Sara. Greg immediately starts to panic, but Sara reminds him that they've been through something similar before. As time goes by, Sara starts to worry that the previous day was the last normal day ever, and an epidemic has started. Greg suggests they stop putting off things they want to do and call his grandmother, but Sara looks thoughtful and sad about.
 
@@ -32,7 +32,7 @@ Sara develops a headache and fever, passing out (or rather falling down like a l
 
 After the case is solved, Greg wakes up to see Sara's bed empty and stripped of sheets. As he panics, Sara walks in to tell him she's fine and so is he. The virus dies in the air after roughly two hours. They were never at risk.
 
-## Character Notes
+## Notes
 
 * This is the second time Greg and Sara have been exposed to pathogens.  
 * Sara and Greg play chess together.

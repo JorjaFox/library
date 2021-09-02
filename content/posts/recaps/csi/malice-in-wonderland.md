@@ -20,13 +20,13 @@ When an 'Alice in Wonderland' wedding ends in a robbery and a murder, the CSIs m
 
 The robbers stole the rings for the gold, as well as bracelets and car decals, to melt them down. But their partnership gets complicated. Hodges and his mother accidentally stumble on the robbers at the jewelry store where the wife works (the husband is an EMT) and are held hostage. Hodges outwits them and the CSIs are able to catch the robbers.
 
-## Character Review
+## Review
 
 Sara works on the 'Alice in Wonderland' case. When the 'minister,' Alan Widcom, asks if she's married, Sara says she is and agrees that it's special. She also expresses some frustration at Grissom living abroad so much.
 
 At the end of the episode, Sara finds a plant sent to the office, from Grissom.
 
-## Character Notes
+## Notes
 
 * While Ecklie scoffs at the question, Sara freely admits to being married.  
 * Sara and Morgan both appreciate good cars.  

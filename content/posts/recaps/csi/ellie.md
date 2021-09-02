@@ -22,11 +22,11 @@ With Grissom away, Warrick is in charge for the first time as the team investiga
 
 Meanwhile, the physical evidence in the case leads Sara to investigate a high-end counterfeit operation after the money found on the victim turns out to be bogus.
 
-## Character Review
+## Review
 
 Sara doesn't get angry when she discovers that the Feds were testing her with the bogus money.
 
-## Character Notes
+## Notes
 
 * Sara is a little upset at being passed over as temporary shift supervisor, though she has never shown an interest in command.
 

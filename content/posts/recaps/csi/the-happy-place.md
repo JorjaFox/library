@@ -22,7 +22,7 @@ Catherine and Nick work the suicide, who threw herself off of her balcony, howev
 
 Meanwhile, Grissom works a case of a woman savagely killed in an alley with her two-year-old nearby. The woman was a gambling addict who often took her 18-year-old son's paychecks to feed her addiction. The missing child was found, having been taken by her loan shark, who she owed $12,000. She was killed by her son, who turned out not to be her son, but her lover and the father of the baby. They had met when they were Guidance Counselor and 15-year-old student, but when she tired of him and lost their baby, he was so angry he killed her.
 
-## Character Review
+## Review
 
 With the lab shorthanded, Grissom delays going in to work to lie in bed with Sara, fully clothed, processing recent events. She suggests they go away on a trip, but Grissom feels obligated to keep the lab staffed. After he leaves for a case, Greg calls Sara in to revisit the Adlers . Tom had removed Pamela's breathing tube because he was being harassed by Tony Thorpe, the kid who had raped his wife and put her in a coma. Tom is arrested and charged because assisted euthanasia is a felony offense in Las Vegas. Sara sides with Tom, however the law is clear, and Sara can no longer support order without justice, which is why she can't be a CSI anymore.
 
@@ -32,7 +32,7 @@ Meanwhile, Greg learns the law has changed. In 2000, when the crime occurred, Pa
 
 Sara leaves Vegas shortly thereafter.
 
-## Character Notes
+## Notes
 
 * Sara wants to visit the Galapagos Islands, following Darwin's footsteps.
 

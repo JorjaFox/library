@@ -28,13 +28,13 @@ However the hand is not one that was recently chewed off. The security guard was
 
 Gary swears that Todd was not the Eater, but the CSIs are split. Todd, perhaps, was the Eater, killing himself to let his legend live on. Or perhaps he was not. We'll never know.
 
-## Character Review
+## Review
 
 Sara works first the video angel, then Brenda's home, and finally Bell Organic Pesticides' location.
 
 Sara, the vegetarian, noticed that Brenda ate a jelly donut wrapped around a hamburger, based on the evidence in her stomach.
 
-## Character Notes
+## Notes
 
 * Sara knows about the bizarre Hangover Grill.
 

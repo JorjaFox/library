@@ -18,7 +18,7 @@ prodnum: 118
 
 Grissom finds it difficult to control his emotions when he investigates the alleged kidnapping of the infant son of a Dot-Com Las Vegas millionaire family, especially when the evidence begins pointing to various family members who may be involved in the disappearance.
 
-## Character Review
+## Review
 
 Sara arrives at the scene, and Grissom has her run the ransom note over to QD (Questionable Documents). Sara goes to QD and they determine the printers from the house don't match the note. Sara calls Grissom with the news, and he has her check the printers from the husband's office.
 
@@ -26,7 +26,7 @@ Sara confronts Grissom about his emotional outburst in DNA, quoting back what he
 
 Sara and several officers bring in the printers from the husband's office -- over 200 of them. Sara tells Grissom that the note came from the husband's secretary's printer. Sara tells Grissom that the baby was smothered with something flame retardant, but not infant clothes -- she goes with him back to the scene, where he finds an oven mitt.
 
-## Character Notes
+## Notes
 
 * Sara is not afraid to confront Grissom about his emotional outburst, repeating what he told her.
 

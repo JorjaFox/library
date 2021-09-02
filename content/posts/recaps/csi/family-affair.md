@@ -20,13 +20,13 @@ The CSI lab is shorthanded after the abrupt quitting of Riley Adams, causing eve
 
 Actress Olivia Hamilton has been found dead in her car following what appears to be a traffic collision, but what is actually a murder by Olivia's boyfriend's bodyguard, Tom O'Neill. O'Neill was being paid to break up the boyfriend and Olivia by the boyfriend's father, and since Olivia was pregnant, he killed her and attempted to blame it on her stalker. The evidence points to the lawyer, but the stalker confessed, making it harder for the CSI's to prove their case. Making it worse, a group of Russians mobsters, pretending to be morticians, come in to steal the body of an unnamed bum from a fleabag motel, who was actually Olivia's father, and toss him through a wood chipper, because he too was killed by O'Neill.
 
-## Character Review
+## Review
 
 Now married, Grissom and Sara were in France, allowing Grissom to lecture at Sorbone while they waited for a research grant to be approved. Ecklie called to say the lab was short handed, but also because Riley blames Catherine's management style (or lack there of) for her reason to leave. Catherine is filled with self-doubt from that as well as the many other interpersonal issues plaguing the night shift. Sara reminds Catherine that she is a great CSI, but the one thing Grissom had that Catherine doesn't was Catherine.
 
 When the Russians break into the lab, Sara and Nick chase them out, firing at them as they drove out.
 
-## Character Notes
+## Notes
 
 * Sara and Grissom are married.  
 * Sara speaks French.  

@@ -20,13 +20,13 @@ Keppler's past comes back to haunt him. Plagued by nightmares, Keppler's father 
 
 Grissom returns and after avoiding paperwork, settles in to help the CSI's bring in Keppler.
 
-## Character Review
+## Review
 
 Sara returns from investigating a garbage dump and runs into Grissom at the lab. To a degree, they have traded places in their relationship, with Grissom now being forward and affectionate, but Sara is avoiding him somewhat, citing her smell from being at the dump. Grissom says Sara will be surprised to see what the cocoon hatches.
 
 Sara and Catherine check out the witness' apartment, while the other CSIs are searching for her.
 
-## Character Notes
+## Notes
 
 * Sara is somewhat distant towards Grissom.  
 * In "Bully for You", Sara's hair follicles had absorbed the smell of the liquefied man, causing her to 'smell', and making Hank Peddigrew back away. In this episode, Sara has returned from a garbage dump, smelling bad, and this time backs away from Grissom.

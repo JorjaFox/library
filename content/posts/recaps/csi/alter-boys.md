@@ -22,7 +22,7 @@ As Grissom, Nick and Sara investigate the seemingly clear-cut murder case, Griss
 
 Meanwhile, Catherine and Warrick must determine if the woman found dead in the hotel spa was the victim of negligence, foul play or heat-induced natural causes.
 
-## Character Review
+## Review
 
 Both Sara and Nick apologize to Grissom when they jump the gun with the evidence, presenting the case to the D.A. before all the facts are known. Later they find bloodstained clothing and the possible murder weapon at the suspect's trailer, but neither are usable as evidence.
 

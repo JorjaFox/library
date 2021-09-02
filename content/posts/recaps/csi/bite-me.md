@@ -22,13 +22,13 @@ Both Ray and Becky were having affairs -- Becky with her boss and Ray was being 
 
 Through it all, Ray insists he slept through it, but the CSIs are quite sure he and the daughter are covering for each other. But they can't prove it.
 
-## Character Review
+## Review
 
 Sara drives Nick and Warrick to the scene; there, she processes the stairs and is the first one to realize that the victim didn't fall as was reported. Sara shares an interesting scene with Grissom in the wife's bedroom. They discuss the reasons a couple may sleep in separate rooms (Sara saying snoring and other mundane reasons). Grissom suggests that they were suffocating each other. Sara comments on sex and romance and gives Grissom a look. Grissom walks off without commenting and they go on to find evidence in the case and move on.
 
 Sara and Catherine work well together puzzling out who wrote the blackmail note. Sara's a little surprised to think the wife was blackmailing her husband. Sara and Greg check out the husband's home office, and discover a bloody fingerprint on the phone.
 
-## Character Notes
+## Notes
 
 * Sara's propensity for driving shows up again: she drives Warrick and Nick to the crime scene.
 

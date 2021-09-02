@@ -18,11 +18,11 @@ prodnum: 106
 
 Catherine violates department protocol when she takes the case of a rape accusation against her ex-husband. Warrick and Sara search for the missing bullet that will either exonerate or indict a cop for murder. Grissom and Nick investigate when a female skeleton is found under a house buried in cement.
 
-## Character Review
+## Review
 
 Sara and Warrick work the police shooting. At first, Sara is sympathetic towards the cop suspect, but later gets aggressive when questioning him when they discover that he has a round missing from his gun. When Warrick goes off against the cop, Sara doesn't jump in with him, but she doesn't pull him back, either.
 
-## Character Notes
+## Notes
 
 * Sara shows off her mechanical talents for the first time, helping Warrick to take the Jeep to pieces.  
 * Sara insists on driving, showing her need to take control.

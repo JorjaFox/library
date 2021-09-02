@@ -18,6 +18,6 @@ prodnum: 233
 
 Sqweegel, a serial killer who is punishing local heroes that harbor hidden secrets, is on the hunt in Las Vegas.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._

@@ -18,11 +18,11 @@ prodnum: 311
 
 Grissom and Catherine investigate the grisly meat grinder murder at a slaughterhouse. Warrick and Sara look into the apparent suicide of a troubled young woman.
 
-## Character Review
+## Review
 
 Sara and Warrick investigate an apparent suicide at an apartment complex. At the scene, Sara inadvertantly calls Hank 'baby' (she apologizes later) -- embarrassed, she ducks into the closet, where she finds still-wet stains on the victim's clothing. At the autopsy, she finds tinted glass in the victim's hair; later in Trace, she trades comments with the new tech, Hodges. Sara and Warrick match the glass to a recently-broken windshield at the apartment garage, and discover that the victim was always breaking things, depending on her mood. They discover that the victim was bipolar, and off her meds -- and that her boyfriend was bipolar as well. Discovering Valium in the victim's system, they confront the parents and find that the father slit his daughter's wrist, hoping to get her admitted to a psychiatric facility.
 
-## Character Notes
+## Notes
 
 * Sara embarrasses herself when she calls Hank 'baby'.  
 * Sara is getting along better with Warrick, claiming she doesn't see him as a gambler.

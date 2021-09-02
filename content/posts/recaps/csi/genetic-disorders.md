@@ -18,6 +18,6 @@ prodnum: 261
 
 A dead man is found in the bed of Dr. Al Robbins, by his wife Judy. The implication is that she was cheating on Dr. Robbins.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._

@@ -20,11 +20,11 @@ Two cases get very personal for Grissom and Catherine in this pivotal episode. I
 
 _Note: This episode was 90 minutes._
 
-## Character Review
+## Review
 
 Sara handles her job competently, not hesitating to get into Catherine's face and telling her to back off. At the end she accepts that with the limited evidence they have, they will never really know exactly what happened in the accident.
 
-## Character Notes
+## Notes
 
 * Sara doesn't hesitate to tell Catherine to back off the case.  
 * Sara doesn't want to talk about Hank, or at least she doesn't want to say if Hank takes her anywhere.

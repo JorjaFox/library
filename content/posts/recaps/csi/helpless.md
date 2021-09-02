@@ -20,6 +20,6 @@ The discovery of a bludgeoned, bloody corpse inside a 'human hamster ball' (a si
 
 Meanwhile, Sara and Morgan Brody team up with Dawn Banks (played by Sherry Stringfield) of swing shift to handle an unsolved, serial, rape case. Morgan realizes that the serial rape cases were actually all setups in order to rape the third victim, Amy Morse. In the middle of the case, Dawn goes missing after confronting their prime suspect, however it turns out she attempted suicide after receiving (incorrect) news her son was dead.
 
-## Character Review
+## Review
 
 Sara goes over the case details with Morgan and D.B. Russell.

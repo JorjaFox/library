@@ -24,13 +24,13 @@ The Chambliss family was also selling drugs, and prints on the money lead them t
 
 All three confessors, however, use the same verbiage: I'm the one who killed the Chambliss family. The three, Lee, Gitig and Gallows, met up at a auto shop after Gitig hit Gallows' truck. Lee worked at the auto-shop. The three conspired to create reasonable doubt as to who actually killed the Chambliss family. It was Leslie Gitig's plan, and John Lee, upset over his part, shot Leslie Gitig and then confessed the true story and killed himself. Maurice Gallows shot Cal, while Leslie Gitig killed the rest.
 
-## Character Review
+## Review
 
 Sara comes to help process John Lee's house. When D.B. expresses doubts that John Lee killed the Chambliss', Sara is surprised.
 
 She works with Morgan and Greg, looking for drugs in the house, teasing Morgan for her driving escapades earlier. Sara finds drugs in the house hidden behind a false electrical panel, behind a unicorn painting.
 
-## Character Notes
+## Notes
 
 * Sara still prefers to drive.
 

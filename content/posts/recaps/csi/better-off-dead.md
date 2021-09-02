@@ -24,13 +24,13 @@ When Sam woke up, not dead, he wrapped the injured Carrie in a quilt and drove h
 
 Sara is unable to talk him out of jumping, but she managed to stall enough for the emergency rescue team to fill an airbag and save Sam's life.
 
-## Character Review
+## Review
 
 Sara and Catherine work the initial body dump scene and investigate the car when it's found. As the two cases become interrelated, Sara works with Greg and Bobby as they match the guns. She interviews Carrie's neighbor, John Rakow, with Brass, and confirms his innocence with Ray. Ray and Sara go to search their Sam's, house, where they find the photos and letters, confirming Sam and Carrie's relationship.
 
 Sara makes the connection of how much money Sam asked his father for, and where he might spend the $8 dollars. It's the cost to take the elevator to the viewing deck at the Ivory Tower which Sam and Carrie liked to visit. Sara and Ray manage to talk John out of shooting Sam, but not Sam out of jumping.
 
-## Character Notes
+## Notes
 
 * Sara teases Catherine about her friendliness with Detective Vartann, intimating at a relationship between the two.  
 * Sara is comfortable with Ray, cheerfully teasing him about taking him to terrible hotels in Las Vegas, like the Ivory Tower.

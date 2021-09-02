@@ -20,11 +20,11 @@ Catherine reviews a crime scene in court, where she faces Adam Novak, who gets t
 
 Grissom is leaving Vegas for a month on sabbatical to teach. He tells each member of the team, as well as some lab members, in turn. Nick thinks Grissom won't be coming back, and he and Catherine joke about how Grissom might have a girlfriend. After Grissom leaves, a package is delivered to his office.
 
-## Character Review
+## Review
 
 Sara is only seen in the second to last scene, when Grissom spots her in the locker room. She possibly has prior knowledge of his departure and is unsurprised to see him go. Before he leaves, Grissom says that he'll miss Sara. Sara says she'll see him when he gets back, and her face shows mixed emotions.
 
-## Character Notes
+## Notes
 
 * Sara will be waiting for Grissom when he returns.
 

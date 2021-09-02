@@ -18,6 +18,6 @@ prodnum: 268
 
 The CSIs are brought in to solve the case of a recently murdered student whose death photo ends up trending on the Internet
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._

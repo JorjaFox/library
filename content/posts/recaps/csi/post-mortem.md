@@ -22,7 +22,7 @@ The miniature scene is as exact as the first one, with the same photograph of a 
 
 Greg is called to court, in an inquest from his accidental killing of a young man. After the CSIs demonstrate the situation to the jury, via Greg's perspective, the inquest finds the death excusable, but not justifiable. Greg is unconvinced, and the family serves him with papers for a civil case.
 
-## Character Review
+## Review
 
 Catherine is sent to assist Sara on this case. Sara finds that Penny had been calling an unlisted, disposable cellphone number. Based on Grissom's examination of the miniature, Sara finds the drugs buried outside that Penny was selling for cash.
 

@@ -24,11 +24,11 @@ They finally find Max at the grave of Alice's mother, hoping to find Alice. When
 
 At long last, they find Alice. Having returned to the campus, Alice went to Dr. Aden's old lab and is alive and well. She hallucinated seeing her mother, and felt better, totally unaware of the death of Kurt and Max.
 
-## Character Review
+## Review
 
 Sara processes the alley where the second body walks away. She and Ray go to talk to Dr. Aden, bringing him back to the lab. Later, Sara and Catherine investigate Alice's house. Sara's very friendly with and amused by Dr. Aden.
 
-## Character Notes
+## Notes
 
 * Sara is friendly with the police such that they bring her coffee.  
 * Sara tells Dr. Aden she's from San Francisco.  

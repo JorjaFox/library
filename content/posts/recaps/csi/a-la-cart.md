@@ -20,7 +20,7 @@ The CSIs work two cases, one of a high school student, Vincent Bartley, whose he
 
 Meanwhile, Grissom and Sara are under review for their relationship, which is in violation of lab policy. Grissom dodges the review for most of the day. The other CSIs discuss Grissom and Sara's relationship during their cases.
 
-## Character Review
+## Review
 
 Sara returns to the lab to have her review with Conrad Ecklie. Having a relationship with another member of the team is in violation of policy. Ecklie asks when Grissom and Sara first began their relationship, to which Sara points out they've always had a relationship. She claims they became intimate two years ago, on a Sunday.
 
@@ -28,7 +28,7 @@ Grissom, however, states they first ...you know_'d nine years ago, prompting Eck
 
 In the end, Sara moves to the Swing shift, so she's no longer under Grissom's supervision. While Grissom had planned to do so, Sara didn't want the rest of the team to suffer. They go, together, to the Go Kart track, and Grissom races with the other CSIs. The episode ends as Sara stands alone, separated from the Night shift team.
 
-## Character Notes
+## Notes
 
 * Sara and Grissom met in 1998 at a Forensics Academy Conference.  
 * Sara wanted to ask Grissom out when they first met.  

@@ -18,7 +18,7 @@ prodnum: 303
 
 Grissom and Catherine investigate the murder of a wealthy couple who are discovered in the swimming pool of their glamorous Las Vegas house, which was up for sale. The house sale turns sour and Suspects abound, including the the wife, ex-wife, son, and a Realtors who just may have been robbing his own clients. Meanwhile, Sara probes the death of a cheerleader who is found eviscerated on a soccer field, her organs having been ingested by her killer.
 
-## Character Notes
+## Notes
 
 * Sara was visiting a winery on her day off, the first indication of an outside interest.
 

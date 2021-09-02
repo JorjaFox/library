@@ -30,12 +30,12 @@ Mason had asked Will to break in because he and Steve, Will's other former best 
 
 And Simon Rose remained in jail.
 
-## Character Review
+## Review
 
 Perceptively noticing that he looks ill, Sara admits to Steve, Will's former best friend, that she drank when she was younger, to try and be cool. When Steve vomits, Sara correctly deduces he'd been drinking tequila.
 
 Sara commiserates with the man working at central evidence that this sort of case, where the rich man goes free, is one of the cases that caused her to quit CSI and go to Costa Rica. They review the evidence together to ensure it wasn't tampered with. While leaving, Sara notices George's car matches the description of the one that dumped Will and investigates it, only to find evidence that Will was in the trunk.
 
-## Character Notes
+## Notes
 
 * Sara mentions she used to drink. 

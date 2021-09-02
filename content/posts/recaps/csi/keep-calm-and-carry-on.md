@@ -24,13 +24,13 @@ Janet Riggins' ID turns out to be fake, and her phone a throw-away burner. After
 
 The ID was made at a company that Nalley's janitorial service cleaned for on Fridays, which allows the CSIs to track down all the purchases to Jefferson Nalley. The stoner kids ID Nalley's van, placing him at the body dump site. Nalley confesses there was no 'wolf.' It was all him, and when he told Heather, she freaked out. He hit her to try and calm her down, which sent her into a rage and she attacked them. In the struggle, he shoved her from the car.
 
-## Character Review
+## Review
 
 Sara and Nick work the murder case together. When two stoned punks with laser pointers target Nick, Sara is quick to shove him down and draw her weapon to protect him.
 
 When Nalley is dismissive regarding Heather's pleas for help, both Sara and Nick treat him coldly. In the interrogation later, Sara is bitter towards Nalley and his 'rescue' attempt.
 
-## Character Notes
+## Notes
 
 * Nick and Sara tease each other about getting away from it all.  
 * Sara, the physics major, does the math to calculate the speed of the car in her head.

@@ -18,11 +18,11 @@ prodnum: 412
 
 A woman found murdered in her home. Her resemblance to Sara causes Grissom to take a personal interest in the case and forces him to examine the decisions he has made in his life.
 
-## Character Review
+## Review
 
 Interrogating the murder suspect, Grissom confesses that he chose his career over Sara, unaware that she and Jim Brass are listening outside. This scene is the reason that Brass later asks if Sara has a drinking problem in "Early Rollout."
 
-## Character Notes
+## Notes
 
 * Sara pretends she doesn't notice the resemblance between herself and the victim when Catherine asks.
 

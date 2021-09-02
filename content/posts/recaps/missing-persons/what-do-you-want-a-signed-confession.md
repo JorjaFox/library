@@ -17,7 +17,7 @@ episode: 17
 
 Bobby is still under investigation for a suspected bribe and perverting the course of justice. Also a little girl, Molly Jewett, is snatched in a department store.
 
-## Character Review
+## Review
 
 Connie works with Carlos and Johnny to find the missing girl. Connie interviews the mother, keeping her company while Carlos and Johnny search the building. They find Molly's jacket, and evidence she hasn't been taken from the store.
 

@@ -36,11 +36,11 @@ Nick interviews Kelly, and determines that Sylvia was the trustee to Walter's es
 
 Kelly Gordon is arrested and confesses. She killed Sylvia because the ransom plot was Sylvia's idea. Sylvia had also taken the money from the Gordon estate. As the episode ends, Kelly is ODing on handfuls of meds, and her death is uncertain though likely.
 
-## Character Review
+## Review
 
 After talking to Bianca in the ER, Sara notices the substance on her skin and snaps up the nurse's gloves. It's this evidence that leads them to look at Tom closer and eventually find the killer. While Sara is more subdued than normal with an abuse case, she still shows her strong distaste in those situations.
 
-## Character Notes
+## Notes
 
 * Sara still reacts strongly to rape and abuse cases, where women are victimized.
 

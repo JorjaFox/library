@@ -17,7 +17,7 @@ episode: 6
 
 A girl living with her grandmother in Cabrini Green and goes missing, while an older man loses his family following a vacation, and another young girl into voodoo goes missing.
 
-## Character Review
+## Review
 
 Connie works the case of a forgetful man who has lost his family following a month vacation. Victor Deely's son Karl had gone to Florida but never returned. Victor presses Connie to learn about her personal life, and gets cagey when she says they'll have to search his house. His house is all but empty, and while Victor is really friendly his explanations as to why the house is devoid of furniture and clothes are suspicious.
 
@@ -25,7 +25,7 @@ Victor comes to the unit with presents for everyone. Ray distracts him so Connie
 
 They had put Victor in a nursing home due to his dementia, and Victor keeps running away to live with them again. He had forgotten that they'd moved. Everyone in the family loves him, but he drives everyone crazy.
 
-## Character Notes
+## Notes
 
 * Connie is still pretending the man in the wedding photo on her desk is her husband, and not her brother Richard.
 

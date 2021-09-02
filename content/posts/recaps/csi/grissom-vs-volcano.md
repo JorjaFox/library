@@ -18,11 +18,11 @@ prodnum: 409
 
 The sheriff is under political pressure to find who killed a Air Marshal with a car bomb that the sheriff witnessed. Grissom, Catherine and Nick are pressured to produce results. Warrick and Sara try to find the murderer of the wife of a singer who headlines on the strip.
 
-## Character Review
+## Review
 
 Sara and Warrick discover that the singer's wife committed suicide. During the investigation, Sara comments on the lonely lives of celebrities and the media exposure they face.
 
-## Character Notes
+## Notes
 
 * Sara wears a jacket with a fur collar, which is likely fake as she dislikes animal cruelty.
 

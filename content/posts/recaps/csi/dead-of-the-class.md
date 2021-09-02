@@ -18,7 +18,7 @@ prodnum: 290
 
 The CSIs join David Phillips at his high school reunion when he discovers the prom queen's been murdered.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._
 

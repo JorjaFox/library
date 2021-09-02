@@ -26,7 +26,7 @@ The USB drive Sara and Morgan Brody found in the hotel room, which is filled wit
 
 Meanwhile, Greg is served regarding a case from 2006, for which new evidence came to light, exonerating the convicted. However Greg is accused of planting evidence. Finn works with the defense criminalist to clear his name.
 
-## Character Review
+## Review
 
 While Greg is on his way back from his case, Sara calls and asks him to pick up a veggie burger from AJs for herself and Morgan Brody. Sadly, before Greg arrives, she heads off on her case.
 
@@ -34,7 +34,7 @@ While holding the bomb, Sara is clearly terrified and shaking, but she holds as 
 
 When Sara finds out Greg is under review, she comes to talk to him and see how he's doing. While Grissom was Greg's teacher, Sara was very much his mentor. While she has to return to her case, Sara makes the time to drive to Parumph and pick up Greg's favorite pastries to try and cheer him up.
 
-## Character Notes
+## Notes
 
 * Sara is still a vegetarian.  
 * Sara looses her appetite when facing death.  

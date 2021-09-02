@@ -20,7 +20,7 @@ The episode concerns Morgan Brody, who is in a helicopter that crashes. The CSIs
 
 Cafferty killed the boyfriend of his daughter, Samantha, and was trying to rescue her. When she turns herself in to the police, it's for the seemingly ulterior motive of helping her father get away. In reality, Samantha wants her father dead, and is still working with the gang, the Mad-10s. The gang shoots the helicopter down, and Morgan, luckily, survives, as does Cafferty. He still has her gun, so they hide from the gang and wait for the police to arrive. After a shootout, Morgan is saved and reunited with her father, Conrad Ecklie.
 
-## Character Review
+## Review
 
 Catherine and Sara are in court at the beginning of the episode. When they come back, they help at the lab going over Cafferty's personal life.
 

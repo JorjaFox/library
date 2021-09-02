@@ -20,7 +20,7 @@ Grissom, Sara and Warrick are called on to investigate an abandoned, blood-splat
 
 Meanwhile, Nick and Catherine are called to the site of a large fire and are confronted with the scuba diver found dead in the top of a tree near Lake Mead. Is it a murder or an urban legend turned fact?
 
-## Character Review
+## Review
 
 At the initial scene, Sara is trying to figure out what made the blood spatter on the walls, and Grissom tells her not to get ahead of herself. Sara spots the vent grid at the apartment, and then the fly egg on the vent. Sara refuses to let go of her theory that the girlfriend is dead, despite Grissom's comments to the contrary.
 
@@ -28,7 +28,7 @@ When she and Grissom are tearing apart the walls with a sledgehammer, Grissom ge
 
 After solving the case, Sara and Nick ask Grissom out to breakfast, but he prefers to dine with his beetle.
 
-## Character Notes
+## Notes
 
 * Sara shows off her mechanical strengths again, when she and Warrick play with the power tools to determine if any of them made the blood spatter.  
 * In a very (for her intimate moment, Sara brushes chalk off of Grissom's cheek.

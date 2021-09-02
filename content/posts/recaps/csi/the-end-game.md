@@ -26,7 +26,7 @@ Brother Larson also talked to Collin Winthrop shortly before he died, contrary t
 
 Winthrop is shot when the police burst in and Finn is left in critical condition. Finn remains in a coma as the episode ends while Winthrop will recover and pay for his crimes. Nick takes the job in San Diego.
 
-## Character Review
+## Review
 
 Nick asks Sara if he should take the job in San Diego.
 

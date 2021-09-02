@@ -26,11 +26,11 @@ The original plan was for Shea to lure Chevy to the supplier where Vitas worked,
 
 Ray works a case of a suicide in jail of a woman, Carla York, who claims she was innocent of killing her husband, James. Hodges assists him in proving that not only was Carla innocent, but her sister committed the crime. The sister confesses, but claims she did it to save Carla's daughter from James, who had multiple other children with other women, all of whom were 'messed up.'
 
-## Character Review
+## Review
 
 Sara is one of the primaries on the case, collecting evidence and interviewing suspects. After the case is solved, she calls Ray to ask him to join them bowling. Sara is not a great bowler, but seems to enjoy herself.
 
-## Character Notes
+## Notes
 
 * Sara can bowl.
 

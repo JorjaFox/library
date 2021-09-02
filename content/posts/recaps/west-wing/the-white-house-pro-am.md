@@ -19,11 +19,11 @@ rating: 2
 
 Abbey keeps the staff busy with the fallout when she leaks her personal preference for a Federal Reserve Board appointment and discusses child labor on a talk show, prompting a Congresswoman to offer an amendment which could shoot down the entire international tariff bill; Charlie's date with Zoey is canceled because of threats by a white supremacist group.
 
-## Character Review
+## Review
 
 Gina doesn't seem to care if Zoey dates Charlie or not.
 
-## Character Notes
+## Notes
 
 * Gina has the bedroom across the hall from Zoey.
 

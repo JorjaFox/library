@@ -18,11 +18,11 @@ prodnum: 310
 
 Grissom, Warrick, and Nick investigate the case of man who apparently was murdered and pushed off a six story building. Grissom's involvement is cut short by renewed hearing problems. Catherine looks into the murder of man outside of his regular bar.
 
-## Character Review
+## Review
 
 Sara only appears in the scene quoted below, having maxed out on her overtime and is not permitted in the field for a while.
 
-## Character Notes
+## Notes
 
 * Sara doesn't consider Hank her boyfriend.  
 * Catherine does not back Sara up when it comes to policy or Grissom (see also "Nesting Dolls").  

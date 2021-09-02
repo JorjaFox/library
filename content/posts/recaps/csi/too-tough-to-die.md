@@ -18,7 +18,7 @@ prodnum: 115
 
 Sara gets a little too personally involved when she investigates the rape and shooting of a young woman who was left for dead, but who still fights for her life in a nearby hospital; Catherine and Warrick try to determine whether a fatal shooting involving two neighbors was committed in self-defense.
 
-## Character Review
+## Review
 
 At the scene, Grissom tells Sara to go to the hospital and collect evidence from the victim, even though she says she'd rather stay at the scene. Sara takes samples and evidence from 'Jane Doe' at the hospital; after collecting everything, she discovers a St. Catherine's medal in the victim's belongings, and sits down to explain to the unconscious victim who St. Catherine was and why she admires her. Sara promises the victim that she'll find who did this; Grissom arrives and tries to dissuade Sara from getting too involved with the victim.
 
@@ -32,7 +32,7 @@ Sara and Nick are back in the lab, and Sara begins to sing to herself again (Blo
 
 Sara goes to the hospital to tell the unconscious victim that they found the assailant, and meets the victim's husband. Sara is barely able to control her emotions. She talks to Grissom about the victim and loses control, crying. She says that she wishes she was like Grissom, without feelings.
 
-## Character Notes
+## Notes
 
 * Sara admires brave women such as St. Catherine.  
 * Sara gets obsessive with some cases -- in this instance, staying up all night going through computer reports.  

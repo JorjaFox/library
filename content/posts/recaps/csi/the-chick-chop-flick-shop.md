@@ -20,11 +20,11 @@ A successful horror-film actress, Weatherly Adams, goes missing and the CSIs are
 
 Weatherly's death was a set related accident, which the owners tried to cover up so as not to lose their bond. In the backstabing and cover-up that follow, all the involved parties die. A cross-dressing Zarco kills Stanley to save Ronnie, and avenge Weatherly's death.
 
-## Character Review
+## Review
 
 Wendy was in one of the horror films by Mr. Putrid, which she shows to the Lab Rats and Sara. Sara leaves and Greg finds her in the locker room, where Sara confides that she's sick of death in Las Vegas.
 
-## Character Notes
+## Notes
 
 * Sara is tired of death, and she is realizing what almost happened to her out in the desert.
 

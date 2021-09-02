@@ -18,13 +18,13 @@ prodnum: 513
 
 Two female bodies, buried together and covered in tar, are discovered by construction workers out in the desert. The investigation reveals that both victims' fingertips have been cut off and that they were apparently buried years apart. Later, Sara treats one suspect with such distain that it jeopardizes her job and she reveals to Grissom a dark family secret that is at the root of her recurring personal problems.
 
-## Character Review
+## Review
 
 This is very powerful Sara episode, one which gives us a bit of insight into her character. Sara comes from an abusive family, and that her mother, Laura Sidle, killed Sara's father; this dumped Sara into the foster care system.
 
 Questioning the main suspect, Sara loses her temper and accuses him of killing his first wife and abusing his second wife (later she was proved correct, though no one acknowledged that), which led her to get into an argument with Catherine. Ecklie witnessed that argument and chewed Sara out; she yelled at him as well, getting herself suspended. Later when Grissom goes to her apartment to find out 'why she gets so angry', she tearfully tells him about her family.
 
-## Character Notes
+## Notes
 
 * Sara compliments Greg on how he's dressed, and gives him advice on appearing in court.  
 * Sara defends Grissom to Ecklie.  

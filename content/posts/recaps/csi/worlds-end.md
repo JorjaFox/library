@@ -23,7 +23,7 @@ Nick and Greg find the murder weapon, while Sara and Ray go over the history of 
 
 The killer was actually Laurent, or rather Matthew Babajide, who was not a victim of the genocide but a perpetrator and a chief architect of some of the more horrific actions. Matthew was attempting to reconcile himself with his past, create a new life, however the War Crimes Tribunal still has a warrant out for his arrest. The CSIs are able to pin Sean's murder on Matthew, who killed him after Sean discovered his true identity.
 
-## Character Review
+## Review
 
 Sara and Brass go to deliver notification of Sean's death to his Alzheimer afflicted grandmother (his mother suffered a mental breakdown when her husband left her for another man).
 

@@ -24,13 +24,13 @@ Julius was a former mobster, known as Julius Child, as he used to feed his victi
 
 Facial recognition determines that Shredder Guy is Larry LaMotte. The *real* Larry LaMotte. The 'TV' Larry stole *his* identity in order to hide his criminal past, and the real Larry was going to take down the whole I.D.-Preserve brand. For that, TV Larry (aka Arlo Karden) had him killed. He had attempted to kill Larry years ago in Reno and failed. When Larry showed back up, he asked for $5-million, which Arlo had Julius pay him. However, Arlo's assistant, Elaine Travers, stole someone's identity and used it to cover her tracks, kill Julius (who did kill Larry), and then stole the money.
 
-## Character Review
+## Review
 
 After loosing Rock-Paper-Scissors, Sara gets stuck with picking the body parts out from the garbage, working directly with the body bits and, yet again, Sara ends up with residual dead body smell.  Sara comes up with the idea of checking the bins for blood, which leads them to Julius Kaplan.
 
 Sara, seeing Ray's inner angst over being attacked by Nate Haskell, and reminds him that everything, the good and the bad, go into making us who we are, but we don't have to let it define us. We get to define that.
 
-## Character Notes
+## Notes
 
 * Sara commiserates with Hodges over his unrequited love.  
 * Sara tries to connect with Ray.

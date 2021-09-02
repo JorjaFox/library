@@ -18,7 +18,7 @@ prodnum: 306
 
 The strange worlds of magic and rock music are explored in this creepy episode. Grissom investigates when a woman vanishes while taking part in a magician's act. The female volunteer is placed inside the Amazing Zephyr's _Chamber of Doom_ and the illusionist thrusts swords through the box. When it's opened, she's gone--and doesn't reappear in her seat as she's supposed to. Only traces of blood are left inside the chamber. Clues lead the CSIs to an eerie, decrepit mansion filled with secrets. Elsewhere, a rock star's death on a band bus appears to be the result of an overdose, but Catherine uncovers evidence that points to murder.
 
-## Character Review
+## Review
 
 Sara assists Grissom.
 

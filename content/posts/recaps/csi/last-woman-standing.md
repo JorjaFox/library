@@ -26,10 +26,10 @@ Bo Madison was the third player in 1997, when they were dealt the 'death' hand: 
 
 All of this ties back to magician, Dr. Jimmy, who loaned Coe $4000 to get into the PPC, is an expert at throwing cards, had a poleaxe, and skipped town shortly after being held on obstruction of justice. Jimmy had funded the scammers, and was in turn nearly killed by Bo Madison's daughter: His lovely assistant, Kathy Hill. Morgan Brody ends up shooting Kathy when attacked.
 
-## Character Review
+## Review
 
 Sara works on the S&M case with Nick until it crosses over with the main site, and then reviews the old cases. Nick asks Sara how she's doing, touching back on her recent separation from Grissom.
 
-## Character Notes
+## Notes
 
 * Sara is no longer wearing her wedding ring.

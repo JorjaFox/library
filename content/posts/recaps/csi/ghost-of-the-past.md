@@ -24,13 +24,13 @@ One of the trial groupies from the original case, Monica Downs, is spotted in ol
 
 Thomas Pope was 11 when Simms kidnapped him, but ran away when Simms was caught. In the twenty years since, he became the property manager for the slaughterhouse. As they determined that, Pope was letting a curious Greg into the property to look around before it was demolished. Greg gets the drop on him, arresting Pope before he can kill Greg. Pope was really foster child, Jonathan Harris, and built himself a new life and identity. He was afraid that the ghost hunters would find out who he was by talking to the dead boys.
 
-## Character Review
+## Review
 
 Sara and Finn tease David Phillips a little at the crime scene, but once he leaves, both admit to being creeped out by the location (a slaughterhouse). While working the scene, Sara gets a call from SFPD and says she'll call them back later.
 
 After the case, Sara asks DB for a leave to return to San Francisco and work on the Lyle Brinks case. Brinks is up for parole, and Sara and the cop who arrested him worry he may actually get it. DB gives it to her, without hesitation, provided she actually takes a couple days off for herself as well.
 
-## Character Notes
+## Notes
 
 * Sara claims a slaughterhouse is why she stopped eating meat (this contradicts when she said that it was Grissom's pig experiment )  
 * The Lyle Brinks case Sara worked on in San Francisco was well known.

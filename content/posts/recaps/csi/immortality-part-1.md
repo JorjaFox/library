@@ -30,11 +30,11 @@ And the woman? Isn't Heather. Alive and well, Heather comes to the lab and turns
 
 _The episode concludes with [Immortality (Part 2)](/library/recaps/csi/immortality-part-2/)_
 
-## Character Review
+## Review
 
 While she's moved on with her life and is trying to professionally make it through, Sara is not happy about Grissom and Heather, and really who can blame her? She kept Grissom's number but they hadn't been talking, even before the divorce, to the point that she didn't know he was talking to Heather.
 
-## Character Notes
+## Notes
 
 * Sara and Grissom are divorced  
 * Communication issues led to the divorce  

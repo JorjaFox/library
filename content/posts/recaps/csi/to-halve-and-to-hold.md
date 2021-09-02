@@ -18,7 +18,7 @@ prodnum: 113
 
 Grissom and Catherine piece together clues while assembling parts of a skeleton that was apparently cut up with a saw and then scattered on a mountain; Warrick and Sara investigate the death of a male stripper who died shortly after performing at a bachelorette party.
 
-## Character Review
+## Review
 
 Sara and Warrick get the case of a dead man in a hotel room -- the one with the 'weird pool', as Sara puts it. The room has been the scene of a party, as well as a possible struggle, as Sara notes from the broken lamp on the floor before she dusts for prints. They track down Lynn Henry, who rented the room for a bachelorette party, but the women claim the victim (a male dancer) was alive when they left at 3 am. Sara notices bruises on Lynn's wrists.
 
@@ -28,7 +28,7 @@ Becuase there was no trace of the lamp debris on the victim, Sara and Warrick re
 
 Meg (the bride-to-be) confesses to having consensual sex with the victim and then changing her mind partway through it, hitting him with the lamp. However Meg's ring is a real diamond, and her fiancee's is zirconia. Indeed, his ring is missing a stone, and the fiancee admits to having killed the victim after discovering him having sex with Meg.
 
-## Character Notes
+## Notes
 
 * Sara drives to the scene.  
 * Sara is amused by Riley's embarrassment during the vaginal clock explanation.

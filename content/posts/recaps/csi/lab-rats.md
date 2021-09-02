@@ -20,11 +20,11 @@ This episode revolves around the tertiary characters of the CSI lab: Archie, Hod
 
 _Note: This episode originally titled 'While the Cat's Away'_
 
-## Character Review
+## Review
 
 Sara handles a pickup from the CDC, where an outbreak of herpes 1 has run rampant through the office. On her return, Sara talks to one of the lab techs, who asks Sara if the miniatures are keeping Grissom up at night, and if Grissom would confide in Hodges.
 
-## Character Notes
+## Notes
 
 * Sara is quick to deny knowing how Grissom spends his nights when asked.
 

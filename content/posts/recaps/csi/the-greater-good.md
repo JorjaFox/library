@@ -24,7 +24,7 @@ Shaw, working with the brothers, picks up Maya at the Russell house, but doesn't
 
 Shaw double crosses the brothers and kills Brisco, saving Maya and his daughter, but Winthrope was smarter and shoots him. As he's about to kill Shaw, Maya stabs Winthrope with a crowbar, brutally wounding him. But she doesn't kill him and Winthrope escapes. Shaw is arrested for his crimes, his daughter moving to live with her grandmother.
 
-## Character Review
+## Review
 
 Sara is a little aghast at DB using his own daughter for bait.
 

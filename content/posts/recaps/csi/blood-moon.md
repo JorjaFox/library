@@ -18,13 +18,13 @@ prodnum: 232
 
 A headless body is found, propped up against a barbed-wire fence with the head on a post, in a field, under the harvest (aka blood) moon. Wax left on the body from an extensive manscaping leads the CSIs to a hotel where a vampire and werewolf convention is taking place and a man named Michael Wilson is missing. Michael had come to a Clans and Covens convention with his fiance to get married with all their friends but was killed by his fiance when she learned that Michael had formerly been a werewolf, but had fallen in love with her, a vampire, and converted.
 
-## Character Review
+## Review
 
 Sara works on the body after it's brought to the morgue, and determines that all body hair was waxed off, finding some wax and sugar in his belly button. She also works in the lab for much of the episode, with the evidence.
 
 When Nick and Sara go look for evidence in the woods
 
-## Character Notes
+## Notes
 
 * Sara works in the lab this episode.  
 * Sara and Nick tease each other.  

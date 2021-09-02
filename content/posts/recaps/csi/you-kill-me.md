@@ -18,11 +18,11 @@ prodnum: 808
 
 Hodges stages hypothetical murders in the lab in order to give his fellow lab techs a chance to play CSI, but unbeknownst to them he has other motives behind his actions. Meanwhile, after Sara's farewell, everyone tries to comfort Grissom.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._
 
-## Character Notes
+## Notes
 
 * Grissom is still in contact with Sara  
 * Sara is in San Francisco, visiting her mother

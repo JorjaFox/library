@@ -18,11 +18,11 @@ prodnum: 516
 
 Catherine, Nick, and Warrick investigate a badly mutilated body in the woods. The cause of death was a shotgun blast. Nearby is a beaver dam made in part with cash. Grissom, Sara, and Greg try to determine how a man was killed in a hotel room. It leads them to a convention of big women.
 
-## Character Review
+## Review
 
 There's not much for Sara in this episode. She reprimands the cops at the station when they make fat jokes. She and Greg check the hotel surveillance tapes to discover when the women left the suspect's room, and later interviews one of the suspects. She knows the suspect is lying about the cause of death, but isn't quite sure what to do about it since it is a confession. Later, Sara, Greg and Grissom experiment with a weighted dummy to prove the circumstances of the accidental death, and Sara reinterviews the suspect.
 
-## Character Notes
+## Notes
 
 * Sara tries to be non-prejudicial and non-judgmental towards people who are different or who are perceived as different.  
 * When Greg flirts with Sara, she gets back at him with the weights, joking about matching his coloration to the victim's.

@@ -26,7 +26,7 @@ The accidental ringleader behind the evening's mayhem was Bobby Reed, son of a c
 
 The gun behind the killing was printed on a 3-D printer, owned by Roland Zaal, however trace of it was found on the hands of a, presumed, tourist witness, Anthony Paak. They trap Paak, but he won't turn on Zaal, and the printer can't be found. Chastity skips town before things get worse, but leaves Brass the ring.
 
-## Character Review
+## Review
 
 Sara doesn't like working the street, and seems much more comfortable back in the lab.
 

@@ -18,7 +18,7 @@ prodnum: 520
 
 Grissom and Sara investigate the murder of a mental-hospital patient and quickly narrow down the suspects to a handful of other patients and staff members.
 
-## Character Review
+## Review
 
 Sara is attacked by the main suspect when Grissom walks off and leaves her all alone in the nurse's station. Later, we learn that Sara's mother spent a few months in a psychiatric hospital, and that Sara used to visit her.
 
@@ -26,7 +26,7 @@ In the original script, the scene where Sara is attacked was supposed to show th
 
 During the interrogation scene, when the camera pans down Sara, her fingernail is painted gold in a 'shout out' to episode writer Sarah Goldfinger.
 
-## Character Notes
+## Notes
 
 * Sara's mother spent some time in an institution again after "[Nesting Dolls](/library/recaps/csi/nesting-dolls/)."  
 * Sara again refuses to leave a case in which she's become personally invested.

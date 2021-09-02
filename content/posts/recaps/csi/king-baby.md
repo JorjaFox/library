@@ -18,11 +18,11 @@ prodnum: 515
 
 Now that Catherine heads up a swing-shift crew that includes Warrick and Nick, the three of them rarely get a chance to work alongside Grissom anymore. Tonight, however, the whole gang is thrown back together to investigate a high-profile murder, but Catherine isn't too happy about it. A powerful casino owner, who claimed to have dirt on almost every prominent person in Vegas, is found dead in his driveway. Catherine's team is the first to respond, so she takes it personally when Ecklie calls in Grissom to head up their case, which turns out to be one of their kinkiest ever.
 
-## Character Review
+## Review
 
 After her initial appearance at the scene, Sara doesn't have much to do with the case. After Grissom and Catherine discover the victim's secret life, Sara helps Nick to strip apart the toybox -- they discover the victim's secret files; they also discover a photo of an unknown baby dated 2001. Sara and Sofia discuss not only the unknown lactating woman, but the mystery car as well.
 
-## Character Notes
+## Notes
 
 * Sara works well with Sofia in this, despite previous reservations.
 

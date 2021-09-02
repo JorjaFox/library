@@ -32,7 +32,7 @@ As the CSI's interrogate Paul's wife, Ryan manages to ditch his cop bodyguard an
 
 Trace on the baby's clothes comes back positive for Rifampin, a drug used to treat meningitis, and also one that Ryan was taking. Ryan was the mastermind, killing the other four in order to get the money to take care of his son. 
 
-## Character Review
+## Review
 
 Sara arrives on the scene with Nick and David Phillips, just as surprised as they are to learn about the fake loot and the thief's condition.
 
@@ -40,7 +40,7 @@ She and Morgan Brody go to the maintenance room to meet with Ryan, and learn abo
 
 Later, Sara and Finn go over Paul's history, learning about his less than honorable service, when Hodges brings them news about the baby-trace in Paul's car.
 
-## Character Notes
+## Notes
 
 * Sara's sympathy is overridden by her hatred of social injustice. Murder is never okay.
 

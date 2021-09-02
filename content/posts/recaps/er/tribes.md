@@ -19,6 +19,6 @@ rating: 1
   
 Mark examines his prejudices when he's accused of neglecting a black gunshot victim, Kenny Law, in favor of a white victim. Jeanie discovers Peter's impending parenthood when Carla comes into the ER. Carter spends the entire day treating a hopeless case. Kerry tries to persuade a disabled junkie to enter a rehab program. Carol treats a college student who was drugged with roofies. After Jenn's mother has a stroke, Rachel comes to stay with Mark for a while.
 
-## Character Review  
+## Review  
   
 Doyle assists Mark and Doug on a case. She is later left to watch over Rachel Greene at soccer practice and later at Doc Magoo's until Mark gets off work.

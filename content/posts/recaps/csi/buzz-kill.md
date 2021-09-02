@@ -20,11 +20,11 @@ Sara and Nick work the case of the children and wife of a marijuana dispensary o
 
 Meanwhile, Russell and Finn continue to work on the Gig Harbor case, and Finn goes up to Seattle.
 
-## Character Review
+## Review
 
 Sara and Nick work the majority of the case. Sara is a little bit of a square, not seeing the big deal between strains of marijuana. She also gets into Remi Volero's face, convinced he's key to the crime.
 
-## Character Notes
+## Notes
 
 * Sara still doesn't recognize marijuana very well and doesn't understand the big deal between brands.
 

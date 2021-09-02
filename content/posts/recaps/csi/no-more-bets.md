@@ -18,11 +18,11 @@ prodnum: 422
 
 Sam Braun is at it again. Based on a real life case of a several MIT engineering students who, in the 1970s, figured how to beat roulette by using physics. The results of this tactic prove deadly. Catherine learned last year that he's her dad after comparing her DNA with his blood when he was a murder suspect, and unwittingly helped him beat that charge. He later gave her a hefty check, which she cashed. Now Sam is again wanted for homicide when a man caught cheating at one of his casinos ends up dead. Grissom immediately dismisses Catherine from the case, but she finds it hard to stay away. Also, Nick gets the promotion that Sara coveted, but the position is rescinded due to budget cuts.
 
-## Character Review
+## Review
 
 Sara is stunned when she learns that Grissom recommended Nick for the promotion instead of her. When she confronts Grissom about it, he says that he doesn't have a problem with her, but that he recommended Nick because he didn't want the position; Sara is unhappy and more than a little disappointed about that.
 
-## Character Notes
+## Notes
 
 * In the garage when they're discussing the promotion, Sara lets the tape measure snap back -- an interesting Freudian response.  
 * Sara is quite comfortable working with Warrick, which is in sharp contrast to her attitude towards him when she first arrived in Vegas.

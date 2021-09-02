@@ -22,10 +22,10 @@ The video was then sent to Hi-Def's right-hand woman, J-Lady, who possibly let i
 
 The driver of the car confessed to running over one of the kids, and fingered the shooter, Morris. Dante was also in the car at the time of the murders, and confessed to having set Dollar up.
 
-## Character Review
+## Review
 
 Sara's time is mostly spent going over the car used for the drive by, and going with Sofia and Nick to talk to Hi-Def.
 
-## Character Notes
+## Notes
 
 * Sara inspects the car, showing a consistent theme with her and vehicles.

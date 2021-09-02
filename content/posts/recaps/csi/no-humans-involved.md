@@ -18,11 +18,11 @@ prodnum: 510
 
 Sara's mysterious background becomes a bit more clear as she helps investigate the starvation death of a 5-year-old boy whose body is discovered near a trash dumpster. At the county lock-up, Warrick and Nick probe the beating of a prisoner in an overcrowded cell. Later, Catherine learns that being the boss isn't all it's cracked up to be when she has to reprimand Warrick for what she deems unprofessional behavior.
 
-## Character Review
+## Review
 
 Sara consoles Greg at the scene, wondering if he's okay. She gets confrontational with the child's aunt, who was supposed to be looking after them. When Sara is talking to the foster kids, we learn that she was in the foster system herself, 'for a while'. When Sara, Greg and Brass find the missing children, she tearfully holds them until help arrives. At the end, she looks up a case on Lexis-Nexis.
 
-## Character Notes
+## Notes
 
 * Sara was in a foster home as a child.  
 * At the end of the episode, Sara searches the Lexis-Nexis database for "THE PEOPLE VS. LAURA SIDLE W/2; MODESTO, CALIFORNIA, 1984"

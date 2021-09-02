@@ -40,7 +40,7 @@ In the end, Allison has enough money to take care of herself, but tells Catherin
 
 The episode ends with Mrs. Bradford knocking on the door to Allison's house.
 
-## Character Review
+## Review
 
 Sara's most interesting scene is when she meets Sofia by the phone booth. Sofia is irritable and pushy and angry, while Sara is mild and calm. The disparity between the characters shows a depth of calm that Sara didn't always have. Sara doesn't comment about Sofia tampering with evidence at the scene (processing when she shouldn't have been).
 

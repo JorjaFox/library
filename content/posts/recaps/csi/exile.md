@@ -24,11 +24,11 @@ While being beaten, Marta was also poisoned by being force fed casava leaves, a 
 
 Marta wanted to come to the US, and to marry Stefan. But Silvana was also in love with Estefan, and killed her sister over that, framed Antonio, and coerced him into killing Estefan by tricking him into thinking Antonio killed Marta.
 
-## Character Review
+## Review
 
 Sara works the case and is in somewhat of a hostile mood towards the club owner, who only has functional security cameras aimed at the cash register. This appears to be directly related to the fact that it's women who are being targeted.
 
-## Character Notes
+## Notes
 
 * Sara is belligerent towards the club owner regarding the safety of the women involved.
 

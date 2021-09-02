@@ -18,7 +18,7 @@ prodnum: 417
 
 A mutilated female body is discovered tied to the undercarriage of a bus carrying prisoners from a women's correctional facility after a severed arm flies out from beneath the vehicle and strikes a car. Catherine leads the investigation and at first believes the woman was escaping, but the evidence increasingly points to murder. Back in town, Warrick probes the death of a gambler who was stabbed multiple times in his brother's kitchen.
 
-## Character Notes
+## Notes
 
 * Sara reads when she can't get to sleep.
 

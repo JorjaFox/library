@@ -22,13 +22,13 @@ Catherine survives being shot , thanks to Doc Robbins and an old stripper friend
 
 Going back over the remains from the burnt car, they find that Agent McQuaid and Laura Gabriel faked their deaths and planned to blackmail Mark Gabriel. They turned the tables on Laura, getting her husband to buy the hitmen, and McQuaid was killed by his own men when he tried to save Catherine.
 
-## Character Review
+## Review
 
 Sara catches Nick up on Laura Gabriel's death when they get the call of shots fired near Catherine's house. Sara correctly makes the connection that the shots are actually at Catherine's house.
 
 Sara makes the connection of Occam's Razor, which is that the simplest solution is usually the right one. Thus they look into Laura.
 
-## Character Notes
+## Notes
 
 * Sara explains Occam's Razor, showing her scientist background.
 

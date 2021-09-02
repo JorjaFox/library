@@ -18,7 +18,7 @@ prodnum: 321
 
 The CSI team suspects foul play when a chemistry teacher's science experiment goes horribly wrong.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._
 

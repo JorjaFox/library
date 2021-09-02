@@ -20,11 +20,11 @@ When a band member of Rascal Flatts is electrocuted by his own guitar during a c
 
 Meanwhile, Sara and Ray look into the death of a former CIA officer found in a Lake Mead, his head cut, no ID, and 24-hours dead. The vic was dressed after being struck in the head. The body turns out to be former deputy directory of operations, Vance Colton, who was dying of cancer and writing a tell-all book. Not wanting to die a sick man, he arranged for a friend still in the CIA to spin up his death, dying a hero.
 
-## Character Review
+## Review
 
 Sara and Ray end up working directly with the CIA, and clashing with them to protocol. They're one step behind the CIA for most of the case, due to the CIA not giving them information. Still, they're able to determine the primary and secondary scenes, and run into the German Consulate, who are following them because they're implicated in Colton's book.
 
-## Character Notes
+## Notes
 
 * Sara let Ray drive, contrary to how she treats most other CSIs.  
 * Grissom and Sara take canoe trips, and went on one looking for bugs on their honeymoon.

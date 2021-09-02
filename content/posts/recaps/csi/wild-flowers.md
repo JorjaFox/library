@@ -26,11 +26,11 @@ When Ruiz is found and brought in, they find another girl, hiding in his hauler.
 
 Trace evidence left on Ruiz's shirt points to the father being the shooter. By the time they determine that, he had already removed Jacinta from the hospital. Still, they're able to track them down and arrest the father as he lights his trailer on fire with Jacinta still inside. Morgan rushes in to save her. Jacinta confirms that her mother was dead, and their father faked the kidnapping to abuse them, but Rosa tried to save her sister.
 
-## Character Review
+## Review
 
 Working a sex crime case while celebrating her anniversary long distance does not a happy Sara make. She disagrees with Doc Robbins as if the dead girl is better off dead. He feels she is, because the girl would never be whole. Sara feels she should have had the chance to try.
 
-## Character Notes
+## Notes
 
 * 'Today' is Grissom and Sara's anniversary.  
 * Grissom is still working abroad.  

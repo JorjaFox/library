@@ -26,13 +26,13 @@ Unknown to his friends, Trevor had started to race his car at the police sanctio
 
 Renata got Cindy, her BFF, to 'borrow' Trevor's car so Renata could race it against her own car, driven by Gus, her uncle and guardian, in an illegal street race to prove that Trevor's car was better than Renata's. During the race, Gus accidentally hit, and killed, Cindy. Afterword, Renata and Gus take the car to the Demons, who part out the damaged parts and replace and repair.
 
-## Character Review
+## Review
 
 Sara goes to the high school to find Trevor's girlfriend, Cindy, and works with Nick in processing Trevor's car. Later, working with Hodges, Sara determines how Cindy died, recognizing the injuries on her legs from previous experiences .
 
 When investigating the race, Sara flirts with the boys, talking about cars, in order to get a better look at the car. While she appeared ignorant of the 'sacrilegious' nature of putting an electric engine in a 1968 classic, she is knowledgeable or at least able to recall the information determined from the evidence.
 
-## Character Notes
+## Notes
 
 * Sara is an environmentalist.
 

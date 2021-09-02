@@ -18,11 +18,11 @@ prodnum: 419
 
 Warrick, Catherine, and Nick try to determine the cause of a house fire that kills a teenage kill. The fire is in the same neighborhood as a similar arson fire. Grissom and Sara investigate a man found dead with letter tiles in his stomach. The man was a competitor in a word game tournament.
 
-## Character Review
+## Review
 
 Sara and Grissom investigate the death of a man in a hotel bathroom, which leads them to a Logos tournament taking place there. She and Grissom interview the various players, and later she 'decodes' the victim's notes on the match.
 
-## Character Notes
+## Notes
 
 * Sara again displays her prowess with codes and puzzles when she helps Grissom with the letter tiles.  
 * Sara once again shows her phobia of germs in public places when she comments on the empty soap dispenser in the bathroom.  

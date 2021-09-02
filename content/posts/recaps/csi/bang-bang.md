@@ -38,7 +38,7 @@ Willie confesses that he'd blown the $5000 on a hooker, thinking he'd be getting
 
 The kicker is that Sammy died a month ago. Brass calls out the safe word, Willie shoots him, and the SWAT team kills Willie.
 
-## Character Review
+## Review
 
 Sara works the side of the case involving the dead wife.
 

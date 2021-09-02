@@ -28,13 +28,13 @@ At the same time, Sara went with the sheriff and deputy to where Darryl's car ha
 
 The sheriff corroborates Sara's story, and she goes back to Las Vegas, while Nick and DB trail Finn's car and, eventually, find both a dead Darryl (shot by Finn), and a nearly dead Finn (after being hit by the car). Morgan and Sara process Finn and her clothes, finding that she was hit by a car owned by the town's doctor and coroner. He too was in on the rapes and kidnapping.
 
-## Character Review
+## Review
 
 Sara initially planned to go home, drink some wine, and watch old movies. While she's interested in the idea of the spa, she does seem awkward around the younger Morgan, and slightly out of touch with the time. When Finn returns to the bar, cut and disoriented, Sara takes charge to find out what happened.
 
 While Sara is angry that she, and Finn and Morgan, aren't taken seriously by the local authorities, she's also stubbornly helpful and nudges her way into their case with evidence and facts.
 
-## Character Notes
+## Notes
 
 * Sara likes Hepburn and Tracy movies  
 * Sara claims she doesn't know who Beyoncé is

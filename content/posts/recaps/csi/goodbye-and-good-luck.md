@@ -20,7 +20,7 @@ Hannah and Marlon West  return as the prime suspects in the death of a college g
 
 The two cases are just the final straws for Sara -- she leaves Las Vegas, and she leaves Grissom.
 
-## Character Review
+## Review
 
 The episode revolves around Sara's decision to leave Las Vegas.
 
@@ -36,7 +36,7 @@ When Sara returns to the lab, she kisses Grissom in front of Hodges and the rest
 
 _Note: according to writer David Rambo, Sara's final note to Grissom was written by Jorja Fox herself.
 
-## Character Notes
+## Notes
 
 * Sara is numb and unresponsive in a case of domestic violence.  
 * Sara kisses Grissom for the first time on screen.  

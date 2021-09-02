@@ -19,11 +19,11 @@ rating: 2
   
 The staff springs into action when Dr. Greene is violently beaten by an unknown assailant. Dr. Ross treats the son of a wealthy man, leading Carol to suspect Doug of giving the child special treatment. Greg demands that Jeanie choose between him and Al. Speculation runs rampant when a torrid novella, author unknown, is found at the admit desk. A new pediatrician arrives from Philadelphia. Olbes shows up out of uniform for a change, bringing in her grandfather, who has suffered a stroke. Carla is admitted to the hospital after she goes into premature labor; the contractions are stopped for now.
 
-## Character Review  
+## Review  
   
 Doyle works with Mark most of the day, including when a deranged patient yells at him and when a young girl is given sutures. She also works on the case when Mark himself is a patient. Sometime in the middle, she reads the mystery smut novel about the ER.
 
-## Character Notes  
+## Notes  
   
 * Doyle thinks Carol wrote the novel.
 

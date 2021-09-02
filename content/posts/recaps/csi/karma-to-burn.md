@@ -26,7 +26,7 @@ Outside the Russell house, Sara finds an LVPD flashlight, as well as trace that 
 
 While the case concludes well, Russell is left with a lingering fear that his wife will leave him over his work, and the inherent dangers.
 
-## Character Review
+## Review
 
 After texting Finn to inform her about Russell's granddaughter, Sara is on hand for when Ecklie is loaded into the ambulance. She and Greg split the load, and Sara heads to the Russell house. While Sara urges Russell to not work the case, he argues he doesn't plan on the case going to court.
 
@@ -34,7 +34,7 @@ Sara also tries to find Nick, leaving him messages, and finally picking him up f
 
 As the episode ends, Nick, Sara, and Greg are sitting in the break room again, just as they did in the season twelve finale. Greg asks Nick if he's really quitting, which brings an argument between Sara and Nick about when Sara left the lab.
 
-## Character Notes
+## Notes
 
 * Sara doesn't feel like she 'quit' the lab so much as took a break to get her head on straight.
 

@@ -26,13 +26,13 @@ All three men were patients at a mental hospital, for paranoia, schizophrenia, a
 
 Art blames Kathy Veck for his wife's death and his financial destitution. He plants a bomb in his own team's car, trying to blow her up in the race, but missed. As the CSIs realize Art's still out there, he kidnaps Veck in her own truck, wires it up as a bomb, and drives it to the police station. The CSIs get Clive to talk Art out of killing Veck.
 
-## Character Review
+## Review
 
 Sara and Morgan find evidence in the desert, and then works with Greg on the reconstruction based on the debris field and car damage. When Greg proves Sara's initial hypothesis incorrect and there was a bomb, she teases him but cheerfully tests his theory with him.
 
 When Russell tells Sara about his cousin, who became a paranoid schizophrenic, she mentions she understands, because of her mother.
 
-## Character Notes
+## Notes
 
 * Sara still likes taking apart cars.  
 * Sara mentions her mother to Russell, but without details.  

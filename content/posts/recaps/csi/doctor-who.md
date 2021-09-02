@@ -22,11 +22,11 @@ Nick comes over to Langston's house and finds his wall of weird, dedicated to Je
 
 However. Jekyll has been trailing Langston. And the serial killer Grissom and Langston put behind bars, Nate Haskell, claims to know who Jekyll is.
 
-## Character Review
+## Review
 
 Sara and Greg find the body of Heidi Custer, and Sara finds the first evidence, linking her to Langston, and later find the car used to transport the body.
 
-## Character Notes
+## Notes
 
 * Sara is still vague with most of her coworkers about her personal past.
 

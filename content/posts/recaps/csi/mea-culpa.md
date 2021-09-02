@@ -20,11 +20,11 @@ Grissom is confronted with new evidence while on the stand of a murder trial of 
 
 Note: Warrick states that swing shift starts at 4 (pm), meaning that Graveyard (Sara, Greg and Grissom) is from midnight to 8 am.
 
-## Character Review
+## Review
 
 Sara remains on the night shift, with Grissom and Greg -- Ecklie moves those he considers 'safe' to Swing; as Sara has always stood up for Grissom, she stays on Graveyard.
 
-## Character Notes
+## Notes
 
 * Sara lies to Ecklie about having her required PEAP conversation with Grissom.  
 * Sara shows Greg how to raise an abraded serial number on a gun -- part of her mentoring of him that continues throughout the season.  

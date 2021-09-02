@@ -2,7 +2,8 @@
 {{ $show     := $.Page.Params.show }}
 {{ $episodes := (index .Site.Data.episodes $.Page.Params.show).episodes }}
 
-<table class="table table-bordered">
+<div class="flf-episode-list">
+<table class="table table-borderless">
 	<thead class="thead-light">
 		<tr>
 			<th scope="col">#</th>
@@ -29,3 +30,4 @@
 </table>
 
 <a class="btn btn-outline-success btn-block" href="#toc" role="button">Return to Top</a>
+</div>

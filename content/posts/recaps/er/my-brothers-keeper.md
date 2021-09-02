@@ -19,6 +19,6 @@ rating: 1
   
 Several heroin ODs are brought into the ER, including Chase Carter. Mark tries to track down Cynthia. Anna treats a John Doe sent from another hospital because he had no insurance. Doug accuses two parents of child abuse, but finds out that their child is disturbed. Benton and Corday run into his sister Jackie. Scott Anspaugh finishes his chemotherapy.
 
-## Character Review  
+## Review  
   
 Doyle is working the night shift, and is seen briefly at the beginning and end of the episode.

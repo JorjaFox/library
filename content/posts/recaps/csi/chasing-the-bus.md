@@ -18,11 +18,11 @@ prodnum: 218
 
 Grissom and the entire crew investigate a deadly tour-bus accident in this change-of-pace episode. A bus carrying 23 passengers from Los Angeles to Las Vegas crashes less than 40 miles from its destination, killing nine people. Before he dies, the driver recalls that, moments before the wreck, the steering wheel began vibrating like a jackhammer in his hands, making it impossible for him to control the speeding vehicle. When the bus finally did come to a stop, it was on its right side on top of a sports car that was following it. At the scene, the CSIs discover that a recent parolee was on the bus, but is now unaccounted for--and that there's evidence of foul play.
 
-## Character Review
+## Review
 
 Sara gathers tread scraps from the scene. Later she painstakingly separates them according to which vehicle they came from, and discovers chloroform on the inside of the bus tire that blew, proving sabotage.
 
-## Character Notes
+## Notes
 
 * Sara compliments Greg, and later defends him to another tech.
 

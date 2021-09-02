@@ -32,7 +32,7 @@ Jordan's DNA test cannot be recovered, but the fact that she only has two swabs 
 
 Back at Tranquil Hours, Helen has been moved to critical care, her room cleaned with bleach, and her doctor, Dr. O'Keefe, has called in sick. They find a fingerprint, naming fake-Helen as Marsha Forsythe, and the DNA comes back and connects the fake Helen with whomever sabotaged the plane; Jeffery Forsythe, the lawyer who loaned his gun to his coworker who was on the plane. Forsythe was also a pilot.
 
-## Character Review
+## Review
 
 While Sara is public about having worked with Doug before, she does not disclose to her coworkers exactly how close they once were. Doug is tangentially aware Sara married her boss (and manages to make that a teasing dig at her), while Sara is seemingly unaware Doug split with his wife (also making that a dig at him). While they work together, their old camaraderie appears.
 
@@ -40,7 +40,7 @@ Only when Grissom calls, and Sara lets it go to voicemail in front of Finn, does
 
 When Doug asks Sara and Grissom out to dinner, and then just Sara, she asks him to not do 'this.' He backs off, but tells her she deserves to be happy.
 
-## Character Notes
+## Notes
 
 * Sara worked with Doug Wilson on an NTSB investigation when she was at the San Francisco crime lab.
 

@@ -26,7 +26,7 @@ Abigail then uses her knowledge from her former job to steal enough Ketamine to 
 
 When the cops come, however, Abigail gets scared and runs off, taking the leftover Ketamine in a last ditch attempt to kill herself. She's saved by Brass and LVPD, and confesses all to Grissom. After Abigail asks if Grissom believes in life 'out there,' he tells her that if there is, they're smart enough to stay away from humans.
 
-## Character Review
+## Review
 
 Yet another low-key Sara episode; she plays assist and little more. At the scene she dusts the refrigerator for prints. She goes through the prints collected with Mandy, and later has a brief chat with Brass about Jim Diamond and cults.
 

@@ -25,6 +25,6 @@ it's via the trace evidence of a scrap of cloth from Richard's fireman uniform t
 
 In Richard's apartment, all the evidence needed to pin him to the crimes was there, except Ricard. He was busy setting the smoke bombs for his next victim. The fourth and final victim he killed, because she wouldn't let him touch her feet. The real firemen caught Richard trying to flee, and proceeded to beat the shit out of him.
 
-## Character Review
+## Review
 
 It's not surprising that Sara has a strong dislike to rape. When asked if her following a lead on a cold case is as helpful as another rape victim, in terms of finding evidence, Sara says she'd rather it not come to that.

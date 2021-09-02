@@ -22,13 +22,13 @@ Meanwhile, the dead body was run of Fred Blanchard, ex-boyfriend of the deceased
 
 When the house is searched for Fred's murder weapon, a skeleton is found in the walls with papers. DNA confirms the body is Tony Perella, the father of Marla, but not Jimmy and Dwayne. The print on the knife that killed Fred matches Walter Hicks, who had been in prison for assault. He came back and killed Fred, just as he'd killed Tony for sleeping with Lois.
 
-## Character Review
+## Review
 
 Sara and Nick talk about Nick's dating life as they come to the crime scene. When Sara goes back to the lab, she officially meets Finn. Back at the house, when the Hicks' siblings argue, Sara leans on the horn till they shut up.
 
 In the end, the siblings fight again over the house and Finn threatens to take a chainsaw to it, until Sara points out that whomever owns the house will pay the bills for the damage caused when it was hauled into the hills.
 
-## Character Notes
+## Notes
 
 * Sara claims to be an only child, which contradicts season 3.   
 * Sara is the voice of reason when Finn is a madwoman with a chainsaw.

@@ -26,13 +26,13 @@ Heather has also been following the news about Haskell and his relationship with
 
 Meanwhile, Nick and Dr. Robbins are accidentally called to a fresh suicide of a teenage girl, Maria Diorio. Dr. Robbins, noticing she's pregnant and the fetus is moving, performs an emergency cesarian and saves the baby. The autopsy implies that she'd been in a fight two hours before she died. Maria's mother had no idea she was pregnant, and is stunned to find out about the granddaughter she now has. Her boyfriend, an honor student, knew she was pregnant, but also that she was very much despised by her schoolmates to the point that they made a website mariaisabitch.com. The bullying led her to suicide and they follow up on the kids who created the website.
 
-## Character Review
+## Review
 
 As in the past, Sara takes any issues with women being abused to heart. She brings Iona's datebook back from the shelter and sees appointments with 'Dr. K.' Sara and Heather don't exactly get along, but they do manage to respect each other as professionals.
 
 Sara seems uncomfortable with the idea of gestalt roleplaying to work through issues, but keeps her personal views out of the case and remains non-judgemental.
 
-## Character Notes
+## Notes
 
 * Grissom is still in Peru (and Heather knows about his work).  
 * Sara drinks chamomile tea.

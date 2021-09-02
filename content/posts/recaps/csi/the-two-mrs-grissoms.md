@@ -26,7 +26,7 @@ When Sara and Ray go to bring Julia in for further questioning, a bomb explodes 
 
 Sean and his cousin, Dennis the interpreter, set up a scam to get Sean into the college and get the half-million grant. The plan included seducing Julia, but the bomb and the plain itself was all Dennis.
 
-## Character Review
+## Review
 
 Sara attends a gala celebration for a foundation for the deaf, of which her husband, Gil Grissom, is a member. Gil was supposed to come, but got stuck in Peru when 'another' mass grave was found. The phone call cuts out and Sara catches Julia (then unknown to her) coming out of a room where a man remains, looking like she was having sex with him moments before. Sara then finds her mother-in-law, Betty Grissom, who introduces her to Julia Holden, who is 'like a daughter' to Betty. Sara is comfortable with Betty's apparent preference to Julia, and later tells Catherine that she and Betty don't get along well.
 
@@ -36,7 +36,7 @@ Once Julia reveals that she and Grissom were once intimate, Brass wants Sara off
 
 After solving the case, Sara and Betty share a Skype conversation with Grissom, who is in Peru on 'government business.' By way of apology, Betty brings Sara a plant, because Grissom tells her she likes plants: an african violet.
 
-## Character Notes
+## Notes
 
 * Catherine supports Sara's ability to be professional and remain on the case.  
 * Grissom and Sara talk every day.  

@@ -28,11 +28,11 @@ Karen also killed Roger, taking the stone lion, and hid it and the gun she used 
 
 Meanwhile, Jim Brass has a decision to make when his daughter attempts suicide. 
 
-## Character Review
+## Review
 
 While Ellie is in the hospital, Sara visits Brass and comforts him, telling him someone else's madness is not his fault, nor his responsibility.
 
-## Character Notes
+## Notes
 
 * Sara is comforting to Brass, connecting over the shared insanity of their families.  
 * Sara has a geek crush on Sam Bishop's science.

@@ -20,7 +20,7 @@ A faked death turns into a case of body-part trafficking, when a Jewish body tur
 
 Margo Darton is found, killed in her home, beaten by a champagne bottle. She'd been seeing a 'Host' at the Over/Under Club, who acted as a pretend relationship, named Jesse. Margo had brought Jesse home to show him that she was actually his mother, and in a fit of anger, he killed her.
 
-## Character Review
+## Review
 
 Sara works the Dorton case, and 'bids' on a stripper's panties with her CSI ID, while looking to find where Margo died. She places an 'order' for Jesse and discusses Margo with him.
 
@@ -28,7 +28,7 @@ Sara and Keppler look over the Miniature Crime Scenes. Keppler says that Grissom
 
 Meanwhile, on his sabbatical, Grissom writes Sara a letter, claiming their parting was awkward and he'll miss her.
 
-## Character Notes
+## Notes
 
 * Sara put the cocoon Grissom sent her into one of his terrariums.
 

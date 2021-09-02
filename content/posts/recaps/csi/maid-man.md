@@ -18,6 +18,6 @@ prodnum: 255
 
 While Catherine, Greg, DB and Ecklie attend new mobster exhibit, an ex mayor is shot four times, mobster style, while he's giving a speech. Upon further investigation, Catherine and D.B. find a dead security guard. Meanwhile, on the B case, Nick and Morgan investigate the murder of a maid in a hotel room.
 
-## Character Review
+## Review
 
 _Sara Sidle does not appear in this episode._

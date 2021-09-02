@@ -18,7 +18,7 @@ prodnum: 202
 
 The entire CSI team investigates a disappearance at a local university. A young woman vanished, seemingly off the face of the earth. Forensics leads them to possible suspects, and possible suspects all have probable motives, but nothing seems to pan out. This leads our team to discuss the 'chaos theory' that, when combined, many seemingly-innocuous events may have a deadly outcome. And closure is not always within reach.
 
-## Character Notes
+## Notes
 
 * Sara knows about the trick of filling nail holes with toothpaste to get a security deposit back.
 

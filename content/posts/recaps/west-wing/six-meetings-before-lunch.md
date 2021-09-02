@@ -19,11 +19,11 @@ rating: 4
 
 Mendoza is confirmed by the Senate; Mandy needs Toby's help to replace a dead panda bear; Sam angers Mallory when she reads a position paper that he wrote supporting school vouchers; Josh meets with Jeff Breckenridge, who is irritating certain Congressmen with his stance on slavery reparations. Police make arrests at a fraternity party attended by the president's daughter; Sam and Mallory clash over the issue of private-school vouchers.
 
-## Character Review
+## Review
 
 Gina takes the protection of privacy and safety of Zoey as the most important thing in her life.
 
-## Character Notes
+## Notes
 
 * Gina won't betray Zoey's confidence.
 

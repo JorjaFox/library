@@ -22,11 +22,11 @@ When they determine the shark doesn't come from Boozell's tank, the prime suspec
 
 Conveniently, Holloway is found dead in the shark tank at Boozell's, his oxygen tank tampered with and filled with car exhaust. The chemical ratios found in the tank matches those spewed from Boozell's car. The surveillance cameras show that a valet parker at Macklin's restaurant, Carne, used the exhaust from Boozell's car, while the two were making peace.
 
-## Character Review
+## Review
 
 When Boozell pesters Catherine, Sara steps in to support Catherine and their work as CSIs.
 
-## Character Notes
+## Notes
 
 * Sara's hand is still bandaged from her fight recently.
 
