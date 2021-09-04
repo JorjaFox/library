@@ -16,6 +16,7 @@ params:
 outputs:
   home: [ "HTML", "JSON" ]
   page: [ "HTML" ]
+googleAnalytics: UA-6548280-1
 
 markup:
   goldmark:

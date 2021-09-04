@@ -20,18 +20,21 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 10px;
 }
 
-.star-rating object {
+.star-rating object, .star-rating svg {
     width: 20px;
     height: 20px;
+    padding: 0px;
 }
-svg#grey-star {
+svg#grey-star, .star-grey svg, .star-grey-star svg {
     fill: #808080;
 }
-svg#red-star {
-    fill: #F00;
+svg#red-star, .star-red svg {
+    stroke: #F00;
+    stroke-width: 2px;
+    fill: transparent;
 }
-svg#gold-star {
-    fill: #FFD700;
+svg#gold-star, .star-gold svg, .star-gold-star svg {
+    fill: #ffc107;
 }
 
 /* Actor Page */
@@ -104,8 +107,8 @@ div.TableOfContents {
   border: 0!important;
 }
 
-div.flf-episode-list table.table-borderless {
-    border: 1px solid!important;
+.table-news, .table-transcripts, .table-episodelist {
+    border: 1px solid #dee2e6!important;
 }
 
 div.flf-episode-list thead {
@@ -113,3 +116,5 @@ div.flf-episode-list thead {
 }
 
 li.borderless { border: 0 none; }
+
+ul.navbar-nav { margin: 0 1rem; }

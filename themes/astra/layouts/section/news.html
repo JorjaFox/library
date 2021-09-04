@@ -1,6 +1,11 @@
 {{ partial "_header.html" . }}
 
-{{ .Content }}
+<div class="clearfix">
+	<div class="episode-card col-md-6 float-md-end mb-3 ms-md-3" style="width: 5rem;">
+		<span class="section-index">{{ partial "svg.html" "newspaper" }}</span>
+	</div>
+	{{ .Content }}
+</div>
 
 {{ partial "news-footer.html" . }}
 

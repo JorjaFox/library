@@ -8,9 +8,8 @@
 		<center><strong><small><em><a href="/library/actor/{{ $showslug }}/">{{ $showname }}</a></em> Episode</small></strong></center>
 
 		<ul class="list-group list-group-flush">
-			<li class="list-group-item"><a href="/library/actor/{{ $showslug }}-episodes/#season-{{.season}}">Season {{ .season }}</a> Episode {{ .epnum }}</li>
-			{{ if .prodnum}}<li class="list-group-item"><strong>Production code:</strong> {{ .prodnum }}</li>{{ end }}
-			<li class="list-group-item"><strong>Original Airing:</strong> {{ dateFormat "02 January 2006" .airdate }}</li>
+			<li class="list-group-item"><a href="/library/actor/{{ $showslug }}-episodes/#season-{{.season}}">Season {{ .season }}</a>, Episode {{ .epnum }}{{ if .prodnum}} ({{ .prodnum }}){{ end }}</li>
+			<li class="list-group-item">{{ dateFormat "02 January 2006" .airdate }}</li>
 		</ul>
 	{{ end }}
 {{ end }}

@@ -2,11 +2,10 @@
 
 <div class="clearfix">
 	<div class="episode-card col-md-6 float-md-end mb-3 ms-md-3" style="width: 5rem;">
-		<span class="section-index">{{ partial "svg.html" "chat-bubbles-alt" }}</span>
+		<span class="section-index">{{ partial "svg.html" "help" }}</span>
 	</div>
+	{{ if not .Params.notoc }}{{ partial "toc.html" . }}{{ end }}
 	{{ .Content }}
 </div>
-
-{{ partial "transcripts-footer.html" . }}
 
 {{ partial "_footer.html" . }}

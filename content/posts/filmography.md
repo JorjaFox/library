@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: subindex
 title: Filmography
 author: "Mika A. Epstein"
 permalink: /filmography/
