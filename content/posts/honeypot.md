@@ -16,4 +16,4 @@ Most of their plays are performed in small community theaters (or, as they've sa
 
 ## Productions
 
-{{< filmography company="Honeypot Productions" >}}
+{{< filmography company="Honeypot Productions" showtoc="false" >}}

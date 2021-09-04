@@ -1,9 +1,9 @@
 ---
-layout: page
 title: About Jorja Fox's Career
 categories: ["FAQ"]
 tags: ["jorja fox", "career"]
 layout: single
+whichtoc: toc_faq.html
 ---
 
 The following questions pertain to Jorja's career on TV and in movies.

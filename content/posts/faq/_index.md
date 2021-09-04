@@ -5,6 +5,8 @@ layout: single
 permalink: /faq/
 categories: ["FAQ"]
 tags: ["index"]
+icon: help
+whichtoc: toc_faq.html
 ---
 
 Find the answers for the most frequently asked questions below:

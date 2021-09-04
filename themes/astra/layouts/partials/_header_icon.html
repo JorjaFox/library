@@ -1,0 +1,42 @@
+{{ $icon := "library" }}
+{{ if isset .Params "icon" }}
+	{{ $icon = .Params.icon }}
+{{ else }}
+	{{ with .File }}
+		{{ $folder := index (split .File.Dir "/") 0 }}
+		{{ with (eq $folder "actor") }}
+			{{ $icon = "theater-masks" }}
+		{{ end }}
+		{{ with (eq $folder "advocacy") }}
+			{{ $icon = "earth" }}
+		{{ end }}
+		{{ with (eq $folder "biographies") }}
+			{{ $icon = "book-person" }}
+		{{ end }}
+		{{ with (eq $folder "faq") }}
+			{{ $icon = "help" }}
+		{{ end }}
+		{{ with (eq $folder "news") }}
+			{{ $icon = "newspaper" }}
+		{{ end }}
+		{{ with (eq $folder "producer") }}
+			{{ $icon = "film-strip" }}
+		{{ end }}
+		{{ with (eq $folder "recaps") }}
+			{{ $icon = "tv" }}
+		{{ end }}
+		{{ with (eq $folder "self") }}
+			{{ $icon = "person" }}
+		{{ end }}
+		{{ with (eq $folder "transcript") }}
+			{{ $icon = "chat-bubbles-alt" }}
+		{{ end }}
+		{{ with (eq $folder "writer") }}
+			{{ $icon = "pencil-paintbrush" }}
+		{{ end }}
+	{{ end }}
+{{ end }}
+
+{{ if .Params.notoc }}<a name="toc">{{ end }}
+{{ partial "svg.html" $icon }}</span>
+{{ if .Params.notoc }}</a>{{ end }}

@@ -17,12 +17,12 @@
 			<h5 class="card-header">"{{ title .Title }}"</h5>
 			<div class="card-body">
 				<center>
-					{{ partial "recap-tv-rating.html" . }}
-					{{ partial "recap-tv-gallery.html" . }}
+					{{ partial "recaps/rating.html" . }}
+					{{ partial "recaps/gallery.html" . }}
 				</center>
-				{{ partial "recap-tv-episode.html" . }}
+				{{ partial "recaps/episode.html" . }}
 			</div>
-			{{ partial "recap-tv-chronology.html" . }}
+			{{ partial "recaps/chronology.html" . }}
 		</div>
 	</div>
 

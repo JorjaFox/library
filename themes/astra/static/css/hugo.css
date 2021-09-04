@@ -18,6 +18,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .star-rating {
 	margin-bottom: 10px;
+    margin-right: -5px;
+    min-width: 120px;
 }
 
 .star-rating object, .star-rating svg {
@@ -59,6 +61,7 @@ div.episode-card ul {
 }
 
 /* SVG */
+h1 svg,
 .faq-svg svg,
 .list-svg svg {
     width: 25px;

@@ -1,7 +1,21 @@
 {{ partial "_header.html" . }}
 
-{{ if not .Params.notoc }}{{ partial "toc.html" . }}{{ end }}
-
-{{ .Content }}
+<div class="container">
+		{{ if not .Params.notoc }}
+		<div class="row">
+			{{ if isset .Params "whichtoc" }}
+				<div class="col-7">{{ .Content }}</div>
+				<div class="col-5">{{ partial .Params.whichtoc . }}</div>
+			{{ else }}
+				<div class="col-12">
+					{{ partial "toc.html" . }}
+					{{ .Content }}
+				</div>
+			{{ end }}
+			</div>
+		{{ else }}
+			{{ .Content }}
+		{{ end }}
+</div>
 
 {{ partial "_footer.html" . }}

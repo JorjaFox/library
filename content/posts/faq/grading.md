@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Grading
 categories: ["FAQ"]
 tags: ["website"]
 layout: single
+whichtoc: toc_faq.html
 ---
 
 Grading is a fairly subjective way of rating a TV show or movie by way of how much is Jorja Fox's character involved, and how much screen time does she get.

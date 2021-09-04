@@ -1,5 +1,6 @@
 {{ $role := .Get "type" }}
 {{ $company := .Get "company" }}
+{{ $showtoc := .Get "showtoc" }}
 
 {{ if .Get "company" }}
 &nbsp;
@@ -14,12 +15,14 @@
 	</ol>
 &nbsp;
 {{ else }}
-	<table class="table table-striped" width="100%"><tbody>
-	<tr>
-		<th> Title </th>
-		<th> Date(s)</th>
-	</tr>
-
+	<table class="table table-striped" width="100%">
+	<thead class="table-success table-borderless">
+		<tr>
+			<th> Title </th>
+			<th> Date(s)</th>
+		</tr>
+	</thead>
+	<tbody>
 	{{ range $.Page.Site.Data.filmography }}
 
 		{{ if eq $role .role }}
@@ -40,7 +43,7 @@
 
 {{ end }}
 
-{{ if not .Params.notoc }}
+{{ if and (not .Params.notoc) (ne $showtoc "false") }}
 <br />
 <center><a class="btn btn-success" href="#toc">Return to Top</a></center>
 {{ end }}

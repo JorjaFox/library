@@ -35,7 +35,7 @@
 
 </head>
 
-<body itemtype='https://schema.org/Blog' itemscope='itemscope' class="post-template-default single single-post single-format-standard ast-desktop ast-separate-container ast-two-container ast-right-sidebar astra-3.0.2 ast-header-custom-item-inside group-blog ast-blog-single-style-1 ast-single-post ast-inherit-site-logo-transparent ast-sticky-main-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled ast-normal-title-enabled astra-addon-3.0.1">
+<body itemtype='https://schema.org/Blog' itemscope='itemscope' class="post-template-default single single-post single-format-standard ast-desktop ast-separate-container ast-two-container ast-right-sidebar ast-header-custom-item-inside group-blog ast-blog-single-style-1 ast-single-post ast-inherit-site-logo-transparent ast-sticky-main-shrink ast-sticky-header-shrink ast-inherit-site-logo-sticky ast-primary-sticky-enabled ast-normal-title-enabled astra-addon-3.0.1">
 
 <!--[if IE]>
 	<script src='https://jorjafox.net/wordpress/wp-content/themes/astra/assets/js/minified/flexibility.min.js' id='astra-flexibility-js'></script>
@@ -199,14 +199,14 @@ A fansite celebrating the actor and activist, Jorja Fox
 						<article class="post hentry ast-article-post" id="post-library" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
 							<header class="entry-header">
 								<div class="ast-single-post-order">
-									<h1 class="entry-title" itemprop="headline">{{ .Title }}</h1>
+									<h1 class="entry-title" itemprop="headline">{{ partial "_header_icon.html" . }}{{ .Title }}</h1>
 									<div class="entry-meta">
 										{{ if ne .Params.layout "index" }}
 											<span class="cat-links">
 												{{ if ne .Params.layout "search" }}
 													{{ partial "breadcrumbs.html" . }}
 												{{ else }}
-													<a href="/library/">Library</a>
+													<a href="/library/">Fans of LeFox Library</a>
 												{{ end }}
 											</span>
 										{{ end }}

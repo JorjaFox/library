@@ -1,5 +1,5 @@
 ---
-layout: subindex
+layout: single
 title: Filmography
 author: "Mika A. Epstein"
 permalink: /filmography/
@@ -7,6 +7,7 @@ categories: ["General"]
 tags:
   - Movies
   - Television
+icon: film-strip
 ---
 A filmography is, in essence, the resume of a performer, listing all their cinematic achievements. This filmography has been broken down by section, to aid in sorting her work.
 

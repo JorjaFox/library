@@ -2,10 +2,11 @@
 title: "Seafox Productions"
 author: "Mika A. Epstein"
 permalink: /seafox/
-layout: subindex
+layout: single
 categories: ["Filmography"]
 tags: ["producer", "company"]
 notoc: true
+icon: water
 ---
 
 Seafox Productions is an independent film, television and theatre company based in Los Angeles, California. To date, Seafox Productions has focuses on documentary and biographical projects that highlight the critical inter-connectedness between humans and the natural world.
@@ -20,11 +21,11 @@ Seafox Productions is an independent film, television and theatre company based 
 
 ## Projects
 
-{{< filmography company="Seafox Productions" >}}
+{{< filmography company="Seafox Productions" showtoc="false" >}}
 
 ## See Also
 
 {{< list/ol >}}
-	{{< list/li link="https://www.seafoxproductions.com/" title="Seafox Productions" >}}
+	{{< list/li link="https://www.seafoxproductions.com/" title="Seafox Productions" target="_new" >}}
 	{{< list/li link="/library/honeypot/" title="Honeypot Productions" >}}
 {{< list/end >}}

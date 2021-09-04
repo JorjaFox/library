@@ -13,8 +13,16 @@
 		<li class="list-group-item">
 			<span class="list-svg">{{ partial "svg" "person" }}</span> <a href="{{ .Permalink }}">{{ .Title }}</a>
 			{{ if not .Lastmod.IsZero }}
-				{{ $timesince := div (sub now.Unix .Lastmod.Unix) 86400 }}
-				{{ if le $timesince 30 }}<span class="badge rounded-pill bg-success">NEW!</span>{{ end }}
+			<script>
+				// Current Date
+				var pubdate = new Date( {{ .Lastmod }} );
+				var nowdate = new Date();
+				var diff    = parseInt( ( nowdate.getTime() - pubdate.getTime() ) / ( 1000 * 60  * 60 * 24 ) );
+
+				if ( diff <=  30 )
+					document.write( "<span class='badge rounded-pill bg-success'>NEW!</span>" );
+				javascript: ;
+			</script>
 			{{ end }}
 		</li>
 	{{ end }}
