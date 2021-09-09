@@ -18,12 +18,12 @@ All content lives in `content`
 
 ### Libraries
 
-* Bootstrap
+* [Bootstrap](https://getbootstrap.com/)
 * [Fuse.js](https://fusejs.io)
-* jQuery (core, migrate, UI)
+* jQuery ([core](https://jquery.com/), [UI](https://jqueryui.com/))
 * [Mark.js](https://markjs.io)
 
-All third party libraries are added to npm, so they are updated via npm:
+All third party libraries are added with node, so they are updated via npm:
 
 ```
 $ npm update
@@ -54,6 +54,12 @@ hugo v0.87.0+extended darwin/arm64 BuildDate=unknown
 Built in 1562 ms
 ```
 
+And you'll get a URL to test at, like `http://localhost:1313/library/`
+
+If everything looks good, you can exit out and push the code.
+
 ## Publishing
 
-This is pushed via rysnc, which is automated: `$ deployme jorjafox library`
+This is pushed via local rysnc, which is automated: `$ deployme jorjafox library`
+
+Only authorized accounts can publish, but pull requests are welcome.
