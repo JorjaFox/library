@@ -2,19 +2,31 @@
 
 This replaced the old Wiki. It's written in [Hugo](http://gohugo.io), which is a bajillion times faster than other tools have been.
 
-The theme is forked from whatever WordPress theme the blog is running.
+## Theme
+
+The theme is forked from whatever WordPress theme the blog is running. Currently based on [Astra](https://wpastra.com/).
 
 ## Updating
 
+Updating the site is done by adding new content in the 'content' folder.
+
 ### Content
 
-All content lives in `content`
-
-* Posts are in the `posts` folder.
+* All entries are in the `posts` folder.
+    - `/actor/` - all acting roles
+    - `/advocacy/` - all advocacy work
+    - `/biographies/` - all bios from all sources (movies, TV, etc)
+    - `/faq/` - Frequently asked questions
+    - `/news/` - news articles, separated by year
+    - `/producer/` - all work done as a producer
+    - `/recaps/` - TV episode recaps
+    - `/self/` - appearances in media as herself
+    - `/transcripts/` - interviews, online and off, sorted by year
+    - `/writer/` - work done as a writer
 * Formatted data is in the `data` folder.
     - filmography.json - acting, writing, self, etc.
     - episodes/* - All the eps for the TV shows.
-* Static content (like images) are in `static`
+* Static content (like images and global CSS/JS) are in `static`
 
 ### Libraries
 
@@ -29,6 +41,8 @@ All third party libraries are added with node, so they are updated via npm:
 $ npm update
 $ npm install
 ```
+
+The post install script will automatically copy the files to the right locations.
 
 ## Testing
 
