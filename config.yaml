@@ -13,6 +13,9 @@ params:
   Subtitle: "The goal of the Fans of LeFox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."
   StaticURL: "https://jorjafox.net/static"
   HomeURL: "https://jorjafox.net"
+  Bootstrap: "5.1.1"
+  jQuery: "3.6.0"
+  jQueryUI: "1.12.1"
 outputs:
   home: [ "HTML", "JSON" ]
   page: [ "HTML" ]
