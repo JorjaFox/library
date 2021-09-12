@@ -58,25 +58,35 @@
 		<div class="row no-gutters">
 			<div class="col-md-6">
 				<div class="card-body">
-					<img src="{{ .Params.image | default "images/placeholder.png" | absURL }}" alt="{{ .Params.character }}" width="300px" class="img-thumbnail">
+					<img src="{{ .Params.image | default "images/placeholder.png" | absURL }}" alt="{{ .Params.character }}" width="300px" class="img-thumbnail rounded">
 				</div>
 			</div>
 			<div class="col-md-6">
 				<div class="card-body">
 					<ul class="list-group list-group-flush actor-list-group">
 						{{ if $year }}<li class="list-group-item">{{ $year }}{{ if $genre }} &bull; {{ $genre }}{{ end }}</li>{{ end }}
-						{{ if $station }}<li class="list-group-item">{{ $station }}</li>{{ end }}
-						{{ if or .Params.website .Params.imdb }}<li class="list-group-item">
-							{{ if .Params.website }}<a href="{{ .Params.website }}" target="_blank">Official Website</a>{{ end }}{{ if .Params.imdb }}{{ if .Params.website }} &bull; {{ end }}<a href="{{ .Params.imdb }}" target="_blank">IMDb</a>{{ end }}
-						</li>{{ end }}
+						<li class="list-group-item">
+							{{ if $station }}{{ $station }}{{ end }}
+							{{ if .Params.website }}&bull; <a href="{{ .Params.website }}" target="_blank"><span class="list-icon" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Official Website">{{ partial "svg.html" "world" }}</span></a>{{ end }}{{ if .Params.imdb }}&bull; <a href="{{ .Params.imdb }}" target="_blank"><span class="list-icon" data-bs-toggle="tooltip" data-bs-placement="bottom" title="IMDb">{{ partial "svg.html" "imdb" }}</span></a>{{ end }}
+						</li>
 						{{ if or $seasons $episodes $notes $jorjan }}<li class="list-group-item">
 							{{ if $seasons }}for {{$seasons}} season{{ if gt $seasons "1" }}s{{end}}{{ end }}{{ if $episodes }}for {{$episodes}} episode{{ if gt $episodes "1" }}s{{end}}{{ end }}
 							{{ if $jorjan }} <small>[Credited as Jorjan Fox]</small>{{ end }}
 							{{ if $notes }}<br /><small>{{ $notes | safeHTML }}</small>{{ end }}
 						</li>{{ end }}
 						{{ if or .Params.gallery .Params.episodelist }}<li class="list-group-item">
-						{{ if .Params.gallery }}<a href="{{.Params.gallery}}">Gallery</a>{{ if .Params.episodelist }}  &bull; {{end}}{{ end }}
-						{{ if .Params.episodelist }}<a href="/library/actor/{{ .File.TranslationBaseName }}-episodes/">List of Episodes</a>{{ end }}
+
+						<center>
+						{{ if .Params.gallery }}
+							<a href="{{.Params.gallery}}" target="_blank"><span class="list-icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Gallery Available">{{ partial "svg.html" "camera-retro" }}</span></a>
+						{{ else }}
+							<span class="list-icon" data-bs-toggle="tooltip" data-bs-placement="top" title="No Gallery Available">{{ partial "svg.html" "camera-off" }}</span>
+						{{ end }}
+						&bull;
+						{{ if .Params.episodelist }}
+							<a href="/library/actor/{{ .File.TranslationBaseName }}-episodes/"><span class="list-icon" data-bs-toggle="tooltip" data-bs-placement="bottom" title="List of Episodes">{{ partial "svg.html" "writing" }}</span></a>
+						{{ end }}
+						</center>
 						</li>{{ end }}
 					</ul>
 				</div>

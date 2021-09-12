@@ -6,7 +6,7 @@
 	{{ $alert = .Get "alert" }}
 {{ end }}
 
-<div class="alert alert-{{ $alert }}" role="alert">
+<div class="alert alert-{{ $alert }} shadow rounded" role="alert">
 	{{ if .Get "content" }}
 		{{ .Get "content" }}
 	{{ else }}

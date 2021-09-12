@@ -1,4 +1,13 @@
-{{ $date := $.Page.Date.Format "2006" }}
+{{ $pagedate := $.Page.Date.Format "2006" }}
+{{ $order    := "normal" }}
+{{ $count    := 1 }}
+{{ $thisdate := now.Format "2006" }}
+{{ $tags     := slice $pagedate }}
+
+{{ $yeartranscripts := ( where ( where ( where .Site.Pages.ByDate "Section" "transcript") "Params.interviewurl" "!=" nil ) ".Params.tags" "intersect" $tags ) }}
+{{ $len := len $yeartranscripts }}
+
+{{ if and (ne $len 0) (ne $order "reverse") }}<p>{{ $len }} news {{ if gt $len 1 }}transcripts{{ else }}transcript{{ end }} from {{ $pagedate }}.<p>{{ end }}
 
 <table class="table table-striped table-borderless table-hover table-transcripts">
 
@@ -10,30 +19,32 @@
 	</thead>
 
 	<tbody>
-	{{ range where $.Page.Site.Pages.ByDate "Section" "transcript" }}
-		{{ $thisdate := .Date.Format "2006" }}
-
-		{{ if and (eq $date $thisdate) (ne .Params.topic "index") (isset .Params "interviewurl") }}
+		{{ if eq $len 0 }}
 			<tr>
-				<td>{{ .Date.Format "January 02" }}</td>
-				<td>
-					<a href="{{ .Permalink }}">{{ htmlUnescape .Title }}</a>
-					{{ if not .Lastmod.IsZero }}
-						<script>
-							// Current Date
-							var pubdate = new Date( {{ .Date }} );
-							var nowdate = new Date();
-							var diff    = parseInt( ( nowdate.getTime() - pubdate.getTime() ) / ( 1000 * 60  * 60 * 24 ) );
-
-							if ( diff <=  30 )
-								document.write( "<span class='badge rounded-pill bg-success'>NEW!</span>" );
-							javascript: ;
-						</script>
-					{{ end }}
-
-				</td>
+				<td colspan="2">There are no news articles for {{ $pagedate }}... yet.</td>
 			</tr>
+		{{ else }}
+			{{ range $yeartranscripts }}
+				<tr>
+					<td>{{ .Date.Format "January 02" }}</td>
+					<td>
+						<a href="{{ .Permalink }}">{{ htmlUnescape .Title }}</a>
+						{{ if not .Lastmod.IsZero }}
+							<script>
+								// Current Date
+								var pubdate = new Date( {{ .Date }} );
+								var nowdate = new Date();
+								var diff    = parseInt( ( nowdate.getTime() - pubdate.getTime() ) / ( 1000 * 60  * 60 * 24 ) );
+
+								if ( diff <=  30 )
+									document.write( "<span class='badge rounded-pill bg-success'>NEW!</span>" );
+								javascript: ;
+							</script>
+						{{ end }}
+
+					</td>
+				</tr>
+			{{ end }}
 		{{ end }}
-	{{ end }}
 	</tbody>
 </table>

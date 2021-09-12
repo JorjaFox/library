@@ -121,3 +121,15 @@ div.flf-episode-list thead {
 li.borderless { border: 0 none; }
 
 ul.navbar-nav { margin: 0 1rem; }
+
+.list-icon object, .list-icon svg {
+    width: 20px;
+    height: 20px;
+    padding: 0px;
+}
+
+/* Images */
+
+.rounded {
+    border-radius: 1.25rem!important;
+}

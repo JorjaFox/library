@@ -96,5 +96,11 @@ Powered by <strong><a href="https://wpastra.com/?bsf=5672">Astra</a></strong> on
 
 	<script src='/library/js/astra-addon.js?ver={{ .Site.Params.Version }}'></script>
 
+	<script>
+		$(document).ready(function() {
+	    $("body").tooltip({ selector: '[data-bs-toggle=tooltip]' });
+	});
+	</script>
+
 </body>
 </html>
