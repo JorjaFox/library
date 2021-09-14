@@ -80,4 +80,6 @@ folks that were coming on
 
 **Turner:** Is that the one where she's in the desert?
 
-**Zuiker:**  That's where she has the doppelgänger look-alike. Awesome. "Butterflied.""
+**Zuiker:**  That's where she has the doppelgänger look-alike. Awesome. "Butterflied."
+
+[...]
