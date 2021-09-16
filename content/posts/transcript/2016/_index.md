@@ -9,4 +9,4 @@ categories: ["Interviews"]
 tags: ["2016"]
 ---
 
-{{< transcript >}}
+{{< transcripts >}}

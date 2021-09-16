@@ -76,6 +76,12 @@ h1 svg,
     margin: 5px;
 }
 
+div.card.newsarticle h2 {
+    font-size: 20px;
+    font-size: 1.25rem;
+    margin-bottom: 1.75em;
+}
+
 /* Search */
 
 div.card.search-results mark {

@@ -8,4 +8,4 @@ permalink: /transcript/2009/
 categories: ["Interviews"]
 tags: [""]
 ---
-{{< transcript >}}
+{{< transcripts >}}

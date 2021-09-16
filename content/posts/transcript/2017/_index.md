@@ -9,4 +9,4 @@ categories: ["Interviews"]
 tags: ["2017"]
 ---
 
-{{< transcript >}}
+{{< transcripts >}}

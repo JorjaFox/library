@@ -9,4 +9,4 @@ categories: ["Interviews"]
 tags: ["2021"]
 ---
 
-{{< transcript >}}
+{{< transcripts >}}

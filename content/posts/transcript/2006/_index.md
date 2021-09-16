@@ -9,4 +9,4 @@ categories: ["Interviews"]
 tags: [""]
 ---
 
-{{< transcript >}}
+{{< transcripts >}}

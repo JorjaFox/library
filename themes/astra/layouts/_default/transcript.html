@@ -3,18 +3,16 @@
 <div class="card">
 	{{ if .Params.interviewurl }}
 	<div class="card-header">
-		<strong>{{.Title}}</strong><br />{{ .Date.Format "January 02, 2006" }}
+		<strong>{{.Title}}</strong> &mdash; {{ .Date.Format "January 02, 2006" }}
 	</div>
 	{{ end }}
 	<div class="card-body">
 		{{ .Content }}
 	</div>
 
-	{{ if .Params.interviewurl }}
 	<div class="card-footer">
-		<b>Source:</b> <a href="{{.Params.interviewurl}}" target="_blank">{{.Title}}</a> | <b>Transcriber:</b> {{.Params.author}}
+		Transcript by {{.Params.author}} &mdash; &copy; <strong>{{.Title}}</strong> {{ if .Params.interviewurl }}; <a href="{{.Params.interviewurl}}" target="_blank">Original Source</a>{{end }} (accessed {{ .Date.Format "02 January 2006" }})
 	</div>
-	{{ end }}
 </div>
 
 {{ partial "footers/transcripts.html" . }}

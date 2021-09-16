@@ -27,7 +27,7 @@
 	<tbody>
 	{{ if eq $len 0 }}
 		<tr>
-			<td colspan="3">There are no news articles for {{ $pagedate }}... yet.</td>
+			<td colspan="3">There are no news articles for {{ $pagedate }} yet.</td>
 		</tr>
 	{{ else if eq $order "reverse" }}
 		{{ range first $count $yearnews.Reverse }}
