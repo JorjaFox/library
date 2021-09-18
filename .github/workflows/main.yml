@@ -13,17 +13,15 @@ jobs:
         with:
           submodules: true
 
-      - name: Set the value
+      - name: Verify Workspace
         run: |
           echo "GITHUB_WORKSPACE: ${GITHUB_WORKSPACE}"
 
-      - name: Generate and deploy website
-        uses: ronvanderheijden/hugo-rsync-deployment@master
-        env:
-          VPS_DEPLOY_KEY: ${{ secrets.FLF_DEPLOY_KEY }}
-          VPS_DEPLOY_USER: jorjafox
-          VPS_DEPLOY_HOST: jorjafox.net
-          VPS_DEPLOY_DEST: /home/jorjafox/jorjafox.net/library/
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
         with:
-          hugo-arguments: '--minify'
-          rsync-arguments: '--archive --compress --xattrs --delete'
+          hugo-version: 'latest'
+          # extended: true
+          
+      - name: Build Hugo
+        run: hugo --minify
