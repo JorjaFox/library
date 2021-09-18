@@ -13,6 +13,7 @@ jobs:
         with:
           submodules: true
           repository: jorjafox/library
+          path: library
 
       - name: Generate and deploy website
         uses: ronvanderheijden/hugo-rsync-deployment@master
