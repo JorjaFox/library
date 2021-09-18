@@ -12,6 +12,7 @@ jobs:
         uses: actions/checkout@master
         with:
           submodules: true
+          repository: jorjafox/library
 
       - name: Generate and deploy website
         uses: ronvanderheijden/hugo-rsync-deployment@master
