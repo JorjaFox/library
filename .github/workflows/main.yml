@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Do a git checkout including submodules
-        uses: actions/checkout@main
+        uses: actions/checkout@v2
         with:
           submodules: true
           repository: jorjafox/library
