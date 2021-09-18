@@ -13,6 +13,8 @@ The following is a list of episodes from the CBS television series, _[CSI: Vegas
 
 For the prequel episodes, please see [_CSI: Crime Scene Investigation_ Episodes](/library/actor/csi-episodes/)
 
+**All future airdates and information is subject to change without notice. Please check your local listings (or [CBS' official CSI page](https://www.cbs.com/shows/csi-vegas/)) for the most current information.**
+
 ## Season 1
 
 {{< episodelist season="1" >}}

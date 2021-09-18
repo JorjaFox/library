@@ -5,13 +5,102 @@
     {
         "season": "1",
         "epnum": "1",
-        "prodnum": "",
         "title": "Legacy",
         "slug": "0101-legacy",
         "airdate": "2021-10-06T22:00:00.000Z",
         "rating": "na",
         "summary": "An attack on Jim Brass kicks off a twisted conspiracy targeting the Las Vegas crime lab. Sara Sidle returns to investigate with a new team of CSIs on the series premiere.",
-        "gallerylink": null
+        "gallerylink": ""
+    },
+    {
+        "season": "1",
+        "epnum": "2",
+        "title": "Honeymoon in Vegas",
+        "slug": "",
+        "airdate": "2021-10-13T22:00:00.000Z",
+        "rating": "na",
+        "summary": "",
+        "gallerylink": ""
+    },
+    {
+        "season": "1",
+        "epnum": "3",
+        "title": "Under the Skin",
+        "slug": "",
+        "airdate": "2021-10-20T22:00:00.000Z",
+        "rating": "na",
+        "summary": "",
+        "gallerylink": ""
+    },
+    {
+        "season": "1",
+        "epnum": "4",
+        "title": "",
+        "slug": "",
+        "airdate": "2021-10-27T22:00:00.000Z",
+        "rating": "na",
+        "summary": "",
+        "gallerylink": ""
+    },
+    {
+        "season": "1",
+        "epnum": "5",
+        "title": "",
+        "slug": "",
+        "airdate": "",
+        "rating": "na",
+        "summary": "",
+        "gallerylink": ""
+    },
+    {
+        "season": "1",
+        "epnum": "6",
+        "title": "Fun House",
+        "slug": "",
+        "airdate": "2021-11-10T22:00:00.000Z",
+        "rating": "na",
+        "summary": "",
+        "gallerylink": ""
+    },
+    {
+        "season": "1",
+        "epnum": "7",
+        "title": "In the Blood",
+        "slug": "",
+        "airdate": "2021-11-17T22:00:00.000Z",
+        "rating": "na",
+        "summary": "",
+        "gallerylink": ""
+    },
+    {
+        "season": "1",
+        "epnum": "8",
+        "title": "",
+        "slug": "",
+        "airdate": "",
+        "rating": "na",
+        "summary": "",
+        "gallerylink": ""
+    },
+    {
+        "season": "1",
+        "epnum": "9",
+        "title": "",
+        "slug": "",
+        "airdate": "",
+        "rating": "na",
+        "summary": "",
+        "gallerylink": ""
+    },
+    {
+        "season": "1",
+        "epnum": "5",
+        "title": "",
+        "slug": "",
+        "airdate": "",
+        "rating": "na",
+        "summary": "",
+        "gallerylink": ""
     }
   ]
 }
