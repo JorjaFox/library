@@ -25,6 +25,17 @@ jobs:
       - name: Verify Workspace
         run: |
           echo "GITHUB_WORKSPACE: ${GITHUB_WORKSPACE}"
-      - name: Verify Workspace
+      - name: Verify Folder
         run: |
           ls -lah ${GITHUB_WORKSPACE}/public/
+
+      - name: Deploy to Server
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
+          ARGS: "-rltgoDzvO"
+          SOURCE: "public/"
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          TARGET: ${{ secrets.REMOTE_TARGET }}
+          EXCLUDE: "/dist/, /node_modules/"
