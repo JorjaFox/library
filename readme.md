@@ -74,6 +74,6 @@ If everything looks good, you can exit out and push the code.
 
 ## Publishing
 
-This is pushed via local rysnc, which is automated: `$ deployme jorjafox library`
+Automated deployments happen when pushing to the `production` branch.
 
 Only authorized accounts can publish, but pull requests are welcome.
