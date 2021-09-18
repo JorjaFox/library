@@ -1,0 +1,27 @@
+name: 'Generate and deploy'
+
+on:
+  push:
+    branches: [ production ]
+  pull_request:
+    branches: [ production ]
+
+jobs:
+  deploy-website:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Do a git checkout including submodules
+        uses: actions/checkout@master
+        with:
+          submodules: true
+
+      - name: Generate and deploy website
+        uses: ronvanderheijden/hugo-rsync-deployment@master
+        env:
+          VPS_DEPLOY_KEY: ${{ secrets.FLF_DEPLOY_KEY }}
+          VPS_DEPLOY_USER: jorjafox
+          VPS_DEPLOY_HOST: jorjafox.net
+          VPS_DEPLOY_DEST: /home/jorjafox/jorjafox.net/library/
+        with:
+          hugo-arguments: '--minify'
+          rsync-arguments: '--archive --compress --xattrs --delete'
