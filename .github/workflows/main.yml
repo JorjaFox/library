@@ -14,9 +14,8 @@ jobs:
           submodules: true
 
       - name: Set the value
-        id: step_one
         run: |
-          echo "/home/runner/work/library/library" >> $GITHUB_WORKSPACE
+          echo "GITHUB_WORKSPACE: ${GITHUB_WORKSPACE}"
 
       - name: Generate and deploy website
         uses: ronvanderheijden/hugo-rsync-deployment@master
