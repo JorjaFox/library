@@ -9,7 +9,8 @@ newstitle: "‘CSI: Vegas,’ ‘NCIS: Hawaii’ & More Spinoffs of Your Fave Pr
 newsauthor: "TV Insider Staff"
 newssource: "TV Insider"
 newsurl: https://www.tvinsider.com/1001781/fall-2021-tv-preview-law-order-for-the-defense-csi-vegas-ncis-hawaii-fbi-international/
-
+aliases:
+    - /news/2021/tvinsider-20210716/
 ---
 
 [...]

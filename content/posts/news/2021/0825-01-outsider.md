@@ -9,7 +9,8 @@ newstitle: "‘CSI: Vegas’: William Petersen & Jorja Fox Explain How They ‘P
 newsauthor: "Lauren Boisvert "
 newssource: "Outsider"
 newsurl: https://outsider.com/news/entertainment/csi-vegas-william-petersen-jorja-fox-explain-how-they-pulled-jimmy-buffett-for-new-show/
-
+aliases:
+    - /news/2021/outsider-20210825-01/
 ---
 
 In the new series _CSI: Vegas_, CSI alums William Petersen and Jorja Fox are “wasting away again in Margaritaville.”
@@ -30,7 +31,7 @@ The couple tried to keep their relationship a secret, but co-workers started to 
 
 ## What’s in Store for ‘_CSI: Vegas_’?
 
-So, why would Grissom and Sara leave all that behind for Las Vegas?  
+So, why would Grissom and Sara leave all that behind for Las Vegas?
 
 “Somebody accuses the Crime Lab of having falsified evidence,” says Petersen, “and it goes back over a long period of time.” This seems like the perfect opportunity to bring back two original members of the CSI team. Executive producer Jason Tracey further explains, saying, “Someone’s targeting the lab. A conspiracy calls into question the integrity of the work we always saw get done.”
 

@@ -9,7 +9,8 @@ newstitle: "'CSI: Vegas': William Petersen and Jorja Fox on Why They 'Jumped' at
 newsauthor: "Phillipa Ng"
 newssource: "ET"
 newsurl: https://www.etonline.com/csi-vegas-william-petersen-and-jorja-fox-on-why-they-jumped-at-chance-to-return-171762
-
+aliases:
+    - /news/2021/etonline-20210909/
 ---
 
 _CSI: Vegas_ is off and running.

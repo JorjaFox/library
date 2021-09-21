@@ -9,7 +9,8 @@ newstitle: "‘CSI: Vegas’ Has ‘Ace in the Hole’ with New Promo"
 newsauthor: "Joe Rutland"
 newssource: "Outsider"
 newsurl: https://outsider.com/news/entertainment/csi-vegas-has-ace-in-hole-new-promo/
-
+aliases:
+    - /news/2021/outsider-20210903/
 ---
 
 Outsiders have been waiting for “CSI: Vegas” to premiere and that will happen. But the CBS drama has delivered a little morsel.

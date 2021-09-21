@@ -9,7 +9,8 @@ newstitle: "Fall Preview 2021"
 newsauthor: "Jim Halterman"
 newssource: "TV Guide Magazine"
 newsurl: https://www.tvguidemagazine.com/
-
+aliases:
+    - /news/2021/tvguidemagazine-20210930/
 ---
 
 Power up your remote! The new TV season shines bright with electric performances (Jeff Daniels! Jessica Chastain! Michael Keaton!) and memorable returns, starting with our favorite Sin City couple ...
