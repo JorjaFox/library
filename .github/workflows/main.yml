@@ -22,13 +22,6 @@ jobs:
       - name: Build Hugo
         run: hugo --minify
 
-      - name: Verify Workspace
-        run: |
-          echo "GITHUB_WORKSPACE: ${GITHUB_WORKSPACE}"
-      - name: Verify Folder
-        run: |
-          ls -lah ${GITHUB_WORKSPACE}/public/
-
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
         env:

@@ -44,6 +44,8 @@ $ npm install
 
 The post install script will automatically copy the files to the right locations.
 
+If there are new versions of libraries, make sure to update `congig.yaml` 
+
 ## Testing
 
 In the folder, run the Hugo build command: `$ hugo serve`
