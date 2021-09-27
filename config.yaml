@@ -8,6 +8,7 @@ dataDir: "content/data"
 staticDir: "content/static"
 pluralizelisttitles: "false"
 buildFuture: "true"
+
 params:
   Version: "2.2"
   Subtitle: "The goal of the Fans of LeFox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."
@@ -16,9 +17,17 @@ params:
   Bootstrap: "5.1.1"
   jQuery: "3.6.0"
   jQueryUI: "1.12.1"
+
+outputFormats:
+  OEMBED:
+    name: "oembed"
+    path: "oembed"
+    mediaType: "text/html"
+
 outputs:
   home: [ "HTML", "JSON" ]
-  page: [ "HTML" ]
+  page: [ "HTML", "JSON", "OEMBED" ]
+
 googleAnalytics: UA-6548280-1
 
 markup:

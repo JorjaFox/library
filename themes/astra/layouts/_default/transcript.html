@@ -11,7 +11,7 @@
 	</div>
 
 	<div class="card-footer">
-		Transcript by {{.Params.author}} &mdash; &copy; <strong>{{.Title}}</strong> {{ if .Params.interviewurl }}; <a href="{{.Params.interviewurl}}" target="_blank">Original Source</a>{{end }} (accessed {{ .Date.Format "02 January 2006" }})
+		Transcript by {{ if .Params.author }}{{ .Params.author }}{{ else }}Anonymous{{ end }} &mdash; &copy; <strong>{{.Title}}</strong> {{ if .Params.interviewurl }}; <a href="{{ .Params.interviewurl }}" target="_blank">Original Source</a>{{ end }} (accessed {{ .Date.Format "02 January 2006" }})
 	</div>
 </div>
 
