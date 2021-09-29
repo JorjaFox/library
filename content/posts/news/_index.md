@@ -1,5 +1,5 @@
 ---
-title: News
+title: "News"
 author: "Mika A. Epstein"
 permalink: /news/
 categories: [News]

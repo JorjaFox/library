@@ -1,5 +1,5 @@
 ---
-title: Advocacy
+title: "Advocacy"
 author: "Mika A. Epstein"
 layout: advocacy
 permalink: /advocacy/

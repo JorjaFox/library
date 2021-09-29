@@ -1,5 +1,5 @@
 ---
-title: News Articles ( 2014)
+title: "News Articles ( 2014)"
 author: "Mika A. Epstein"
 layout: news
 topic: index

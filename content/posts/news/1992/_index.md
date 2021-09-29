@@ -1,5 +1,5 @@
 ---
-title: News Articles (1992)
+title: "News Articles (1992)"
 author: "Mika A. Epstein"
 layout: news
 topic: index

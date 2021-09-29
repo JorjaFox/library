@@ -2,14 +2,11 @@
   "version": "1.0",
   "provider_name": "{{ .Site.Title }}",
   "provider_url": "{{ .Site.BaseURL }}",
-  "author_name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}Anonymous{{ end }}",
-  "title": "{{ .Title }} | {{ .Site.Title }}",
   "type": "rich",
   "width": 600,
   "height": 330,
-  "html": "<iframe src=\"{{ .Permalink }}iframe.html\" width=\"600\" height=\"338\" title=\"{{ .Title }}\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"hugo-embedded-content\"></iframe>",
-  "thumbnail_url": "{{ .Site.BaseURL }}/images/oembed-thumb.png",
-  "thumbnail_width": 100,
-  "thumbnail_height": 100,
-  "description": "{{ .Site.Params.Subtitle }}"
+  "title": "{{ .Title }} | {{ .Site.Title }}",
+  "url": "{{ .Permalink }}",
+  "author_name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}Anonymous{{ end }}",
+  "html": "<iframe src=\"{{ .Permalink }}iframe.html\" width=\"600\" height=\"338\" title=\"{{ .Title }}\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"hugo-embedded-content\"></iframe>"
 }
