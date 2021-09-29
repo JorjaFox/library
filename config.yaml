@@ -8,6 +8,8 @@ dataDir: "content/data"
 staticDir: "content/static"
 pluralizelisttitles: "false"
 buildFuture: "true"
+summaryLength: 10
+enableRobotsTXT: "true"
 
 params:
   Version: "2.2"
@@ -19,14 +21,21 @@ params:
   jQueryUI: "1.12.1"
 
 outputFormats:
-  OEMBED:
-    name: "oembed"
-    path: "oembed"
+  iframe:
+    name: "iframe"
+    baseName: "iframe"
     mediaType: "text/html"
+    isHTML: true
+  oembed:
+    name: "oembed"
+    baseName: "oembed"
+    mediaType: "application/json"
+    isPlainText: true
 
 outputs:
-  home: [ "HTML", "JSON" ]
-  page: [ "HTML", "JSON", "OEMBED" ]
+  home: [ "HTML", "JSON", "IFRAME", "OEMBED" ]
+  page: [ "HTML", "IFRAME", "OEMBED" ]
+  section: [ "HTML", "IFRAME", "OEMBED" ]
 
 googleAnalytics: UA-6548280-1
 

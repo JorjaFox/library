@@ -7,9 +7,9 @@
   "type": "rich",
   "width": 600,
   "height": 330,
-  "html": "<iframe src=\"{{ .Permalink }}/iframe.html\" width=\"600\" height=\"338\" title=\"{{ .Title }}\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"hugo-embedded-content\"></iframe>",
-  "thumbnail_url": "{{ .Site.BaseURL }}/static/oembed-thumb.png",
+  "html": "<iframe src=\"{{ .Permalink }}iframe.html\" width=\"600\" height=\"338\" title=\"{{ .Title }}\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"hugo-embedded-content\"></iframe>",
+  "thumbnail_url": "{{ .Site.BaseURL }}/images/oembed-thumb.png",
   "thumbnail_width": 100,
   "thumbnail_height": 100,
-  "description": "{{ .Summary }}"
+  "description": "{{ .Site.Params.Subtitle }}"
 }

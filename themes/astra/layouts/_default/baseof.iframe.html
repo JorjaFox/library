@@ -5,7 +5,7 @@
 	<base target="_top" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<style>
-		{{ partial "oembed.css" . }}
+		{{ partial "oembed.css" . | safeCSS }}
 	</style>
 	<meta name="robots" content="noindex, follow"/>
 	<link rel="canonical" href="{{ .Permalink }}" />
@@ -16,13 +16,13 @@
 			<a href="{{ .Permalink }}" target="_top">{{ .Title }}</a>
 		</p>
 		<div class="hugo-embed-excerpt">
-			<!-- EXCERPT GOES HERE -->
+			{{ .Summary }}...
 		</div>
 		<div class="hugo-embed-footer">
 			<div class="hugo-embed-site-title">
 				<a href="{{ .Site.BaseURL }}" target="_top">
-					<img src="<!-- ICON HERE -->" width="32" height="32" alt="" class="hugo-embed-site-icon"/>
-					<span>{{ .Site.BaseURL }}</span>
+					<img src="/library/images/oembed-icon.png" width="32" height="32" alt="{{ .Site.Title }}" class="hugo-embed-site-icon"/>
+					<span>{{ .Site.Title }}</span>
 				</a>
 			</div>
 		</div>
