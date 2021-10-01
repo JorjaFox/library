@@ -8,5 +8,5 @@
   "title": "{{ .Title }} | {{ .Site.Title }}",
   "url": "{{ .Permalink }}",
   "author_name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}Anonymous{{ end }}",
-  "html": "<iframe src=\"{{ .Permalink }}/iframe.html\" width=\"600\" height=\"338\" title=\"{{ .Title }}\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"hugo-embedded-content\"></iframe>",
+  "html": "<iframe src=\"{{ .Permalink }}/iframe.html\" width=\"600\" height=\"300\" title=\"{{ .Title }}\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"hugo-embedded-content\"></iframe>",
 }
