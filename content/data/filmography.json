@@ -1,47 +1,47 @@
 [
-    {
-      "role": "actor",
-      "title": "CSI: Vegas",
-      "slug": "csi-vegas",
-      "type": "TV Series",
-      "character": "Sara Sidle",
-      "notes": null,
-      "dates": 2021,
-      "station": "CBS",
-      "rating": "na",
-      "seasons": 1,
-      "chartype": "main",
-      "genre": "Crime Drama",
-      "excerpt": "<strong>CSI: Vegas</strong> opens a brand new chapter in Las Vegas, the city where it all began.",
-      "onair": true
-    },
-    {
-      "role": "actor",
-      "title": "The Map of Tiny Perfect Things",
-      "slug": "map-of-tiny-perfect-things",
-      "type": "Movie",
-      "character": "Greta",
-      "notes": null,
-      "dates": 2021,
-      "excerpt": "Two teens live the same day repeatedly, enabling them to create the titular map.",
-      "chartype": "supporting",
-      "rating": 3,
-      "genre": "Fantasy / Drama"
-    },
-    {
-      "role": "actor",
-      "title": "3022",
-      "slug": "3022",
-      "type": "Movie",
-      "character": "Diane Ures",
-      "notes": null,
-      "dates": 2019,
-      "excerpt": "A group of astronauts living in the emptiness of space awaken to find Earth has suffered an extinction level event. Marooned on a dying space station, they must fight for survival; fighting each other, unforeseen threats, and the horror of what it means to be the last humans alive.",
-      "character": "Diane Ures",
-      "chartype": "main",
-      "rating": 3,
-      "genre": "Sci-Fi"
-    },
+  {
+    "role": "actor",
+    "title": "CSI: Vegas",
+    "slug": "csi-vegas",
+    "type": "TV Series",
+    "character": "Sara Sidle",
+    "notes": null,
+    "dates": 2021,
+    "station": "CBS",
+    "rating": "na",
+    "seasons": 1,
+    "chartype": "main",
+    "genre": "Crime Drama",
+    "excerpt": "<strong>CSI: Vegas</strong> opens a brand new chapter in Las Vegas, the city where it all began.",
+    "onair": true
+  },
+  {
+    "role": "actor",
+    "title": "The Map of Tiny Perfect Things",
+    "slug": "map-of-tiny-perfect-things",
+    "type": "Movie",
+    "character": "Greta",
+    "notes": null,
+    "dates": 2021,
+    "excerpt": "Two teens live the same day repeatedly, enabling them to create the titular map.",
+    "chartype": "supporting",
+    "rating": 3,
+    "genre": "Fantasy / Drama"
+  },
+  {
+    "role": "actor",
+    "title": "3022",
+    "slug": "3022",
+    "type": "Movie",
+    "character": "Diane Ures",
+    "notes": null,
+    "dates": 2019,
+    "excerpt": "A group of astronauts living in the emptiness of space awaken to find Earth has suffered an extinction level event. Marooned on a dying space station, they must fight for survival; fighting each other, unforeseen threats, and the horror of what it means to be the last humans alive.",
+    "character": "Diane Ures",
+    "chartype": "main",
+    "rating": 3,
+    "genre": "Sci-Fi"
+  },
   {
     "role": "actor",
     "title": "Chiefs",
@@ -165,7 +165,6 @@
     "station": "NBC",
     "genre": "Political Drama",
     "excerpt": "<strong>The West Wing</strong> was a popular and widely acclaimed American television serial drama set in the White House during the fictional Democratic administration of Josiah 'Jed' Bartlet."
-
   },
   {
     "role": "actor",
@@ -197,7 +196,6 @@
     "chartype": "main",
     "genre": "Drama",
     "excerpt": "<strong>The True Story</strong> was a TV pilot about a surgical intern and her brother, a rookie cop, getting on with their life, now that their father was in jail for killing their mother when they were young children."
-
   },
   {
     "role": "actor",
