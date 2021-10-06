@@ -23,6 +23,7 @@
 			{{ $showdata.Set "episodes" .episodes }}
 			{{ $showdata.Set "notes" .notes }}
 			{{ $showdata.Set "jorjan" .jorjan }}
+			{{ $showdata.Set "watch" .watch }}
 		{{ end }}
 	{{ end }}
 
@@ -36,6 +37,7 @@
 	{{ $episodes := $showdata.Get "episodes" }}
 	{{ $notes := $showdata.Get "notes" }}
 	{{ $jorjan := $showdata.Get "jorjan" }}
+	{{ $watch := $showdata.Get "watch" }}
 
 	<!-- Excerpt/Details -->
 
@@ -75,7 +77,6 @@
 							{{ if $notes }}<br /><small>{{ $notes | safeHTML }}</small>{{ end }}
 						</li>{{ end }}
 						{{ if or .Params.gallery .Params.episodelist }}<li class="list-group-item">
-
 						<center>
 						{{ if .Params.gallery }}
 							<a href="{{.Params.gallery}}" target="_blank"><span class="list-icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Gallery Available">{{ partial "svg.html" "camera-retro" }}</span></a>
@@ -88,6 +89,7 @@
 						{{ end }}
 						</center>
 						</li>{{ end }}
+						{{ if $watch }}<li class="list-group-item"><center><a href="{{ $watch }}" target="_blank"><button type="button" class="btn btn-primary">Watch Online</button></a></center></li>{{ end }}
 					</ul>
 				</div>
 			</div>
