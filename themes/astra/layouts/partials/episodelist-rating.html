@@ -1,4 +1,5 @@
 {{ $grade := print .rating "-gold" }}
+{{ $stars := print .rating }}
 {{ if eq .rating "na" }}{{ $grade = "red" }}{{ end }}
 <a href="/library/faq/grading/#{{ $grade }}-stars" alt="Star Rating: {{ .rating }}">
 
@@ -9,7 +10,7 @@
     {{ else }}
         {{ $count := sub 5 ( int .rating ) }}
         {{ range $stargold, $seqgold := ( seq .rating ) }}
-            <span class="star-rating star-gold" data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - {{ .rating }} stars out of 5">{{ partial "svg.html" "star" }}</span>
+            <span class="star-rating star-gold" data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - {{ $stars }} stars out of 5">{{ partial "svg.html" "star" }}</span>
         {{ end }}
         {{ range $stargrey, $seqgrey := ( seq $count ) }}
             <span class="star-rating star-grey" data-bs-toggle="tooltip" data-bs-placement="top" title="Rating - 0 stars out of 5">{{ partial "svg.html" "star" }}</span>
