@@ -3,8 +3,6 @@
   "provider_name": "{{ .Site.Title }}",
   "provider_url": "{{ .Site.BaseURL }}",
   "type": "rich",
-  "width": 600,
-  "height": 330,
   "title": "{{ .Title }} | {{ .Site.Title }}",
   "url": "{{ .Permalink }}",
   "author_name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}Anonymous{{ end }}",
