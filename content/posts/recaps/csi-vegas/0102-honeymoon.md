@@ -18,7 +18,7 @@ Grissom joins Sara in Las Vegas and both get to work unravveling this case. Sara
 
 As they dig deeper, the head of the lab, Maxine Roby, warns them both that they cannot be anywhere near the case, or IA will come done on them like a hammer from hell. Frustrated they go to wait for Hodges to be processed and discuss how well they do (or don't) know Hodges. Like they had no idea he got married 6 months ago.
 
-Hodges believes the case is "a crock" but Grissom and Sara have to point out that there's that damn storage unit, with Hodges files and fingerprints and (more daming) personal effects. When Hodges remarks a Boggle set he'd recently picked up at a rummage sale was missing, Sara and Grissom go look to see if anyone burgled the Hodges' residence.
+Hodges believes the case is "a crock" but Grissom and Sara have to point out that there's that damn storage unit, with Hodges files and fingerprints and (more daming) personal effects. When Hodges remarks a Boggle set he'd recently looked for was missing, Sara and Grissom go look to see if anyone burgled the Hodges' residence.
 
 Unable to find any signs of a B&E, they do find a flyer. Apparently Hodges' neighbor's dog recently went missing. They find the fresh grave and, thanks to the bugs, determine the dog died not long before Sara and Maxine (and the rest) found evidence leading them to the storage unit.
 
