@@ -34,5 +34,5 @@ Sara makes the connection of Occam's Razor, which is that the simplest solution 
 
 ## Quotes
 
-**Sidle:** I'm going with Occam's Razor. Sometimes the simplest answer is the right answer. And the one that's right in front of you.
+**Sara:** I'm going with Occam's Razor. Sometimes the simplest answer is the right answer. And the one that's right in front of you.
 

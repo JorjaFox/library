@@ -24,9 +24,9 @@ Sara provides a solid job, working with Grissom on the body found in the park wh
 
 ## Quotes
 
-**Sidle:** Take off your shirt ... The warrant is for the whole shirt.  
+**Sara:** Take off your shirt ... The warrant is for the whole shirt.  
 
 - - -
 
-**Sidle:** _(sighs)_ I hate lawyers.
+**Sara:** _(sighs)_ I hate lawyers.
 

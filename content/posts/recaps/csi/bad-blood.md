@@ -39,8 +39,8 @@ After the case is solved, Greg wakes up to see Sara's bed empty and stripped of 
 
 ## Quotes
 
-**Sanders:** I'm starving.  
-**Sidle:** Me too.  
-**Sanders:** Breakfast?  
-**Sidle:** _Coffee._
+**Greg:** I'm starving.  
+**Sara:** Me too.  
+**Greg:** Breakfast?  
+**Sara:** _Coffee._
 

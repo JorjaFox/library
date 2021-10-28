@@ -31,12 +31,12 @@ Sara again shows her type-A personality (wanting to do everything herself) when 
 
 ## Quotes
 
-**Willows:** Warrick and I were looking for a missing person about a year ago, and we tried to get a warrant to search this residence. The owner denied us access.  
-**Sidle:** Now that it's a crime scene, it's fair game, if you're part of the investigation.  
-**Brown:** You're picking up what we're putting down.  
+**Catherine:** Warrick and I were looking for a missing person about a year ago, and we tried to get a warrant to search this residence. The owner denied us access.  
+**Sara:** Now that it's a crime scene, it's fair game, if you're part of the investigation.  
+**Warrick:** You're picking up what we're putting down.  
 
 - - -
 
-**Sidle:** She was still bleeding when she was brought here.  
-**Willows:** Which means that her heart was probably still beating.  
-**Sidle:** This isn't the 'Cask of Amontillado.' She was sealed into a wall and left to die.
+**Sara:** She was still bleeding when she was brought here.  
+**Catherine:** Which means that her heart was probably still beating.  
+**Sara:** This isn't the 'Cask of Amontillado.' She was sealed into a wall and left to die.

@@ -32,8 +32,8 @@ After learning Michael was shot (there was no blood on the scene or an exit woun
 
 ## Quotes
 
-**Sidle:** Divorces are war. Sure glad I don't have that problem.  
+**Sara:** Divorces are war. Sure glad I don't have that problem.  
 
 - - -
 
-**Sidle:** That's like saying there was a second shooter on the grassy knoll, Nick! The Tinsley's only had one dog!
+**Sara:** That's like saying there was a second shooter on the grassy knoll, Nick! The Tinsley's only had one dog!

@@ -36,5 +36,5 @@ While Nick and Finn work the arson, Morgan and Sara work the deaths.
 
 ## Quotes
 
-**Sidle:** However the physics worked, this kid went through hell.
+**Sara:** However the physics worked, this kid went through hell.
 

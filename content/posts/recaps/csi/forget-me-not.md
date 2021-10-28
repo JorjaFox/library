@@ -50,18 +50,18 @@ With the case closed, Nick and Greg come to Sara if she wants to talk. She tells
 
 ## Quotes
 
-**Sidle:** Suddenly being alone in my hotel room doesn't sound like that much fun.  
+**Sara:** Suddenly being alone in my hotel room doesn't sound like that much fun.  
 
 - - -
 
-**Sidle:** A little late for an intervention, don't you think?  
-**Stokes:** Well, I just thought--  
-**Sanders:** We.  
-**Stokes:** _We_ just thought that it might be a good idea to talk.  
-**Sanders:** Or listen. Whatever you prefer.  
-**Sidle:** Have a seat. I didn't mean to shut you guys out. I didn't tell you about Grissom and me because I didn't believe it myself. You know we made that dinner reservation together, before we split up. As I sat there, alone, in the restaurant... I honestly expected him to show up.  
-**Stokes:** I think that we all liked the idea of you two being together, that maybe it was because that was our way of hanging on to him just a little bit. But if it's over... It's over.  
-**Sanders:** You can't sit around waiting forever.  
-**Stokes:** And you'll always have us.  
-**Sanders:** Like it or not.  
-**Sidle:** Thank you. Thank you for not giving up on me.
+**Sara:** A little late for an intervention, don't you think?  
+**Nick:** Well, I just thought--  
+**Greg:** We.  
+**Nick:** _We_ just thought that it might be a good idea to talk.  
+**Greg:** Or listen. Whatever you prefer.  
+**Sara:** Have a seat. I didn't mean to shut you guys out. I didn't tell you about Grissom and me because I didn't believe it myself. You know we made that dinner reservation together, before we split up. As I sat there, alone, in the restaurant... I honestly expected him to show up.  
+**Nick:** I think that we all liked the idea of you two being together, that maybe it was because that was our way of hanging on to him just a little bit. But if it's over... It's over.  
+**Greg:** You can't sit around waiting forever.  
+**Nick:** And you'll always have us.  
+**Greg:** Like it or not.  
+**Sara:** Thank you. Thank you for not giving up on me.

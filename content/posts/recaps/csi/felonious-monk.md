@@ -21,6 +21,6 @@ The CSI investigate the disturbing case of the execution-style slaying of four B
 ## Quotes
 
 **Grissom:** Wherever you live is your temple, if you treat it like one.  
-**Sidle:** State your source.  
+**Sara:** State your source.  
 **Grissom:** Buddha.
 

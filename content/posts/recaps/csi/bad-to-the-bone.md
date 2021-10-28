@@ -24,11 +24,11 @@ Sara has very little to do in this ep, and is fairly low key throughout it. She 
 
 ## Quotes
 
-**Sidle:** You've got to be kidding me. He just did it again.  
-**Stokes:** Two for two.  
-**Sidle:** That guy has got stones going after a mark as big as Tony.  
+**Sara:** You've got to be kidding me. He just did it again.  
+**Nick:** Two for two.  
+**Sara:** That guy has got stones going after a mark as big as Tony.  
 
 - - -
 
-**Stokes:** Burn holes.  
-**Sidle:** The guy takes on five cops in their house. Makes you wonder what he might have done to a waitress.
+**Nick:** Burn holes.  
+**Sara:** The guy takes on five cops in their house. Makes you wonder what he might have done to a waitress.

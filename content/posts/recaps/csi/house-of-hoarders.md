@@ -41,16 +41,16 @@ In the end, she tells Julian about her mother's schizophrenia, and that you can 
 
 ## Quotes
 
-**Stokes:** How could someone live like this?  
-**Sidle:** Well. It smells like someone died like this.  
+**Nick:** How could someone live like this?  
+**Sara:** Well. It smells like someone died like this.  
 
 - - -
 
-**Stokes:** What is it about this case that makes you so blind?  
-**Sidle:** What is it about this case that makes you act like an ass?  
-**Stokes:** Oh! I'm an ass, now!?  
+**Nick:** What is it about this case that makes you so blind?  
+**Sara:** What is it about this case that makes you act like an ass?  
+**Nick:** Oh! I'm an ass, now!?  
 
 - - -
 
-**Sidle:** My mother was schizophrenic. On night, she got a butcher knife out of a drawer. She walked into the bedroom and while my father was sleeping, she stabbed him in the heart. Again and again. To say that my childhood was screwed up is an understatement. But. I survived it. Just like you did. You and your sister grew up together in that house, and you took two completely different paths. Sometimes when we're faced with crimes that are so incomprehensible, we want answers. We want to believe that there's some order to things. Sometimes there just isn't.
+**Sara:** My mother was schizophrenic. On night, she got a butcher knife out of a drawer. She walked into the bedroom and while my father was sleeping, she stabbed him in the heart. Again and again. To say that my childhood was screwed up is an understatement. But. I survived it. Just like you did. You and your sister grew up together in that house, and you took two completely different paths. Sometimes when we're faced with crimes that are so incomprehensible, we want answers. We want to believe that there's some order to things. Sometimes there just isn't.
 

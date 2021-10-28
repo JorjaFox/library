@@ -28,12 +28,12 @@ Sara processes the body and finds bougainvillea stuck in the body's foot. She ex
 
 ## Quotes
 
-**Sidle:** Did you memorize that information in anticipation of the question, in order to impress me?
+**Sara:** Did you memorize that information in anticipation of the question, in order to impress me?
 
 - - -
 
-**Sidle:** I'm not an atheist, but I am _not_ sold on the idea of a higher power.
+**Sara:** I'm not an atheist, but I am _not_ sold on the idea of a higher power.
 
 - - -
 
-**Sidle:** Sometimes ... I think we made up God just to have someone to blame for our mistakes. _(Grissom turns and leaves the morgue, and Sara calls after him.)_ It's just a theory.
+**Sara:** Sometimes ... I think we made up God just to have someone to blame for our mistakes. _(Grissom turns and leaves the morgue, and Sara calls after him.)_ It's just a theory.

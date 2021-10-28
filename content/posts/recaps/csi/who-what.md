@@ -33,11 +33,11 @@ Sara works a day case where a second woman is found covered up after being raped
 
 ## Quotes
 
-**Sidle:** I got called into work early, but I did pick up Hank and I took him to the sitter.  
+**Sara:** I got called into work early, but I did pick up Hank and I took him to the sitter.  
 **Malone** [...] Hank your kid?  
 **Grissom:** My dog.
 
 - - -
 
 **Grissom:** Sara? You okay?
-**Sidle:** I don't know.
+**Sara:** I don't know.

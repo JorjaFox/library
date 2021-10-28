@@ -32,19 +32,19 @@ When Nick and Sara go look for evidence in the woods
 
 ## Quotes
 
-**Sidle:** Wolves don't normally attack humans. Blame the owner, not the wolf.
+**Sara:** Wolves don't normally attack humans. Blame the owner, not the wolf.
 
 - - -
 
-**Sidle:** This car is a gas guzzler. You'd think a wolf would be more environmentally conscious.
+**Sara:** This car is a gas guzzler. You'd think a wolf would be more environmentally conscious.
 
 - - -
 
-**Sidle:** Did you know a 12 letter world for a walk in the woods is 'Transylvania'?  
-**Stokes:** Grissom? Is that you, Grissom?  
-**Sidle:** Shut up.  
-**Stokes:** Gil?  
-**Sidle:** I don't think he'd appreciate you calling him that, either.  
-**Stokes:** No? You really don't think so?  
-**Sidle:** I don't.  
-**Stokes:** After all this time.
+**Sara:** Did you know a 12 letter world for a walk in the woods is 'Transylvania'?  
+**Nick:** Grissom? Is that you, Grissom?  
+**Sara:** Shut up.  
+**Nick:** Gil?  
+**Sara:** I don't think he'd appreciate you calling him that, either.  
+**Nick:** No? You really don't think so?  
+**Sara:** I don't.  
+**Nick:** After all this time.

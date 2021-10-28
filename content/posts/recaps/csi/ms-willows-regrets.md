@@ -30,4 +30,4 @@ Sara and Morgan investigate the lawyers offices, where the victims were killed, 
 
 ## Quotes
 
-**Sidle:** You know, the only janitor I knew who cleaned this throughly turned out to be a serial killer.
+**Sara:** You know, the only janitor I knew who cleaned this throughly turned out to be a serial killer.

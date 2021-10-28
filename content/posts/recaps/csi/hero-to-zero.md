@@ -32,7 +32,7 @@ Sara makes sure the homeless man, Roger, is fed and clothed back at the station 
 
 ## Quotes
 
-**Sidle:** I guess I just don't get it. You know, my childhood ... the fantasy was never my escape. I lost myself in science and numbers. It's all I needed, I guess.  
+**Sara:** I guess I just don't get it. You know, my childhood ... the fantasy was never my escape. I lost myself in science and numbers. It's all I needed, I guess.  
 **Russell:** Well you liked things that were clear or proven. Right or wrong. Black or white.  
-**Sidle:** Maybe.
+**Sara:** Maybe.
 

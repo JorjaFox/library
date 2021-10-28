@@ -35,9 +35,9 @@ In the end, the siblings fight again over the house and Finn threatens to take a
 
 ## Quotes
 
-**Sidle:** Siblings like that kinda make me glad I'm an only child.  
+**Sara:** Siblings like that kinda make me glad I'm an only child.  
 
 - - -
 
-**Sidle:** That's ... one killer house.
+**Sara:** That's ... one killer house.
 

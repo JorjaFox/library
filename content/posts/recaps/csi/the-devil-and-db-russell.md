@@ -43,5 +43,5 @@ After the girls are rescued, Sara processes the gun and finds inconstancies betw
 
 ## Quotes
 
-**Sidle:** We've got a situation here.
+**Sara:** We've got a situation here.
 

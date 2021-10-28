@@ -37,12 +37,12 @@ When arrested, Jeffery stares at Sara's hair, creeping her out. She gets too lat
 
 ## Quotes
 
-**Sidle:** Guy gave her a pretty freaky makeover.  
+**Sara:** Guy gave her a pretty freaky makeover.  
 
 - - -
 
-**Sidle:** Looks like this is where he did his Extreme Makeover: Psychopath Edition.  
+**Sara:** Looks like this is where he did his Extreme Makeover: Psychopath Edition.  
 
 - - -
 
-**Sidle:** Stop looking at my hair!
+**Sara:** Stop looking at my hair!

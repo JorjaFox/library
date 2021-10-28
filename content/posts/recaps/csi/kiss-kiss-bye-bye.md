@@ -40,8 +40,8 @@ Sara is highly amused by Greg's obsession with Lois and her history. She's only 
 
 ## Quotes
 
-**Sanders:** The Benjamins took the bullet!  
-**Sidle:** In God We Trust.  
+**Greg:** The Benjamins took the bullet!  
+**Sara:** In God We Trust.  
 
 - - -
 

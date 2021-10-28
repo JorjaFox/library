@@ -25,11 +25,11 @@ A mutilated female body is discovered tied to the undercarriage of a bus carryin
 ## Quotes
 
 **Hodges:** Since when did you become an insects expert?  
-**Sidle:** Entomology textbook. Grissom gave it to me last Christmas.  
+**Sara:** Entomology textbook. Grissom gave it to me last Christmas.  
 **Hodges:** Oh.  
-**Sidle:** When I can't sleep, I read.  
+**Sara:** When I can't sleep, I read.  
 
 - - -
 
-**Stokes:** Looks like a half moon. Gang moniker, maybe.  
-**Sidle:** Every woman knows what that is. It's a heart. Well, half a heart.
+**Nick:** Looks like a half moon. Gang moniker, maybe.  
+**Sara:** Every woman knows what that is. It's a heart. Well, half a heart.

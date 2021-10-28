@@ -32,10 +32,10 @@ Yet another low-key Sara episode; she plays assist and little more. At the scene
 
 ## Quotes
 
-**Sidle:** Someone had sticky fingers.  
+**Sara:** Someone had sticky fingers.  
 
 - - -
 
-**Sidle:** You scanned the yellow pages.  
-**Sanders:** I knew the first three letters. By the way, do you know how many companies in Las Vegas start with S-U-N?  
-**Sidle:** I so don't care.
+**Sara:** You scanned the yellow pages.  
+**Greg:** I knew the first three letters. By the way, do you know how many companies in Las Vegas start with S-U-N?  
+**Sara:** I so don't care.

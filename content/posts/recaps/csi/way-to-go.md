@@ -62,19 +62,19 @@ Sara spends most of her time working on the corset angle of the Carson case. Whe
 
 ## Quotes
 
-**Sidle:** I guess I should feel comforted that sadistic ideas of beauty aren't restricted to women.  
+**Sara:** I guess I should feel comforted that sadistic ideas of beauty aren't restricted to women.  
 
 - - -
 
 **David** This must be some kind of birth defect.  
 **Grissom:** What do you think?  
-**Sidle:** I think I feel fat.  
+**Sara:** I think I feel fat.  
 
 - - -
 
-**Sidle:** Go in for sex and get stung. Pretty much every man's fear.
+**Sara:** Go in for sex and get stung. Pretty much every man's fear.
   
 - - -
 
 **Grissom:** I don't know. Most people want to die in their sleep, I suppose. Never know that it's happening, like a crime scene. Surprise, you're dead. I'd prefer to know in advance that I was going to die. I'd like to be diagnosed with cancer actually, have some time to prepare. Go back to the rain forest one more time, re-read 'Moby Dick.' Possibly enter an international chess tournament. At least have enough time to say 'goodbye' to the ones that I love.  
-**Sidle:** I'm not ready to say 'Goodbye.'
+**Sara:** I'm not ready to say 'Goodbye.'

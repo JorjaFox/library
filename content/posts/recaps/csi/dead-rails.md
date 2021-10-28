@@ -30,11 +30,11 @@ Sara goes with Morgan Brody to the after hours club 'The Rails' and find blood a
 
 ## Quotes
 
-**Sidle:** Same with this glass.  
+**Sara:** Same with this glass.  
 **Brody** Confirms the Hornet's trick shot.  
-**Sidle:** Somebody used it for a different sort of trick.  
+**Sara:** Somebody used it for a different sort of trick.  
 
 - - -
 
 **Brody** You ready for another weird?  
-**Sidle:** It's what keeps me coming back.  
+**Sara:** It's what keeps me coming back.  

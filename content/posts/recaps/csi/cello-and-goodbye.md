@@ -26,4 +26,4 @@ Sara goes to LA after Langston admits he can't handle the case, to help with the
 
 ## Quotes
 
-**Sidle:**: So ... no free airfare then?
+**Sara:**: So ... no free airfare then?

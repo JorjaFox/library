@@ -40,13 +40,13 @@ Seen primarily in the scene with the Spanish speaking mother, Sara is obviously 
 
 ## Quotes
 
-**Sidle:** I'm gonna go dig bullets out of walls.  
+**Sara:** I'm gonna go dig bullets out of walls.  
 
 - - -
 
-**Sidle:** I'm sorry. I don't have the answer to that.  
+**Sara:** I'm sorry. I don't have the answer to that.  
 
 - - -
 
-**Sanders:** Who's with me?  
-**Sidle:** A bunch of pissed off locals with shot up cars.
+**Greg:** Who's with me?  
+**Sara:** A bunch of pissed off locals with shot up cars.

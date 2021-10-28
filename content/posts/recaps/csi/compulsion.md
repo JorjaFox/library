@@ -20,13 +20,13 @@ A serial killer strikes again, and the CSI team tries new technology using evide
 
 ## Quotes
 
-**Sidle:** Only geeks still say 'da bomb', but, uh, if you ask me, geeks should be revered.  
+**Sara:** Only geeks still say 'da bomb', but, uh, if you ask me, geeks should be revered.  
 
 - - -
 
 **Phillips:** Defensive wounds.  
-**Sidle:** _picks up her camera and takes more photos_  
+**Sara:** _picks up her camera and takes more photos_  
 **Phillips:** Incised. _looks down the body at the stab wounds._  
-**Sidle:** _snaps more photos_  
+**Sara:** _snaps more photos_  
 **Phillips:** At least a dozen.  
-**Sidle:** She did not want to die.
+**Sara:** She did not want to die.

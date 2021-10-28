@@ -36,13 +36,13 @@ During the case, Sara meets Grissom by his beehives. After telling her all about
 ## Quotes
 
 **Lake** Why did you pick Vegas?  
-**Sidle:** Well it, ah, kind of picked me.
+**Sara:** Well it, ah, kind of picked me.
 
 - - -
 
-**Sidle:** I was hoping just once, Vegas would have to honor its past.
+**Sara:** I was hoping just once, Vegas would have to honor its past.
 
 - - -
 
 **Grissom:** Wanna get married?  
-**Sidle:** Yes... let's do it.
+**Sara:** Yes... let's do it.

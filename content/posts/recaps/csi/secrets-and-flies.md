@@ -34,8 +34,8 @@ Perhaps unexpectedly, Sara doesn't have a lot of emotional investment in this ca
 
 ## Quotes
 
-**Sidle:** Ducks. That's a new decorating choice.  
+**Sara:** Ducks. That's a new decorating choice.  
 
 - - -
 
-**Sidle:** Hey, Professor -- looking good.
+**Sara:** Hey, Professor -- looking good.

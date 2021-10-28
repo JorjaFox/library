@@ -38,9 +38,9 @@ After the case, Sara asks DB for a leave to return to San Francisco and work on 
 ## Quotes
 
 **Finn** It's for you. Want it? SFPD?  
-**Sidle:** I'll call 'em back.  
+**Sara:** I'll call 'em back.  
 
 - - -
 
-**Sidle:** Hmm. Twenty years has done nothing to cure the crazy.
+**Sara:** Hmm. Twenty years has done nothing to cure the crazy.
 

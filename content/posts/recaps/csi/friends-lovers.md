@@ -32,24 +32,24 @@ Sara investigates a dumped body in Henderson, dumpster dives and realizes the co
 ## Quotes
 
 **Grissom:** Sara, body of your own. Dumpster out near Henderson.  
-**Sidle:** Oh, I'll dress down.  
+**Sara:** Oh, I'll dress down.  
 
 - - -
 
 **Phillips:** I really admire the gusto with which you approach your job.  
-**Sidle:** Are you hitting on me, David? _(David nods, shyly_ _Sidle laughs softly)_ Let me give you some advice. If you want to pull chicks, you've gotta get aggressive. Lose the glasses, lose the coat, grow some scruff. _(thoughtful pause)_ You do get a C for cute, though.  
+**Sara:** Are you hitting on me, David? _(David nods, shyly_ _Sidle laughs softly)_ Let me give you some advice. If you want to pull chicks, you've gotta get aggressive. Lose the glasses, lose the coat, grow some scruff. _(thoughtful pause)_ You do get a C for cute, though.  
 
 - - -
 
-**Sidle:** You sell caskets, right? As part of your mortuary service? I want to see some.  
+**Sara:** You sell caskets, right? As part of your mortuary service? I want to see some.  
 **Mortician** I can arrange a viewing.  
-**Sidle:** Bonus.  
+**Sara:** Bonus.  
 
 - - -
 
-**Sidle:** There's no way I'm going to end up in a dumpster, wrapped in plastic. I'm gonna be cremated. Dust in the wind, you know. I don't want any part of these things [re. caskets].
+**Sara:** There's no way I'm going to end up in a dumpster, wrapped in plastic. I'm gonna be cremated. Dust in the wind, you know. I don't want any part of these things [re. caskets].
 
 - - -
 
 **Mortician** I see the world in a totally different perspective from most people.  
-**Sidle:** Yeah, I know. You see dead people. So do I. And when they turn up in dumpsters, I like to see they get back where they belong.
+**Sara:** Yeah, I know. You see dead people. So do I. And when they turn up in dumpsters, I like to see they get back where they belong.

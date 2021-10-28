@@ -29,18 +29,18 @@ There's not much for Sara in this episode. She reprimands the cops at the statio
 
 ## Quotes
 
-**Sidle:** It's not like you to get right down to business.  
+**Sara:** It's not like you to get right down to business.  
 **Hodges:** Even I have off days, Sara.  
 
 - - -
 
-**Sidle:** I am going to remember that you said that, Metcalf, especially after these ladies sue you and the police for discrimination, you genius. Could you clear the halls for me, please? Come on, guys.
+**Sara:** I am going to remember that you said that, Metcalf, especially after these ladies sue you and the police for discrimination, you genius. Could you clear the halls for me, please? Come on, guys.
 
 - - -
 
-**Sanders:** You know, this is exactly like a dream I had once, except it wasn't in a garage. And Grissom wasn't watching. _(Sara suppresses a smile)_ That was a different dream. _(Grissom lifts the dummy and places it over Greg. He lets it go.)_  
-**Sidle:** How's it feel, dreamer?  
+**Greg:** You know, this is exactly like a dream I had once, except it wasn't in a garage. And Grissom wasn't watching. _(Sara suppresses a smile)_ That was a different dream. _(Grissom lifts the dummy and places it over Greg. He lets it go.)_  
+**Sara:** How's it feel, dreamer?  
 
 - - -
 
-**Sidle:** If we could leave the dummy on long enough, we could actually match the blanching.
+**Sara:** If we could leave the dummy on long enough, we could actually match the blanching.

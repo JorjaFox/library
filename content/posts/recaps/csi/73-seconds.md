@@ -33,4 +33,4 @@ Sara takes photographs of the tram killing crime scene until the call from Brim 
 
 ## Quotes
 
-**Sidle:** Face of a Jonas Brother, body of my grandpa Pete.
+**Sara:** Face of a Jonas Brother, body of my grandpa Pete.

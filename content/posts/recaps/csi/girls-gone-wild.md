@@ -41,12 +41,12 @@ While Sara is angry that she, and Finn and Morgan, aren't taken seriously by the
 
 ## Quotes
 
-**Sidle:** Larkston was never part of the plan. How often do we all have the weekend off?  
+**Sara:** Larkston was never part of the plan. How often do we all have the weekend off?  
 
 - - -
 
-**Sidle:** Uh... who's Beyoncé?  
+**Sara:** Uh... who's Beyoncé?  
 
 - - -
 
-**Sidle:** So, what do you want to do next weekend?
+**Sara:** So, what do you want to do next weekend?

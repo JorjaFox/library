@@ -35,9 +35,9 @@ Listening to the audio, Sara is able to identify two people walking, implying th
 
 ## Quotes
 
-**Stokes:** reading 'People Lie, Follow the Evidence'?  
-**Sidle:** We're really good at that.  
+**Nick:** reading 'People Lie, Follow the Evidence'?  
+**Sara:** We're really good at that.  
 
 - - -
 
-**Sidle:** You did the best you could. You need to know that. In time, you will know that. As for how you live with what happened, I wish I knew the answer to that.
+**Sara:** You did the best you could. You need to know that. In time, you will know that. As for how you live with what happened, I wish I knew the answer to that.

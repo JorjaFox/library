@@ -21,10 +21,10 @@ Grissom and Catherine investigate the apparent violent death of a woman found in
 ## Quotes
 
 **Victim** I can't find my pants!  
-**Sidle:** You can't wear them out of here. What did you want them for? A souvenir?  
+**Sara:** You can't wear them out of here. What did you want them for? A souvenir?  
 
 - - -
 
 **Store Owner** You gonna arrest his ass?  
-**Sidle:** Yeah.
+**Sara:** Yeah.
 

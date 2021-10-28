@@ -32,10 +32,10 @@ We don't see Sara again still the end of the episode where she is clearly exhaus
 
 ## Quotes
 
-**Sidle:** Hey, bomber. We've got your number.
+**Sara:** Hey, bomber. We've got your number.
 
 - - -
 
-**Sidle:** Just say no, huh?  
+**Sara:** Just say no, huh?  
 **Langston:** Hear you pack a real mean right hook.  
-**Sidle:** Like Gandhi, I turn the other cheek. It just wasn't mine.
+**Sara:** Like Gandhi, I turn the other cheek. It just wasn't mine.

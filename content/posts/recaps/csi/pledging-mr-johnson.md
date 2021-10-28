@@ -30,20 +30,20 @@ A bit of flirtatious chatter in the locker room between Sara and Nick. Sara and 
 
 ## Quotes
 
-**Sidle:** Fine suit _(admires Brown's suit)_ And, well, just fine _(admires a shirtless Stokes)_  
-**Stokes:** _(laughing)_ That's harassment.  
-**Sidle:** Hey, we have one locker room, and it's my job to _(pregnant pause)_ be observant [...] Are you gonna wear that [shirt]?  
-**Stokes:** Yeah _(uneasy laughter)_  
-**Sidle:** It's _(tactful pause)_ hideous.  
-**Stokes:** Hideous. Thank you. _(Sidle leaves, Stokes changes his shirt)_  
+**Sara:** Fine suit _(admires Brown's suit)_ And, well, just fine _(admires a shirtless Stokes)_  
+**Nick:** _(laughing)_ That's harassment.  
+**Sara:** Hey, we have one locker room, and it's my job to _(pregnant pause)_ be observant [...] Are you gonna wear that [shirt]?  
+**Nick:** Yeah _(uneasy laughter)_  
+**Sara:** It's _(tactful pause)_ hideous.  
+**Nick:** Hideous. Thank you. _(Sidle leaves, Stokes changes his shirt)_  
 
 - - -
 
-**Sidle:** _(sniffs the air)_ What's that smell?  
-**Stokes:** Oh, I'm nuking a burrito.  
-**Sidle:** Mmmm. Junk food and radiation. Good combo.  
+**Sara:** _(sniffs the air)_ What's that smell?  
+**Nick:** Oh, I'm nuking a burrito.  
+**Sara:** Mmmm. Junk food and radiation. Good combo.  
 
 - - -
 
-**Sidle:** Manslaughter -- are you kidding? Are you willing to settle for that? Come on, Nick, you know as well as I do there is more to this.  
-**Stokes:** You're going 80 miles an hour in second gear. Let's just slow down, all right?
+**Sara:** Manslaughter -- are you kidding? Are you willing to settle for that? Come on, Nick, you know as well as I do there is more to this.  
+**Nick:** You're going 80 miles an hour in second gear. Let's just slow down, all right?

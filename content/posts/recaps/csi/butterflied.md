@@ -29,4 +29,4 @@ Interrogating the murder suspect, Grissom confesses that he chose his career ove
 ## Quotes
 
 **Grissom:** Sara, you take the perimeter.  
-**Sidle:** What? You just did a one-hour walk-through. The perimeter cannot be a priority.
+**Sara:** What? You just did a one-hour walk-through. The perimeter cannot be a priority.

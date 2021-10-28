@@ -36,12 +36,12 @@ Sara is one of the primaries on the case, collecting evidence and interviewing s
 
 ## Quotes
 
-**Sidle:** We're not even letting him wash his hands. You think we're gonna let you bowl?
+**Sara:** We're not even letting him wash his hands. You think we're gonna let you bowl?
 
 - - -
 
-**Sidle:** When did bowling become so serious? 
+**Sara:** When did bowling become so serious? 
 
 - - -
 
-**Sidle:** Bag without a ball, head without a body. At least we know what we're looking for.
+**Sara:** Bag without a ball, head without a body. At least we know what we're looking for.

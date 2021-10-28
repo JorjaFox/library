@@ -34,4 +34,4 @@ Investigating the warehouse, they determine the one survivor was picked up by a 
 
 ## Quotes
 
-**Sidle:** Well I see your palm print and I raise you a knee impression and a footprint.  
+**Sara:** Well I see your palm print and I raise you a knee impression and a footprint.  

@@ -40,9 +40,9 @@ _Sara Sidle does not appear in this episode._
 
 - - -
 
-**Willows:** Oh. Well, maybe you should take a few days off, for once in your career. I mean, you've got enough stored up. _Go after her._  
+**Catherine:** Oh. Well, maybe you should take a few days off, for once in your career. I mean, you've got enough stored up. _Go after her._  
 **Grissom:** It's not what she wants.  
-**Willows:** And what do you want?  
+**Catherine:** And what do you want?  
 **Grissom:** I want her to be happy.  
 
 - - -

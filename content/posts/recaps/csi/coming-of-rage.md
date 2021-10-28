@@ -29,25 +29,25 @@ Sara cuts the construction workers cold when they try to flirt with her at the c
 
 ## Quotes
 
-**Sidle:** Yeah, a murder always makes me feel a little randy too.  
+**Sara:** Yeah, a murder always makes me feel a little randy too.  
 
 - - -
 
 **K9 Cop** Ready to run?  
 **Grissom:** She does all my running.  
-**Sidle:** Thanks.  
+**Sara:** Thanks.  
 
 - - -
 
-**Sidle:** Clothing $85, earrings $30, coffee $4. Getting away with murder?  
+**Sara:** Clothing $85, earrings $30, coffee $4. Getting away with murder?  
 **Grissom:** Priceless.  
 
 - - -
 
-**Sidle:** You know, I'm done with the Ashley pity party.
+**Sara:** You know, I'm done with the Ashley pity party.
 
 - - -
 
-**Sidle:** You're not a victim, you were a lure. Do you know how many people don't report a rape because they're afraid that no one will believe them?  
+**Sara:** You're not a victim, you were a lure. Do you know how many people don't report a rape because they're afraid that no one will believe them?  
 **Ashley** Of course. It's what I was counting on.  
-**Sidle:** I'm going to do everything in my power to make sure that you're tried as an adult.
+**Sara:** I'm going to do everything in my power to make sure that you're tried as an adult.

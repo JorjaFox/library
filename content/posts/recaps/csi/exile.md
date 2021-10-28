@@ -34,9 +34,9 @@ Sara works the case and is in somewhat of a hostile mood towards the club owner,
 
 ## Quotes
 
-**Sidle:** If you want this show to go on, you *have* to fix these cameras.  
+**Sara:** If you want this show to go on, you *have* to fix these cameras.  
 
 - - -
 
-**Sidle:** I don't wanna go to that CIA place but ... I'm kinda going to that CIA place.
+**Sara:** I don't wanna go to that CIA place but ... I'm kinda going to that CIA place.
 

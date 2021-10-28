@@ -25,24 +25,24 @@ When a man is found dead in a setting disturbingly similar to a previous case (i
 ## Quotes
 
 **Grissom:** Be thorough. Don't take anything for granted.  
-**Sidle:** Yes, sir.  
+**Sara:** Yes, sir.  
 
 - - -
 
-**Sidle:** Wow, this stuff rocks. I love bathrooms. Last time I printed a hotel bathroom, I had over 1,000 prints.
+**Sara:** Wow, this stuff rocks. I love bathrooms. Last time I printed a hotel bathroom, I had over 1,000 prints.
 
 - - -
 
-**Sidle:** Okay... close the doors and hit the lights, daddio.
+**Sara:** Okay... close the doors and hit the lights, daddio.
 
 - - -
 
-**Sidle:** Not a single print.  
+**Sara:** Not a single print.  
 **Detective Evans** He wiped it clean.  
-**Sidle:** Yeah. This guy's a real pro. Not only did he wipe it clean, it's sterile.  
+**Sara:** Yeah. This guy's a real pro. Not only did he wipe it clean, it's sterile.  
 
 - - -
 
-**Sidle:** He's toying with us.  
-**Sanders:** Who is?  
-**Sidle:** _(pause)_ Anonymous.
+**Sara:** He's toying with us.  
+**Greg:** Who is?  
+**Sara:** _(pause)_ Anonymous.

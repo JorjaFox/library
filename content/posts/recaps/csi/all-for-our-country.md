@@ -33,30 +33,30 @@ Sara and Catherine get pulled off the serial killer case, and are given the chor
 
 ## Quotes
 
-**Willows:** Whoa, this isn't half bad for college kids.  
-**Sidle:** Yeah. Why live in a one-room flea bag when you can pool your resources and live like this.  
-**Willows:** Hey, how 'bout it: You, me, Warrick, Nick, Grissom...  
-**Sidle:** _(shakes her head)_ Oh, ew, no... not Grissom.  
+**Catherine:** Whoa, this isn't half bad for college kids.  
+**Sara:** Yeah. Why live in a one-room flea bag when you can pool your resources and live like this.  
+**Catherine:** Hey, how 'bout it: You, me, Warrick, Nick, Grissom...  
+**Sara:** _(shakes her head)_ Oh, ew, no... not Grissom.  
 
 - - -
 
-**Willows:** It's raining man juice?  
-**Sidle:** Hallelujah?  
+**Catherine:** It's raining man juice?  
+**Sara:** Hallelujah?  
 
 - - -
 
-**Sidle:** How do you get paint on the inside of your clothes?  
-**Willows:** Rubs off your chest. Oh, what kind of guy paints his chest?  
-**Sidle:** Performance artist? A clown maybe?  
-**Willows:** _(smiling)_ Sports freak.  
-**Sidle:** _(frowns, not understanding)_  
+**Sara:** How do you get paint on the inside of your clothes?  
+**Catherine:** Rubs off your chest. Oh, what kind of guy paints his chest?  
+**Sara:** Performance artist? A clown maybe?  
+**Catherine:** _(smiling)_ Sports freak.  
+**Sara:** _(frowns, not understanding)_  
 
 - - -
 
-**Sidle:** What tipped you to the ring?  
-**Willows:** Jaws.  
-**Sidle:** Peter Benchley's Jaws?  
+**Sara:** What tipped you to the ring?  
+**Catherine:** Jaws.  
+**Sara:** Peter Benchley's Jaws?  
 
 - - -
 
-**Sidle:** Now who's the punk... bitch?
+**Sara:** Now who's the punk... bitch?

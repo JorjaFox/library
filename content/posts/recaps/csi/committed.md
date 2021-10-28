@@ -33,16 +33,16 @@ During the interrogation scene, when the camera pans down Sara, her fingernail i
 
 ## Quotes
 
-**Sidle:** _(patient bites at swab)_ Grissom... you take this one.  
+**Sara:** _(patient bites at swab)_ Grissom... you take this one.  
 
 - - -
 
-**Sidle:** Sometimes a dying whale is just a dying whale.
+**Sara:** Sometimes a dying whale is just a dying whale.
 
 - - -
 
-**Sidle:** When my father died, my mother came to a place like this for a while for evaluation. It looked the same, it smelled the same. It smelled like lies.  
+**Sara:** When my father died, my mother came to a place like this for a while for evaluation. It looked the same, it smelled the same. It smelled like lies.  
 **Grissom:** You sure you're okay?  
-**Sidle:** Crazy people do make me feel crazy.  
+**Sara:** Crazy people do make me feel crazy.  
 **Grissom:** If you want, I can have somebody take your place.  
-**Sidle:** I appreciate that. I do, I really do, but ... [...] I kind of made a decision to move beyond that and ... I really want to finish this case.
+**Sara:** I appreciate that. I do, I really do, but ... [...] I kind of made a decision to move beyond that and ... I really want to finish this case.

@@ -34,13 +34,13 @@ Sara and Catherine experiment with the ride and a dummy, and realize that only t
 
 ## Quotes
 
-**Sidle:** Hey! _(Catherine runs off)_ We aren't going to lunch, are we?  
+**Sara:** Hey! _(Catherine runs off)_ We aren't going to lunch, are we?  
 
 - - -
 
-**Sidle:** _(grinning)_  
-**Willows:** What?  
-**Sidle:** This is fun.  
-**Willows:** As opposed to what?  
-**Sidle:** A more scientific approach.
+**Sara:** _(grinning)_  
+**Catherine:** What?  
+**Sara:** This is fun.  
+**Catherine:** As opposed to what?  
+**Sara:** A more scientific approach.
 

@@ -43,51 +43,51 @@ Both Russell and Finn notice Sara's a little off, Finn when Sara ignores another
 ## Quotes
 
 **David Phillips:** When we dissected frogs, when I was in high school biology, you'd pith it, by sticking a pin right here. The frog would get all _makes a face_. None of the girls in class wanted to do it, so they asked me to. I became known as the 'designated pither.'  
-**Sidle:** I would have gone with 'relief pither.'  
+**Sara:** I would have gone with 'relief pither.'  
 **Phillips:** That's better.
 
 - - -
 
 **Russell:** Looks like it pays more to report on crime that it does to solve crime.  
-**Sidle:** You could say that about any job. Except crime. I heard it doesn't pay.  
+**Sara:** You could say that about any job. Except crime. I heard it doesn't pay.  
 **Russell:** Heh heh.
 
 - - -
 
-**Sidle:** I know when I bring work home, it usually finds its way into the bedroom.  
+**Sara:** I know when I bring work home, it usually finds its way into the bedroom.  
 **Russell:** Yeah but you're not single, you're married.  
-**Sidle:** _pause_ Yeah I am. But ... My place? Often looks a lot like this.
+**Sara:** _pause_ Yeah I am. But ... My place? Often looks a lot like this.
 
 - - -
 
 **Finn** You must be running on fumes. You should go home!  
-**Sidle:** Home is where the coded notebook is. _sees call from Grissom, sends to voicemail_  
+**Sara:** Home is where the coded notebook is. _sees call from Grissom, sends to voicemail_  
 **Finn** Have you talked to him since the NTSB guy?  
-**Sidle:** Nothing happened with NTSB.  
+**Sara:** Nothing happened with NTSB.  
 **Finn** How come you can't pick up the phone?  
-**Sidle:** Because I feel like when I do, I'm going to be very sad when I hang up.  
+**Sara:** Because I feel like when I do, I'm going to be very sad when I hang up.  
 **Finn** How do you know?  
-**Sidle:** 'Cause he wants to talk.  
+**Sara:** 'Cause he wants to talk.  
 **Finn** Do you want some help?  
-**Sidle:** Oh that's ... really nice. You should go home, have some fun.  
+**Sara:** Oh that's ... really nice. You should go home, have some fun.  
 **Finn** This is fun! I'm really good at crosswords.  
-**Sidle:** Yeah. Okay.
+**Sara:** Yeah. Okay.
 
 - - -
 
-**Sidle:** So we're looking at a locked room mystery, tucked into an enigma, wrapped in dynamite paper.  
+**Sara:** So we're looking at a locked room mystery, tucked into an enigma, wrapped in dynamite paper.  
 **Russell:** You can say that again.... Hey, Sara, let me ask you something. You doing alright?  
-**Sidle:** I'm fine.  
+**Sara:** I'm fine.  
 **Russell:** You just seemed a little bit ... down. When we were at Theresa's place.  
-**Sidle:** Um. I don't know... A woman married to her career, without much to show for it. It's a little depressing.  
+**Sara:** Um. I don't know... A woman married to her career, without much to show for it. It's a little depressing.  
 **Russell:** Yeah. I don't mean to pry--  
-**Sidle:** Pause right there.  
+**Sara:** Pause right there.  
 **Russell:** I know I'm supposed to be your boss, separation of church and state--  
-**Sidle:** No no no! Hit pause with the remote and back it up a little bit.
+**Sara:** No no no! Hit pause with the remote and back it up a little bit.
 
 - - -
 
-**Sidle:** Hello  
+**Sara:** Hello  
 **Grissom:** You've been hard to get a hold of.  
-**Sidle:** Yeah. Um. I'm so sorry. How are you?  
+**Sara:** Yeah. Um. I'm so sorry. How are you?  
 **Grissom:** I'm okay. Is, uh, now a good time?

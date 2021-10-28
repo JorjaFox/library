@@ -26,5 +26,5 @@ Catherine and Sara are in court at the beginning of the episode. When they come 
 
 ## Quotes
 
-**Sidle:** Looks like his daughter grew up. Ouch.
+**Sara:** Looks like his daughter grew up. Ouch.
 

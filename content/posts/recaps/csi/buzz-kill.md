@@ -30,5 +30,5 @@ Sara and Nick work the majority of the case. Sara is a little bit of a square, n
 
 ## Quotes
 
-**Sidle:** There was this guy who lived in my dorm in college, everybody used to call him Space Bob. Your lab smells like his room. That's not a compliment to either of you.
+**Sara:** There was this guy who lived in my dorm in college, everybody used to call him Space Bob. Your lab smells like his room. That's not a compliment to either of you.
 

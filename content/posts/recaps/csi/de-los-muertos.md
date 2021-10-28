@@ -24,4 +24,4 @@ Both women were having portraits done by the same artist. Ana's father had hired
 
 ## Quotes
 
-**Sidle:** That's one hell of a body dump.
+**Sara:** That's one hell of a body dump.

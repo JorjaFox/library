@@ -54,13 +54,13 @@ And she gives it all up for Grissom, sailing off into the ocean with him.
 * Sara chooses Grissom in the end.
 
 ## Quotes
-**Sara Sidle** Lady Heather, as much as I'd like to roll out the voluntary red carpet and welcome you here to your own bombing party, I can't find it in my bone marrow to overrule my gut. But I'm sure you're having a blast with the blasts, so I'll just ask the question... are you the one behind the bombings?  
+**Sara** Lady Heather, as much as I'd like to roll out the voluntary red carpet and welcome you here to your own bombing party, I can't find it in my bone marrow to overrule my gut. But I'm sure you're having a blast with the blasts, so I'll just ask the question... are you the one behind the bombings?  
 **Lady Heather** Your hostility connotes jealousy and resentment. It doesn't suit  
 you, Sara.  
-**Sara Sidle** Mrs. Sidle to you.  
+**Sara** Mrs. Sidle to you.  
 **Lady Heather** Ms. Sidle, isn't it?  
 
 - - -
 
 **Lady Heather** Do you love him?  
-**Sara Sidle** I do.
+**Sara** I do.

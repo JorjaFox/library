@@ -41,10 +41,10 @@ Sara and Brass talk to the dead man's son, Avery, with Sara promising to come ch
 
 ## Quotes
 
-**Sidle:** Are you into twins?  
+**Sara:** Are you into twins?  
 **Marks** Isn't everybody?  
 
 - - -
 
-**Sidle:** It must be hard, wanting a child so much. The struggle to conceive. And then a miracle occurs.
+**Sara:** It must be hard, wanting a child so much. The struggle to conceive. And then a miracle occurs.
 

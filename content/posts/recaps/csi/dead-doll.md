@@ -49,8 +49,8 @@ Sara wakes up in the helicopter with Grissom smiling at her, and she returns the
 
 ## Quotes
 
-**Sidle:** Hello, Gilbert.
+**Sara:** Hello, Gilbert.
 
 - - -
 
-**Sidle:** I have a fear of trunks. In my line of work, you only find one thing in them.
+**Sara:** I have a fear of trunks. In my line of work, you only find one thing in them.

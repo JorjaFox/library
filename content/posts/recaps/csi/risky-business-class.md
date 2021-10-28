@@ -46,49 +46,49 @@ When Doug asks Sara and Grissom out to dinner, and then just Sara, she asks him 
 
 ## Quotes
 
-**Sidle:** *to phone* Hey, Gil. Just wanted to hear your voice. It's kind of a slow night here. Give me a call if you get the chance.  
+**Sara:** *to phone* Hey, Gil. Just wanted to hear your voice. It's kind of a slow night here. Give me a call if you get the chance.  
 
 - - -
 
 **Wilson** Did you hear that the Rusty Nickel closed?  
-**Sidle:** Hah! Well, that's about time, that bar gave dives a bad name.  
+**Sara:** Hah! Well, that's about time, that bar gave dives a bad name.  
 **Wilson** What are you talking about? You loved that place.  
-**Sidle:** Well, yeah. You're right. I did love it. Right up until the moment they kicked me out for life.  
+**Sara:** Well, yeah. You're right. I did love it. Right up until the moment they kicked me out for life.  
 **Wilson** They did do that.  
-**Sidle:** Yep.  
+**Sara:** Yep.  
 
 - - -
 
-**Sidle:** I tell you what. I'm going to take my physics and find whatever it was that fell out of your plane.  
+**Sara:** I tell you what. I'm going to take my physics and find whatever it was that fell out of your plane.  
 **Wilson** What about me? What am I going to do?  
-**Sidle:** You're going to build me a plane.  
+**Sara:** You're going to build me a plane.  
 
 - - -
 
 **Finn** You can take that. I'll come back.  
-**Sidle:** No, that's alright. I-- I'll call him back later.  
+**Sara:** No, that's alright. I-- I'll call him back later.  
 **Finn** If you ever feel like talking ...  
-**Sidle:** You ever try the long distance thing?  
+**Sara:** You ever try the long distance thing?  
 **Finn** No. But I think it would have helped with my relationship with husband number two.  
-**Sidle:** Ah, the Seattle Ex.  
+**Sara:** Ah, the Seattle Ex.  
 **Finn** Yeah.  
-**Sidle:** What was that like? Seeing him again.  
+**Sara:** What was that like? Seeing him again.  
 **Finn** It was weird. And then it wasn't.  
-**Sidle:** You know, I wondered why you took a later flight.  
+**Sara:** You know, I wondered why you took a later flight.  
 **Finn** What about you and your NTSB guy? Is that weird?  
-**Sidle:** Very weird.  
+**Sara:** Very weird.  
 **Finn** Gonna stay that way?  
-**Sidle:** It has to, right?  
+**Sara:** It has to, right?  
 
 - - -
 
 **Wilson** Listen, Sara, I was wondering if I could buy you and Grissom dinner tonight. You pick the place, NTSB picks up the tab, I'm a, uh, hell of a third wheel.  
-**Sidle:** Actually... Gil's out of town.  
+**Sara:** Actually... Gil's out of town.  
 **Wilson** So just the two of us, then?  
-**Sidle:** Don't.  
+**Sara:** Don't.  
 **Wilson** Don't what?  
-**Sidle:** Do this.  
+**Sara:** Do this.  
 **Wilson** Okay. I mean, if everything's good between you two, and I know you Sara, so I'm getting the feeling that maybe it isn't, then I understand--  
-**Sidle:** Everything's great.  
+**Sara:** Everything's great.  
 **Wilson** Okay.
 

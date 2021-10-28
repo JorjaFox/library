@@ -36,10 +36,10 @@ Once Sara is off the clock, she goes and visits Grissom at his crime scene, wher
 
 ## Quotes
 
-**Sidle:** Ronnie, I'm going to have to limit you to twenty questions per case.  
+**Sara:** Ronnie, I'm going to have to limit you to twenty questions per case.  
 
 - - -
 
 **Lake** Oh, you're not seriously going to go after the cops over something like this.  
-**Sidle:** You know, I'm going to answer that question. We're not here to protect anyone Ronnie, not even cops. We're here to figure out what happened. If you can't do that, you should get a different job.
+**Sara:** You know, I'm going to answer that question. We're not here to protect anyone Ronnie, not even cops. We're here to figure out what happened. If you can't do that, you should get a different job.
 

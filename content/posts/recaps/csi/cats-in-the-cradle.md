@@ -20,15 +20,15 @@ Grissom and Catherine investigate the stabbing death of an 80-year-old woman who
 
 ## Quotes
 
-**Stokes:** Wow. You look ...  
-**Sidle:** Happy?  
-**Stokes:** Smug.  
-**Sidle:** I got a perfect print.  
+**Nick:** Wow. You look ...  
+**Sara:** Happy?  
+**Nick:** Smug.  
+**Sara:** I got a perfect print.  
 
 - - -
 
-**Sidle:** Liar, liar car on fire.
+**Sara:** Liar, liar car on fire.
 
 - - -
 
-**Sidle:** Sometimes a shot in the dark hits anyway.
+**Sara:** Sometimes a shot in the dark hits anyway.

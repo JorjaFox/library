@@ -36,24 +36,24 @@ The killer confesses; however Sara admits she lost her perspective and got too c
 
 ## Quotes
 
-**Sidle:** My date got canceled.  
+**Sara:** My date got canceled.  
 **Grissom:** I'm sure he had a good excuse.  
 
 - - -
 
-**Stokes:** It was good that you were there for her, Sara. She didn't have to die alone.  
-**Sidle:** _(sad, quiet)_ We usually show up too late to meet the victim.  
+**Nick:** It was good that you were there for her, Sara. She didn't have to die alone.  
+**Sara:** _(sad, quiet)_ We usually show up too late to meet the victim.  
 
 - - -
 
-**Sidle:** Hi, this is Sara. Leave a message after the tone. _(message on her answering machine)_
+**Sara:** Hi, this is Sara. Leave a message after the tone. _(message on her answering machine)_
   
 
 - - -
 
 **Hodges:** You ever do the right thing and still feel guilty about it?  
-**Sidle:** Yeah. _(pause)_ Sucks, doesn't it.  
+**Sara:** Yeah. _(pause)_ Sucks, doesn't it.  
 
 - - -
 
-**Sidle:** _(crying)_ I held his hand. Just like I held hers. And I lost perspective.
+**Sara:** _(crying)_ I held his hand. Just like I held hers. And I lost perspective.

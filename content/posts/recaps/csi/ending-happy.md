@@ -33,14 +33,14 @@ Sara and Grissom investigate the boxer's death. During the investigation, Grisso
 
 ## Quotes
 
-**Sidle:** This is one pool I'm not feeling a pressing need to take a dip in.  
+**Sara:** This is one pool I'm not feeling a pressing need to take a dip in.  
 
 - - -
 
-**Sidle:** You've never paid for sex?  
+**Sara:** You've never paid for sex?  
 **Grissom:** I have not. I find the whole idea very... bleak.  
-**Sidle:** Really. How come?  
+**Sara:** Really. How come?  
 **Grissom:** Sex should provide the opportunity for human connection, but paid sex does the opposite of that. To me, sex without love is... pointless.  
-**Sidle:** Well I'm pretty sure I don't make you sad.  
+**Sara:** Well I'm pretty sure I don't make you sad.  
 **Grissom:** No. You make me happy.
 

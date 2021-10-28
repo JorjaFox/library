@@ -28,13 +28,13 @@ Sara is suspicious of the boyfriend until he's found dead, having tried to rescu
 
 ## Quotes
 
-**Stokes:** Dollar slots [by the lakeshore]?  
-**Sidle:** Is there truly no place left in Vegas without slot machines.  
+**Nick:** Dollar slots [by the lakeshore]?  
+**Sara:** Is there truly no place left in Vegas without slot machines.  
 
 - - -
 
-**Sidle:** What did you tell him? His son died a hero?  
-**Stokes:** Look, I'm just trying to give the guy a little peace, you know?  
-**Sidle:** Oh, well, who are you trying to help feel better, him or you?  
-**Stokes:** Hey, let me ask you something, Sara: You're Mr. Young, would you rather know this much or nothing at all?  
-**Sidle:** You know, if the evidence doesn't support the answer, a CSI shouldn't be asking that question.
+**Sara:** What did you tell him? His son died a hero?  
+**Nick:** Look, I'm just trying to give the guy a little peace, you know?  
+**Sara:** Oh, well, who are you trying to help feel better, him or you?  
+**Nick:** Hey, let me ask you something, Sara: You're Mr. Young, would you rather know this much or nothing at all?  
+**Sara:** You know, if the evidence doesn't support the answer, a CSI shouldn't be asking that question.

@@ -33,9 +33,9 @@ Sara and Catherine check out the witness' apartment, while the other CSIs are se
 
 ## Quotes
 
-**Sidle:** You know, some women live out of their purses. [...] I think we just found her office.  
+**Sara:** You know, some women live out of their purses. [...] I think we just found her office.  
 
 - - -
 
 **Grissom:** I'll see you later.  
-**Sidle:** Yeah, you will.
+**Sara:** Yeah, you will.

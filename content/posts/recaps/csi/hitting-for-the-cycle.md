@@ -36,6 +36,6 @@ Sara works with Greg on his cases, first the office worker, then the gamer. Sara
 
 ## Quotes
 
-**Sidle:** Someone from the dayshift sent me flowers.  
-**Sanders:** Does he know you're married?
+**Sara:** Someone from the dayshift sent me flowers.  
+**Greg:** Does he know you're married?
 

@@ -36,14 +36,14 @@ Sara doesn't get angry when she discovers that the Feds were testing her with th
 
 - - -
 
-**Sidle:** Who died and made you god?  
-**Brown:** He's not exactly dead.  
-**Sidle:** Grissom left _you_ the shift.  
+**Sara:** Who died and made you god?  
+**Warrick:** He's not exactly dead.  
+**Sara:** Grissom left _you_ the shift.  
 
 - - -
 
-**Sanders:** Don't take it out on me just because you got passed over.  
-**Sidle:** I didn't get passed over.  
-**Sanders:** Then what would you call it?  
-**Sidle:** Grissom.
+**Greg:** Don't take it out on me just because you got passed over.  
+**Sara:** I didn't get passed over.  
+**Greg:** Then what would you call it?  
+**Sara:** Grissom.
 

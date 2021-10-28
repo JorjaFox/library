@@ -32,10 +32,10 @@ Greg and Sara work the sunken car case. Sara remarks on how hard it is to break 
 
 ## Quotes
 
-**Sidle:** Found Nemo?  
-**Sanders:** Not unless Nemo is a Beemo!
+**Sara:** Found Nemo?  
+**Greg:** Not unless Nemo is a Beemo!
 
 - - -
 
-**Stokes:** How's it going?  
-**Sidle:** I'm kind of underwater on this one.
+**Nick:** How's it going?  
+**Sara:** I'm kind of underwater on this one.

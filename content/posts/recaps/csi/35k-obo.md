@@ -32,13 +32,13 @@ With Brass, Sara takes the knife tip removed from a body to a shop to determine 
 ## Quotes
 
 **Salesman:** Did you really dig this [knife tip] out of a body?  
-**Sidle:** Yeah, but I washed it for you.  
+**Sara:** Yeah, but I washed it for you.  
 
 - - -
 
 **Salesman:** How's a cop know all that [about metal]?   
-**Sidle:** _grins_ He's the cop. I'm the scientist.  
+**Sara:** _grins_ He's the cop. I'm the scientist.  
 
 - - -
 
-**Sidle:** Sweaty palms make the best prints.
+**Sara:** Sweaty palms make the best prints.

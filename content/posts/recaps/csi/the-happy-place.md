@@ -38,10 +38,10 @@ Sara leaves Vegas shortly thereafter.
 
 ## Quotes
 
-**Sidle:** Maybe we should go away for a while.  
+**Sara:** Maybe we should go away for a while.  
 **Grissom:** Can't. The lab is so short. Maybe you could stay.  
-**Sidle:** I can't stay here. It'd be nice to take a trip. Get on the _Sea Shepherd._ Go to the Galapagos. We could literally walk in the steps of Darwin.  
+**Sara:** I can't stay here. It'd be nice to take a trip. Get on the _Sea Shepherd._ Go to the Galapagos. We could literally walk in the steps of Darwin.  
 
 - - -
 
-**Sidle:** Tom, look. I'm no longer a CSI, but I'll go [to the lab] with you. I won't leave you.
+**Sara:** Tom, look. I'm no longer a CSI, but I'll go [to the lab] with you. I won't leave you.

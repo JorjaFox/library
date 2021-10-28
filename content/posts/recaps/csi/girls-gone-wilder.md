@@ -36,4 +36,4 @@ Sara and Jane were criminalists in San Francisco before Jane switched teams to b
 
 ## Quotes
 
-**Sidle:** But ... then you never get the chance to make a real connection. I mean to be with somebody who really gets you, who loves you for who you are, I don't know... I think it's worth the risk.
+**Sara:** But ... then you never get the chance to make a real connection. I mean to be with somebody who really gets you, who loves you for who you are, I don't know... I think it's worth the risk.

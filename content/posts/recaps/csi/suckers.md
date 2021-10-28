@@ -29,4 +29,4 @@ Sara works closely with Grissom on the antiquities case, despite recent events .
 ## Quotes
 
 **Grissom:** Do you have any duct tape in your kit?  
-**Sidle:** Yeah, it's what I use to keep it together.
+**Sara:** Yeah, it's what I use to keep it together.

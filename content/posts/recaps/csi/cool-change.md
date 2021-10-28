@@ -35,44 +35,44 @@ This episode introduces Sara Sidle, a CSI III from San Francisco whom Grissom ca
 ## Quotes
 
 **Grissom:** Norman pushed. Norman jumped. Norman fell.  
-**Sidle:** Wouldn't you, if you were married to Mrs. Roper?  
+**Sara:** Wouldn't you, if you were married to Mrs. Roper?  
 
 - - -
 
 **Grissom:** God, Sara, I have so many unanswered 'why's.  
-**Sidle:** There's only one why that matters now. Why did Warrick Brown leave that scene?  
+**Sara:** There's only one why that matters now. Why did Warrick Brown leave that scene?  
 
 - - -
 
-**Sidle:** Do you know where I can find Catherine Willows?  
-**Willows:** She's out in the field [...] Let me guess, Sara Sidle?  
-**Sidle:** I know who I am, you're a little confused. [...] Look, we can stand here and argue, or we can find out who did this to Holly Gribbs ... Two sharp women are better than one.  
+**Sara:** Do you know where I can find Catherine Willows?  
+**Catherine:** She's out in the field [...] Let me guess, Sara Sidle?  
+**Sara:** I know who I am, you're a little confused. [...] Look, we can stand here and argue, or we can find out who did this to Holly Gribbs ... Two sharp women are better than one.  
 
 - - -
 
-**Sidle:** Do you have a system?  
-**Brown:** Counting cards.  
-**Sidle:** Isn't that illegal?  
-**Brown:** Not if you do the math in your head.  
+**Sara:** Do you have a system?  
+**Warrick:** Counting cards.  
+**Sara:** Isn't that illegal?  
+**Warrick:** Not if you do the math in your head.  
 
 - - -
 
-**Sidle:** This time it's different.  
-**Brown:** Yeah? Why's that?  
-**Sidle:** Because Holly Gribbs died on the operating table 20 minutes ago.  
+**Sara:** This time it's different.  
+**Warrick:** Yeah? Why's that?  
+**Sara:** Because Holly Gribbs died on the operating table 20 minutes ago.  
 
 - - -
 
-**Willows:** Is there anything in there with alcohol?  
-**Sidle:** Root beer.  
+**Catherine:** Is there anything in there with alcohol?  
+**Sara:** Root beer.  
 
 - - -
 
-**Willows:** Did I just do that?  
-**Sidle:** _(nods)_ What's a bling-bling?  
-**Willows:** _(shakes her head)_ Got me.  
+**Catherine:** Did I just do that?  
+**Sara:** _(nods)_ What's a bling-bling?  
+**Catherine:** _(shakes her head)_ Got me.  
 
 - - -
 
-**Sidle:** Nicorette?  
-**Willows:** Got my own. _(smiles, showing the gum through her teeth)_
+**Sara:** Nicorette?  
+**Catherine:** Got my own. _(smiles, showing the gum through her teeth)_

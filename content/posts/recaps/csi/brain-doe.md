@@ -34,8 +34,8 @@ Sara and Nick go over Clegg's car and find a yellow residue, which Sara is later
 
 ## Quotes
 
-**Sidle:** Well, he was definitely into medicine, but I wouldn't trust him to drive my brain around.
+**Sara:** Well, he was definitely into medicine, but I wouldn't trust him to drive my brain around.
 
 - - -
 
-**Sidle:** You know chicken nuggets don'tt really look like that?
+**Sara:** You know chicken nuggets don't really look like that?

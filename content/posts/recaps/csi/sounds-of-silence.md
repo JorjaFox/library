@@ -36,17 +36,17 @@ When Grissom mentions that the busted tail light can't be traced because the ser
 
 ## Quotes
 
-**Sidle:** You can tell he's deaf just by his fingerprints?  
+**Sara:** You can tell he's deaf just by his fingerprints?  
 
 - - -
 
-**Sidle:** I don't like her.  
-**Brown:** You just don't like other women in Grissom's life.  
-**Sidle:** I'm going to ignore that.  
+**Sara:** I don't like her.  
+**Warrick:** You just don't like other women in Grissom's life.  
+**Sara:** I'm going to ignore that.  
 
 - - -
 
-**Brown:** Do you know what Grissom drinks when he goes out at night?  
-**Sidle:** He goes out?  
-**Brown:** Exactly. Who knows anything about that guy?
+**Warrick:** Do you know what Grissom drinks when he goes out at night?  
+**Sara:** He goes out?  
+**Warrick:** Exactly. Who knows anything about that guy?
 

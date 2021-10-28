@@ -28,24 +28,24 @@ Both Sara and Nick apologize to Grissom when they jump the gun with the evidence
 
 ## Quotes
 
-**Sidle:** Gimme your right foot ... Your _other_ right.  
+**Sara:** Gimme your right foot ... Your _other_ right.  
 
 - - -
 
 **Grissom:** What about the neck? Any fibers in the wound?  
-**Sidle:** You told me to wait for you.  
+**Sara:** You told me to wait for you.  
 **Grissom:** Well, that hasn't stopped you yet.  
 
 - - -
 
-**Sidle:** Pizza guy wasn't so smart. Dry cleaning bakes in blood.
+**Sara:** Pizza guy wasn't so smart. Dry cleaning bakes in blood.
 
 - - -
 
-**Stokes:** Could be red sauce.  
-**Sidle:** Oh, _now_ you're cautious.  
+**Nick:** Could be red sauce.  
+**Sara:** Oh, _now_ you're cautious.  
 
 - - -
 
 **Grissom:** He transported them. Show me the gun with Ben's prints on it. Gun shot residue, the ligature, the ...  
-**Sidle:** ... The holes in Christ's hands, Doubting Thomas?
+**Sara:** ... The holes in Christ's hands, Doubting Thomas?

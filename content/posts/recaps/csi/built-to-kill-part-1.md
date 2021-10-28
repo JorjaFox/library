@@ -38,8 +38,8 @@ Sara works the O'Brien case, and inquires as to how David is doing with his in l
 
 ## Quotes
 
-**Sidle:** It's hard to swallow when you have a gun in your mouth.  
+**Sara:** It's hard to swallow when you have a gun in your mouth.  
 
 - - -
 
-**Sidle:** _(to Grissom)_ According to my supervisor, we're not really in the business of why.
+**Sara:** _(to Grissom)_ According to my supervisor, we're not really in the business of why.

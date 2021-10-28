@@ -35,11 +35,11 @@ Sara and Greg work the primary case of the wine.
 
 ## Quotes
 
-**Sidle:**: Black tie. Poor guy was dressed to kill.  
-**Sanders:**: Or be killed.  
+**Sara:**: Black tie. Poor guy was dressed to kill.  
+**Greg:**: Or be killed.  
 
 - - -
 
-**Sidle:**: He ate very well for his last meal.  
+**Sara:**: He ate very well for his last meal.  
 **Russell:**: Raw whale? Whale sushi? That's gotta be illegal.  
-**Sidle:**: And disgusting, and immoral.
+**Sara:**: And disgusting, and immoral.

@@ -29,16 +29,16 @@ Sara was on a date with Hank this episode, and had told Warrick where she was go
 ## Quotes
 
 **Peddigrew** I can't believe you called. I actually got you outside of work.  
-**Sidle:** This is nice.  
+**Sara:** This is nice.  
 **Peddigrew** I don't normally date women from work, but there was something about you -- and it definitely wasn't your perfume.   
 
 - - -
 
-**Sidle:** I cannot believe you brought that up. _(pauses, seeing Catherine outside)_ Yeah, yeah, that, that, that, uh, day we met, that, that was very gross. Not for me, but for everyone else, for you. _(Catherine enters diner)_
+**Sara:** I cannot believe you brought that up. _(pauses, seeing Catherine outside)_ Yeah, yeah, that, that, that, uh, day we met, that, that was very gross. Not for me, but for everyone else, for you. _(Catherine enters diner)_
 
 - - -
 
-**Sidle:** It's kind of a coincidence, you know? Catherine just showing up where I was. I mean, she didn't know.  
-**Stokes:** I knew.  
-**Brown:** _(Warrick grins at this)_  
-**Sidle:** _(shoves Warrick in the shoulder__
+**Sara:** It's kind of a coincidence, you know? Catherine just showing up where I was. I mean, she didn't know.  
+**Nick:** I knew.  
+**Warrick:** _(Warrick grins at this)_  
+**Sara:** _(shoves Warrick in the shoulder__

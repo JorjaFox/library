@@ -38,5 +38,5 @@ When investigating the race, Sara flirts with the boys, talking about cars, in o
 
 ## Quotes
 
-**Stokes:** Putting an electric motor in this [car] is sacrilegious.  
-**Sidle:** Not a polar bears.
+**Nick:** Putting an electric motor in this [car] is sacrilegious.  
+**Sara:** Not a polar bears.

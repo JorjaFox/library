@@ -35,14 +35,14 @@ When the Russians break into the lab, Sara and Nick chase them out, firing at th
 
 ## Quotes
 
-**Sidle:** Hey, guys. Is this a bad time?  
+**Sara:** Hey, guys. Is this a bad time?  
 
 - - -
 
-**Willows:** Sara, I know you walked into some fireworks in the break room.  
-**Sidle:** What, Ecklie? Please.  
-**Willows:** No, I just read Riley's exit interview. She had some harsh things to say about my leadership. That the team's fractured. That it lacks cohesion. Because of me. Because of my managerial style. I don't know, I admit it. I admit that things are different since Grissom left.  
-**Sidle:** Well, its like when a great baseball team loses its best cleanup hitter. Suddenly everybody is swinging for the fences and nobody is playing small ball.  
-**Willows:** You're using a baseball analogy.  
-**Sidle:** Uh. Apparently part of being married is attempting to share in your spouses interests...  
+**Catherine:** Sara, I know you walked into some fireworks in the break room.  
+**Sara:** What, Ecklie? Please.  
+**Catherine:** No, I just read Riley's exit interview. She had some harsh things to say about my leadership. That the team's fractured. That it lacks cohesion. Because of me. Because of my managerial style. I don't know, I admit it. I admit that things are different since Grissom left.  
+**Sara:** Well, its like when a great baseball team loses its best cleanup hitter. Suddenly everybody is swinging for the fences and nobody is playing small ball.  
+**Catherine:** You're using a baseball analogy.  
+**Sara:** Uh. Apparently part of being married is attempting to share in your spouses interests...  
 

@@ -30,16 +30,16 @@ Sara and Catherine investigate the snuff film. Sara checks the film for prints, 
 
 ## Quotes
 
-**Sidle:** Biology determining pathology.  
-**Brown:** Yeah. Some people are just born bad.  
+**Sara:** Biology determining pathology.  
+**Warrick:** Yeah. Some people are just born bad.  
 
 - - -
 
-**Sidle:** I'm fine.  
-**Brown:** I'm sorry. Are you okay?  
-**Sidle:** Yeah. You missed me by a mile. ... You might want to apologize to the phone book.  
+**Sara:** I'm fine.  
+**Warrick:** I'm sorry. Are you okay?  
+**Sara:** Yeah. You missed me by a mile. ... You might want to apologize to the phone book.  
 
 - - -
 
-**Sidle:** I guess she killed you back.
+**Sara:** I guess she killed you back.
 

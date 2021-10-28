@@ -25,7 +25,7 @@ Season Finale. The CSIs investigate when the body of an unidentified young woman
 
 ## Quotes
 
-**Sidle:** I got crabs.  
+**Sara:** I got crabs.  
 **Grissom:** Excuse me?  
-**Sidle:** I got crabs _(points at the microscope)_ Take a look.
+**Sara:** I got crabs _(points at the microscope)_ Take a look.
 

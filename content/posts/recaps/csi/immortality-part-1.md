@@ -42,5 +42,5 @@ While she's moved on with her life and is trying to professionally make it throu
 
 ## Quotes
 
-**Sara Sidle** Look, we both went our separate ways. You're doing your Jacques Cousteau thing. I'm out in the field. Things end. I get it. But you and I are professionals. And as professionals, I think it's in the best interest of my case to put our game faces on... and keep it... professional... See... Mine's on. Ready to go in?  
-**Gil Grissom** Seeing you again left me speechless.
+**Sara** Look, we both went our separate ways. You're doing your Jacques Cousteau thing. I'm out in the field. Things end. I get it. But you and I are professionals. And as professionals, I think it's in the best interest of my case to put our game faces on... and keep it... professional... See... Mine's on. Ready to go in?  
+**Grissom** Seeing you again left me speechless.

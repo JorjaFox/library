@@ -44,14 +44,14 @@ Sara goes to the hospital to tell the unconscious victim that they found the ass
 
 ## Quotes
 
-**Sidle:** I don't like anything [...] and I read crime books and I listen to my scanner.  
+**Sara:** I don't like anything [...] and I read crime books and I listen to my scanner.  
 
 - - -
 
-**Stokes:** Did anyone ever tell you that you have a nice singing voice?  
-**Sidle:** Yeah, if you like chalk on boards.  
+**Nick:** Did anyone ever tell you that you have a nice singing voice?  
+**Sara:** Yeah, if you like chalk on boards.  
 
 - - -
 
-**Sidle:** I wish I was like you, Grissom. I wish I didn't feel anything.
+**Sara:** I wish I was like you, Grissom. I wish I didn't feel anything.
 

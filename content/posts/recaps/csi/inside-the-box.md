@@ -22,4 +22,4 @@ Lockwood's death provides Grissom and his crew with added incentive to find the 
 
 ## Quotes
 
-**Sidle:** This [crime] was the epitome of precision.
+**Sara:** This [crime] was the epitome of precision.

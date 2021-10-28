@@ -29,35 +29,35 @@ Sara takes part in the police relay marathon, and hugs Greg when she finishes he
 
 ## Quotes
 
-**Brown:** What happened? Break the bad news to the wife?  
-**Sidle:** Oh, I didn't have to.  
-**Brown:** Women always know, huh?  
-**Sidle:** Not always.  
-**Brown:** I think so. Women always know when the man is straying.  
-**Sidle:** What are you, the voice of experience?  
-**Brown:** _(laughing)_ No. I'm a really nice guy.  
-**Sidle:** Oh, I believe you.  
+**Warrick:** What happened? Break the bad news to the wife?  
+**Sara:** Oh, I didn't have to.  
+**Warrick:** Women always know, huh?  
+**Sara:** Not always.  
+**Warrick:** I think so. Women always know when the man is straying.  
+**Sara:** What are you, the voice of experience?  
+**Warrick:** _(laughing)_ No. I'm a really nice guy.  
+**Sara:** Oh, I believe you.  
 
 - - -
 
-**Sidle:** That's it? _(Franco nods)_ Are you sure? _(Franco looks at Sara, surprised that she'd ask)_ I-I'm sorry. It just doesn't make any sense. The sex kits came back negative, and now this. I mean, that room reeked of musk.
+**Sara:** That's it? _(Franco nods)_ Are you sure? _(Franco looks at Sara, surprised that she'd ask)_ I-I'm sorry. It just doesn't make any sense. The sex kits came back negative, and now this. I mean, that room reeked of musk.
 
 - - -
 
-**Sidle:** I don't know. Isn't the prevailing male fantasy two on one?
+**Sara:** I don't know. Isn't the prevailing male fantasy two on one?
 
 - - -
 
-**Brown:** Well, someone was pissed. This is, like, a two, three hundred La Perle nightie, ripped to shreds.  
-**Sidle:** _(sarcastic)_ Oh, looks comfortable.  
-**Brown:** It's not designed to stay on that long.  
+**Warrick:** Well, someone was pissed. This is, like, a two, three hundred La Perle nightie, ripped to shreds.  
+**Sara:** _(sarcastic)_ Oh, looks comfortable.  
+**Warrick:** It's not designed to stay on that long.  
 
 - - -
 
-**Sidle:** How could you know that if the only part you know is his body?  
+**Sara:** How could you know that if the only part you know is his body?  
 **Lopez** Pedestal's a little high, don't you think?  
-**Sidle:** Your best friend, your lover are dead. What do you expect me to think?  
+**Sara:** Your best friend, your lover are dead. What do you expect me to think?  
 
 - - -
 
-**Sidle:** What do guys do when they're drunk, and they have a number burning a hole in their pocket?
+**Sara:** What do guys do when they're drunk, and they have a number burning a hole in their pocket?

@@ -22,4 +22,4 @@ Note: This episode was used to introduce the cast of the future spin-off, _CSI: 
 
 ## Quotes
 
-**Sidle:** Frat party. I wouldn't know anything about that ... How wild?
+**Sara:** Frat party. I wouldn't know anything about that ... How wild?

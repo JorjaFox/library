@@ -28,25 +28,25 @@ Brass notices that Sara is popping cough drops at the scene, and later confronts
 
 ## Quotes
 
-**Sidle:** I'm a slow sucker.  
+**Sara:** I'm a slow sucker.  
 
 - - -
 
-**Willows:** What about the briefcase?  
-**Sidle:** Empty. Stop. I-I got a system here.  
+**Catherine:** What about the briefcase?  
+**Sara:** Empty. Stop. I-I got a system here.  
 
 - - -
 
 **Brass:** I mean, what I'm trying to say is that ... there's more problems than answers in the bottom of a bottle, believe me.  
-**Sidle:** Yeah. _(sighs)_ Actually, I had a couple of beers with breakfast when I got off shift. And then I got called in.  
+**Sara:** Yeah. _(sighs)_ Actually, I had a couple of beers with breakfast when I got off shift. And then I got called in.  
 **Brass:** Just a couple?  
-**Sidle:** Yeah.  
+**Sara:** Yeah.  
 **Brass:** _(smiles a bit)_ I'm just looking out for you.  
 
 - - -
 
-**Brown:** How's your hands?  
-**Sidle:** Sore. _(pauses)_ Document every single bill. Fun.  
+**Warrick:** How's your hands?  
+**Sara:** Sore. _(pauses)_ Document every single bill. Fun.  
 :[...]  
-**Brown:** I could either lose this in a hand of blackjack, or I could lose a cranberry chip. What's worse?  
-**Sidle:** To me, losing's losing.
+**Warrick:** I could either lose this in a hand of blackjack, or I could lose a cranberry chip. What's worse?  
+**Sara:** To me, losing's losing.

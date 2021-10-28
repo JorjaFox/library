@@ -28,13 +28,13 @@ Sara works the second break-in, and is affected when she discovers that the daug
 
 ## Quotes
 
-**Sidle:** Heard about your mummy in the closet. Very cool.  
+**Sara:** Heard about your mummy in the closet. Very cool.  
 
 - - -
 
-**Sidle:** _(holds out a dental mold)_ Bite it.
+**Sara:** _(holds out a dental mold)_ Bite it.
 
 - - -
 
-**Stokes:** But the busboy, Kelly James -- not only went to the same high school, but graduated from the same juvie center.  
-**Sidle:** It's always nice when they come out worse than when they went in.
+**Nick:** But the busboy, Kelly James -- not only went to the same high school, but graduated from the same juvie center.  
+**Sara:** It's always nice when they come out worse than when they went in.

@@ -25,17 +25,17 @@ Sara assists Grissom.
 ## Quotes
 
 **Grissom:** _(talking about the big box-like container that the woman disappeared from)_ This been processed yet?  
-**Brown:** _(jokingly)_ Yeah. You want me to bag it?  
-**Sidle:** Let's take it back to the lab. Maybe we can make Greg disappear.  
+**Warrick:** _(jokingly)_ Yeah. You want me to bag it?  
+**Sara:** Let's take it back to the lab. Maybe we can make Greg disappear.  
 
 - - -
 
-**Sidle:** I am no psychic, but I have been known to read palms.
+**Sara:** I am no psychic, but I have been known to read palms.
 
 - - -
 
 **Grissom:** _(staring intently at a desk)_  
-**Sidle:** _(puts her hand on Grissom's shoulder)_  
+**Sara:** _(puts her hand on Grissom's shoulder)_  
 **Grissom:** _(screams)_  
-**Sidle:** _(mirthful)_ Sorry.
+**Sara:** _(mirthful)_ Sorry.
 

@@ -34,12 +34,12 @@ Sara and Catherine work well together puzzling out who wrote the blackmail note.
 
 ## Quotes
 
-**Sidle:** You know, you don't have to sleep in the same bed together to have sex or ... have romance.  
+**Sara:** You know, you don't have to sleep in the same bed together to have sex or ... have romance.  
 
 - - -
 
-**Sidle:** Two viable prints, both in a light coat of lube. One was Becky's and the other is an Adam Gilford. Work card is in the system. He's an executive at Western Airlines.  
+**Sara:** Two viable prints, both in a light coat of lube. One was Becky's and the other is an Adam Gilford. Work card is in the system. He's an executive at Western Airlines.  
 
 - - -
 
-**Sidle:** Lovers and co-workers. That never works.
+**Sara:** Lovers and co-workers. That never works.

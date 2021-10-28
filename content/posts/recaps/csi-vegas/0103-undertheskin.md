@@ -35,8 +35,10 @@ The episode ends with the Undersheriff telling Max that IA is taking the case to
 
 ## Quotes
 
-**Sidle:** Robert Gomez. Silver-fox. Nice complextion. I like him.
+**Sara:** Robert Gomez. Silver-fox. Nice complextion. I like him.
 **Grissom:** What? As a suspect, I hope.
-**Sidle:** Very funny.
+**Sara:** Very funny.
 
-**Sidle:** We'll figure it out, okay? I'll never go away. If you need to hold on to something, hold on to me.
+- - -
+
+**Sara:** We'll figure it out, okay? I'll never go away. If you need to hold on to something, hold on to me.

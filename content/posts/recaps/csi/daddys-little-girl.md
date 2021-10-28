@@ -46,4 +46,4 @@ After talking to Bianca in the ER, Sara notices the substance on her skin and sn
 
 ## Quotes
 
-**Sidle:** _(looking at Grissom)_ I guess some people just shouldn't be together.  
+**Sara:** _(looking at Grissom)_ I guess some people just shouldn't be together.  

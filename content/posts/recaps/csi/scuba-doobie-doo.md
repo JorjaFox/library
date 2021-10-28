@@ -35,15 +35,15 @@ After solving the case, Sara and Nick ask Grissom out to breakfast, but he prefe
 
 ## Quotes
 
-**Sidle:** So our big murder's a nose bleed?  
+**Sara:** So our big murder's a nose bleed?  
 
 - - -
 
-**Sidle:** A square of nine dots on paper, and you can only draw four lines to connect them, without the pen ever leaving the paper.  
+**Sara:** A square of nine dots on paper, and you can only draw four lines to connect them, without the pen ever leaving the paper.  
 **Grissom:** Think outside the box!  
 
 - - -
 
 **Grissom:** Dermastidae masculatus.  
-**Sidle:** That's Latin for 'You're hiding a dead body.'
+**Sara:** That's Latin for 'You're hiding a dead body.'
 

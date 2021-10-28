@@ -34,18 +34,18 @@ Sara apologizes to Craig before they release him. Craig confesses that he never 
 
 ## Quotes
 
-**Sidle:** [deadpan] Jeepers creepers.
+**Sara:** [deadpan] Jeepers creepers.
 
 - - -
 
-**Sidle:** Dave! Hi. I missed your face.
+**Sara:** Dave! Hi. I missed your face.
 **Phillips:** I missed you too.  
-**Sidle:** How's your wife?  
+**Sara:** How's your wife?  
 **Phillips:** Good. What did you hear?
 
 - - -
 
 **Brass:** [...] He hates CSIs. Even mentioned Grissom's name a few times.
-**Sidle:** Well. Then I won't mention that I'm Mrs. Grissom.  
+**Sara:** Well. Then I won't mention that I'm Mrs. Grissom.  
 **Brass:** You took his name?  
-**Sidle:** Uh, no.
+**Sara:** Uh, no.

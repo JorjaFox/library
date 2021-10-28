@@ -28,9 +28,9 @@ Sara and Warrick discover that the singer's wife committed suicide. During the i
 
 ## Quotes
 
-**Sidle:** I don't know, I think it sounds a little isolating, living in a fish bowl.  
+**Sara:** I don't know, I think it sounds a little isolating, living in a fish bowl.  
 
 - - -
 
-**Brown:** Which side do you want?  
-**Sidle:** I'll take the west wing.
+**Warrick:** Which side do you want?  
+**Sara:** I'll take the west wing.

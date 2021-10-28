@@ -35,15 +35,15 @@ Meanwhile, on his sabbatical, Grissom writes Sara a letter, claiming their parti
 ## Quotes
 
 **Greeter** A relationship. Isn't that what most women want?  
-**Sidle:** I, I don't know.  
+**Sara:** I, I don't know.  
 
 - - -
 
 **Greeter** Would you like a Meet Book or do you have a regular host?  
-**Sidle:** Actually, it's my first time.  
+**Sara:** Actually, it's my first time.  
 
 - - -
 
 **Jesse** Who doesn't want to be swept off their feet?  
-**Sidle:** I'm not sure that it's something I'd pay for.
+**Sara:** I'm not sure that it's something I'd pay for.
 

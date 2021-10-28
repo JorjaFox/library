@@ -31,21 +31,21 @@ Sara handles her job competently, not hesitating to get into Catherine's face an
 
 ## Quotes
 
-**Brown:** I hung out here a few times.  
-**Sidle:** Never been.  
-**Brown:** Your knucklehead boyfriend never took you on the party circuit?  
-**Sidle:** Uh, pass.  
+**Warrick:** I hung out here a few times.  
+**Sara:** Never been.  
+**Warrick:** Your knucklehead boyfriend never took you on the party circuit?  
+**Sara:** Uh, pass.  
 
 - - -
 
-**Sidle:** I like your Harley.
+**Sara:** I like your Harley.
 
 - - -
 
-**Sidle:** What the hell are you doing? Do you know where you're at right now?  
-**Willows:** I've been here a lot longer than you ...  
-**Sidle:** And you should know better.  
-**Willows:** And I wouldn't have to be here if you were doing your job properly.  
-**Sidle:** There is a difference between me doing my job and you wanting to do it for me. You don't want to get the job done. What you want, right now, is revenge.  
-**Willows:** You're going to tell me what I want, huh?  
-**Sidle:** Go home, Catherine. Be with your daughter. She's the one that needs you. _Sara walks away from Catherine_
+**Sara:** What the hell are you doing? Do you know where you're at right now?  
+**Catherine:** I've been here a lot longer than you ...  
+**Sara:** And you should know better.  
+**Catherine:** And I wouldn't have to be here if you were doing your job properly.  
+**Sara:** There is a difference between me doing my job and you wanting to do it for me. You don't want to get the job done. What you want, right now, is revenge.  
+**Catherine:** You're going to tell me what I want, huh?  
+**Sara:** Go home, Catherine. Be with your daughter. She's the one that needs you. _Sara walks away from Catherine_

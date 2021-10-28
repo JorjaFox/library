@@ -38,34 +38,34 @@ Sara does not initially believe Abby, but after looking at the evidence, starts 
 
 ## Quotes
 
-**Sanders:** We've worked a lot of cases where kids lost their parents.  
-**Sidle:** Yeah. But one parent killing another, getting shipped off to foster care. Something I know a little bit about.  
-**Sanders:** In all the years we've been friends, you've never really talked about what happened with your dad. And I don't mean to pry, but--  
-**Sidle:** You know what happened. They had a ... volatile relationship. And... *[Sara's phone rings, ending the conversation]*  
+**Greg:** We've worked a lot of cases where kids lost their parents.  
+**Sara:** Yeah. But one parent killing another, getting shipped off to foster care. Something I know a little bit about.  
+**Greg:** In all the years we've been friends, you've never really talked about what happened with your dad. And I don't mean to pry, but--  
+**Sara:** You know what happened. They had a ... volatile relationship. And... *[Sara's phone rings, ending the conversation]*  
 
 - - -
 
 **Pruit** We hunt animals. Not human beings.  
-**Sidle:** Yeah? Well ... Some people can't tell the difference.  
+**Sara:** Yeah? Well ... Some people can't tell the difference.  
 
 - - -
 
-**Sidle:** Oh. 1D's playing at the Hard Rock tomorrow night.  
+**Sara:** Oh. 1D's playing at the Hard Rock tomorrow night.  
 **Abby Fisher** One Direction? Are you kidding?  
-**Sidle:** Nah, it's Lourde. I'll pick you up at seven.  
+**Sara:** Nah, it's Lourde. I'll pick you up at seven.  
 
 - - -
 
-**Sanders:** You look like your dad.  
-**Sidle:** He used to read to me when I was a kid. *Charlotte's Web*, my favorite. Must have read it a hundred times.  
-**Sanders:** It's a nice memory.  
-**Sidle:** I have a lot of nice memories of him. My mom too. They were toxic when they were together, though.  
-**Sanders:** Your mom said your dad was abusive? Kill him in self defense?  
-**Sidle:** That's what she said.  
-**Sanders:** You don't believe her?  
-**Sidle:** Look, I know my dad wasn't a saint, but my mom was an alcoholic who suffered from mental illness. I'm just not sure that things were as black and white as she made them out to be.  
-**Sanders:** You did say they had a volatile relationship.  
-**Sidle:** Yeah. The fact is, I'll never know what happened that night. This is gonna sound horrible, but I'm kinda jealous of Abby. She gets to rewrite her whole family history. Nothing will ever change what my mother did.  
-**Sanders:** Well... You can't change the past. But you always have the future. Your mom's still alive. It's not too late for you to start over.  
-**Sidle:** I don't know if I could.
+**Greg:** You look like your dad.  
+**Sara:** He used to read to me when I was a kid. *Charlotte's Web*, my favorite. Must have read it a hundred times.  
+**Greg:** It's a nice memory.  
+**Sara:** I have a lot of nice memories of him. My mom too. They were toxic when they were together, though.  
+**Greg:** Your mom said your dad was abusive? Kill him in self defense?  
+**Sara:** That's what she said.  
+**Greg:** You don't believe her?  
+**Sara:** Look, I know my dad wasn't a saint, but my mom was an alcoholic who suffered from mental illness. I'm just not sure that things were as black and white as she made them out to be.  
+**Greg:** You did say they had a volatile relationship.  
+**Sara:** Yeah. The fact is, I'll never know what happened that night. This is gonna sound horrible, but I'm kinda jealous of Abby. She gets to rewrite her whole family history. Nothing will ever change what my mother did.  
+**Greg:** Well... You can't change the past. But you always have the future. Your mom's still alive. It's not too late for you to start over.  
+**Sara:** I don't know if I could.
 

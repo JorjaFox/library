@@ -28,8 +28,8 @@ Sara spent the day waiting for her court case to be called up. It never was. Aft
 
 ## Quotes
 
-**Sidle:** You missed one. Misanthrope.
+**Sara:** You missed one. Misanthrope.
 
 - - -
 
-**Sidle:** I won't wait up.
+**Sara:** I won't wait up.

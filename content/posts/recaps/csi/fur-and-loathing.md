@@ -28,21 +28,21 @@ Sara and Nick investigate the freezer shooting. They find blood spatter, and eve
 
 ## Quotes
 
-**Sidle:** You're selling expired ice cream?  
+**Sara:** You're selling expired ice cream?  
 **George** It's still good!  
-**Sidle:** Oh.  
+**Sara:** Oh.  
 
 - - -
 
-**Sidle:** George, I'm afraid you and your pants are going to be here for a while.
+**Sara:** George, I'm afraid you and your pants are going to be here for a while.
 
 - - -
 
 **Hodges:** Who knows? I don't try to figure out what people do anymore.  
-**Sidle:** That's smart.  
+**Sara:** That's smart.  
 
 - - -
 
-**Sidle:** Okay, I will bet you a double-double animal style that one of them employs a guy with a blue 1984 Monte Carlo.  
-**Stokes:** That's a bet.  
-**Sidle:** Excellent.
+**Sara:** Okay, I will bet you a double-double animal style that one of them employs a guy with a blue 1984 Monte Carlo.  
+**Nick:** That's a bet.  
+**Sara:** Excellent.

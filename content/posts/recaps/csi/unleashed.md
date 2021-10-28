@@ -39,4 +39,4 @@ Sara seems uncomfortable with the idea of gestalt roleplaying to work through is
 
 ## Quotes
 
-**Sidle:** Maybe she escaped one animal, only to fall prey to another.
+**Sara:** Maybe she escaped one animal, only to fall prey to another.

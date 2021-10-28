@@ -42,27 +42,27 @@ This prompts Grissom to re-investigate the bugs, and Sara keeps Grissom company 
 
 ## Quotes
 
-**Sidle:** I hate bees.  
+**Sara:** I hate bees.  
 **Grissom:** Just paper wasps. They're having too much fun to worry about us.  
 
 - - -
 
-**Sidle:** I got news for you, Scott. Bleach doesn't make blood go away. You just can't see it with the naked eye.
+**Sara:** I got news for you, Scott. Bleach doesn't make blood go away. You just can't see it with the naked eye.
 
 - - -
 
-**Sidle:** _(pissed off)_ I'm a woman, and I have a gun, and look how he treated me! I can only imagine how he treated his wife!
+**Sara:** _(pissed off)_ I'm a woman, and I have a gun, and look how he treated me! I can only imagine how he treated his wife!
 
 - - -
 
-**Sidle:** You know how you say we're the victim's last voice? I thought it was our job to speak for Kaye Shelton.  
+**Sara:** You know how you say we're the victim's last voice? I thought it was our job to speak for Kaye Shelton.  
 **Grissom:** You don't crunch evidence to fit a theory.  
-**Sidle:** What if you hear the victim's screams? In the car, at the store.  
+**Sara:** What if you hear the victim's screams? In the car, at the store.  
 **Grissom:** You have empathy for her Sara. You want someone to pay for what was done to her, that's normal.  
-**Sidle:** _(nods_ _long pause)_ You wanna sleep with me?  
+**Sara:** _(nods_ _long pause)_ You wanna sleep with me?  
 **Grissom:** _(confused pause, removes glasses)_ Did you just say what I think you said?  
-**Sidle:** That way, when I wake up in a cold sweat under the blanket, hearing Kaye's screams, you can tell me it's nothing. It's just empathy.  
+**Sara:** That way, when I wake up in a cold sweat under the blanket, hearing Kaye's screams, you can tell me it's nothing. It's just empathy.  
 
 - - -
 
-**Sidle:** I checked out Warrick. His story about missing court was, uh &#8230; lame. I got this surveillance tape from the Monaco. He was in the casino. '(hands the tape to Grissom)' I'm sorry.
+**Sara:** I checked out Warrick. His story about missing court was, uh &#8230; lame. I got this surveillance tape from the Monaco. He was in the casino. '(hands the tape to Grissom)' I'm sorry.

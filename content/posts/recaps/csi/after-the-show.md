@@ -31,24 +31,24 @@ Sara shows no real emotion when the suspect says he'll only talk to ...the prett
 
 ## Quotes
 
-**Willows:** Oh, I've got a good feeling about this.  
-**Sidle:** So does the suspect. The only reason that we're out here today on this wild goose chase is because he wanted to hang out with you.  
+**Catherine:** Oh, I've got a good feeling about this.  
+**Sara:** So does the suspect. The only reason that we're out here today on this wild goose chase is because he wanted to hang out with you.  
 
 - - -
 
-**Sidle:** You know what the worst part about this whole thing is? Catherine knows I can do this case.  
-**Stokes:** So can I.  
-**Sidle:** I would take you and me over Catherine and Greg anytime.  
-**Stokes:** _(startled)_ She's got Greg helping her?  
+**Sara:** You know what the worst part about this whole thing is? Catherine knows I can do this case.  
+**Nick:** So can I.  
+**Sara:** I would take you and me over Catherine and Greg anytime.  
+**Nick:** _(startled)_ She's got Greg helping her?  
 
 - - -
 
-**Willows:** How's it going?  
-**Sidle:** _(abrupt)_ Your case. You tell us.  
+**Catherine:** How's it going?  
+**Sara:** _(abrupt)_ Your case. You tell us.  
 
 - - -
 
-**Willows:** Did your father ever call you pretty?  
-**Sidle:** _hesitant_ ... I guess.  
-**Willows:** He ever tell you you were smart?  
-**Sidle:** Yeah.
+**Catherine:** Did your father ever call you pretty?  
+**Sara:** _hesitant_ ... I guess.  
+**Catherine:** He ever tell you you were smart?  
+**Sara:** Yeah.

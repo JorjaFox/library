@@ -28,5 +28,5 @@ Sara works the 1999 Jane Doe case, and takes the detective from that case to tas
 
 ## Quotes
 
-**Sidle:** Weak is the best that we have right now.
+**Sara:** Weak is the best that we have right now.
 

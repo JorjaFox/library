@@ -38,5 +38,5 @@ Sara makes the connection of how much money Sam asked his father for, and where 
 ## Quotes
 
 **Mr. Trent** What's this about?  
-**Sidle:** An overdue library book.
+**Sara:** An overdue library book.
 

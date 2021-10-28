@@ -32,15 +32,15 @@ Sara is unhappy, going behind people's backs, to solve the fake case, but collec
 
 ## Quotes
 
-**Sidle:** Scorpio, ruled by Pluto -- all though since it's, ah, not a planet any more, I'm not sure how that works.  
+**Sara:** Scorpio, ruled by Pluto -- all though since it's, ah, not a planet any more, I'm not sure how that works.  
 **Phillips:** Maybe it's a dwarf sign, you know, like Pluto's a dwarf planet now.  
-**Sidle:** smiles  
+**Sara:** smiles  
 
 - - -
 
-**Sidle:** You know, I hate deceiving people, because eventually you get what you give.
+**Sara:** You know, I hate deceiving people, because eventually you get what you give.
 
 - - -
 
-**Willows:** Sara?  
-**Sidle:** If I have something to say to you, Catherine, I'll say it in private. _(pause)_ No offense.
+**Catherine:** Sara?  
+**Sara:** If I have something to say to you, Catherine, I'll say it in private. _(pause)_ No offense.

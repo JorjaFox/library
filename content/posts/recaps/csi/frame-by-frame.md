@@ -47,11 +47,11 @@ However, when faced with Darcy, Sara stays true to justice. Instead of relying o
 ## Quotes
 
 **Russell:** Sara, got something?  
-**Sidle:** A piece of the past.
+**Sara:** A piece of the past.
 
 - - -
 
-**Sidle:** Terrible, unspeakable things happen to all of us. But that doesn't give us the right to destroy someone's life. Whatever happened to you, whatever the truth is, for fourteen years you let an innocent man believe that he killed the one thing that he cared about. The one person in his screwed up universe that he genuinely loved like a daughter. You took his desire to protect and save you and you perverted it. You twisted it. I *know* you. I know who you are. You haven't changed, Darcy. You never will.
+**Sara:** Terrible, unspeakable things happen to all of us. But that doesn't give us the right to destroy someone's life. Whatever happened to you, whatever the truth is, for fourteen years you let an innocent man believe that he killed the one thing that he cared about. The one person in his screwed up universe that he genuinely loved like a daughter. You took his desire to protect and save you and you perverted it. You twisted it. I *know* you. I know who you are. You haven't changed, Darcy. You never will.
 
 - - -
 
@@ -59,5 +59,5 @@ However, when faced with Darcy, Sara stays true to justice. Instead of relying o
 
 - - -
 
-**Sidle:** All this evidence, all these years ... you ever think you've had enough?  
-**Sanders:** You kidding? I'm just getting started.
+**Sara:** All this evidence, all these years ... you ever think you've had enough?  
+**Greg:** You kidding? I'm just getting started.

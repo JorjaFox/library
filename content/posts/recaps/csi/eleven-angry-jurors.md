@@ -28,9 +28,9 @@ Sara is fairly nondescript in this -- a good, general workman-like job with noth
 
 ## Quotes
 
-**Brown:** Take me out to the ballgame.  
-**Sidle:** Buy me some peanuts.  
+**Warrick:** Take me out to the ballgame.  
+**Sara:** Buy me some peanuts.  
 
 - - -
 
-**Sidle:** The killer, I presume. _(holding up dead bee)_
+**Sara:** The killer, I presume. _(holding up dead bee)_

@@ -33,12 +33,12 @@ Sara and Warrick work the case of the suicides in Death Valley, eventually findi
 ## Quotes
 
 **Robbins** Treated himself to a hamburger with pickles and ketchup, chocolate shake, and what I can only assume was super-size fries.  
-**Sidle:** So that's what killed him.  
+**Sara:** So that's what killed him.  
 
 - - -
 
-**Sidle:** Vanity, thy name is teenage girl.
+**Sara:** Vanity, thy name is teenage girl.
 
 - - -
 
-**Sidle:** I think our girl was a young Madame DeFarge. She made her own death shroud, but she didn't know her own measurements.
+**Sara:** I think our girl was a young Madame DeFarge. She made her own death shroud, but she didn't know her own measurements.

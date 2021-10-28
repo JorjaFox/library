@@ -29,13 +29,13 @@ Sara learns that her 'boyfriend', Hank, was cheating on his girlfriend. Except _
 
 ## Quotes
 
-**Sidle:** Granny was high?  
+**Sara:** Granny was high?  
 
 - - -
 
-**Sidle:** You never know when your whole life's going to change.
+**Sara:** You never know when your whole life's going to change.
 
 - - -
 
 **Robbins** Sara [...] There's no physiological cause for your crash.  
-**Sidle:** Well, that's a bummer. Cause at this point, we've got no forensic one either.
+**Sara:** Well, that's a bummer. Cause at this point, we've got no forensic one either.

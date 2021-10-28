@@ -29,4 +29,4 @@ Sara risks her life (and Warrick's) to remove a door from a closet loaded with p
 
 ## Quotes
 
-**Sidle:** I'm not a drunk and I don't have a death wish.
+**Sara:** I'm not a drunk and I don't have a death wish.

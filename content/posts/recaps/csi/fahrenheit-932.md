@@ -31,4 +31,4 @@ When Grissom is experimenting with gasoline in the lab, Sara pulls Warrick back,
 
 ## Quotes
 
-**Sidle:** How did [the suspect] find you? 1-800-GRISSOM?
+**Sara:** How did [the suspect] find you? 1-800-GRISSOM?

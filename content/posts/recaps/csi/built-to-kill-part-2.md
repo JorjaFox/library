@@ -35,10 +35,10 @@ Conrad Ecklie asks them about releasing information on the miniature to the medi
 
 ## Quotes
 
-**Sidle:** I think Malibu Barbie did it.  
+**Sara:** I think Malibu Barbie did it.  
 
 - - -
 
-**Sidle:** I've never heard of him.  
+**Sara:** I've never heard of him.  
 **Grissom:** Probably before your time.  
-**Sidle:** I'll download it.
+**Sara:** I'll download it.

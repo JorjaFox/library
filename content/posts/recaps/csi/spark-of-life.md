@@ -21,4 +21,4 @@ Two CSI investigations intertwine when a woman's suicide in the Vegas wilderness
 ## Quotes
 
 **Grissom:** This area was always a good place for stargazing.  
-**Sidle:** It's a good make-out spot too, so I've heard.
+**Sara:** It's a good make-out spot too, so I've heard.

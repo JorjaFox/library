@@ -30,16 +30,16 @@ Sara and Nick help Grissom on the little people murder, discovering how the vict
 ## Quotes
 
 **M Grace** Does he [Grissom] ever talk?  
-**Sidle:** Um ... Yeah. _(short pause)_ At random intervals.  
+**Sara:** Um ... Yeah. _(short pause)_ At random intervals.  
 
 - - -
 
-**Sidle:** Hey, we confronted the fiancee; she stonewalled us.  
-**Stokes:** _(to Grissom)_ Yeah, Brass told her not to leave town. _(to Sara)_ He sounded a bit like Jack Lord, don't you think?  
-**Sidle:** _(smiles at Nick)_  
+**Sara:** Hey, we confronted the fiancee; she stonewalled us.  
+**Nick:** _(to Grissom)_ Yeah, Brass told her not to leave town. _(to Sara)_ He sounded a bit like Jack Lord, don't you think?  
+**Sara:** _(smiles at Nick)_  
 
 - - -
 
-**Sidle:** Concept suggests... deep down we're all narcissists?  
+**Sara:** Concept suggests... deep down we're all narcissists?  
 **Grissom:** Yeah. What attracts us the most is ourselves.
 

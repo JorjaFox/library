@@ -29,18 +29,18 @@ Sara works the related arson case, photographing the house and investigating the
 
 ## Quotes
 
-**Sidle:** Guy lives in a trailer, drives an old Mercury, he has a ton of expensive DVDs and video games, there's gummy bears and chips on the floor... house might as well be made of gingerbread.  
+**Sara:** Guy lives in a trailer, drives an old Mercury, he has a ton of expensive DVDs and video games, there's gummy bears and chips on the floor... house might as well be made of gingerbread.  
 
 - - -
 
-**Sidle:** People are so predictable.
+**Sara:** People are so predictable.
 
 - - -
 
 **Grissom:** _(enters the lab, shuts off the music)_ Didn't we talk about this once before, Greg?  
-**Sidle:** I'm the one who turned the music on.  
+**Sara:** I'm the one who turned the music on.  
 :_(Grissom looks at Sara but says nothing)_  
 
 - - -
 
-**Sidle:** Greg's got the coroner's inquest coming up, he's been under a lot of stress -- maybe you should be a little nicer to him.
+**Sara:** Greg's got the coroner's inquest coming up, he's been under a lot of stress -- maybe you should be a little nicer to him.

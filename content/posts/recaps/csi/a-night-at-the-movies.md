@@ -30,21 +30,21 @@ Not much for Sara in this episode. At the warehouse, Sara takes the outside peri
 
 ## Quotes
 
-**Sidle:** What in the hell went on here?  
+**Sara:** What in the hell went on here?  
 
 - - -
 
-**Sidle:** Hey, guys. What do you make of this piece of bamboo? I found it on the roof.  
-**Stokes:** Bag it.  
-**Sidle:** Funny. Very funny.  
+**Sara:** Hey, guys. What do you make of this piece of bamboo? I found it on the roof.  
+**Nick:** Bag it.  
+**Sara:** Funny. Very funny.  
 
 - - -
 
-**Sidle:** No! No-no-no, I'm not quitting. I'm in too deep.
+**Sara:** No! No-no-no, I'm not quitting. I'm in too deep.
 
 - - -
 
 **Hodges:** Give me more time -- I'm not a miracle worker.  
-**Sidle:** Well, that's obvious, Hodges. If you were a miracle worker, you wouldn't be rude.  
+**Sara:** Well, that's obvious, Hodges. If you were a miracle worker, you wouldn't be rude.  
 **Hodges:** I wasn't being 'rude', I was being 'curt'. 'Rude' would be, ...When I know, you'll know._ _(pause)_ Friends?  
-**Sidle:** _(shakes her head, smiling tightly)_ No.
+**Sara:** _(shakes her head, smiling tightly)_ No.

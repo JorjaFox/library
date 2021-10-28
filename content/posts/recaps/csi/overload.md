@@ -22,16 +22,16 @@ Meanwhile, Nick and Catherine take on a case with little more than angora fibers
 
 ## Quotes
 
-**Sidle:** You want lunch?  
-**Brown:** Later.  
+**Sara:** You want lunch?  
+**Warrick:** Later.  
 
 - - -
 
 **Grissom:** What's that?  
-**Sidle:** Pickle and sandwich. Want half?  
+**Sara:** Pickle and sandwich. Want half?  
 **Grissom:** Can I have your pickle?  
 
 - - -
 
-**Sidle:** _(thrilled)_ You turned my pickle into a light bulb!
+**Sara:** _(thrilled)_ You turned my pickle into a light bulb!
 

@@ -30,10 +30,10 @@ Sara handles a pickup from the CDC, where an outbreak of herpes 1 has run rampan
 
 ## Quotes
 
-**Sidle:** I guess you really never know what goes on in your office.  
+**Sara:** I guess you really never know what goes on in your office.  
 
 - - -
 
 **Mandy** Are the miniatures really keeping Grissom up at night?  
-**Sidle:** How would I know?
+**Sara:** How would I know?
 

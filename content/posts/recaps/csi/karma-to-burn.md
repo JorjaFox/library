@@ -40,22 +40,22 @@ As the episode ends, Nick, Sara, and Greg are sitting in the break room again, j
 
 ## Quotes
 
-**Sidle:** I didn't come here to talk, Nick, I came here to drag your ass back to work. So how many drinks have you had exactly?  
-**Stokes:** Mmm.... Not enough.
+**Sara:** I didn't come here to talk, Nick, I came here to drag your ass back to work. So how many drinks have you had exactly?  
+**Nick:** Mmm.... Not enough.
 
 - - -
 
-**Sanders:** Sounds like the LVPD is making a comeback. How about you, Nick?  
-**Stokes:** What about me? I don't know, I haven't talked to Russell yet.  
-**Sanders:** This isn't about Russell.  
-**Sidle:** Words have consequences, you know. I mean, if you say you quit, you need to mean it.  
-**Stokes:** You quit.  
-**Sidle:** Well, yeah, but I didn't say it out loud. I left a note at reception for Grissom and I walked right on out of here--  
-**Stokes:** And you're still here. So don't preach to me about integrity, okay?  
-**Sidle:** I'm not preaching to you about integrity--  
-**Stokes:** Kinda are! A little bit, don't you think?  
-**Sidle:** I went *away* for a little while, and I got my head together--  
-**Stokes:** You've got a lot of nerve to talk to me about quitting, you really do--  
-**Sidle:** I needed a break--  
-**Sanders:** Alright alright alright! This is not how family treats each other! Well. Yes it is.
+**Greg:** Sounds like the LVPD is making a comeback. How about you, Nick?  
+**Nick:** What about me? I don't know, I haven't talked to Russell yet.  
+**Greg:** This isn't about Russell.  
+**Sara:** Words have consequences, you know. I mean, if you say you quit, you need to mean it.  
+**Nick:** You quit.  
+**Sara:** Well, yeah, but I didn't say it out loud. I left a note at reception for Grissom and I walked right on out of here--  
+**Nick:** And you're still here. So don't preach to me about integrity, okay?  
+**Sara:** I'm not preaching to you about integrity--  
+**Nick:** Kinda are! A little bit, don't you think?  
+**Sara:** I went *away* for a little while, and I got my head together--  
+**Nick:** You've got a lot of nerve to talk to me about quitting, you really do--  
+**Sara:** I needed a break--  
+**Greg:** Alright alright alright! This is not how family treats each other! Well. Yes it is.
 

@@ -59,9 +59,9 @@ Not a stand out Sara episode, the one showed her doing what she does best: being
 
 ## Quotes
 
-**Sidle:** You know, Metcalf, just because somebody lives in a trailer park doesn't mean they're a meth cook.  
+**Sara:** You know, Metcalf, just because somebody lives in a trailer park doesn't mean they're a meth cook.  
 
 - - -
 
-**Sidle:** You know Greg, technically that makes you a cannibal. Grissom would be so proud.  
-**Sanders:** Grissom would probably taste it on purpose.
+**Sara:** You know Greg, technically that makes you a cannibal. Grissom would be so proud.  
+**Greg:** Grissom would probably taste it on purpose.
