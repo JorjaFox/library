@@ -16,7 +16,7 @@
 			<a href="{{ .Permalink }}" target="_top">{{ .Title }}</a>
 		</p>
 		<div class="hugo-embed-excerpt">
-			{{ .Summary }}...
+			{{ if .Params.newstitle }}{{ .Params.newstitle }}{{ else if .Params.interviewurl }}Interview - {{ .Title }}{{ else }}{{ .Summary }}...{{ end }}
 		</div>
 		<div class="hugo-embed-footer">
 			<div class="hugo-embed-site-title">
