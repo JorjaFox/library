@@ -8,7 +8,7 @@ categories: ["Articles", "News"]
 newstitle: "Jorja Fox Shares Details on Sara & Grissom Romance and David Hodges Case on CSI: Vegas"
 newsauthor: "Laura Nowak"
 newssource: "TV Fanatic"
-newsurl: https://www.tvfanatic.com/2021/11/jorja-fox-shares-details-on-sara-and-grissom-romance-and-david-h/?utm_source=dlvr.it&utm_medium=twitter
+newsurl: https://www.tvfanatic.com/2021/11/jorja-fox-shares-details-on-sara-and-grissom-romance-and-david-h/
 ---
 
 Original CSI star Jorja Fox reprised her character Sara Sidle more than six years after the show's initial series finale. She and William Peterson, who plays her husband Gil Grissom, have returned to the franchise's new series CSI: Vegas.
