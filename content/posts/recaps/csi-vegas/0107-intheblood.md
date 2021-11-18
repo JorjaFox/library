@@ -25,7 +25,7 @@ Hodges used to work sometimes for Wix, who seemed interested in his work. Now it
 
 Working with Chris Park, the young CSI finds a thread in the wall behind where the grenade went off. A thread that can link them to Anson Wix. They track down the fiber to something related to what Anna Wix, Anson's sister, is interested in, but they cannot readily prove she had it. 
 
-While Chris tracks that down, Sara gets a call that Hodges is 'missing.' She finds him right away at the food trucks where Hodges and Wix used to eat after a case. Hodges wanted to confront Wix, and Sara tries to deter him, but his plan was foiled by the parole officers showing up. Sara manages to get Hodges off with a warning, telling the officer that it was Hodges' wife having pregnancy cravings. Since the officer's partner was out on paternity, he allowed it.
+While Chris tracks that down, Sara gets a call that Hodges is 'missing.' She finds him right away at the food trucks where Hodges and Wix used to eat after a case. Hodges wanted to confront Wix, and Sara tries to deter him, but his plan was foiled by the parole officers showing up. Sara manages to get Hodges off with a warning, telling the officer that it was Hodges' wife having pregnancy cravings. Since the officer's partner was out on maternity, he allowed it.
 
 However. All parole violations like that are released to all involved parties, which means Wix knows where Hodges was, and can likely presume it was to confront him. Grissom wins the coin toss and goes off to talk, friendly, to Anna about the thread.
 
@@ -37,7 +37,7 @@ As the episode ends, Maxine is demoted from head of the lab due to her digging i
 
 ## Notes
 
-* Sara picked up Grissom's meds for land-sickness. He's doing okay.
+* Sara asked about Grissom's meds for land-sickness. He's doing okay, but feels solving a case would lower his cortisol levels more than the meds.
 * Sara has always thought quick on her feet, and today is saved Hodges.
 * Sara still cares deeply about animals.
 
