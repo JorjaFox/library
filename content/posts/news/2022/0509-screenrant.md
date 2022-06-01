@@ -1,5 +1,5 @@
 ---
-title: "SK Pop"
+title: "Screenrant"
 date: 2022-05-09
 author: "Mika A. Epstein"
 layout: news

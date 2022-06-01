@@ -1,5 +1,5 @@
 ---
-title: "TVLine"
+title: "Variety"
 date: 2022-01-25
 author: "Mika A. Epstein"
 layout: news

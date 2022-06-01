@@ -1,5 +1,5 @@
 ---
-title: "TVLine"
+title: "ET online"
 date: 2022-01-25
 author: "Mika A. Epstein"
 layout: news
@@ -7,7 +7,7 @@ tags: ["2022"]
 categories: ["Articles", "News"]
 newstitle: "Jorja Fox Exits 'CSI: Vegas' Ahead of Season 2"
 newsauthor: "Phillipa Ng"
-newssource: "Variety"
+newssource: "ET online"
 newsurl: https://www.etonline.com/jorja-fox-exits-csi-vegas-ahead-of-season-2-178289
 ---
 
