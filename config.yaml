@@ -13,7 +13,7 @@ enableRobotsTXT: "true"
 
 params:
   Version: "2.2"
-  Subtitle: "The goal of the Fans of LeFox Library is to provide a comprehensive resource for information about the career and life of the actress, producer, humanitarian, activist and environmentalist that is Jorja Fox."
+  Subtitle: "A comprehensive resource for information about the career and life of actress, producer, humanitarian, activist and environmentalist -- Jorja Fox."
   StaticURL: "https://jorjafox.net/static"
   HomeURL: "https://jorjafox.net"
   Bootstrap: "5.1.1"
