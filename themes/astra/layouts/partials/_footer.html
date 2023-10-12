@@ -1,8 +1,6 @@
 						<!-- Content Ends -->
 						<p>&nbsp;</p>
 						{{ if ne .Params.layout "search" }}{{ partial "sharethis.html" . }}{{ end }}
-
-						{{ partial "ads/google.html" . }}
 						</article>
 
 					</main>
@@ -43,12 +41,12 @@
 					<div class="ast-builder-footer-grid-columns site-primary-footer-inner-wrap ast-builder-grid-row">
 						<div class="site-footer-primary-section-1 site-footer-section site-footer-section-1">
 							<aside class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-4" aria-label="Footer Widget 4">
-								<div class="footer-widget-area-inner site-info-inner"><section id="block-19" class="widget widget_block"><p>{{ partial "ads/footer-left.html" . }}</p></section></div>
+								<div class="footer-widget-area-inner site-info-inner"><section id="block-19" class="widget widget_block"><!-- Used to be ads --></section></div>
 							</aside>
 						</div>
 						<div class="site-footer-primary-section-2 site-footer-section site-footer-section-2">
 							<aside class="footer-widget-area widget-area site-footer-focus-item" data-section="sidebar-widgets-footer-widget-3" aria-label="Footer Widget 3">
-								<div class="footer-widget-area-inner site-info-inner"><section id="block-15" class="widget widget_block"><p>{{ partial "ads/footer-right.html" . }}</p></section></div>
+								<div class="footer-widget-area-inner site-info-inner"><section id="block-15" class="widget widget_block"><p><!-- Used to be ads --></p></section></div>
 							</aside>
 						</div>
 					</div>
@@ -59,7 +57,7 @@
 					<div class="ast-builder-footer-grid-columns site-below-footer-inner-wrap ast-builder-grid-row">
 						<div class="site-footer-below-section-1 site-footer-section site-footer-section-1">
 							<div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
-								<div class="ast-footer-copyright"><p>Copyright © 1996 — 2021 <a href="/">Fans of LeFox</a><br>Powered by <strong><a href="https://wpastra.com/?bsf=5672">Astra</a></strong> on <strong><a href="https://wordpress.org">WordPress</a></strong></p></div>
+								<div class="ast-footer-copyright"><p>Copyright © 1996 — {{ .Now.Format "2023" }} <a href="/">Fans of LeFox</a><br>Powered by <strong><a href="https://wpastra.com/?bsf=5672">Astra</a></strong> on <strong><a href="https://wordpress.org">WordPress</a></strong></p></div>
 							</div>
 						</div>
 						<div class="site-footer-below-section-2 site-footer-section site-footer-section-2">
